@@ -1,3 +1,3 @@
 # Swajp – web
 
-Webpage for keyboard Swajp (GitHub Pages). With language packages, no apk or code here.
+Webová stránka klávesnice Swajp (GitHub Pages). Kód aplikace tu není.
