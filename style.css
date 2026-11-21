@@ -64,3 +64,24 @@ footer{border-top:1px solid var(--line);color:var(--mut);font-size:14px}footer .
 .lng{margin-left:auto;border:1px solid var(--line);color:var(--tx);padding:4px 12px;border-radius:999px;font-size:14px;font-weight:600}
 .lng:hover{border-color:var(--g);text-decoration:none}
 @media(max-width:600px){nav{order:3;width:100%}.bar{gap:10px 16px}}
+.sub{font-size:21px;font-weight:600;color:var(--tx);margin:-4px 0 14px;letter-spacing:.2px}
+.logo svg{width:36px;height:36px}
+.eyebrow{text-transform:uppercase;letter-spacing:2.5px;font-size:13px;font-weight:700;color:var(--g);margin:0 0 6px}
+.sub{font-size:19px;font-weight:600}
+.story{color:var(--tx);font-weight:600}
+.tag{margin:-6px 0 18px;color:var(--g);font-style:italic;font-size:16px}
+.outro{text-align:center;color:var(--g);font-size:22px;font-weight:700;margin:60px 0 0;letter-spacing:-.2px}
+.g3{grid-template-columns:repeat(3,1fr)}
+a.card.ov{color:inherit;display:block}a.card.ov:hover{text-decoration:none}
+.feat{scroll-margin-top:80px;margin-top:46px;padding-top:6px;border-top:1px solid var(--line)}
+.fh{display:flex;gap:16px;align-items:center}.fh .ic{margin:0;flex:none;width:54px;height:54px}.fh .ic svg{width:30px;height:30px}
+.fh h2{margin:0}.fh h2::before{display:none}.fh .tag{margin:2px 0 0}
+.fd{color:var(--mut);max-width:720px;margin:14px 0 16px}
+.psub{color:var(--tx);font-weight:600;margin:0 0 6px}
+@media(max-width:600px){.g3{grid-template-columns:1fr 1fr}}
+.key{display:flex;align-items:center;gap:3px;white-space:nowrap;padding:0 9px;min-width:64px;font-size:13px}
+.key svg{display:block}
+.gest{grid-template-columns:repeat(auto-fill,minmax(250px,1fr))}
+.key b{letter-spacing:1px}
+.key svg{flex:none;width:26px;height:22px}
+.g .key{flex:none;min-width:112px;justify-content:center}
