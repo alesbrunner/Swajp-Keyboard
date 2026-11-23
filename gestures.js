@@ -73,11 +73,11 @@
     var bRect = el('rect', {rx: 3.5, height: 7, fill: G}, bubble);
     var bText = el('text', {fill: '#10140c', 'font-size': 4.2, 'text-anchor': 'middle', 'font-weight': 700}, bubble);
 
-    var K = {}, rects = {}, layer = null;
+    var K = {}, rects = {}, labs = {}, layer = null;
     function drawLayer(name) {
       layer = name;
       while (kbG.firstChild) kbG.removeChild(kbG.firstChild);
-      K = {}; rects = {};
+      K = {}; rects = {}; labs = {};
       LAYERS[name].forEach(function (row, ri) {
         var x = 0, y = ri * RH;
         row.forEach(function (q) {
@@ -91,6 +91,7 @@
             var t = el('text', {x: x + w / 2, y: y + (two ? 6.2 : 8.4), fill: q.kind === 2 ? '#10140c' : TX, 'text-anchor': 'middle',
               'font-size': q.lab.length > 4 ? 3.4 : two ? 4.6 : 5.2}, kbG);
             t.textContent = q.lab;
+            if (name === 'letters' && q.lab.length === 1 && /[a-z]/.test(q.lab)) labs[q.id] = t;
             if (two) { var s = el('text', {x: x + w / 2, y: y + 10.8, fill: MUT, 'text-anchor': 'middle', 'font-size': 2.8}, kbG); s.textContent = q.sub; }
             var h = name === 'letters' ? HINT[q.id] : (name === 'numpad' ? q.sub : null);
             if (h) { var hh = el('text', {x: x + w - 2.3, y: y + 3.9, fill: MUT, 'font-size': 2.8, 'text-anchor': 'middle'}, kbG); hh.textContent = h; }
@@ -237,6 +238,7 @@
           st.pop = {key: op[1], items: op[2], sel: 0, cw: pcw, y: pk.y - RH + 0.3, x0: Math.max(0, left), icons: icons};
           break;
         }
+        case 'A': for (var lk in labs) labs[lk].textContent = op[1] ? lk.toUpperCase() : lk; break; // velká písmena (nad klávesnicí = Shift)
         case 'H': if (rects[op[1]]) rects[op[1]].setAttribute('fill', op[2] ? '#4e6b2f' : SPEC); break;
       }
     }
@@ -293,8 +295,8 @@
       s: cat([['T', L('Řekni ', "Let's go ")], ['W', 500]], swipe(en ? 'our' : 'mam', 420), [['T', L('Řekni mám ', "Let's go our ")], ['B', en ? ['our', 'out', 'or', 'pour'] : ['mám', 'nám', 'nás', 'mam']], ['W', 1100]],
         tap('bar1'), [['T', L('Řekni nám ', "Let's go out ")], ['B', null], ['W', 1500]])},
     {t: L('Velké písmeno', 'Capital letter'), d: L('Z prvního písmene vyjeď nad klávesnici a odtud rovnou na další písmeno (nevracej se zpět).', 'From the first letter go up above the keyboard and straight on to the next letter (don\'t go back).'),
-      s: cat([['T', L('Byl jsem v ', 'I was in ')], ['W', 500], ['D', 'p'], ['M', 'p@0,-1.1', 360]], (en ? 'aris' : 'raze').split('').map(function (c) { return ['M', c, 380]; }),
-        [['U'], ['T', L('Byl jsem v Praze ', 'I was in Paris ')], ['W', 1800]])},
+      s: cat([['T', L('Byl jsem v ', 'I was in ')], ['W', 500], ['D', 'p'], ['M', 'p@0,-1.1', 360], ['A', 1]], (en ? 'aris' : 'raze').split('').map(function (c) { return ['M', c, 380]; }),
+        [['U'], ['A', 0], ['T', L('Byl jsem v Praze ', 'I was in Paris ')], ['W', 1800]])},
     {t: L('Kopírovat a vložit', 'Copy and paste'), d: L('Klepnutí na Swajp označí slovo. Tah ze Swajp na C zkopíruje, na V vloží, na X vyjme – jako Ctrl na počítači.', 'A tap on Swajp selects the word. Swajp → C copies, → V pastes, → X cuts – like Ctrl on a computer.'),
       s: cat([['T', hello], ['W', 500]], tap('star'), [['S', hw.length], ['W', 700], ['D', 'star'], ['G', 'c', L('Kopírovat', 'Copy')], ['M', 'c', 480], ['W', 200], ['U'], ['F', L('Zkopírováno', 'Copied')],
         ['W', 500], ['T', hello + ' '], ['W', 600], ['D', 'star'], ['G', 'v', L('Vložit', 'Paste')], ['M', 'v', 480], ['W', 200], ['U'], ['T', hello + ' ' + hello.split(' ')[1]], ['W', 1600]])},
