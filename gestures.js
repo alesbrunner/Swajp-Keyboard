@@ -50,6 +50,7 @@
     ]
   };
   var RH = 14; // výška řady
+  var DRAGON = '<defs><linearGradient id="gkd" gradientUnits="userSpaceOnUse" x1="16" y1="40" x2="68" y2="44"><stop offset="0" stop-color="#9ccc65" stop-opacity="0.15"/><stop offset="1" stop-color="#9ccc65" stop-opacity="1"/></linearGradient></defs><polygon points="15.0,40.3 15.6,42.2 16.2,44.1 16.8,45.9 17.3,47.7 17.9,49.5 18.4,51.1 19.0,52.8 19.6,54.4 20.1,55.9 20.7,57.5 21.2,58.9 21.7,60.3 22.3,61.7 22.8,63.0 23.3,64.3 23.9,65.6 24.4,66.7 24.9,67.9 25.5,69.0 26.0,70.1 26.5,71.1 27.0,72.0 27.5,73.0 28.1,73.8 28.6,74.7 29.1,75.5 29.6,76.2 30.1,76.9 30.7,77.6 31.2,78.2 31.7,78.8 32.3,79.4 32.8,79.9 33.4,80.3 33.9,80.7 34.5,81.1 35.1,81.4 35.7,81.7 36.4,81.9 37.0,82.0 37.7,82.1 38.4,82.2 39.1,82.1 39.7,82.0 40.4,81.8 41.0,81.6 41.7,81.3 42.3,80.9 42.8,80.5 43.4,80.0 44.0,79.5 44.5,79.0 45.0,78.4 45.5,77.8 46.0,77.1 46.5,76.4 47.0,75.6 47.4,74.8 47.9,74.0 48.4,73.1 48.7,72.4 49.1,71.7 49.4,71.0 49.8,70.3 50.1,69.7 50.5,69.0 50.8,68.3 51.2,67.7 51.6,67.1 51.9,66.5 52.3,65.9 52.6,65.3 53.0,64.7 53.4,64.1 53.7,63.5 54.1,63.0 54.4,62.4 54.8,61.9 55.2,61.3 55.5,60.8 55.9,60.3 56.3,59.8 56.6,59.3 57.0,58.8 57.3,58.3 57.7,57.9 58.1,57.4 58.4,57.0 58.8,56.5 59.2,56.1 59.5,55.7 59.9,55.3 60.3,54.9 60.6,54.5 61.0,54.1 61.4,53.7 61.7,53.4 62.1,53.0 62.5,52.7 62.8,52.4 63.2,52.1 63.5,51.7 63.9,51.4 64.3,51.1 64.6,50.9 65.0,50.6 65.3,50.3 65.7,50.1 66.0,49.8 66.4,49.6 66.8,49.4 67.1,49.2 67.5,49.0 67.8,48.8 68.2,48.6 68.5,48.4 68.8,48.2 69.2,48.1 69.5,47.9 69.9,47.7 66.1,40.3 65.7,40.5 65.2,40.8 64.8,41.1 64.3,41.4 63.9,41.7 63.4,42.0 63.0,42.3 62.6,42.6 62.1,42.9 61.7,43.3 61.3,43.6 60.9,44.0 60.5,44.4 60.0,44.7 59.6,45.1 59.2,45.5 58.8,45.9 58.4,46.3 58.0,46.8 57.6,47.2 57.2,47.6 56.8,48.1 56.5,48.5 56.1,49.0 55.7,49.4 55.3,49.9 54.9,50.4 54.6,50.9 54.2,51.4 53.8,51.9 53.5,52.4 53.1,52.9 52.7,53.5 52.4,54.0 52.0,54.6 51.7,55.1 51.3,55.7 50.9,56.3 50.6,56.8 50.2,57.4 49.9,58.0 49.6,58.6 49.2,59.2 48.9,59.9 48.5,60.5 48.2,61.1 47.9,61.8 47.5,62.4 47.2,63.1 46.9,63.8 46.5,64.4 46.2,65.1 45.9,65.8 45.6,66.5 45.2,67.2 44.9,68.0 44.6,68.7 44.3,69.4 43.9,70.2 43.6,70.9 43.3,71.7 42.9,72.5 42.6,73.2 42.2,73.8 41.9,74.4 41.6,74.9 41.2,75.4 40.9,75.9 40.6,76.3 40.3,76.6 39.9,76.9 39.7,77.2 39.4,77.4 39.1,77.6 38.9,77.7 38.6,77.8 38.4,77.9 38.1,77.9 37.9,78.0 37.6,78.0 37.3,77.9 37.0,77.9 36.7,77.8 36.4,77.6 36.0,77.4 35.6,77.2 35.2,76.9 34.7,76.6 34.3,76.2 33.8,75.8 33.3,75.3 32.9,74.7 32.4,74.2 31.9,73.5 31.3,72.8 30.8,72.1 30.3,71.3 29.8,70.4 29.2,69.6 28.7,68.6 28.1,67.6 27.6,66.6 27.0,65.5 26.5,64.4 25.9,63.2 25.3,61.9 24.8,60.7 24.2,59.3 23.6,58.0 23.0,56.5 22.4,55.1 21.8,53.6 21.2,52.0 20.6,50.4 20.0,48.7 19.4,47.0 18.8,45.3 18.2,43.5 17.6,41.6 17.0,39.7" fill="url(#gkd)"/><g transform="translate(37.8 75.7) rotate(40.7) scale(1.0)"><g transform="scale(-1 1)"><path d="M0.0,-33.0 C12.0,-16.9 36.5,-13.7 42.3,-24.0 C40.0,-29.9 15.6,-33.7 0.0,-33.0Z" fill="#9ccc6540" stroke="#9ccc65" stroke-width="1.116" stroke-linejoin="round"/><path d="M4.23,-32.10 L35.50,-23.42" stroke="#9ccc65" stroke-width="0.7812" opacity=".7"/><path d="M34.13,-27.37 L39.21,-26.29" stroke="#9ccc65" stroke-width="1.7856000000000003" stroke-opacity=".55" stroke-linecap="round"/></g><path d="M0.0,-33.0 C12.0,-16.9 36.5,-13.7 42.3,-24.0 C40.0,-29.9 15.6,-33.7 0.0,-33.0Z" fill="#9ccc6540" stroke="#9ccc65" stroke-width="1.116" stroke-linejoin="round"/><path d="M4.23,-32.10 L35.50,-23.42" stroke="#9ccc65" stroke-width="0.7812" opacity=".7"/><path d="M34.13,-27.37 L39.21,-26.29" stroke="#9ccc65" stroke-width="1.7856000000000003" stroke-opacity=".55" stroke-linecap="round"/><g transform="scale(-1 1)"><path d="M0.0,-29.0 C16.3,-20.4 37.5,-27.6 38.0,-38.5 C33.8,-42.5 12.4,-35.9 0.0,-29.0Z" fill="#9ccc6540" stroke="#9ccc65" stroke-width="1.116" stroke-linejoin="round"/><path d="M3.80,-29.95 L32.73,-35.26" stroke="#9ccc65" stroke-width="0.7812" opacity=".7"/><path d="M30.03,-38.01 L34.59,-39.14" stroke="#9ccc65" stroke-width="1.7856000000000003" stroke-opacity=".55" stroke-linecap="round"/></g><path d="M0.0,-29.0 C16.3,-20.4 37.5,-27.6 38.0,-38.5 C33.8,-42.5 12.4,-35.9 0.0,-29.0Z" fill="#9ccc6540" stroke="#9ccc65" stroke-width="1.116" stroke-linejoin="round"/><path d="M3.80,-29.95 L32.73,-35.26" stroke="#9ccc65" stroke-width="0.7812" opacity=".7"/><path d="M30.03,-38.01 L34.59,-39.14" stroke="#9ccc65" stroke-width="1.7856000000000003" stroke-opacity=".55" stroke-linecap="round"/></g><circle cx="68" cy="44" r="6.5" fill="#9ccc65"/>';
 
   // ------------------------------------------------------------ přehrávač
   function Demo(box, slides, rows) {
@@ -85,7 +86,7 @@
             K[q.id] = {x: x, y: y, w: w, h: RH - 1};
             var fill = q.kind === 2 ? '#7cb342' : q.kind === 4 ? OP : q.kind ? SPEC : KEY;
             rects[q.id] = el('rect', {x: x + 0.6, y: y + 0.6, width: w - 1.2, height: RH - 2.2, rx: 1.8, fill: fill}, kbG);
-            if (q.kind === 3) dragonfly(x + w / 2, y + 6.5);
+            if (q.kind === 3) dragonfly(x, y, w);
             var two = name === 'edit' && q.sub;
             var t = el('text', {x: x + w / 2, y: y + (two ? 6.2 : 8.4), fill: q.kind === 2 ? '#10140c' : TX, 'text-anchor': 'middle',
               'font-size': q.lab.length > 4 ? 3.4 : two ? 4.6 : 5.2}, kbG);
@@ -98,12 +99,9 @@
         });
       });
     }
-    function dragonfly(cx, cy) { // malá vážka na klávese Swajp (jako v aplikaci)
-      var g = el('g', {transform: 'translate(' + cx + ' ' + cy + ') rotate(-35) scale(.8)', fill: 'none', stroke: G, 'stroke-width': 0.55, 'stroke-linecap': 'round'}, kbG);
-      el('path', {d: 'M-5 0 L4 0'}, g);
-      el('circle', {cx: 4.6, cy: 0, r: 1, fill: G, stroke: 'none'}, g);
-      el('path', {d: 'M2 0 C 0 -4.2, -3 -4.4, -3.6 -3 C -3 -1.6, -0.5 -0.6, 2 0 Z M2 0 C 0 4.2, -3 4.4, -3.6 3 C -3 1.6, -0.5 0.6, 2 0 Z', fill: 'rgba(156,204,101,.25)'}, g);
-      el('path', {d: 'M1 0 C 2.5 -3.6, 5 -3.8, 5.2 -2.6 C 4.6 -1.4, 2.6 -0.6, 1 0 Z M1 0 C 2.5 3.6, 5 3.8, 5.2 2.6 C 4.6 1.4, 2.6 0.6, 1 0 Z', fill: 'rgba(156,204,101,.25)'}, g);
+    function dragonfly(x, y, w) { // klávesa Swajp: stejná vážka jako v aplikaci
+      var sv = el('svg', {x: x + 1.5, y: y + 1, width: w - 3, height: RH - 4, viewBox: '12 18 84 72'}, kbG);
+      sv.innerHTML = DRAGON;
     }
 
     // pole s textem: řádky, označení (a–b), blikající kurzor
@@ -154,10 +152,19 @@
       while (popG.firstChild) popG.removeChild(popG.firstChild);
       if (!st.pop) return;
       var cw = st.pop.cw, x0 = st.pop.x0, y = st.pop.y, n = st.pop.items.length;
-      el('rect', {x: x0, y: y, width: n * cw, height: RH - 1, rx: 2, fill: '#44494f'}, popG);
+      el('rect', {x: x0, y: y, width: n * cw, height: RH - 1, rx: 1.8, fill: '#44494f'}, popG);
       st.pop.items.forEach(function (s, i) {
-        if (i === st.pop.sel) el('rect', {x: x0 + i * cw + 0.8, y: y + 0.8, width: cw - 1.6, height: RH - 2.6, rx: 1.6, fill: G}, popG);
-        var t = el('text', {x: x0 + i * cw + cw / 2, y: y + 8.2, fill: i === st.pop.sel ? '#10140c' : TX, 'font-size': s.length > 2 ? 3.2 : 5, 'text-anchor': 'middle'}, popG); t.textContent = s;
+        var on = i === st.pop.sel, col = on ? '#10140c' : TX, cx = x0 + i * cw + cw / 2, cy = y + (RH - 1) / 2;
+        if (on) el('rect', {x: x0 + i * cw + 0.6, y: y + 0.6, width: cw - 1.2, height: RH - 2.2, rx: 1.6, fill: G}, popG);
+        if (s === '#pad') { for (var a = -1; a <= 1; a++) for (var b = 0; b < 3; b++) el('circle', {cx: cx + a * 1.9, cy: cy - 3.6 + b * 2.1, r: 0.55, fill: col}, popG); el('circle', {cx: cx, cy: cy + 2.7, r: 0.55, fill: col}, popG); return; }
+        if (s === '#calc') {
+          el('rect', {x: cx - 2.6, y: cy - 3.6, width: 5.2, height: 7.2, rx: 0.6, fill: 'none', stroke: col, 'stroke-width': 0.45}, popG);
+          el('rect', {x: cx - 1.7, y: cy - 2.7, width: 3.4, height: 1.5, fill: 'none', stroke: col, 'stroke-width': 0.4}, popG);
+          for (var c2 = -1; c2 <= 1; c2++) for (var r2 = 0; r2 <= 1; r2++) el('circle', {cx: cx + c2 * 1.35, cy: cy + 0.5 + r2 * 1.5, r: 0.36, fill: col}, popG);
+          return;
+        }
+        var t = el('text', {x: cx, y: y + 8.4, fill: col, 'font-size': s === '#sym' ? 4.2 : 5, 'text-anchor': 'middle'}, popG);
+        t.textContent = s === '#sym' ? '&%' : s;
       });
     }
 
@@ -223,10 +230,13 @@
         case 'F': st.flash = op[1]; st.flashUntil = now + 1100; break;
         case 'G': glow(op[1], op[2]); break;
         case 'L': drawLayer(op[1]); st.bar = null; if (op[1] === 'letters') st.calc = null; break;
-        case 'O': // nabídka podržení nad klávesou (geometrie hned, ať na ni prst může mířit)
-          var pk = K[op[1]], pn = op[2].length, pcw = 11;
-          st.pop = {key: op[1], items: op[2], sel: -1, cw: pcw, y: pk.y - RH, x0: Math.max(0, Math.min(100 - pn * pcw, pk.x + pk.w / 2 - pn * pcw / 2))};
+        case 'O': { // nabídka podržení jako v aplikaci: první buňka přímo nad klávesou, další doprava (když není místo, doleva), první předvybraná
+          var pk = K[op[1]], pn = op[2].length, icons = op[2][0].charAt(0) === '#', pcw = icons ? 13 : 9.5;
+          var anchor = Math.max(0, Math.min(100 - pcw, pk.x + pk.w / 2 - pcw / 2)), dir = anchor + pcw * pn <= 101 ? 1 : -1;
+          var left = dir > 0 ? anchor : anchor + pcw - pcw * pn;
+          st.pop = {key: op[1], items: op[2], sel: 0, cw: pcw, y: pk.y - RH + 0.3, x0: Math.max(0, left), icons: icons};
           break;
+        }
         case 'H': if (rects[op[1]]) rects[op[1]].setAttribute('fill', op[2] ? '#4e6b2f' : SPEC); break;
       }
     }
@@ -333,12 +343,12 @@
 
   var CALC = [
     {t: L('Číselník', 'Number pad'), d: L('Podrž [I] a vyber číselník – velká čísla jako při volání, v rozích další znaky (podržením).', 'Hold [I] and choose the number pad – big digits like a phone dialer, more characters in the corners (hold a key).'),
-      s: cat([['T', L('Tel: ', 'Phone: ')], ['W', 500], ['D', 'sym'], ['W', 500], ['O', 'sym', ['123', '±×÷', 'π@']], ['M', 'pop0', 300], ['W', 400], ['U'], ['L', 'numpad'], ['W', 500]],
+      s: cat([['T', L('Tel: ', 'Phone: ')], ['W', 500], ['D', 'sym'], ['W', 500], ['O', 'sym', ['#pad', '#calc', '#sym']], ['M', 'pop0', 300], ['W', 400], ['U'], ['L', 'numpad'], ['W', 500]],
         tap('n:7'), [['T', L('Tel: 7', 'Phone: 7')]], tap('n:7'), [['T', L('Tel: 77', 'Phone: 77')]], tap('n:7'), [['T', L('Tel: 777', 'Phone: 777')]],
         tap('n:1'), [['T', L('Tel: 7771', 'Phone: 7771')]], tap('n:2'), [['T', L('Tel: 77712', 'Phone: 77712')]], tap('n:3'), [['T', L('Tel: 777123', 'Phone: 777123')], ['W', 500]],
-        [['D', 'n:5'], ['W', 500], ['O', 'n:5', ['⁵', '⅕', '⅚', '⅝']], ['M', 'pop0', 250], ['W', 400], ['U'], ['T', L('Tel: 777123⁵', 'Phone: 777123⁵')], ['W', 1300]])},
+        [['D', 'n:5'], ['W', 500], ['O', 'n:5', ['⁵', '⅕', '⅚', '⅝']], ['W', 1100], ['U'], ['T', L('Tel: 777123⁵', 'Phone: 777123⁵')], ['W', 1300]])},
     {t: L('Kalkulačka', 'Calculator'), d: L('Příklad se píše do lišty a výsledek se počítá hned. „→ Výsledek“ ho vloží do textu.', 'The expression goes into the bar and the result is calculated right away. "→ Result" inserts it into the text.'),
-      s: cat([['T', L('Celkem: ', 'Total: ')], ['W', 500], ['D', 'sym'], ['W', 500], ['O', 'sym', ['123', '±×÷', 'π@']], ['M', 'pop1', 300], ['W', 400], ['U'], ['L', 'calc'], ['K', '', ''], ['W', 500]],
+      s: cat([['T', L('Celkem: ', 'Total: ')], ['W', 500], ['D', 'sym'], ['W', 500], ['O', 'sym', ['#pad', '#calc', '#sym']], ['M', 'pop1', 300], ['W', 400], ['U'], ['L', 'calc'], ['K', '', ''], ['W', 500]],
         tap('c:1'), [['K', '1', '1']], tap('c:2'), [['K', '12', '12']], tap('c:*'), [['K', '12×', '']], tap('c:3'), [['K', '12×3', '36'], ['W', 700]],
         tap('c:='), [['T', L('Celkem: 36', 'Total: 36')], ['W', 1600]])},
     {t: L('Procenta a závorky', 'Percent and brackets'), d: L('200 + 10 % = 220. Klávesa ( ) sama pozná, jestli závorku otevřít, nebo zavřít.', '200 + 10 % = 220. The ( ) key knows whether to open or close a bracket.'),
@@ -346,9 +356,10 @@
         tap('c:1'), [['K', '200+1', '201']], tap('c:0'), [['K', '200+10', '210']], tap('c:%'), [['K', '200+10%', '220'], ['W', 1000]],
         tap('c:C'), [['K', '', '']], tap('c:P'), [['K', '(', '']], tap('c:2'), [['K', '(2', '']], tap('c:+'), [['K', '(2+', '']], tap('c:3'), [['K', '(2+3', '']], tap('c:P'), [['K', '(2+3)', '5']],
         tap('c:*'), [['K', '(2+3)×', '']], tap('c:4'), [['K', '(2+3)×4', '20'], ['W', 1600]])},
-    {t: L('Vědecká kalkulačka', 'Scientific calculator'), d: L('f(x) přepne na funkce: odmocnina, mocniny, sin, cos, log… DEG / RAD přepíná stupně a radiány.', 'f(x) switches to functions: square root, powers, sin, cos, log… DEG / RAD switches degrees and radians.'),
-      s: cat([['L', 'calc'], ['K', '', ''], ['W', 500]], tap('c:8'), [['K', '8', '8']], tap('c:1'), [['K', '81', '81'], ['W', 400]], tap('c:S'), [['L', 'sci'], ['K', '81', '81'], ['W', 600]],
-        tap('s:r'), [['K', '√81', '9'], ['W', 900]], tap('s:q'), [['K', '(√81)²', '81'], ['W', 1000]], tap('c:N'), [['L', 'calc'], ['K', '(√81)²', '81'], ['W', 1400]])}
+    {t: L('Vědecká kalkulačka', 'Scientific calculator'), d: L('f(x) přepne na funkce: faktoriál, sin, cos, log, mocniny… 123 vrátí čísla. DEG / RAD přepíná stupně a radiány.', 'f(x) switches to functions: factorial, sin, cos, log, powers… 123 brings the digits back. DEG / RAD switches degrees and radians.'),
+      s: cat([['L', 'calc'], ['K', '', ''], ['W', 500]], tap('c:5'), [['K', '5', '5'], ['W', 300]], tap('c:S'), [['L', 'sci'], ['K', '5', '5'], ['W', 500]],
+        tap('s:!'), [['K', '5!', '120'], ['W', 1200]], tap('c:C'), [['K', '', '']], tap('s:s'), [['K', 'sin(', ''], ['W', 300]], tap('c:N'), [['L', 'calc'], ['K', 'sin(', ''], ['W', 300]],
+        tap('c:3'), [['K', 'sin(3', '0,052']], tap('c:0'), [['K', 'sin(30', '0,5'], ['W', 1800]])}
   ];
 
   var g = document.getElementById('gdemo'); if (g) new Demo(g, GEST, 4);
