@@ -104,3 +104,6 @@ a.card.ov{color:inherit;display:block}a.card.ov:hover{text-decoration:none}
 .gdots button{width:8px;height:8px;border-radius:50%;border:0;padding:0;background:#4a4f55;cursor:pointer}
 .gdots button.on{background:var(--g)}
 @media(max-width:600px){.gprev,.gnext{width:32px;height:32px;font-size:20px}.gdemo{padding:12px 8px 10px}}
+/* odkaz z dlaždice: nadpis sekce nezajede pod pevnou hlavičku */
+.feat{scroll-margin-top:96px}
+@media(max-width:700px){.feat{scroll-margin-top:128px}}
