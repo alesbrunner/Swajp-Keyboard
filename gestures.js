@@ -242,8 +242,12 @@
         case 'H': if (rects[op[1]]) rects[op[1]].setAttribute('fill', op[2] ? '#4e6b2f' : SPEC); break;
       }
     }
+    var capOn = false;
     function frame(now) {
       tick(now);
+      // jako v aplikaci: prst nad klávesnicí = velká písmena, zpět v klávesnici = zase malá
+      var cap = down && fy < -1;
+      if (cap !== capOn) { capOn = cap; for (var lk in labs) labs[lk].textContent = cap ? lk.toUpperCase() : lk; }
       drawField(); drawBar(); drawPop();
       trail.setAttribute('points', down || now - upAt < 250 ? pts.join(' ') : '');
       finger.setAttribute('cx', fx); finger.setAttribute('cy', fy); fdot.setAttribute('cx', fx); fdot.setAttribute('cy', fy);
@@ -295,8 +299,8 @@
       s: cat([['T', L('Řekni ', "Let's go ")], ['W', 500]], swipe(en ? 'our' : 'mam', 420), [['T', L('Řekni mám ', "Let's go our ")], ['B', en ? ['our', 'out', 'or', 'pour'] : ['mám', 'nám', 'nás', 'mam']], ['W', 1100]],
         tap('bar1'), [['T', L('Řekni nám ', "Let's go out ")], ['B', null], ['W', 1500]])},
     {t: L('Velké písmeno', 'Capital letter'), d: L('Z prvního písmene vyjeď nad klávesnici a odtud rovnou na další písmeno (nevracej se zpět).', 'From the first letter go up above the keyboard and straight on to the next letter (don\'t go back).'),
-      s: cat([['T', L('Byl jsem v ', 'I was in ')], ['W', 500], ['D', 'p'], ['M', 'p@0,-1.1', 360], ['A', 1]], (en ? 'aris' : 'raze').split('').map(function (c) { return ['M', c, 380]; }),
-        [['U'], ['A', 0], ['T', L('Byl jsem v Praze ', 'I was in Paris ')], ['W', 1800]])},
+      s: cat([['T', L('Byl jsem v ', 'I was in ')], ['W', 500], ['D', 'p'], ['M', 'p@0,-1.1', 360]], (en ? 'aris' : 'raze').split('').map(function (c) { return ['M', c, 380]; }),
+        [['U'], ['T', L('Byl jsem v Praze ', 'I was in Paris ')], ['W', 1800]])},
     {t: L('Kopírovat a vložit', 'Copy and paste'), d: L('Klepnutí na Swajp označí slovo. Tah ze Swajp na C zkopíruje, na V vloží, na X vyjme – jako Ctrl na počítači.', 'A tap on Swajp selects the word. Swajp → C copies, → V pastes, → X cuts – like Ctrl on a computer.'),
       s: cat([['T', hello], ['W', 500]], tap('star'), [['S', hw.length], ['W', 700], ['D', 'star'], ['G', 'c', L('Kopírovat', 'Copy')], ['M', 'c', 480], ['W', 200], ['U'], ['F', L('Zkopírováno', 'Copied')],
         ['W', 500], ['T', hello + ' '], ['W', 600], ['D', 'star'], ['G', 'v', L('Vložit', 'Paste')], ['M', 'v', 480], ['W', 200], ['U'], ['T', hello + ' ' + hello.split(' ')[1]], ['W', 1600]])},
