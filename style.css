@@ -122,3 +122,4 @@ a.card.ov{color:inherit;display:block}a.card.ov:hover{text-decoration:none}
 .lmenu a:hover{background:var(--panel2);text-decoration:none}
 .lmenu a.on{background:var(--g);color:#111}
 .lmenu a.on b{color:#111}
+@media(min-width:601px){.lngs{order:4;margin-left:0}nav{margin-left:auto}}
