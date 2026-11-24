@@ -1,7 +1,7 @@
 /* Swajp – animované ukázky na webu: malá klávesnice jako v aplikaci, prst přehraje gesto,
    v poli nahoře je vidět výsledek (text, označení, kurzor). Okénka: #gdemo (gesta), #cdemo (číselník a kalkulačka). */
 (function () {
-  var en = document.documentElement.lang === 'en';
+  var en = document.documentElement.lang !== 'cs'; // ostatní jazyky webu mají ukázky anglicky
   var NS = 'http://www.w3.org/2000/svg';
   var G = '#9ccc65', KEY = '#2a2d31', SPEC = '#3a3f44', TX = '#ececec', MUT = '#a4a8ad', OP = '#34402b';
   function L(cs, e) { return en ? e : cs; }

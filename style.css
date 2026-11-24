@@ -61,7 +61,7 @@ footer{border-top:1px solid var(--line);color:var(--mut);font-size:14px}footer .
  .gest{grid-template-columns:1fr 1fr;gap:8px}.g{flex-direction:column;align-items:flex-start;gap:8px;padding:12px}
  h2{margin-top:40px}
 }
-.lng{margin-left:auto;border:1px solid var(--line);color:var(--tx);padding:4px 12px;border-radius:999px;font-size:14px;font-weight:600}
+.lng{border:1px solid var(--line);color:var(--tx);padding:4px 12px;border-radius:999px;font-size:14px;font-weight:600}
 .lng:hover{border-color:var(--g);text-decoration:none}
 @media(max-width:600px){nav{order:3;width:100%}.bar{gap:10px 16px}}
 .sub{font-size:21px;font-weight:600;color:var(--tx);margin:-4px 0 14px;letter-spacing:.2px}
@@ -107,3 +107,14 @@ a.card.ov{color:inherit;display:block}a.card.ov:hover{text-decoration:none}
 /* odkaz z dlaždice: nadpis sekce nezajede pod pevnou hlavičku */
 .feat{scroll-margin-top:96px}
 @media(max-width:700px){.feat{scroll-margin-top:128px}}
+
+/* přepínač jazyků: rychlé tlačítko + zeměkoule s nabídkou zkratek */
+.lngs{margin-left:auto;position:relative;display:flex;align-items:center;gap:6px}
+.glb{display:flex;align-items:center;justify-content:center;width:34px;height:30px;padding:0;border:1px solid var(--line);border-radius:999px;background:none;color:var(--tx);cursor:pointer}
+.glb:hover,.lngs.open .glb{border-color:var(--g)}
+.glb svg{width:18px;height:18px}
+.lmenu{display:none;position:absolute;right:0;top:calc(100% + 8px);grid-template-columns:repeat(4,52px);gap:4px;padding:8px;background:var(--panel);border:1px solid var(--line);border-radius:14px;box-shadow:0 10px 30px #0008;z-index:20}
+.lngs.open .lmenu{display:grid}
+.lmenu a{padding:7px 0;border-radius:8px;color:var(--tx);font-size:14px;font-weight:600;text-align:center}
+.lmenu a:hover{background:var(--panel2);text-decoration:none}
+.lmenu a.on{background:var(--g);color:#111}
