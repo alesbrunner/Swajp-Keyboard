@@ -127,7 +127,8 @@ a.card.ov{color:inherit;display:block}a.card.ov:hover{text-decoration:none}
 /* ukázky vedle textu sekce (na úzké obrazovce pod textem) */
 .feat.hd{display:flow-root}
 .feat.hd>.gdemo{float:right;width:330px;margin:14px 0 12px 26px;padding:10px 6px 8px}
-.gdemo .gd{min-height:4.5em;font-size:14px}
+.gdemo .gd{min-height:4.5em;font-size:14px;margin:0 auto 8px}
+.gdemo .gt{margin:2px 0 4px}
 .gwin{gap:4px}
 @media(max-width:820px){
   .feat.hd{display:flex;flex-direction:column}

@@ -23,12 +23,7 @@
       [k('shift', 1.5, '⇧', 1)].concat(R2.split('').map(function (c) { return k(c, 1, c); })).concat([k('bksp', 1.5, '⌫', 1)]),
       [k('star', 1.1, '', 3), k('sym', 1.4, '[I]', 1), k(',', 1, ',', 1), k('space', 4, en ? 'English' : 'Čeština'), k('.', 1, '.', 1), k('enter', 1.5, '⏎', 2)]
     ],
-    clip: [
-      [k('c:1', 10, L('Ahoj, jak se máš?', 'Hi, how are you?'), 1)],
-      [k('c:2', 10, 'swajp.keyboard@gmail.com', 1)],
-      [k('c:3', 10, L('Nákup: chleba, mléko, máslo', 'Shopping: bread, milk, butter'), 1)],
-      [k('abc', 2.5, 'ABC', 1), k('c:x', 5, L('Vymazat vše', 'Clear all'), 1), k('bksp', 2.5, '⌫', 1)]
-    ],
+    blank: [],
     edit: [
       ['X', 'U', 'V', 'H'].map(ek), ['L', 'S', 'R', 'E'].map(ek), ['C', 'D', 'A'].map(ek).concat([k('enter', 2.5, '⏎', 2)]),
       [k('abc', 2.5, 'ABC', 1), k('space', 2.5, '␣'), ek('Z'), ek('Y'), k('bksp', 2.5, '⌫', 1)]
@@ -166,6 +161,46 @@
         if (i > 0) el('rect', {x: w * i, y: BY + 1.3, width: 0.3, height: BH - 2.6, fill: '#4a4f55'}, barG);
       });
     }
+    // historie schránky a diktování: vlastní kresba místo kláves (jako v aplikaci)
+    var panG = el('g', {});
+    svg.insertBefore(panG, popG);
+    function drawPanel(now) {
+      while (panG.firstChild) panG.removeChild(panG.firstChild);
+      if (st.clip) {
+        var hd = [['‹ ABC', 4, 'start', G], [L('Schránka ', 'Clipboard ') + st.clip.length + '/30', 50, 'middle', TX], [L('Vymazat vše', 'Clear all'), 96, 'end', G]];
+        hd.forEach(function (h, i) { var t = el('text', {x: h[1], y: BY + 5.1, fill: h[3], 'font-size': 3.8, 'text-anchor': h[2], 'font-weight': i === 1 ? 700 : 400}, panG); t.textContent = h[0]; });
+        st.clip.forEach(function (tx, i) {
+          var y = i * RH * 0.95;
+          el('rect', {x: 1, y: y + 0.7, width: 98, height: RH * 0.95 - 1.4, rx: 1.8, fill: KEY}, panG);
+          var t = el('text', {x: 4, y: y + 7.6, fill: TX, 'font-size': 3.9}, panG); t.textContent = tx;
+          var px = 84, py = y + 6.6; // špendlík a ×
+          el('path', {d: 'M' + (px - 1) + ' ' + (py - 2.4) + 'h2l-0.3 1.1 1.2 1.3h-3.8l1.2-1.3zM' + px + ' ' + (py + 0) + 'v2.2', fill: 'none', stroke: MUT, 'stroke-width': 0.45, 'stroke-linejoin': 'round'}, panG);
+          el('path', {d: 'M93.4 ' + (py - 1.6) + 'l3 3m0-3l-3 3', stroke: MUT, 'stroke-width': 0.5, 'stroke-linecap': 'round'}, panG);
+        });
+      }
+      if (st.voice) {
+        var cx = 50, cy = 25, r = 13, p = 0.5 + 0.5 * Math.sin(now / 260) * Math.sin(now / 610);
+        p = st.voice > 1 ? Math.abs(p) : 0.08;
+        [[1.06 + 1.0 * p, 0.12 + 0.18 * p], [1.06 + 0.7 * p, 0.16 + 0.22 * p], [1.04 + 0.4 * p, 0.22 + 0.35 * p]].forEach(function (q) {
+          el('circle', {cx: cx, cy: cy, r: r * q[0], fill: G, 'fill-opacity': q[1]}, panG);
+        });
+        el('circle', {cx: cx, cy: cy, r: r, fill: G}, panG);
+        el('rect', {x: cx - 4.2, y: cy - 5.8, width: 8.4, height: 8.4, rx: 1.4, fill: '#10140c'}, panG);
+        var k1 = el('text', {x: cx, y: cy + 8.6, fill: '#10140c', 'font-size': 3.3, 'text-anchor': 'middle', 'font-weight': 700}, panG); k1.textContent = L('KONEC', 'STOP');
+        el('circle', {cx: 17, cy: cy, r: 5.6, fill: SPEC}, panG);
+        el('path', {d: 'M15 ' + (cy - 2) + 'l4 4m0-4l-4 4', stroke: TX, 'stroke-width': 0.7, 'stroke-linecap': 'round'}, panG);
+        var zc = el('text', {x: 17, y: cy + 10, fill: TX, 'font-size': 3.4, 'text-anchor': 'middle'}, panG); zc.textContent = L('Zrušit', 'Cancel');
+        ['Google', 'Parakeet', 'Omnilingual'].forEach(function (m, i) {
+          var on = i === 1, y = cy - 8 + i * 7;
+          if (on) el('rect', {x: 70, y: y - 4.2, width: 26, height: 6, rx: 3, fill: OP}, panG);
+          var t = el('text', {x: 83, y: y, fill: on ? G : MUT, 'font-size': 3.4, 'text-anchor': 'middle', 'font-weight': on ? 700 : 400}, panG); t.textContent = m;
+        });
+        var sec = Math.min(119, Math.floor((now - st.voiceAt) / 1000));
+        el('rect', {x: 20, y: 48, width: 60, height: 1.2, rx: 0.6, fill: SPEC}, panG);
+        el('rect', {x: 20, y: 48, width: Math.max(1, 60 * sec / 120), height: 1.2, rx: 0.6, fill: G}, panG);
+        var tm = el('text', {x: 50, y: 46, fill: MUT, 'font-size': 3, 'text-anchor': 'middle'}, panG); tm.textContent = '0:' + (sec < 10 ? '0' : '') + sec + ' / 2:00';
+      }
+    }
     function drawPop() {
       while (popG.firstChild) popG.removeChild(popG.firstChild);
       if (!st.pop) return;
@@ -175,6 +210,13 @@
         var on = i === st.pop.sel, col = on ? '#10140c' : TX, cx = x0 + i * cw + cw / 2, cy = y + (RH - 1) / 2;
         if (on) el('rect', {x: x0 + i * cw + 0.6, y: y + 0.6, width: cw - 1.2, height: RH - 2.2, rx: 1.6, fill: G}, popG);
         if (s === '#pad') { for (var a = -1; a <= 1; a++) for (var b = 0; b < 3; b++) el('circle', {cx: cx + a * 1.9, cy: cy - 3.6 + b * 2.1, r: 0.55, fill: col}, popG); el('circle', {cx: cx, cy: cy + 2.7, r: 0.55, fill: col}, popG); return; }
+        var sw = {fill: 'none', stroke: col, 'stroke-width': 0.5, 'stroke-linecap': 'round', 'stroke-linejoin': 'round'};
+        function sp(d) { var o = {d: d}; for (var q in sw) o[q] = sw[q]; el('path', o, popG); }
+        if (s === '#emoji') { el('circle', {cx: cx, cy: cy, r: 3.3, fill: 'none', stroke: col, 'stroke-width': 0.5}, popG); sp('M' + (cx - 1.6) + ' ' + (cy + 0.9) + 'q1.6 1.5 3.2 0'); el('circle', {cx: cx - 1.2, cy: cy - 0.9, r: 0.45, fill: col}, popG); el('circle', {cx: cx + 1.2, cy: cy - 0.9, r: 0.45, fill: col}, popG); return; }
+        if (s === '#clip') { el('rect', {x: cx - 2.6, y: cy - 3.2, width: 5.2, height: 6.8, rx: 0.7, fill: 'none', stroke: col, 'stroke-width': 0.5}, popG); el('rect', {x: cx - 1.3, y: cy - 3.9, width: 2.6, height: 1.4, rx: 0.4, fill: col}, popG); sp('M' + (cx - 1.4) + ' ' + (cy - 0.6) + 'h2.8M' + (cx - 1.4) + ' ' + (cy + 1.2) + 'h2.8'); return; }
+        if (s === '#mic') { el('rect', {x: cx - 1.2, y: cy - 3.6, width: 2.4, height: 4.6, rx: 1.2, fill: 'none', stroke: col, 'stroke-width': 0.5}, popG); sp('M' + (cx - 2.4) + ' ' + (cy - 0.6) + 'a2.4 2.4 0 0 0 4.8 0M' + cx + ' ' + (cy + 1.8) + 'v1.8'); return; }
+        if (s === '#set') { el('circle', {cx: cx, cy: cy, r: 2.4, fill: 'none', stroke: col, 'stroke-width': 0.9, 'stroke-dasharray': '0.9 0.6'}, popG); el('circle', {cx: cx, cy: cy, r: 1, fill: 'none', stroke: col, 'stroke-width': 0.5}, popG); return; }
+        if (s === '#size') { sp('M' + (cx - 3) + ' ' + (cy + 3) + 'L' + (cx + 3) + ' ' + (cy - 3) + 'M' + (cx + 0.6) + ' ' + (cy - 3) + 'H' + (cx + 3) + 'V' + (cy - 0.6) + 'M' + (cx - 3) + ' ' + (cy + 0.6) + 'V' + (cy + 3) + 'H' + (cx - 0.6)); return; }
         if (s === '#calc') {
           el('rect', {x: cx - 2.6, y: cy - 3.6, width: 5.2, height: 7.2, rx: 0.6, fill: 'none', stroke: col, 'stroke-width': 0.45}, popG);
           el('rect', {x: cx - 1.7, y: cy - 2.7, width: 3.4, height: 1.5, fill: 'none', stroke: col, 'stroke-width': 0.4}, popG);
@@ -192,6 +234,8 @@
       var x = 50, y = 20;
       if (/^bar\d/.test(name)) { var b = barPos[+name.slice(3)] || [50, BY + 4]; x = b[0]; y = b[1]; }
       else if (/^pop\d/.test(name) && st.pop) { x = st.pop.x0 + (+name.slice(3) + 0.5) * st.pop.cw; y = st.pop.y + RH / 2; }
+      else if (/^clip\d/.test(name)) { x = 40; y = (+name.slice(4) + 0.5) * RH * 0.95; }
+      else if (name === 'vstop') { x = 50; y = 25; }
       else if (K[name]) { x = K[name].x + K[name].w / 2; y = K[name].y + RH / 2; }
       return [x + dx * 10, y + dy * RH];
     }
@@ -199,7 +243,7 @@
     // ---- průběh
     var cur = 0, steps, idx, t0, fx, fy, down, from, to, moving, pts, glowKey, upAt, raf, endAt;
     function reset() {
-      st = {text: '', cur: -1, selA: -1, selB: -1, bar: null, hl: 0, pills: null, calc: null, res: '', flash: null, flashUntil: 0, pop: null};
+      st = {text: '', cur: -1, selA: -1, selB: -1, bar: null, hl: 0, pills: null, clip: null, voice: 0, voiceAt: 0, calc: null, res: '', flash: null, flashUntil: 0, pop: null};
       drawLayer(slides[cur].layer || 'letters');
       idx = 0; t0 = performance.now(); down = false; moving = false; pts = []; glowKey = null; upAt = 0; endAt = 0;
       var p0 = pt('space'); fx = p0[0]; fy = p0[1];
@@ -245,6 +289,8 @@
         case 'N': st.selA = st.selB = -1; break;
         case 'B': st.bar = op[1]; st.hl = op[2] || 0; st.pills = null; break;
         case 'P': st.pills = op[1]; break;
+        case 'Q': st.clip = op[1]; drawLayer(op[1] ? 'blank' : 'letters'); break;
+        case 'V': if (op[1] && !st.voice) st.voiceAt = now; st.voice = op[1]; drawLayer(op[1] ? 'blank' : 'letters'); break;
         case 'Y': if (spaceLab) spaceLab.textContent = op[1]; break;
         case 'K': st.calc = op[1]; st.res = op[2] || ''; break;
         case 'F': st.flash = op[1]; st.flashUntil = now + 1100; break;
@@ -267,7 +313,7 @@
       // jako v aplikaci: prst nad klávesnicí = velká písmena, zpět v klávesnici = zase malá
       var cap = down && fy < -1 && pts.length > 2; // jen při tahu, ne při klepnutí do lišty
       if (cap !== capOn) { capOn = cap; for (var lk in labs) labs[lk].textContent = cap ? lk.toUpperCase() : lk; }
-      drawField(); drawBar(); drawPop();
+      drawField(); drawBar(); drawPanel(now); drawPop();
       trail.setAttribute('points', down || now - upAt < 250 ? pts.join(' ') : '');
       finger.setAttribute('cx', fx); finger.setAttribute('cy', fy); fdot.setAttribute('cx', fx); fdot.setAttribute('cy', fy);
       finger.setAttribute('opacity', down ? 1 : 0); fdot.setAttribute('opacity', down ? 1 : 0);
@@ -419,14 +465,24 @@
       s: cat([['Y', 'हिन्दी'], ['T', ''], ['W', 600]], swipe('namaste', 300), [['T', 'नमस्ते '], ['B', ['नमस्ते', 'नमस्कार', 'namaste']], ['W', 900]],
         swipe('kaise', 340), [['T', 'नमस्ते कैसे '], ['B', ['कैसे', 'कैसी', 'kaise']], ['W', 800]], swipe('ho', 420), [['T', 'नमस्ते कैसे हो '], ['B', ['हो', 'हैं', 'ho']], ['W', 1800]])}
   ];
+  var CLIPS = [L('Ahoj, jak se máš?', 'Hi, how are you?'), 'swajp.keyboard@gmail.com', L('Nákup: chleba, mléko, máslo', 'Shopping: bread, milk, butter'), L('Sraz v 18:00 u kina', 'Meet at 6 pm at the cinema')];
   var CLIP = [
-    {t: L('Historie schránky', 'Clipboard history'), d: L('Swajp → V a podrž: posledních 30 zkopírovaných textů. Klepnutím vložíš. Hesla se nikdy neukládají.', 'Swajp → V and hold: your last 30 copied texts. Tap to paste. Passwords are never stored.'),
-      s: cat([['T', 'E-mail: '], ['W', 600], ['D', 'star'], ['G', 'v', L('Schránka', 'Clipboard')], ['M', 'v', 480], ['W', 700], ['U'], ['L', 'clip'], ['W', 900]],
-        tap('c:2'), [['T', 'E-mail: swajp.keyboard@gmail.com'], ['W', 500], ['L', 'letters'], ['W', 1600]])}
+    {t: L('Historie schránky', 'Clipboard history'), d: L('Podrž Enter a vyber schránku: posledních 30 zkopírovaných textů. Klepnutím vložíš, špendlíkem připneš. Hesla se nikdy neukládají.', 'Hold Enter and pick the clipboard: your last 30 copied texts. Tap to paste, pin to keep. Passwords are never stored.'),
+      s: [['T', 'E-mail: '], ['W', 600], ['D', 'enter'], ['W', 550], ['O', 'enter', ['#emoji', '#clip']], ['W', 400], ['M', 'pop1', 380], ['W', 400], ['U'], ['Q', CLIPS], ['W', 1100],
+        ['D', 'clip1'], ['W', 130], ['U'], ['W', 150], ['Q', null], ['T', 'E-mail: swajp.keyboard@gmail.com'], ['W', 1800]]}
+  ];
+  var VOICE = [
+    {t: L('Diktování', 'Dictation'), d: L('Podrž Swajp a vyber mikrofon. Mluv – text se píše rovnou. Velký zelený kruh diktování ukončí, vpravo přepneš model.', 'Hold Swajp and pick the microphone. Speak – the text appears right away. The big green circle stops, the models are on the right.'),
+      s: (function () {
+        var words = L('Ahoj, zítra se uvidíme v kavárně.', 'Hi, see you tomorrow at the café.').split(' '), a = [['T', ''], ['W', 500], ['D', 'star'], ['W', 600], ['O', 'star', ['#mic', '#set', '#size']], ['W', 700], ['U'], ['V', 1], ['W', 700], ['V', 2]];
+        for (var i = 1; i <= words.length; i++) a.push(['T', words.slice(0, i).join(' ')], ['W', 420]);
+        a.push(['V', 1], ['W', 500], ['D', 'vstop'], ['W', 140], ['U'], ['V', 0], ['T', words.join(' ') + ' '], ['W', 1800]);
+        return a;
+      })()}
   ];
   var GROUPS = {swipe: [GEST[0], GEST[1], GEST[2], GEST[9]], predict: PRED,
     edit: [GEST[3], GEST[4], GEST[5], GEST[6], GEST[7], GEST[8], GEST[11], GEST[12], GEST[13]],
-    emoji: [GEST[10]], langs: LANG, clip: CLIP, calc: CALC};
+    emoji: [GEST[10]], langs: LANG, voice: VOICE, clip: CLIP, calc: CALC};
   [].forEach.call(document.querySelectorAll('.gdemo[data-demo]'), function (b) {
     var g = GROUPS[b.getAttribute('data-demo')];
     if (g) new Demo(b, g, b.getAttribute('data-demo') === 'calc' ? 5 : 4);
