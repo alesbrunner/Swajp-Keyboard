@@ -23,6 +23,12 @@
       [k('shift', 1.5, '⇧', 1)].concat(R2.split('').map(function (c) { return k(c, 1, c); })).concat([k('bksp', 1.5, '⌫', 1)]),
       [k('star', 1.1, '', 3), k('sym', 1.4, '[I]', 1), k(',', 1, ',', 1), k('space', 4, en ? 'English' : 'Čeština'), k('.', 1, '.', 1), k('enter', 1.5, '⏎', 2)]
     ],
+    clip: [
+      [k('c:1', 10, L('Ahoj, jak se máš?', 'Hi, how are you?'), 1)],
+      [k('c:2', 10, 'swajp.keyboard@gmail.com', 1)],
+      [k('c:3', 10, L('Nákup: chleba, mléko, máslo', 'Shopping: bread, milk, butter'), 1)],
+      [k('abc', 2.5, 'ABC', 1), k('c:x', 5, L('Vymazat vše', 'Clear all'), 1), k('bksp', 2.5, '⌫', 1)]
+    ],
     edit: [
       ['X', 'U', 'V', 'H'].map(ek), ['L', 'S', 'R', 'E'].map(ek), ['C', 'D', 'A'].map(ek).concat([k('enter', 2.5, '⏎', 2)]),
       [k('abc', 2.5, 'ABC', 1), k('space', 2.5, '␣'), ek('Z'), ek('Y'), k('bksp', 2.5, '⌫', 1)]
@@ -55,7 +61,7 @@
   // ------------------------------------------------------------ přehrávač
   function Demo(box, slides, rows) {
     var self = this;
-    var FY = -40, FH = 27, BY = -10.5, BH = 9; // pole s textem, lišta
+    var FY = -36, FH = 26, BY = -8.6, BH = 7; // pole s textem, lišta
     var svg = document.createElementNS(NS, 'svg');
     svg.setAttribute('viewBox', '-2 ' + (FY - 2) + ' 104 ' + (rows * RH - FY + 3));
     svg.setAttribute('class', 'gsvg');
@@ -73,7 +79,7 @@
     var bRect = el('rect', {rx: 3.5, height: 7, fill: G}, bubble);
     var bText = el('text', {fill: '#10140c', 'font-size': 4.2, 'text-anchor': 'middle', 'font-weight': 700}, bubble);
 
-    var K = {}, rects = {}, labs = {}, layer = null;
+    var K = {}, rects = {}, labs = {}, layer = null, spaceLab = null;
     function drawLayer(name) {
       layer = name;
       while (kbG.firstChild) kbG.removeChild(kbG.firstChild);
@@ -91,6 +97,7 @@
             var t = el('text', {x: x + w / 2, y: y + (two ? 6.2 : 8.4), fill: q.kind === 2 ? '#10140c' : TX, 'text-anchor': 'middle',
               'font-size': q.lab.length > 4 ? 3.4 : two ? 4.6 : 5.2}, kbG);
             t.textContent = q.lab;
+            if (q.id === 'space' && name === 'letters') spaceLab = t;
             if (name === 'letters' && q.lab.length === 1 && /[a-z]/.test(q.lab)) labs[q.id] = t;
             if (two) { var s = el('text', {x: x + w / 2, y: y + 10.8, fill: MUT, 'text-anchor': 'middle', 'font-size': 2.8}, kbG); s.textContent = q.sub; }
             var h = name === 'letters' ? HINT[q.id] : (name === 'numpad' ? q.sub : null);
@@ -134,19 +141,29 @@
       while (barG.firstChild) barG.removeChild(barG.firstChild);
       barPos = [];
       if (st.flash && performance.now() < st.flashUntil) {
-        var f = el('text', {x: 50, y: BY + 6.2, fill: G, 'font-size': 4.6, 'text-anchor': 'middle', 'font-weight': 700}, barG); f.textContent = st.flash; return;
+        var f = el('text', {x: 50, y: BY + 5.1, fill: G, 'font-size': 4.2, 'text-anchor': 'middle', 'font-weight': 700}, barG); f.textContent = st.flash; return;
       }
       if (st.calc != null) {
-        var c = el('text', {x: 4, y: BY + 6.2, fill: TX, 'font-size': 5}, barG); c.textContent = st.calc;
-        if (st.res) { var r = el('text', {x: 96, y: BY + 6.2, fill: G, 'font-size': 5, 'text-anchor': 'end', 'font-weight': 700}, barG); r.textContent = '= ' + st.res; }
+        var c = el('text', {x: 4, y: BY + 5.2, fill: TX, 'font-size': 4.6}, barG); c.textContent = st.calc;
+        if (st.res) { var r = el('text', {x: 96, y: BY + 5.2, fill: G, 'font-size': 4.6, 'text-anchor': 'end', 'font-weight': 700}, barG); r.textContent = '= ' + st.res; }
+        return;
+      }
+      if (st.pills) {
+        var ws = [29, 40, 29], x = 0.5;
+        st.pills.forEach(function (s, i) {
+          el('rect', {x: x + 0.4, y: BY + 0.6, width: ws[i] - 0.8, height: BH - 1.2, rx: 2.6, fill: '#34402b'}, barG);
+          var t = el('text', {x: x + ws[i] / 2, y: BY + 5, fill: G, 'font-size': 3.5, 'text-anchor': 'middle', 'font-weight': 700}, barG); t.textContent = s;
+          barPos.push([x + ws[i] / 2, BY + BH / 2]);
+          x += ws[i] + 0.5;
+        });
         return;
       }
       if (!st.bar) return;
       var w = 100 / st.bar.length;
       st.bar.forEach(function (s, i) {
         barPos.push([w * i + w / 2, BY + BH / 2]);
-        var t = el('text', {x: w * i + w / 2, y: BY + 6.2, fill: i === 0 ? G : TX, 'font-size': 4.6, 'text-anchor': 'middle'}, barG); t.textContent = s;
-        if (i > 0) el('rect', {x: w * i, y: BY + 1.5, width: 0.3, height: BH - 3, fill: '#4a4f55'}, barG);
+        var t = el('text', {x: w * i + w / 2, y: BY + 5.1, fill: i === (st.hl || 0) ? G : TX, 'font-size': 4.2, 'text-anchor': 'middle'}, barG); t.textContent = s;
+        if (i > 0) el('rect', {x: w * i, y: BY + 1.3, width: 0.3, height: BH - 2.6, fill: '#4a4f55'}, barG);
       });
     }
     function drawPop() {
@@ -182,7 +199,7 @@
     // ---- průběh
     var cur = 0, steps, idx, t0, fx, fy, down, from, to, moving, pts, glowKey, upAt, raf, endAt;
     function reset() {
-      st = {text: '', cur: -1, selA: -1, selB: -1, bar: null, calc: null, res: '', flash: null, flashUntil: 0, pop: null};
+      st = {text: '', cur: -1, selA: -1, selB: -1, bar: null, hl: 0, pills: null, calc: null, res: '', flash: null, flashUntil: 0, pop: null};
       drawLayer(slides[cur].layer || 'letters');
       idx = 0; t0 = performance.now(); down = false; moving = false; pts = []; glowKey = null; upAt = 0; endAt = 0;
       var p0 = pt('space'); fx = p0[0]; fy = p0[1];
@@ -226,7 +243,9 @@
         case 'C': st.cur = op[1]; st.selA = st.selB = -1; break;
         case 'S': st.selA = op[1]; st.selB = op[2] == null ? st.text.length : op[2]; break;
         case 'N': st.selA = st.selB = -1; break;
-        case 'B': st.bar = op[1]; break;
+        case 'B': st.bar = op[1]; st.hl = op[2] || 0; st.pills = null; break;
+        case 'P': st.pills = op[1]; break;
+        case 'Y': if (spaceLab) spaceLab.textContent = op[1]; break;
         case 'K': st.calc = op[1]; st.res = op[2] || ''; break;
         case 'F': st.flash = op[1]; st.flashUntil = now + 1100; break;
         case 'G': glow(op[1], op[2]); break;
@@ -246,7 +265,7 @@
     function frame(now) {
       tick(now);
       // jako v aplikaci: prst nad klávesnicí = velká písmena, zpět v klávesnici = zase malá
-      var cap = down && fy < -1;
+      var cap = down && fy < -1 && pts.length > 2; // jen při tahu, ne při klepnutí do lišty
       if (cap !== capOn) { capOn = cap; for (var lk in labs) labs[lk].textContent = cap ? lk.toUpperCase() : lk; }
       drawField(); drawBar(); drawPop();
       trail.setAttribute('points', down || now - upAt < 250 ? pts.join(' ') : '');
@@ -272,6 +291,13 @@
       var dx = e.changedTouches[0].clientX - sx; sx = null;
       if (Math.abs(dx) > 50) go(cur + (dx < 0 ? 1 : -1));
     });
+    if (slides.length < 2) { box.querySelector('.gprev').style.visibility = box.querySelector('.gnext').style.visibility = 'hidden'; dots.style.display = 'none'; }
+    // animace běží jen když je ukázka vidět (na stránce je jich víc); po návratu začne slide znovu
+    var vis = true;
+    if ('IntersectionObserver' in window) new IntersectionObserver(function (es) {
+      var v = es[0].isIntersecting;
+      if (v && !vis) { vis = true; reset(); raf = requestAnimationFrame(frame); } else if (!v) { vis = false; cancelAnimationFrame(raf); }
+    }).observe(box);
     go(0);
     raf = requestAnimationFrame(frame);
   }
@@ -368,6 +394,41 @@
         tap('c:3'), [['K', 'sin(3', '0,052']], tap('c:0'), [['K', 'sin(30', '0,5'], ['W', 1800]])}
   ];
 
-  var g = document.getElementById('gdemo'); if (g) new Demo(g, GEST, 4);
-  var c = document.getElementById('cdemo'); if (c) new Demo(c, CALC, 5);
+  // nové ukázky: předpověď, jazyky, schránka
+  function typeTaps(word, upto) { var a = []; for (var i = 0; i < word.length; i++) a = a.concat(tap(word[i]), [['T', upto + word.slice(0, i + 1)]]); return a; }
+  var PRED = [
+    {t: L('Návrh dalšího slova', 'Next word suggestion'), d: L('Po mezeře lišta nabídne, co obvykle následuje – stačí klepnout.', 'After a space the bar offers what usually comes next – just tap it.'),
+      s: cat([['T', L('Dobré ', 'Good ')], ['B', en ? ['morning', 'night', 'luck'] : ['ráno', 'odpoledne', 'den']], ['W', 1200]], tap('bar0'),
+        [['T', L('Dobré ráno ', 'Good morning ')], ['B', en ? ['everyone', 'to', 'and'] : ['všem', 'přeju', 'a']], ['W', 1000]], tap('bar0'),
+        [['T', L('Dobré ráno všem ', 'Good morning everyone ')], ['B', null], ['W', 1600]])},
+    {t: L('Oprava překlepu', 'Fixing a typo'), d: L('Při ťukání lišta ukáže napsané slovo i opravu. Zvýrazněná oprava se vloží mezerníkem.', 'While tapping, the bar shows what you typed and the fix. The highlighted fix is inserted with space.'),
+      s: cat([['T', ''], ['W', 500]], typeTaps(en ? 'teh' : 'ahij', ''), [['B', en ? ['teh', 'the', 'ten'] : ['ahij', 'ahoj', 'ahojky'], 1], ['W', 1100]], tap('space'),
+        [['T', L('Ahoj ', 'The ')], ['B', null], ['W', 1600]])}
+  ];
+  var LANG = [
+    {t: L('Dva jazyky najednou', 'Two languages at once'), d: L('Zapni dva jazyky a piš bez přepínání – Swajp zná slova z obou.', 'Turn on two languages and type without switching – Swajp knows words from both.'),
+      s: cat([['Y', en ? 'English · Español' : 'Čeština · English'], ['T', L('Zítra mám ', 'Hola ')], ['W', 600]], swipe(en ? 'amigo' : 'meeting', 320),
+        [['T', L('Zítra mám meeting ', 'Hola amigo ')], ['B', en ? ['amigo', 'amigos', 'amino'] : ['meeting', 'meetingu', 'meetingy']], ['W', 900]], swipe(en ? 'how' : 'pak', 380),
+        [['T', L('Zítra mám meeting pak ', 'Hola amigo how ')], ['B', null], ['W', 500]], swipe(en ? 'are' : 'deadline', 300),
+        [['T', L('Zítra mám meeting pak deadline ', 'Hola amigo how are ')], ['W', 1600]])},
+    {t: L('Nové slovo do slovníku', 'A new word for the dictionary'), d: L('Klepni v liště na neznámé slovo. Uprostřed ho přidáš do jazyka okolního textu, vpravo do druhého jazyka, vlevo do obou.', 'Tap an unknown word in the bar. The middle adds it to the language of the text around it, the right to the other language, the left to both.'),
+      s: cat([['Y', en ? 'English · Español' : 'Čeština · English'], ['T', L('To je hustokrutý', 'That is fantabulous')], ['B', en ? ['fantabulous', 'fabulous', 'fantastic'] : ['hustokrutý', 'husto', 'krutý']], ['W', 1000]], tap('bar0'),
+        [['P', en ? ['‹ + EN+ES', '+ EN: “fantabulous”', '+ ES ›'] : ['‹ + CS+EN', '+ CS: „hustokrutý“', '+ EN ›']], ['W', 1400]], tap('bar1'),
+        [['P', null], ['B', null], ['F', L('Přidáno: CS', 'Added: EN')], ['T', L('To je hustokrutý ', 'That is fantabulous ')], ['W', 1800]])},
+    {t: L('Hindština', 'Hindi'), d: L('Píšeš latinkou (Hinglish) a v textu se objeví dévanágarí: namaste → नमस्ते. Nebo zůstaň u latinky.', 'Type in Latin letters (Hinglish) and get Devanagari: namaste → नमस्ते. Or stay with Latin letters.'),
+      s: cat([['Y', 'हिन्दी'], ['T', ''], ['W', 600]], swipe('namaste', 300), [['T', 'नमस्ते '], ['B', ['नमस्ते', 'नमस्कार', 'namaste']], ['W', 900]],
+        swipe('kaise', 340), [['T', 'नमस्ते कैसे '], ['B', ['कैसे', 'कैसी', 'kaise']], ['W', 800]], swipe('ho', 420), [['T', 'नमस्ते कैसे हो '], ['B', ['हो', 'हैं', 'ho']], ['W', 1800]])}
+  ];
+  var CLIP = [
+    {t: L('Historie schránky', 'Clipboard history'), d: L('Swajp → V a podrž: posledních 30 zkopírovaných textů. Klepnutím vložíš. Hesla se nikdy neukládají.', 'Swajp → V and hold: your last 30 copied texts. Tap to paste. Passwords are never stored.'),
+      s: cat([['T', 'E-mail: '], ['W', 600], ['D', 'star'], ['G', 'v', L('Schránka', 'Clipboard')], ['M', 'v', 480], ['W', 700], ['U'], ['L', 'clip'], ['W', 900]],
+        tap('c:2'), [['T', 'E-mail: swajp.keyboard@gmail.com'], ['W', 500], ['L', 'letters'], ['W', 1600]])}
+  ];
+  var GROUPS = {swipe: [GEST[0], GEST[1], GEST[2], GEST[9]], predict: PRED,
+    edit: [GEST[3], GEST[4], GEST[5], GEST[6], GEST[7], GEST[8], GEST[11], GEST[12], GEST[13]],
+    emoji: [GEST[10]], langs: LANG, clip: CLIP, calc: CALC};
+  [].forEach.call(document.querySelectorAll('.gdemo[data-demo]'), function (b) {
+    var g = GROUPS[b.getAttribute('data-demo')];
+    if (g) new Demo(b, g, b.getAttribute('data-demo') === 'calc' ? 5 : 4);
+  });
 })();
