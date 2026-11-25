@@ -55,7 +55,7 @@
   // ------------------------------------------------------------ přehrávač
   function Demo(box, slides, rows) {
     var self = this;
-    var FY = -50, FH = 27, BY = -19, BH = 9; // pole s textem, lišta
+    var FY = -40, FH = 27, BY = -10.5, BH = 9; // pole s textem, lišta
     var svg = document.createElementNS(NS, 'svg');
     svg.setAttribute('viewBox', '-2 ' + (FY - 2) + ' 104 ' + (rows * RH - FY + 3));
     svg.setAttribute('class', 'gsvg');
