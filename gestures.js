@@ -1,7 +1,7 @@
 /* Swajp – animované ukázky na webu: malá klávesnice jako v aplikaci, prst přehraje gesto,
    v poli nahoře je vidět výsledek (text, označení, kurzor). Okénka: #gdemo (gesta), #cdemo (číselník a kalkulačka). */
 (function () {
-  var en = document.documentElement.lang !== 'cs'; // ostatní jazyky webu mají ukázky anglicky
+  var en = (document.documentElement.lang || '').indexOf('cs') !== 0; // ostatní jazyky webu mají ukázky anglicky
   var NS = 'http://www.w3.org/2000/svg';
   var G = '#9ccc65', KEY = '#2a2d31', SPEC = '#3a3f44', TX = '#ececec', MUT = '#a4a8ad', OP = '#34402b';
   function L(cs, e) { return en ? e : cs; }
@@ -462,7 +462,7 @@
         [['P', en ? ['‹ + EN+ES', '+ EN: “fantabulous”', '+ ES ›'] : ['‹ + CS+EN', '+ CS: „hustokrutý“', '+ EN ›']], ['W', 1400]], tap('bar1'),
         [['P', null], ['B', null], ['F', L('Přidáno: CS', 'Added: EN')], ['T', L('To je hustokrutý ', 'That is fantabulous ')], ['W', 1800]])},
     {t: L('Hindština', 'Hindi'), d: L('Píšeš latinkou (Hinglish) a v textu se objeví dévanágarí: namaste → नमस्ते. Nebo zůstaň u latinky.', 'Type in Latin letters (Hinglish) and get Devanagari: namaste → नमस्ते. Or stay with Latin letters.'),
-      s: cat([['Y', 'हिन्दी'], ['T', ''], ['W', 600]], swipe('namaste', 300), [['T', 'नमस्ते '], ['B', ['नमस्ते', 'नमस्कार', 'namaste']], ['W', 900]],
+      s: cat([['Y', 'Hindi'], ['T', ''], ['W', 600]], swipe('namaste', 300), [['T', 'नमस्ते '], ['B', ['नमस्ते', 'नमस्कार', 'namaste']], ['W', 900]],
         swipe('kaise', 340), [['T', 'नमस्ते कैसे '], ['B', ['कैसे', 'कैसी', 'kaise']], ['W', 800]], swipe('ho', 420), [['T', 'नमस्ते कैसे हो '], ['B', ['हो', 'हैं', 'ho']], ['W', 1800]])}
   ];
   var CLIPS = [L('Ahoj, jak se máš?', 'Hi, how are you?'), 'swajp.keyboard@gmail.com', L('Nákup: chleba, mléko, máslo', 'Shopping: bread, milk, butter'), L('Sraz v 18:00 u kina', 'Meet at 6 pm at the cinema')];

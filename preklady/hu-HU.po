@@ -1,0 +1,568 @@
+# Překlad webu Swajp – Magyar.  Translation of the Swajp website – Magyar.
+#
+# msgid = anglický originál (celý odstavec / nadpis / tlačítko), msgstr = překlad.
+# msgid = English original (a whole paragraph / heading / button), msgstr = translation.
+#  • Značky jako <strong>, <em>, <br>, <a href="…">…</a>, <span …> musí v překladu zůstat (text uvnitř se překládá).
+#    Keep HTML tags such as <strong>, <br>, <a href="…">…</a>; translate the text inside them.
+#  • „#, fuzzy“ = nejisté, web to nepoužije (ukáže angličtinu), dokud řádek „#, fuzzy“ nesmažeš.
+#  • Upravovat jde v programu Poedit (zdarma) nebo v textovém editoru. Po nahrání do preklady/ se web sestaví sám.
+msgid ""
+msgstr ""
+"Language: hu-HU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: index
+msgid "Swajp – Anax Keyboard for Android"
+msgstr "Swajp – Anax billentyűzet Androidra"
+
+#: index (atribut / attribute) languages (atribut / attribute) privacy (atribut / attribute) licenses (atribut / attribute)
+msgid ""
+"Swajp – swipe keyboard for Android, no internet access, offline dictation."
+msgstr ""
+"Swajp – húzásos billentyűzet Androidra, internet-hozzáférés nélkül, offline diktálással."
+
+#: index languages privacy licenses
+msgid "Home"
+msgstr "Kezdőlap"
+
+#: index languages privacy licenses
+msgid "Languages"
+msgstr "Nyelvek"
+
+#: index languages privacy licenses
+msgid "Privacy"
+msgstr "Adatvédelem"
+
+#: index languages privacy licenses
+msgid "Licenses"
+msgstr "Licencek"
+
+#: index
+msgid "Swajp – Anax Keyboard"
+msgstr "Swajp – Anax billentyűzet"
+
+#: index
+msgid "A keyboard<br><em>fit for an emperor.</em>"
+msgstr "Billentyűzet,<br><em>amely császárhoz méltó.</em>"
+
+#: index
+msgid "Swift as Anax – the emperor dragonfly.<br>Precise as its hunt."
+msgstr ""
+"Gyors, mint az Anax imperator – a „császár” óriás szitakötő.<br>Pontos, mint a vadászata."
+
+#: index
+msgid ""
+"<strong class=\"story\">Inspired by Swype. Born as Swajp.</strong> An Android keyboard you type on with a glide of your finger. It guesses words from context, learns your style, and all your data stays on your phone."
+msgstr ""
+"<strong class=\"story\">A Swype ihlette. Swajpként született.</strong> Androidos billentyűzet, amelyen az ujjad egyetlen suhintásával írsz. A szavakat a szövegkörnyezetből találja ki, megtanulja a stílusodat, és minden adatod a telefonodon marad."
+
+#: index
+msgid "Coming soon to Google Play"
+msgstr "Hamarosan a Google Playen"
+
+#: index languages
+msgid "Language packs"
+msgstr "Nyelvi csomagok"
+
+#: index
+msgid "Features"
+msgstr "Funkciók"
+
+#: index
+msgid "Swipe typing"
+msgstr "Írás húzással"
+
+#: index
+msgid "Glide over the letters and the word appears."
+msgstr "Suhanj át a betűkön, és megjelenik a szó."
+
+#: index
+msgid "Word prediction"
+msgstr "Szójóslás"
+
+#: index
+msgid "Suggests the next word from what you type."
+msgstr "A következő szót abból javasolja, amit írsz."
+
+#: index
+msgid "Gestures & text editing"
+msgstr "Gesztusok és szövegszerkesztés"
+
+#: index
+msgid "Copy, paste, undo and select with one swipe."
+msgstr "Másolás, beillesztés, visszavonás és kijelölés egyetlen húzással."
+
+#: index
+msgid "Emoji"
+msgstr "Emodzsik"
+
+#: index
+msgid "Type a word and the emoji flies in."
+msgstr "Írj be egy szót, és máris röppen az emodzsi."
+
+#: index
+msgid "Two languages at once, 35 in total."
+msgstr "Egyszerre két nyelv, összesen 35."
+
+#: index
+msgid "Offline dictation"
+msgstr "Offline diktálás"
+
+#: index
+msgid "Speech to text right on your phone."
+msgstr "Beszédből szöveg közvetlenül a telefonodon."
+
+#: index
+msgid "Clipboard history"
+msgstr "Vágólapelőzmények"
+
+#: index
+msgid "Your last 30 copied texts at hand."
+msgstr "Az utolsó 30 másolt szöveged mindig kéznél."
+
+#: index
+msgid "Number pad & calculator"
+msgstr "Számbillentyűzet és számológép"
+
+#: index
+msgid "Big digits, a calculator and a scientific one."
+msgstr "Nagy számjegyek, számológép és tudományos számológép."
+
+#: index
+msgid "Backup"
+msgstr "Biztonsági mentés"
+
+#: index
+msgid "Take your learned words to your new phone."
+msgstr "Vidd át a megtanult szavaidat az új telefonodra."
+
+#: index
+msgid "No internet, no ads, no tracking."
+msgstr "Nincs internet, nincs reklám, nincs követés."
+
+#: index
+msgid "Glide over the keys like a dragonfly."
+msgstr "Suhanj a billentyűk fölött, mint egy szitakötő."
+
+#: index (atribut / attribute)
+msgid "Previous"
+msgstr "Előző"
+
+#: index (atribut / attribute)
+msgid "Next"
+msgstr "Következő"
+
+#: index
+msgid ""
+"No need to tap letter by letter – one stroke across the letters of a word is enough. Swajp recognises the swipe even when it is not perfect, and learns your style so it keeps getting more accurate."
+msgstr ""
+"Nem kell betűnként koppintgatnod – elég egyetlen mozdulattal végighúzni az ujjad a szó betűin. A Swajp akkor is felismeri a húzást, ha nem tökéletes, és megtanulja a stílusodat, így egyre pontosabb lesz."
+
+#: index
+msgid "Predicts your next word like a dragonfly predicts its prey."
+msgstr "Megjósolja a következő szavadat, ahogy a szitakötő a zsákmánya röptét."
+
+#: index
+msgid ""
+"From the words before, it suggests what you are likely to type next, and uses context to tell similar words apart. It learns the words you actually use."
+msgstr ""
+"Az előző szavak alapján felajánlja, mit fogsz valószínűleg írni, és a szövegkörnyezet segítségével a hasonló szavakat is megkülönbözteti. Azokat a szavakat tanulja meg, amelyeket te valóban használsz."
+
+#: index
+msgid "Rules the air. Now rules your text."
+msgstr "A levegő ura. Mostantól a szövegedé is."
+
+#: index
+msgid ""
+"It flies backwards and forwards too – undo and redo, up to 60 steps. Moving the cursor to select or delete text is as precise as landing on a reed. Copy, paste, cut and select all with a swipe from the Swajp key, change case with a single gesture."
+msgstr ""
+"Hátrafelé és előre is tud repülni – visszavonás és újra, akár 60 lépésig. A kurzor mozgatása kijelöléskor és törléskor olyan pontos, mint a leszállás egy nádszálra. Másolás, beillesztés, kivágás és mind kijelölése egy húzással a Swajp billentyűről, a kis- és nagybetűk váltása egyetlen gesztussal."
+
+#: index
+msgid ""
+"All gestures with demos and practice are in the app: Settings → Gestures and guide."
+msgstr ""
+"Az összes gesztust bemutatóval és gyakorlással az alkalmazásban találod: Beállítások → Gesztusok és útmutató."
+
+#: index
+msgid "Catch your emotion mid-air."
+msgstr "Kapd el az érzelmet röptében."
+
+#: index
+msgid ""
+"Swipe or type a word – like “heart”, “beer” or “sad” – and Swajp offers the emoji in the suggestion bar. The :) shortcut works too, or simply pick one from the list."
+msgstr ""
+"Írj be húzással vagy koppintással egy szót – például „szív”, „sör” vagy „szomorú” –, és a Swajp felajánlja az emodzsit a javaslatsávban. A :) rövidítés is működik (J → H húzással), vagy egyszerűen válassz a listából."
+
+#: index
+msgid "Born to rule – in 35 languages."
+msgstr "Uralkodásra született – 35 nyelven."
+
+#: index
+msgid ""
+"Type in two languages without switching – the keyboard knows words from both. 9 languages are built in (English in two variants), 26 more can be downloaded as packs."
+msgstr ""
+"Írj két nyelven váltogatás nélkül – a billentyűzet mindkettő szavait ismeri. 9 nyelv beépített (az angol két változatban), további 26 csomagként tölthető le."
+
+#: index
+msgid ""
+"<span style=\"color:var(--g)\">Green</span> languages are built in, the others can be <a href=\"languages.html\">downloaded as packs</a>."
+msgstr ""
+"A <span style=\"color:var(--g)\">zölddel</span> jelölt nyelvek beépítettek, a többi <a href=\"languages.html\">csomagként tölthető le</a>."
+
+#: index
+msgid "Hears you. Tells no one."
+msgstr "Hall téged. Senkinek sem mondja el."
+
+#: index
+msgid ""
+"Speech is turned into text right on your phone (Parakeet and Omnilingual models), with no internet. If you like, you can use Google recognition instead. Recognised words are checked against the dictionary."
+msgstr ""
+"A beszéd közvetlenül a telefonodon alakul szöveggé (Parakeet és Omnilingual modellek), internet nélkül. Ha szeretnéd, használhatod helyette a Google felismerését is. A felismert szavakat a szótár alapján ellenőrzi."
+
+#: index
+msgid "Remembers your copies. Forgets your secrets."
+msgstr "Megjegyzi, amit másolsz. A titkaidat elfelejti."
+
+#: index
+msgid ""
+"Your last 30 copied texts are always at hand. Passwords, codes and text marked as sensitive are never stored, and the history clears itself after the time you choose."
+msgstr ""
+"Az utolsó 30 másolt szöveged mindig kéznél van. A jelszavakat, kódokat és a bizalmasként jelölt szövegeket soha nem tárolja, az előzmények pedig a választott idő után maguktól törlődnek."
+
+#: index
+msgid "Even sharp minds reach for a calculator."
+msgstr "Az éles elmének is jól jön egy számológép."
+
+#: index
+msgid ""
+"Big digits for quick entry of phone numbers and amounts. A calculator and a scientific calculator right in the keyboard – no switching apps."
+msgstr ""
+"Nagy számjegyek a telefonszámok és összegek gyors beírásához. Számológép és tudományos számológép közvetlenül a billentyűzetben – nem kell alkalmazást váltani."
+
+#: index
+msgid ""
+"A dragonfly can cross the sea. Your learned words and typing style can cross to your new phone."
+msgstr ""
+"A szitakötő a tengert is átrepüli. A megtanult szavaid és az írási stílusod is átrepülhet az új telefonodra."
+
+#: index
+msgid ""
+"Settings, your own words and everything Swajp has learned from your typing go into a single file – load it on your new phone and Swajp types like yours right away. The file stays with you: nothing goes over the internet or to the cloud."
+msgstr ""
+"A beállítások, a saját szavaid és minden, amit a Swajp az írásodból megtanult, egyetlen fájlba kerül – töltsd be az új telefonodon, és a Swajp rögtön úgy ír, mint a régin. A fájl nálad marad: semmi sem megy át az interneten vagy a felhőbe."
+
+#: index
+msgid "You’re the hunter, never the prey."
+msgstr "Te vagy a vadász, sosem a zsákmány."
+
+#: index
+msgid ""
+"<strong class=\"story\">Zero tracking, maximum privacy. </strong>Swajp has no internet permission. Nothing you type or dictate offline can leave your phone. No ads, no analytics. Nothing is learned or stored in password fields."
+msgstr ""
+"<strong class=\"story\">Nulla követés, maximális adatvédelem. </strong>A Swajpnak nincs internetengedélye. Semmi, amit beírsz vagy offline diktálsz, nem hagyhatja el a telefonodat. Nincs reklám, nincs analitika. A jelszómezőkben semmit nem tanul és nem tárol."
+
+#: index
+msgid "Privacy policy →"
+msgstr "Adatvédelmi irányelvek →"
+
+#: index
+msgid ""
+"<span class=\"o1\">They say when a dragonfly lands on you, change is coming into your life.</span>Let this one land on your fingertips."
+msgstr ""
+"<span class=\"o1\">Azt mondják, ha egy szitakötő rád száll, változás érkezik az életedbe.</span>Engedd, hogy ez az ujjaid hegyére szálljon."
+
+#: languages
+msgid "Swajp – language packs"
+msgstr "Swajp – nyelvi csomagok"
+
+#: languages
+msgid ""
+"Languages that are not built into the app can be added as a pack. It is a plain zip with a dictionary – nothing gets installed and the app needs no internet for it."
+msgstr ""
+"Az alkalmazásba be nem épített nyelvek csomagként adhatók hozzá. Ez egy egyszerű, szótárat tartalmazó zip – semmi sem települ, és az alkalmazásnak ehhez sem kell internet."
+
+#: languages
+msgid "How to add a pack"
+msgstr "Csomag hozzáadása"
+
+#: languages
+msgid ""
+"Download the zip of the language you want. It is saved to your Downloads folder."
+msgstr "Töltsd le a kívánt nyelv zip-fájlját. A Letöltések mappába kerül."
+
+#: languages
+msgid "Open <b>Swajp → Settings → Languages → More languages (packs)</b>."
+msgstr ""
+"Nyisd meg: <b>Swajp → Beállítások → Nyelvek → További nyelvek (csomagok)</b>."
+
+#: languages
+msgid ""
+"Tap <b>Import language packs (one or more)</b> and choose the downloaded file."
+msgstr ""
+"Koppints a <b>Nyelvi csomagok importálása (egy vagy több)</b> gombra, és válaszd ki a letöltött fájlt."
+
+#: languages
+msgid "Select the new language as your main or second language."
+msgstr "Válaszd ki az új nyelvet fő vagy második nyelvként."
+
+#: languages
+msgid "Available languages"
+msgstr "Elérhető nyelvek"
+
+#: languages
+msgid "Catalan · 89,809 words"
+msgstr "Katalán · 89 809 szó"
+
+#: languages
+msgid "Danish · 152,106 words"
+msgstr "Dán · 152 106 szó"
+
+#: languages
+msgid "Esperanto · 11,343 words"
+msgstr "Eszperantó · 11 343 szó"
+
+#: languages
+msgid "Estonian · 326,938 words"
+msgstr "Észt · 326 938 szó"
+
+#: languages
+msgid "Basque · 53,700 words"
+msgstr "Baszk · 53 700 szó"
+
+#: languages
+msgid "Finnish · 197,333 words"
+msgstr "Finn · 197 333 szó"
+
+#: languages
+msgid "Galician · 30,624 words"
+msgstr "Galiciai · 30 624 szó"
+
+#: languages
+msgid "Hindi (Latin letters or Devanagari) · 52,622 words"
+msgstr "Hindi (latin betűk vagy dévanágarí) · 52 622 szó"
+
+#: languages
+msgid "Croatian · 191,499 words"
+msgstr "Horvát · 191 499 szó"
+
+#: languages
+msgid "Hungarian · 380,920 words"
+msgstr "Magyar · 380 920 szó"
+
+#: languages
+msgid "Indonesian · 75,492 words"
+msgstr "Indonéz · 75 492 szó"
+
+#: languages
+msgid "Icelandic · 74,391 words"
+msgstr "Izlandi · 74 391 szó"
+
+#: languages
+msgid "Latin · 165,218 words"
+msgstr "Latin · 165 218 szó"
+
+#: languages
+msgid "Lithuanian · 100,175 words"
+msgstr "Litván · 100 175 szó"
+
+#: languages
+msgid "Latvian · 51,479 words"
+msgstr "Lett · 51 479 szó"
+
+#: languages
+msgid "Malay · 49,942 words"
+msgstr "Maláj · 49 942 szó"
+
+#: languages
+msgid "Norwegian · 140,318 words"
+msgstr "Norvég · 140 318 szó"
+
+#: languages
+msgid "Dutch · 140,383 words"
+msgstr "Holland · 140 383 szó"
+
+#: languages
+msgid "Romanian · 119,573 words"
+msgstr "Román · 119 573 szó"
+
+#: languages
+msgid "Slovenian · 182,841 words"
+msgstr "Szlovén · 182 841 szó"
+
+#: languages
+msgid "Albanian · 89,152 words"
+msgstr "Albán · 89 152 szó"
+
+#: languages
+msgid "Serbian · 330,967 words"
+msgstr "Szerb · 330 967 szó"
+
+#: languages
+msgid "Swedish · 153,998 words"
+msgstr "Svéd · 153 998 szó"
+
+#: languages
+msgid "Tagalog · 30,099 words"
+msgstr "Tagalog · 30 099 szó"
+
+#: languages
+msgid "Turkish · 305,078 words"
+msgstr "Török · 305 078 szó"
+
+#: languages
+msgid "Vietnamese · 35,303 words"
+msgstr "Vietnámi · 35 303 szó"
+
+#: languages
+msgid ""
+"Voice input: the Parakeet model supports most European languages, Omnilingual supports every language listed here, including Latin."
+msgstr ""
+"Hangbevitel: a Parakeet modell a legtöbb európai nyelvet támogatja, az Omnilingual az itt felsorolt összes nyelvet, a latint is beleértve."
+
+#: languages privacy licenses
+msgid "Swajp – keyboard for Android"
+msgstr "Swajp – billentyűzet Androidra"
+
+#: privacy
+msgid "Swajp – Privacy Policy"
+msgstr "Swajp – Adatvédelmi irányelvek"
+
+#: privacy
+msgid "Effective 21 November 2026"
+msgstr "Hatályos: 2026. november 21."
+
+#: privacy
+msgid ""
+"Swajp is an Android keyboard designed so that no data leaves your phone."
+msgstr ""
+"A Swajp olyan androidos billentyűzet, amelyről semmilyen adat nem hagyja el a telefonodat."
+
+#: privacy
+msgid "Internet access"
+msgstr "Internet-hozzáférés"
+
+#: privacy
+msgid ""
+"The app does not have the internet permission, so it cannot send anything you type or say. It contains no ads, analytics or trackers."
+msgstr ""
+"Az alkalmazásnak nincs internetengedélye, így semmit nem tud elküldeni abból, amit beírsz vagy mondasz. Nem tartalmaz reklámot, analitikát vagy nyomkövetőt."
+
+#: privacy
+msgid "What is stored and where"
+msgstr "Mit és hol tárol"
+
+#: privacy
+msgid ""
+"<b>Learned words, word pairs and swipe traces</b> are stored only in the app's private storage on your phone to improve suggestions."
+msgstr ""
+"<b>A tanult szavakat, szópárokat és húzásnyomokat</b> csak az alkalmazás privát tárhelyén tárolja a telefonodon, hogy jobbak legyenek a javaslatok."
+
+#: privacy
+msgid ""
+"<b>Clipboard history</b> (if enabled) stays on the phone and is deleted automatically after the chosen time. Text from password fields, text marked sensitive by the system and text that looks like a password or code is never stored."
+msgstr ""
+"A <b>vágólapelőzmények</b> (ha be vannak kapcsolva) a telefonon maradnak, és a választott idő után automatikusan törlődnek. A jelszómezők szövegét, a rendszer által bizalmasként jelölt szöveget és a jelszónak vagy kódnak látszó szöveget soha nem tárolja."
+
+#: privacy
+msgid "<b>Settings</b> stay on the phone."
+msgstr "A <b>beállítások</b> a telefonon maradnak."
+
+#: privacy
+msgid ""
+"Nothing is learned or stored in password fields or in apps that request incognito mode."
+msgstr ""
+"A jelszómezőkben és az inkognitó módot kérő alkalmazásokban semmit nem tanul és nem tárol."
+
+#: privacy
+msgid "Microphone and voice input"
+msgstr "Mikrofon és hangbevitel"
+
+#: privacy
+msgid "The microphone is used only when you start voice input."
+msgstr "A mikrofont csak akkor használja, amikor elindítod a hangbevitelt."
+
+#: privacy
+msgid ""
+"<b>Offline models</b> (Parakeet, Omnilingual) convert speech to text on the phone. Audio is not sent anywhere and is not kept."
+msgstr ""
+"Az <b>offline modellek</b> (Parakeet, Omnilingual) a telefonon alakítják szöveggé a beszédet. A hangfelvétel nem kerül el sehová, és nem marad meg."
+
+#: privacy
+msgid ""
+"<b>Google recognition</b> (if you choose it) uses the Android system speech recognition service; Google processes the audio under its own policy: <a href=\"https://policies.google.com/privacy\">policies.google.com/privacy</a>. Swajp itself sends nothing."
+msgstr ""
+"A <b>Google-felismerés</b> (ha ezt választod) az Android rendszer beszédfelismerő szolgáltatását használja; a hangot a Google a saját irányelvei szerint dolgozza fel: <a href=\"https://policies.google.com/privacy\">policies.google.com/privacy</a>. Maga a Swajp semmit nem küld."
+
+#: privacy
+msgid ""
+"You download voice models yourself in your browser; the app does not need the internet for that."
+msgstr ""
+"A hangmodelleket te magad töltöd le a böngészőben; az alkalmazásnak ehhez nincs szüksége internetre."
+
+#: privacy
+msgid "Export and import"
+msgstr "Exportálás és importálás"
+
+#: privacy
+msgid ""
+"A backup is created only on your request, into a file you choose. It is never sent automatically."
+msgstr ""
+"Biztonsági mentés csak a kérésedre készül, egy általad választott fájlba. Soha nem kerül automatikusan elküldésre."
+
+#: privacy
+msgid "Sharing"
+msgstr "Megosztás"
+
+#: privacy
+msgid "Swajp does not sell, share or transfer any data to third parties."
+msgstr ""
+"A Swajp semmilyen adatot nem ad el, nem oszt meg és nem ad át harmadik félnek."
+
+#: privacy
+msgid "Deleting data"
+msgstr "Adatok törlése"
+
+#: privacy
+msgid ""
+"Delete learned data in settings (Learning → “Smazat vše naučené”) or uninstall the app to remove everything."
+msgstr ""
+"A tanult adatokat a beállításokban törölheted (Szavak és tanulás → „Minden tanult adat törlése”), vagy az alkalmazás eltávolításával mindent törölhetsz."
+
+#: privacy
+msgid "Children"
+msgstr "Gyermekek"
+
+#: privacy
+msgid "The app collects no personal data, including from children."
+msgstr "Az alkalmazás semmilyen személyes adatot nem gyűjt, gyermekektől sem."
+
+#: privacy
+msgid "Changes and contact"
+msgstr "Változások és kapcsolat"
+
+#: privacy
+msgid ""
+"Changes will be published on this page. Questions: <a href=\"mailto:swajp.keyboard@gmail.com\">swajp.keyboard@gmail.com</a>"
+msgstr ""
+"A változásokat ezen az oldalon tesszük közzé. Kérdések: <a href=\"mailto:swajp.keyboard@gmail.com\">swajp.keyboard@gmail.com</a>"
+
+#: privacy
+msgid "Developer: Aleš Brunner, Czech Republic"
+msgstr "Fejlesztő: Aleš Brunner, Csehország"
+
+#: licenses
+msgid "Swajp – licenses and credits"
+msgstr "Swajp – licencek és köszönetnyilvánítás"
+
+#: licenses
+msgid "Licenses and credits"
+msgstr "Licencek és köszönetnyilvánítás"
+
+#: licenses
+msgid "Swajp uses the following data and libraries. Thanks to their authors."
+msgstr ""
+"A Swajp a következő adatokat és könyvtárakat használja. Köszönet a szerzőiknek."
+

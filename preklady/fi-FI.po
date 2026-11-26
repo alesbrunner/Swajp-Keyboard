@@ -1,0 +1,565 @@
+# Překlad webu Swajp – Suomi.  Translation of the Swajp website – Suomi.
+#
+# msgid = anglický originál (celý odstavec / nadpis / tlačítko), msgstr = překlad.
+# msgid = English original (a whole paragraph / heading / button), msgstr = translation.
+#  • Značky jako <strong>, <em>, <br>, <a href="…">…</a>, <span …> musí v překladu zůstat (text uvnitř se překládá).
+#    Keep HTML tags such as <strong>, <br>, <a href="…">…</a>; translate the text inside them.
+#  • „#, fuzzy“ = nejisté, web to nepoužije (ukáže angličtinu), dokud řádek „#, fuzzy“ nesmažeš.
+#  • Upravovat jde v programu Poedit (zdarma) nebo v textovém editoru. Po nahrání do preklady/ se web sestaví sám.
+msgid ""
+msgstr ""
+"Language: fi-FI\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: index
+msgid "Swajp – Anax Keyboard for Android"
+msgstr "Swajp – Anax-näppäimistö Androidille"
+
+#: index (atribut / attribute) languages (atribut / attribute) privacy (atribut / attribute) licenses (atribut / attribute)
+msgid ""
+"Swajp – swipe keyboard for Android, no internet access, offline dictation."
+msgstr ""
+"Swajp – pyyhkäisynäppäimistö Androidille, ilman internetyhteyttä, offline-sanelu."
+
+#: index languages privacy licenses
+msgid "Home"
+msgstr "Etusivu"
+
+#: index languages privacy licenses
+msgid "Languages"
+msgstr "Kielet"
+
+#: index languages privacy licenses
+msgid "Privacy"
+msgstr "Yksityisyys"
+
+#: index languages privacy licenses
+msgid "Licenses"
+msgstr "Lisenssit"
+
+#: index
+msgid "Swajp – Anax Keyboard"
+msgstr "Swajp – Anax-näppäimistö"
+
+#: index
+msgid "A keyboard<br><em>fit for an emperor.</em>"
+msgstr "Näppäimistö<br><em>keisarin arvoinen.</em>"
+
+#: index
+msgid "Swift as Anax – the emperor dragonfly.<br>Precise as its hunt."
+msgstr "Nopea kuin Anax – keisarikorento.<br>Tarkka kuin sen saalistus."
+
+#: index
+msgid ""
+"<strong class=\"story\">Inspired by Swype. Born as Swajp.</strong> An Android keyboard you type on with a glide of your finger. It guesses words from context, learns your style, and all your data stays on your phone."
+msgstr ""
+"<strong class=\"story\">Swypen innoittama. Syntynyt Swajpina.</strong> Android-näppäimistö, jolla kirjoitat sormen liu’utuksella. Se arvaa sanat asiayhteydestä, oppii tyylisi, ja kaikki tietosi pysyvät puhelimessasi."
+
+#: index
+msgid "Coming soon to Google Play"
+msgstr "Tulossa pian Google Playhin"
+
+#: index languages
+msgid "Language packs"
+msgstr "Kielipaketit"
+
+#: index
+msgid "Features"
+msgstr "Ominaisuudet"
+
+#: index
+msgid "Swipe typing"
+msgstr "Pyyhkäisykirjoitus"
+
+#: index
+msgid "Glide over the letters and the word appears."
+msgstr "Liu’u kirjainten yli, ja sana ilmestyy."
+
+#: index
+msgid "Word prediction"
+msgstr "Sanaennustus"
+
+#: index
+msgid "Suggests the next word from what you type."
+msgstr "Ehdottaa seuraavaa sanaa kirjoittamasi perusteella."
+
+#: index
+msgid "Gestures & text editing"
+msgstr "Eleet ja tekstin muokkaus"
+
+#: index
+msgid "Copy, paste, undo and select with one swipe."
+msgstr "Kopioi, liitä, kumoa ja valitse yhdellä pyyhkäisyllä."
+
+#: index
+msgid "Emoji"
+msgstr "Emojit"
+
+#: index
+msgid "Type a word and the emoji flies in."
+msgstr "Kirjoita sana, ja emoji lentää paikalle."
+
+#: index
+msgid "Two languages at once, 35 in total."
+msgstr "Kaksi kieltä yhtä aikaa, yhteensä 35."
+
+#: index
+msgid "Offline dictation"
+msgstr "Offline-sanelu"
+
+#: index
+msgid "Speech to text right on your phone."
+msgstr "Puhe tekstiksi suoraan puhelimessasi."
+
+#: index
+msgid "Clipboard history"
+msgstr "Leikepöydän historia"
+
+#: index
+msgid "Your last 30 copied texts at hand."
+msgstr "Viimeiset 30 kopioitua tekstiä käden ulottuvilla."
+
+#: index
+msgid "Number pad & calculator"
+msgstr "Numeronäppäimistö ja laskin"
+
+#: index
+msgid "Big digits, a calculator and a scientific one."
+msgstr "Isot numerot, laskin ja tieteellinen laskin."
+
+#: index
+msgid "Backup"
+msgstr "Varmuuskopio"
+
+#: index
+msgid "Take your learned words to your new phone."
+msgstr "Vie opitut sanasi uuteen puhelimeesi."
+
+#: index
+msgid "No internet, no ads, no tracking."
+msgstr "Ei internetiä, ei mainoksia, ei seurantaa."
+
+#: index
+msgid "Glide over the keys like a dragonfly."
+msgstr "Liu’u näppäinten yli kuin sudenkorento."
+
+#: index (atribut / attribute)
+msgid "Previous"
+msgstr "Edellinen"
+
+#: index (atribut / attribute)
+msgid "Next"
+msgstr "Seuraava"
+
+#: index
+msgid ""
+"No need to tap letter by letter – one stroke across the letters of a word is enough. Swajp recognises the swipe even when it is not perfect, and learns your style so it keeps getting more accurate."
+msgstr ""
+"Kirjaimia ei tarvitse napauttaa yksi kerrallaan – yksi veto sanan kirjainten yli riittää. Swajp tunnistaa pyyhkäisyn, vaikka se ei olisi täydellinen, ja oppii tyylisi, joten se tarkentuu koko ajan."
+
+#: index
+msgid "Predicts your next word like a dragonfly predicts its prey."
+msgstr "Ennakoi seuraavan sanasi kuin sudenkorento saaliinsa lennon."
+
+#: index
+msgid ""
+"From the words before, it suggests what you are likely to type next, and uses context to tell similar words apart. It learns the words you actually use."
+msgstr ""
+"Edellisten sanojen perusteella se ehdottaa, mitä todennäköisesti kirjoitat seuraavaksi, ja erottaa asiayhteyden avulla samankaltaiset sanat toisistaan. Se oppii sanat, joita oikeasti käytät."
+
+#: index
+msgid "Rules the air. Now rules your text."
+msgstr "Hallitsee ilmaa. Nyt myös tekstiäsi."
+
+#: index
+msgid ""
+"It flies backwards and forwards too – undo and redo, up to 60 steps. Moving the cursor to select or delete text is as precise as landing on a reed. Copy, paste, cut and select all with a swipe from the Swajp key, change case with a single gesture."
+msgstr ""
+"Se lentää myös taakse- ja eteenpäin – kumoa ja toista, jopa 60 vaihetta. Kohdistimen siirto tekstiä valittaessa tai poistettaessa on tarkkaa kuin laskeutuminen kaislanvarrelle. Kopioi, liitä, leikkaa ja valitse kaikki pyyhkäisyllä Swajp-näppäimestä, vaihda kirjainkoko yhdellä eleellä."
+
+#: index
+msgid ""
+"All gestures with demos and practice are in the app: Settings → Gestures and guide."
+msgstr ""
+"Kaikki eleet esittelyineen ja harjoituksineen löydät sovelluksesta: Asetukset → Eleet ja opas."
+
+#: index
+msgid "Catch your emotion mid-air."
+msgstr "Nappaa tunne lennosta."
+
+#: index
+msgid ""
+"Swipe or type a word – like “heart”, “beer” or “sad” – and Swajp offers the emoji in the suggestion bar. The :) shortcut works too, or simply pick one from the list."
+msgstr ""
+"Pyyhkäise tai kirjoita sana – esimerkiksi ”sydän”, ”olut” tai ”surullinen” – ja Swajp tarjoaa emojin ehdotuspalkissa. Myös lyhenne :) toimii, tai valitse emoji luettelosta."
+
+#: index
+msgid "Born to rule – in 35 languages."
+msgstr "Syntynyt hallitsemaan – 35 kielellä."
+
+#: index
+msgid ""
+"Type in two languages without switching – the keyboard knows words from both. 9 languages are built in (English in two variants), 26 more can be downloaded as packs."
+msgstr ""
+"Kirjoita kahdella kielellä ilman vaihtamista – näppäimistö tuntee molempien sanat. 9 kieltä on valmiina sovelluksessa (englanti kahtena muunnelmana), 26 muuta voi ladata paketteina."
+
+#: index
+msgid ""
+"<span style=\"color:var(--g)\">Green</span> languages are built in, the others can be <a href=\"languages.html\">downloaded as packs</a>."
+msgstr ""
+"<span style=\"color:var(--g)\">Vihreällä</span> merkityt kielet ovat sovelluksessa valmiina, muut voi <a href=\"languages.html\">ladata paketteina</a>."
+
+#: index
+msgid "Hears you. Tells no one."
+msgstr "Kuulee sinut. Ei kerro kenellekään."
+
+#: index
+msgid ""
+"Speech is turned into text right on your phone (Parakeet and Omnilingual models), with no internet. If you like, you can use Google recognition instead. Recognised words are checked against the dictionary."
+msgstr ""
+"Puhe muunnetaan tekstiksi suoraan puhelimessasi (Parakeet- ja Omnilingual-mallit) ilman internetiä. Halutessasi voit käyttää sen sijaan Googlen tunnistusta. Tunnistetut sanat tarkistetaan sanakirjaa vasten."
+
+#: index
+msgid "Remembers your copies. Forgets your secrets."
+msgstr "Muistaa kopiosi. Unohtaa salaisuutesi."
+
+#: index
+msgid ""
+"Your last 30 copied texts are always at hand. Passwords, codes and text marked as sensitive are never stored, and the history clears itself after the time you choose."
+msgstr ""
+"Viimeiset 30 kopioimaasi tekstiä ovat aina käden ulottuvilla. Salasanoja, koodeja ja arkaluonteisiksi merkittyjä tekstejä ei koskaan tallenneta, ja historia tyhjenee itsestään valitsemasi ajan kuluttua."
+
+#: index
+msgid "Even sharp minds reach for a calculator."
+msgstr "Terävätkin päät tarttuvat laskimeen."
+
+#: index
+msgid ""
+"Big digits for quick entry of phone numbers and amounts. A calculator and a scientific calculator right in the keyboard – no switching apps."
+msgstr ""
+"Isot numerot puhelinnumeroiden ja summien nopeaan syöttämiseen. Laskin ja tieteellinen laskin suoraan näppäimistössä – ei sovelluksen vaihtamista."
+
+#: index
+msgid ""
+"A dragonfly can cross the sea. Your learned words and typing style can cross to your new phone."
+msgstr ""
+"Sudenkorento voi lentää meren yli. Opitut sanasi ja kirjoitustyylisi voivat lentää uuteen puhelimeesi."
+
+#: index
+msgid ""
+"Settings, your own words and everything Swajp has learned from your typing go into a single file – load it on your new phone and Swajp types like yours right away. The file stays with you: nothing goes over the internet or to the cloud."
+msgstr ""
+"Asetukset, omat sanasi ja kaikki, mitä Swajp on oppinut kirjoituksestasi, tallentuvat yhteen tiedostoon – lataa se uudessa puhelimessa, niin Swajp kirjoittaa heti kuin omasi. Tiedosto pysyy sinulla: mitään ei siirry internetin kautta eikä pilveen."
+
+#: index
+msgid "You’re the hunter, never the prey."
+msgstr "Sinä olet metsästäjä, et koskaan saalis."
+
+#: index
+msgid ""
+"<strong class=\"story\">Zero tracking, maximum privacy. </strong>Swajp has no internet permission. Nothing you type or dictate offline can leave your phone. No ads, no analytics. Nothing is learned or stored in password fields."
+msgstr ""
+"<strong class=\"story\">Ei seurantaa, täysi yksityisyys. </strong>Swajpilla ei ole internet-käyttöoikeutta. Mikään, mitä kirjoitat tai sanelet offline-tilassa, ei voi poistua puhelimestasi. Ei mainoksia, ei analytiikkaa. Salasanakentissä ei opita eikä tallenneta mitään."
+
+#: index
+msgid "Privacy policy →"
+msgstr "Tietosuojakäytäntö →"
+
+#: index
+msgid ""
+"<span class=\"o1\">They say when a dragonfly lands on you, change is coming into your life.</span>Let this one land on your fingertips."
+msgstr ""
+"<span class=\"o1\">Sanotaan, että kun sudenkorento laskeutuu päällesi, elämääsi on tulossa muutos.</span>Anna tämän laskeutua sormenpäillesi."
+
+#: languages
+msgid "Swajp – language packs"
+msgstr "Swajp – kielipaketit"
+
+#: languages
+msgid ""
+"Languages that are not built into the app can be added as a pack. It is a plain zip with a dictionary – nothing gets installed and the app needs no internet for it."
+msgstr ""
+"Kielet, jotka eivät ole valmiina sovelluksessa, voi lisätä pakettina. Se on tavallinen zip-tiedosto, jossa on sanakirja – mitään ei asenneta, eikä sovellus tarvitse siihen internetiä."
+
+#: languages
+msgid "How to add a pack"
+msgstr "Näin lisäät paketin"
+
+#: languages
+msgid ""
+"Download the zip of the language you want. It is saved to your Downloads folder."
+msgstr "Lataa haluamasi kielen zip. Se tallentuu Lataukset-kansioon."
+
+#: languages
+msgid "Open <b>Swajp → Settings → Languages → More languages (packs)</b>."
+msgstr "Avaa <b>Swajp → Asetukset → Kielet → Lisää kieliä (paketit)</b>."
+
+#: languages
+msgid ""
+"Tap <b>Import language packs (one or more)</b> and choose the downloaded file."
+msgstr ""
+"Napauta <b>Tuo kielipaketteja (yksi tai useampi)</b> ja valitse ladattu tiedosto."
+
+#: languages
+msgid "Select the new language as your main or second language."
+msgstr "Valitse uusi kieli pää- tai toiseksi kieleksi."
+
+#: languages
+msgid "Available languages"
+msgstr "Saatavilla olevat kielet"
+
+#: languages
+msgid "Catalan · 89,809 words"
+msgstr "Katalaani · 89 809 sanaa"
+
+#: languages
+msgid "Danish · 152,106 words"
+msgstr "Tanska · 152 106 sanaa"
+
+#: languages
+msgid "Esperanto · 11,343 words"
+msgstr "Esperanto · 11 343 sanaa"
+
+#: languages
+msgid "Estonian · 326,938 words"
+msgstr "Viro · 326 938 sanaa"
+
+#: languages
+msgid "Basque · 53,700 words"
+msgstr "Baski · 53 700 sanaa"
+
+#: languages
+msgid "Finnish · 197,333 words"
+msgstr "Suomi · 197 333 sanaa"
+
+#: languages
+msgid "Galician · 30,624 words"
+msgstr "Galicia · 30 624 sanaa"
+
+#: languages
+msgid "Hindi (Latin letters or Devanagari) · 52,622 words"
+msgstr "Hindi (latinalaiset kirjaimet tai devanagari) · 52 622 sanaa"
+
+#: languages
+msgid "Croatian · 191,499 words"
+msgstr "Kroatia · 191 499 sanaa"
+
+#: languages
+msgid "Hungarian · 380,920 words"
+msgstr "Unkari · 380 920 sanaa"
+
+#: languages
+msgid "Indonesian · 75,492 words"
+msgstr "Indonesia · 75 492 sanaa"
+
+#: languages
+msgid "Icelandic · 74,391 words"
+msgstr "Islanti · 74 391 sanaa"
+
+#: languages
+msgid "Latin · 165,218 words"
+msgstr "Latina · 165 218 sanaa"
+
+#: languages
+msgid "Lithuanian · 100,175 words"
+msgstr "Liettua · 100 175 sanaa"
+
+#: languages
+msgid "Latvian · 51,479 words"
+msgstr "Latvia · 51 479 sanaa"
+
+#: languages
+msgid "Malay · 49,942 words"
+msgstr "Malaiji · 49 942 sanaa"
+
+#: languages
+msgid "Norwegian · 140,318 words"
+msgstr "Norja · 140 318 sanaa"
+
+#: languages
+msgid "Dutch · 140,383 words"
+msgstr "Hollanti · 140 383 sanaa"
+
+#: languages
+msgid "Romanian · 119,573 words"
+msgstr "Romania · 119 573 sanaa"
+
+#: languages
+msgid "Slovenian · 182,841 words"
+msgstr "Sloveeni · 182 841 sanaa"
+
+#: languages
+msgid "Albanian · 89,152 words"
+msgstr "Albania · 89 152 sanaa"
+
+#: languages
+msgid "Serbian · 330,967 words"
+msgstr "Serbia · 330 967 sanaa"
+
+#: languages
+msgid "Swedish · 153,998 words"
+msgstr "Ruotsi · 153 998 sanaa"
+
+#: languages
+msgid "Tagalog · 30,099 words"
+msgstr "Tagalog · 30 099 sanaa"
+
+#: languages
+msgid "Turkish · 305,078 words"
+msgstr "Turkki · 305 078 sanaa"
+
+#: languages
+msgid "Vietnamese · 35,303 words"
+msgstr "Vietnam · 35 303 sanaa"
+
+#: languages
+msgid ""
+"Voice input: the Parakeet model supports most European languages, Omnilingual supports every language listed here, including Latin."
+msgstr ""
+"Puhesyöte: Parakeet-malli tukee useimpia eurooppalaisia kieliä, Omnilingual kaikkia tässä lueteltuja kieliä, myös latinaa."
+
+#: languages privacy licenses
+msgid "Swajp – keyboard for Android"
+msgstr "Swajp – näppäimistö Androidille"
+
+#: privacy
+msgid "Swajp – Privacy Policy"
+msgstr "Swajp – Tietosuojakäytäntö"
+
+#: privacy
+msgid "Effective 21 November 2026"
+msgstr "Voimassa 21.11.2026 alkaen"
+
+#: privacy
+msgid ""
+"Swajp is an Android keyboard designed so that no data leaves your phone."
+msgstr ""
+"Swajp on Android-näppäimistö, joka on suunniteltu niin, ettei mitään tietoja poistu puhelimestasi."
+
+#: privacy
+msgid "Internet access"
+msgstr "Internetyhteys"
+
+#: privacy
+msgid ""
+"The app does not have the internet permission, so it cannot send anything you type or say. It contains no ads, analytics or trackers."
+msgstr ""
+"Sovelluksella ei ole internet-käyttöoikeutta, joten se ei voi lähettää mitään, mitä kirjoitat tai sanot. Siinä ei ole mainoksia, analytiikkaa eikä seurantatyökaluja."
+
+#: privacy
+msgid "What is stored and where"
+msgstr "Mitä tallennetaan ja minne"
+
+#: privacy
+msgid ""
+"<b>Learned words, word pairs and swipe traces</b> are stored only in the app's private storage on your phone to improve suggestions."
+msgstr ""
+"<b>Opitut sanat, sanaparit ja pyyhkäisyjäljet</b> tallennetaan vain sovelluksen yksityiseen tallennustilaan puhelimessasi ehdotusten parantamiseksi."
+
+#: privacy
+msgid ""
+"<b>Clipboard history</b> (if enabled) stays on the phone and is deleted automatically after the chosen time. Text from password fields, text marked sensitive by the system and text that looks like a password or code is never stored."
+msgstr ""
+"<b>Leikepöydän historia</b> (jos käytössä) pysyy puhelimessa ja poistuu automaattisesti valitun ajan kuluttua. Salasanakenttien tekstiä, järjestelmän arkaluonteiseksi merkitsemää tekstiä ja salasanalta tai koodilta näyttävää tekstiä ei koskaan tallenneta."
+
+#: privacy
+msgid "<b>Settings</b> stay on the phone."
+msgstr "<b>Asetukset</b> pysyvät puhelimessa."
+
+#: privacy
+msgid ""
+"Nothing is learned or stored in password fields or in apps that request incognito mode."
+msgstr ""
+"Salasanakentissä ja sovelluksissa, jotka pyytävät incognito-tilaa, ei opita eikä tallenneta mitään."
+
+#: privacy
+msgid "Microphone and voice input"
+msgstr "Mikrofoni ja puhesyöte"
+
+#: privacy
+msgid "The microphone is used only when you start voice input."
+msgstr "Mikrofonia käytetään vain, kun itse käynnistät puhesyötteen."
+
+#: privacy
+msgid ""
+"<b>Offline models</b> (Parakeet, Omnilingual) convert speech to text on the phone. Audio is not sent anywhere and is not kept."
+msgstr ""
+"<b>Offline-mallit</b> (Parakeet, Omnilingual) muuntavat puheen tekstiksi puhelimessa. Ääntä ei lähetetä minnekään eikä säilytetä."
+
+#: privacy
+msgid ""
+"<b>Google recognition</b> (if you choose it) uses the Android system speech recognition service; Google processes the audio under its own policy: <a href=\"https://policies.google.com/privacy\">policies.google.com/privacy</a>. Swajp itself sends nothing."
+msgstr ""
+"<b>Googlen puheentunnistus</b> (jos valitset sen) käyttää Android-järjestelmän puheentunnistuspalvelua; Google käsittelee äänen omien käytäntöjensä mukaisesti: <a href=\"https://policies.google.com/privacy\">policies.google.com/privacy</a>. Swajp itse ei lähetä mitään."
+
+#: privacy
+msgid ""
+"You download voice models yourself in your browser; the app does not need the internet for that."
+msgstr ""
+"Puhemallit lataat itse selaimella; sovellus ei tarvitse siihen internetiä."
+
+#: privacy
+msgid "Export and import"
+msgstr "Vienti ja tuonti"
+
+#: privacy
+msgid ""
+"A backup is created only on your request, into a file you choose. It is never sent automatically."
+msgstr ""
+"Varmuuskopio luodaan vain pyynnöstäsi valitsemaasi tiedostoon. Sitä ei koskaan lähetetä automaattisesti."
+
+#: privacy
+msgid "Sharing"
+msgstr "Tietojen jakaminen"
+
+#: privacy
+msgid "Swajp does not sell, share or transfer any data to third parties."
+msgstr "Swajp ei myy, jaa eikä luovuta mitään tietoja kolmansille osapuolille."
+
+#: privacy
+msgid "Deleting data"
+msgstr "Tietojen poistaminen"
+
+#: privacy
+msgid ""
+"Delete learned data in settings (Learning → “Smazat vše naučené”) or uninstall the app to remove everything."
+msgstr ""
+"Poista opitut tiedot asetuksista (Sanat ja oppiminen → ”Poista kaikki opittu”) tai poista sovelluksen asennus, jolloin kaikki poistuu."
+
+#: privacy
+msgid "Children"
+msgstr "Lapset"
+
+#: privacy
+msgid "The app collects no personal data, including from children."
+msgstr "Sovellus ei kerää henkilötietoja keneltäkään, ei myöskään lapsilta."
+
+#: privacy
+msgid "Changes and contact"
+msgstr "Muutokset ja yhteystiedot"
+
+#: privacy
+msgid ""
+"Changes will be published on this page. Questions: <a href=\"mailto:swajp.keyboard@gmail.com\">swajp.keyboard@gmail.com</a>"
+msgstr ""
+"Muutokset julkaistaan tällä sivulla. Kysymykset: <a href=\"mailto:swajp.keyboard@gmail.com\">swajp.keyboard@gmail.com</a>"
+
+#: privacy
+msgid "Developer: Aleš Brunner, Czech Republic"
+msgstr "Kehittäjä: Aleš Brunner, Tšekki"
+
+#: licenses
+msgid "Swajp – licenses and credits"
+msgstr "Swajp – lisenssit ja tekijät"
+
+#: licenses
+msgid "Licenses and credits"
+msgstr "Lisenssit ja tekijät"
+
+#: licenses
+msgid "Swajp uses the following data and libraries. Thanks to their authors."
+msgstr ""
+"Swajp käyttää seuraavia tietoja ja kirjastoja. Kiitos niiden tekijöille."
+

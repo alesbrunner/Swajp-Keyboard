@@ -1,0 +1,567 @@
+# Překlad webu Swajp – Tiếng Việt.  Translation of the Swajp website – Tiếng Việt.
+#
+# msgid = anglický originál (celý odstavec / nadpis / tlačítko), msgstr = překlad.
+# msgid = English original (a whole paragraph / heading / button), msgstr = translation.
+#  • Značky jako <strong>, <em>, <br>, <a href="…">…</a>, <span …> musí v překladu zůstat (text uvnitř se překládá).
+#    Keep HTML tags such as <strong>, <br>, <a href="…">…</a>; translate the text inside them.
+#  • „#, fuzzy“ = nejisté, web to nepoužije (ukáže angličtinu), dokud řádek „#, fuzzy“ nesmažeš.
+#  • Upravovat jde v programu Poedit (zdarma) nebo v textovém editoru. Po nahrání do preklady/ se web sestaví sám.
+msgid ""
+msgstr ""
+"Language: vi-VN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: index
+msgid "Swajp – Anax Keyboard for Android"
+msgstr "Swajp – Bàn phím Anax cho Android"
+
+#: index (atribut / attribute) languages (atribut / attribute) privacy (atribut / attribute) licenses (atribut / attribute)
+msgid ""
+"Swajp – swipe keyboard for Android, no internet access, offline dictation."
+msgstr ""
+"Swajp – bàn phím gõ bằng cách vuốt cho Android, không truy cập Internet, đọc chính tả ngoại tuyến."
+
+#: index languages privacy licenses
+msgid "Home"
+msgstr "Trang chủ"
+
+#: index languages privacy licenses
+msgid "Languages"
+msgstr "Ngôn ngữ"
+
+#: index languages privacy licenses
+msgid "Privacy"
+msgstr "Quyền riêng tư"
+
+#: index languages privacy licenses
+msgid "Licenses"
+msgstr "Giấy phép"
+
+#: index
+msgid "Swajp – Anax Keyboard"
+msgstr "Swajp – Bàn phím Anax"
+
+#: index
+msgid "A keyboard<br><em>fit for an emperor.</em>"
+msgstr "Bàn phím<br><em>xứng tầm đế vương.</em>"
+
+#: index
+msgid "Swift as Anax – the emperor dragonfly.<br>Precise as its hunt."
+msgstr ""
+"Nhanh như Anax – chuồn chuồn ngô hoàng đế.<br>Chuẩn xác như cú săn mồi của nó."
+
+#: index
+msgid ""
+"<strong class=\"story\">Inspired by Swype. Born as Swajp.</strong> An Android keyboard you type on with a glide of your finger. It guesses words from context, learns your style, and all your data stays on your phone."
+msgstr ""
+"<strong class=\"story\">Cảm hứng từ Swype. Ra đời với tên Swajp.</strong> Bàn phím Android cho phép bạn gõ chỉ bằng một nét lướt ngón tay. Swajp đoán từ theo ngữ cảnh, học phong cách của bạn, và mọi dữ liệu của bạn đều nằm trong điện thoại."
+
+#: index
+msgid "Coming soon to Google Play"
+msgstr "Sắp có trên Google Play"
+
+#: index languages
+msgid "Language packs"
+msgstr "Gói ngôn ngữ"
+
+#: index
+msgid "Features"
+msgstr "Tính năng"
+
+#: index
+msgid "Swipe typing"
+msgstr "Gõ bằng cách vuốt"
+
+#: index
+msgid "Glide over the letters and the word appears."
+msgstr "Lướt ngón tay qua các chữ cái, từ sẽ tự hiện ra."
+
+#: index
+msgid "Word prediction"
+msgstr "Dự đoán từ"
+
+#: index
+msgid "Suggests the next word from what you type."
+msgstr "Gợi ý từ tiếp theo dựa trên những gì bạn gõ."
+
+#: index
+msgid "Gestures & text editing"
+msgstr "Cử chỉ và chỉnh sửa văn bản"
+
+#: index
+msgid "Copy, paste, undo and select with one swipe."
+msgstr "Sao chép, dán, hoàn tác và chọn chỉ với một nét vuốt."
+
+#: index
+msgid "Emoji"
+msgstr "Emoji"
+
+#: index
+msgid "Type a word and the emoji flies in."
+msgstr "Gõ một từ và emoji sẽ bay tới."
+
+#: index
+msgid "Two languages at once, 35 in total."
+msgstr "Hai ngôn ngữ cùng lúc, tổng cộng 35 ngôn ngữ."
+
+#: index
+msgid "Offline dictation"
+msgstr "Đọc chính tả ngoại tuyến"
+
+#: index
+msgid "Speech to text right on your phone."
+msgstr "Chuyển giọng nói thành văn bản ngay trên điện thoại."
+
+#: index
+msgid "Clipboard history"
+msgstr "Lịch sử bảng nhớ tạm"
+
+#: index
+msgid "Your last 30 copied texts at hand."
+msgstr "30 văn bản sao chép gần nhất luôn trong tầm tay."
+
+#: index
+msgid "Number pad & calculator"
+msgstr "Bàn phím số và máy tính"
+
+#: index
+msgid "Big digits, a calculator and a scientific one."
+msgstr "Chữ số lớn, máy tính thường và máy tính khoa học."
+
+#: index
+msgid "Backup"
+msgstr "Sao lưu"
+
+#: index
+msgid "Take your learned words to your new phone."
+msgstr "Mang các từ đã học sang điện thoại mới."
+
+#: index
+msgid "No internet, no ads, no tracking."
+msgstr "Không Internet, không quảng cáo, không theo dõi."
+
+#: index
+msgid "Glide over the keys like a dragonfly."
+msgstr "Lướt trên phím nhẹ như cánh chuồn chuồn."
+
+#: index (atribut / attribute)
+msgid "Previous"
+msgstr "Trước"
+
+#: index (atribut / attribute)
+msgid "Next"
+msgstr "Tiếp"
+
+#: index
+msgid ""
+"No need to tap letter by letter – one stroke across the letters of a word is enough. Swajp recognises the swipe even when it is not perfect, and learns your style so it keeps getting more accurate."
+msgstr ""
+"Không cần chạm từng chữ một – chỉ cần một nét vuốt qua các chữ cái của từ. Swajp nhận ra nét vuốt ngay cả khi chưa thật chính xác, và dần học phong cách của bạn nên ngày càng chính xác hơn."
+
+#: index
+msgid "Predicts your next word like a dragonfly predicts its prey."
+msgstr ""
+"Đoán trước từ tiếp theo của bạn, như chuồn chuồn đoán trước đường bay của con mồi."
+
+#: index
+msgid ""
+"From the words before, it suggests what you are likely to type next, and uses context to tell similar words apart. It learns the words you actually use."
+msgstr ""
+"Dựa vào các từ phía trước, Swajp gợi ý từ bạn nhiều khả năng sẽ gõ tiếp, và dùng ngữ cảnh để phân biệt những từ giống nhau. Swajp học chính những từ bạn thường dùng."
+
+#: index
+msgid "Rules the air. Now rules your text."
+msgstr "Làm chủ bầu trời. Giờ làm chủ cả văn bản của bạn."
+
+#: index
+msgid ""
+"It flies backwards and forwards too – undo and redo, up to 60 steps. Moving the cursor to select or delete text is as precise as landing on a reed. Copy, paste, cut and select all with a swipe from the Swajp key, change case with a single gesture."
+msgstr ""
+"Nó còn bay được cả lùi lẫn tiến – hoàn tác và làm lại, tối đa 60 bước. Di chuyển con trỏ để chọn hay xóa văn bản chính xác như khi đậu xuống một cọng cỏ. Sao chép, dán, cắt và chọn tất cả chỉ bằng một nét vuốt từ phím Swajp, đổi chữ hoa/thường chỉ bằng một cử chỉ."
+
+#: index
+msgid ""
+"All gestures with demos and practice are in the app: Settings → Gestures and guide."
+msgstr ""
+"Tất cả cử chỉ kèm minh họa và phần thực hành đều có trong ứng dụng: Cài đặt → Cử chỉ và hướng dẫn."
+
+#: index
+msgid "Catch your emotion mid-air."
+msgstr "Bắt lấy cảm xúc ngay giữa không trung."
+
+#: index
+msgid ""
+"Swipe or type a word – like “heart”, “beer” or “sad” – and Swajp offers the emoji in the suggestion bar. The :) shortcut works too, or simply pick one from the list."
+msgstr ""
+"Vuốt hoặc gõ một từ – như “heart”, “beer” hay “sad” – và Swajp sẽ đề xuất emoji ngay trên thanh gợi ý. Ký hiệu tắt :) cũng dùng được, hoặc bạn chỉ cần chọn từ danh sách."
+
+#: index
+msgid "Born to rule – in 35 languages."
+msgstr "Sinh ra để làm chủ – bằng 35 ngôn ngữ."
+
+#: index
+msgid ""
+"Type in two languages without switching – the keyboard knows words from both. 9 languages are built in (English in two variants), 26 more can be downloaded as packs."
+msgstr ""
+"Gõ hai ngôn ngữ mà không cần chuyển đổi – bàn phím nhận ra từ của cả hai. 9 ngôn ngữ có sẵn trong ứng dụng (tiếng Anh với hai biến thể), 26 ngôn ngữ khác có thể tải về dưới dạng gói."
+
+#: index
+msgid ""
+"<span style=\"color:var(--g)\">Green</span> languages are built in, the others can be <a href=\"languages.html\">downloaded as packs</a>."
+msgstr ""
+"Các ngôn ngữ màu <span style=\"color:var(--g)\">xanh lá</span> có sẵn trong ứng dụng, các ngôn ngữ khác có thể <a href=\"languages.html\">tải về dưới dạng gói</a>."
+
+#: index
+msgid "Hears you. Tells no one."
+msgstr "Nghe bạn nói. Không kể với ai."
+
+#: index
+msgid ""
+"Speech is turned into text right on your phone (Parakeet and Omnilingual models), with no internet. If you like, you can use Google recognition instead. Recognised words are checked against the dictionary."
+msgstr ""
+"Giọng nói được chuyển thành văn bản ngay trên điện thoại (mô hình Parakeet và Omnilingual), không cần Internet. Nếu muốn, bạn cũng có thể dùng tính năng nhận dạng của Google. Các từ nhận dạng được sẽ được sửa theo từ điển."
+
+#: index
+msgid "Remembers your copies. Forgets your secrets."
+msgstr "Nhớ những gì bạn sao chép. Quên đi những điều bí mật."
+
+#: index
+msgid ""
+"Your last 30 copied texts are always at hand. Passwords, codes and text marked as sensitive are never stored, and the history clears itself after the time you choose."
+msgstr ""
+"30 văn bản sao chép gần nhất luôn trong tầm tay. Mật khẩu, mã và văn bản được đánh dấu là nhạy cảm không bao giờ được lưu, và lịch sử tự xóa sau khoảng thời gian bạn chọn."
+
+#: index
+msgid "Even sharp minds reach for a calculator."
+msgstr "Đầu óc nhanh nhạy đến mấy cũng cần đến máy tính."
+
+#: index
+msgid ""
+"Big digits for quick entry of phone numbers and amounts. A calculator and a scientific calculator right in the keyboard – no switching apps."
+msgstr ""
+"Chữ số lớn để nhập nhanh số điện thoại và số tiền. Máy tính thường và máy tính khoa học nằm ngay trong bàn phím – không cần chuyển sang ứng dụng khác."
+
+#: index
+msgid ""
+"A dragonfly can cross the sea. Your learned words and typing style can cross to your new phone."
+msgstr ""
+"Chuồn chuồn có thể bay vượt cả đại dương. Từ đã học và phong cách gõ của bạn cũng có thể bay sang điện thoại mới."
+
+#: index
+msgid ""
+"Settings, your own words and everything Swajp has learned from your typing go into a single file – load it on your new phone and Swajp types like yours right away. The file stays with you: nothing goes over the internet or to the cloud."
+msgstr ""
+"Cài đặt, từ riêng của bạn và mọi thứ Swajp đã học từ cách bạn gõ được lưu vào một tệp duy nhất – nạp tệp đó trên điện thoại mới và Swajp sẽ gõ như của bạn ngay lập tức. Tệp nằm trong tay bạn: không có gì đi qua Internet hay lên đám mây."
+
+#: index
+msgid "You’re the hunter, never the prey."
+msgstr "Bạn là thợ săn, không bao giờ là con mồi."
+
+#: index
+msgid ""
+"<strong class=\"story\">Zero tracking, maximum privacy. </strong>Swajp has no internet permission. Nothing you type or dictate offline can leave your phone. No ads, no analytics. Nothing is learned or stored in password fields."
+msgstr ""
+"<strong class=\"story\">Không theo dõi, quyền riêng tư tối đa. </strong>Swajp không có quyền truy cập Internet. Không gì bạn gõ hoặc đọc chính tả ngoại tuyến có thể rời khỏi điện thoại. Không quảng cáo, không phân tích dữ liệu. Không có gì được học hoặc lưu trong ô mật khẩu."
+
+#: index
+msgid "Privacy policy →"
+msgstr "Chính sách quyền riêng tư →"
+
+#: index
+msgid ""
+"<span class=\"o1\">They say when a dragonfly lands on you, change is coming into your life.</span>Let this one land on your fingertips."
+msgstr ""
+"<span class=\"o1\">Người ta nói rằng khi chuồn chuồn đậu lên người bạn, cuộc đời bạn sắp có đổi thay.</span>Hãy để chú chuồn chuồn này đậu trên đầu ngón tay bạn."
+
+#: languages
+msgid "Swajp – language packs"
+msgstr "Swajp – gói ngôn ngữ"
+
+#: languages
+msgid ""
+"Languages that are not built into the app can be added as a pack. It is a plain zip with a dictionary – nothing gets installed and the app needs no internet for it."
+msgstr ""
+"Các ngôn ngữ không có sẵn trong ứng dụng có thể được thêm dưới dạng gói. Đó chỉ là một tệp zip thông thường chứa từ điển – không cài đặt gì cả và ứng dụng không cần Internet cho việc này."
+
+#: languages
+msgid "How to add a pack"
+msgstr "Cách thêm gói"
+
+#: languages
+msgid ""
+"Download the zip of the language you want. It is saved to your Downloads folder."
+msgstr ""
+"Tải tệp zip của ngôn ngữ bạn muốn. Tệp sẽ được lưu vào thư mục Tải xuống."
+
+#: languages
+msgid "Open <b>Swajp → Settings → Languages → More languages (packs)</b>."
+msgstr "Mở <b>Swajp → Cài đặt → Ngôn ngữ → Ngôn ngữ khác (gói)</b>."
+
+#: languages
+msgid ""
+"Tap <b>Import language packs (one or more)</b> and choose the downloaded file."
+msgstr "Chạm vào <b>Nhập gói ngôn ngữ (một hoặc nhiều)</b> và chọn tệp đã tải."
+
+#: languages
+msgid "Select the new language as your main or second language."
+msgstr "Chọn ngôn ngữ mới làm ngôn ngữ chính hoặc thứ hai."
+
+#: languages
+msgid "Available languages"
+msgstr "Ngôn ngữ có sẵn"
+
+#: languages
+msgid "Catalan · 89,809 words"
+msgstr "Tiếng Catalan · 89.809 từ"
+
+#: languages
+msgid "Danish · 152,106 words"
+msgstr "Tiếng Đan Mạch · 152.106 từ"
+
+#: languages
+msgid "Esperanto · 11,343 words"
+msgstr "Tiếng Esperanto · 11.343 từ"
+
+#: languages
+msgid "Estonian · 326,938 words"
+msgstr "Tiếng Estonia · 326.938 từ"
+
+#: languages
+msgid "Basque · 53,700 words"
+msgstr "Tiếng Basque · 53.700 từ"
+
+#: languages
+msgid "Finnish · 197,333 words"
+msgstr "Tiếng Phần Lan · 197.333 từ"
+
+#: languages
+msgid "Galician · 30,624 words"
+msgstr "Tiếng Galicia · 30.624 từ"
+
+#: languages
+msgid "Hindi (Latin letters or Devanagari) · 52,622 words"
+msgstr "Tiếng Hindi (chữ Latinh hoặc Devanagari) · 52.622 từ"
+
+#: languages
+msgid "Croatian · 191,499 words"
+msgstr "Tiếng Croatia · 191.499 từ"
+
+#: languages
+msgid "Hungarian · 380,920 words"
+msgstr "Tiếng Hungary · 380.920 từ"
+
+#: languages
+msgid "Indonesian · 75,492 words"
+msgstr "Tiếng Indonesia · 75.492 từ"
+
+#: languages
+msgid "Icelandic · 74,391 words"
+msgstr "Tiếng Iceland · 74.391 từ"
+
+#: languages
+msgid "Latin · 165,218 words"
+msgstr "Tiếng Latinh · 165.218 từ"
+
+#: languages
+msgid "Lithuanian · 100,175 words"
+msgstr "Tiếng Litva · 100.175 từ"
+
+#: languages
+msgid "Latvian · 51,479 words"
+msgstr "Tiếng Latvia · 51.479 từ"
+
+#: languages
+msgid "Malay · 49,942 words"
+msgstr "Tiếng Mã Lai · 49.942 từ"
+
+#: languages
+msgid "Norwegian · 140,318 words"
+msgstr "Tiếng Na Uy · 140.318 từ"
+
+#: languages
+msgid "Dutch · 140,383 words"
+msgstr "Tiếng Hà Lan · 140.383 từ"
+
+#: languages
+msgid "Romanian · 119,573 words"
+msgstr "Tiếng Romania · 119.573 từ"
+
+#: languages
+msgid "Slovenian · 182,841 words"
+msgstr "Tiếng Slovenia · 182.841 từ"
+
+#: languages
+msgid "Albanian · 89,152 words"
+msgstr "Tiếng Albania · 89.152 từ"
+
+#: languages
+msgid "Serbian · 330,967 words"
+msgstr "Tiếng Serbia · 330.967 từ"
+
+#: languages
+msgid "Swedish · 153,998 words"
+msgstr "Tiếng Thụy Điển · 153.998 từ"
+
+#: languages
+msgid "Tagalog · 30,099 words"
+msgstr "Tiếng Tagalog · 30.099 từ"
+
+#: languages
+msgid "Turkish · 305,078 words"
+msgstr "Tiếng Thổ Nhĩ Kỳ · 305.078 từ"
+
+#: languages
+msgid "Vietnamese · 35,303 words"
+msgstr "Tiếng Việt · 35.303 từ"
+
+#: languages
+msgid ""
+"Voice input: the Parakeet model supports most European languages, Omnilingual supports every language listed here, including Latin."
+msgstr ""
+"Nhập bằng giọng nói: mô hình Parakeet hỗ trợ hầu hết các ngôn ngữ châu Âu, Omnilingual hỗ trợ mọi ngôn ngữ trong danh sách này, kể cả tiếng Latinh."
+
+#: languages privacy licenses
+msgid "Swajp – keyboard for Android"
+msgstr "Swajp – bàn phím cho Android"
+
+#: privacy
+msgid "Swajp – Privacy Policy"
+msgstr "Swajp – Chính sách quyền riêng tư"
+
+#: privacy
+msgid "Effective 21 November 2026"
+msgstr "Có hiệu lực từ ngày 21 tháng 11 năm 2026"
+
+#: privacy
+msgid ""
+"Swajp is an Android keyboard designed so that no data leaves your phone."
+msgstr ""
+"Swajp là bàn phím Android được thiết kế để không có dữ liệu nào rời khỏi điện thoại của bạn."
+
+#: privacy
+msgid "Internet access"
+msgstr "Truy cập Internet"
+
+#: privacy
+msgid ""
+"The app does not have the internet permission, so it cannot send anything you type or say. It contains no ads, analytics or trackers."
+msgstr ""
+"Ứng dụng không có quyền truy cập Internet, vì vậy không thể gửi đi bất cứ điều gì bạn gõ hay nói. Ứng dụng không chứa quảng cáo, công cụ phân tích hay trình theo dõi."
+
+#: privacy
+msgid "What is stored and where"
+msgstr "Dữ liệu nào được lưu và lưu ở đâu"
+
+#: privacy
+msgid ""
+"<b>Learned words, word pairs and swipe traces</b> are stored only in the app's private storage on your phone to improve suggestions."
+msgstr ""
+"<b>Từ đã học, cặp từ và đường vuốt</b> chỉ được lưu trong bộ nhớ riêng của ứng dụng trên điện thoại để cải thiện gợi ý."
+
+#: privacy
+msgid ""
+"<b>Clipboard history</b> (if enabled) stays on the phone and is deleted automatically after the chosen time. Text from password fields, text marked sensitive by the system and text that looks like a password or code is never stored."
+msgstr ""
+"<b>Lịch sử bảng nhớ tạm</b> (nếu được bật) chỉ nằm trên điện thoại và tự động bị xóa sau khoảng thời gian đã chọn. Văn bản từ ô mật khẩu, văn bản được hệ thống đánh dấu là nhạy cảm và văn bản trông giống mật khẩu hoặc mã không bao giờ được lưu."
+
+#: privacy
+msgid "<b>Settings</b> stay on the phone."
+msgstr "<b>Cài đặt</b> chỉ nằm trên điện thoại."
+
+#: privacy
+msgid ""
+"Nothing is learned or stored in password fields or in apps that request incognito mode."
+msgstr ""
+"Không có gì được học hoặc lưu trong ô mật khẩu hay trong các ứng dụng yêu cầu chế độ ẩn danh."
+
+#: privacy
+msgid "Microphone and voice input"
+msgstr "Micrô và nhập bằng giọng nói"
+
+#: privacy
+msgid "The microphone is used only when you start voice input."
+msgstr "Micrô chỉ được sử dụng khi bạn bắt đầu nhập bằng giọng nói."
+
+#: privacy
+msgid ""
+"<b>Offline models</b> (Parakeet, Omnilingual) convert speech to text on the phone. Audio is not sent anywhere and is not kept."
+msgstr ""
+"<b>Mô hình ngoại tuyến</b> (Parakeet, Omnilingual) chuyển giọng nói thành văn bản ngay trên điện thoại. Âm thanh không được gửi đi đâu và không được lưu giữ."
+
+#: privacy
+msgid ""
+"<b>Google recognition</b> (if you choose it) uses the Android system speech recognition service; Google processes the audio under its own policy: <a href=\"https://policies.google.com/privacy\">policies.google.com/privacy</a>. Swajp itself sends nothing."
+msgstr ""
+"<b>Nhận dạng của Google</b> (nếu bạn chọn) sử dụng dịch vụ nhận dạng giọng nói của hệ thống Android; Google xử lý âm thanh theo chính sách riêng của Google: <a href=\"https://policies.google.com/privacy\">policies.google.com/privacy</a>. Bản thân Swajp không gửi gì cả."
+
+#: privacy
+msgid ""
+"You download voice models yourself in your browser; the app does not need the internet for that."
+msgstr ""
+"Bạn tự tải mô hình giọng nói về bằng trình duyệt; ứng dụng không cần Internet cho việc đó."
+
+#: privacy
+msgid "Export and import"
+msgstr "Xuất và nhập"
+
+#: privacy
+msgid ""
+"A backup is created only on your request, into a file you choose. It is never sent automatically."
+msgstr ""
+"Bản sao lưu chỉ được tạo khi bạn yêu cầu, vào tệp do bạn chọn. Bản sao lưu không bao giờ được tự động gửi đi."
+
+#: privacy
+msgid "Sharing"
+msgstr "Chia sẻ dữ liệu"
+
+#: privacy
+msgid "Swajp does not sell, share or transfer any data to third parties."
+msgstr ""
+"Swajp không bán, chia sẻ hay chuyển giao bất kỳ dữ liệu nào cho bên thứ ba."
+
+#: privacy
+msgid "Deleting data"
+msgstr "Xóa dữ liệu"
+
+#: privacy
+msgid ""
+"Delete learned data in settings (Learning → “Smazat vše naučené”) or uninstall the app to remove everything."
+msgstr ""
+"Xóa dữ liệu đã học trong cài đặt (Từ ngữ và học → “Xóa mọi dữ liệu đã học”) hoặc gỡ cài đặt ứng dụng để xóa toàn bộ."
+
+#: privacy
+msgid "Children"
+msgstr "Trẻ em"
+
+#: privacy
+msgid "The app collects no personal data, including from children."
+msgstr "Ứng dụng không thu thập dữ liệu cá nhân nào, kể cả của trẻ em."
+
+#: privacy
+msgid "Changes and contact"
+msgstr "Thay đổi và liên hệ"
+
+#: privacy
+msgid ""
+"Changes will be published on this page. Questions: <a href=\"mailto:swajp.keyboard@gmail.com\">swajp.keyboard@gmail.com</a>"
+msgstr ""
+"Các thay đổi sẽ được công bố trên trang này. Câu hỏi: <a href=\"mailto:swajp.keyboard@gmail.com\">swajp.keyboard@gmail.com</a>"
+
+#: privacy
+msgid "Developer: Aleš Brunner, Czech Republic"
+msgstr "Nhà phát triển: Aleš Brunner, Cộng hòa Séc"
+
+#: licenses
+msgid "Swajp – licenses and credits"
+msgstr "Swajp – giấy phép và tác giả"
+
+#: licenses
+msgid "Licenses and credits"
+msgstr "Giấy phép và tác giả"
+
+#: licenses
+msgid "Swajp uses the following data and libraries. Thanks to their authors."
+msgstr "Swajp sử dụng các dữ liệu và thư viện sau. Xin cảm ơn các tác giả."
+

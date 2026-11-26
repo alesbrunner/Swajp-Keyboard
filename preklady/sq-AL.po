@@ -1,0 +1,568 @@
+# Překlad webu Swajp – Shqip.  Translation of the Swajp website – Shqip.
+#
+# msgid = anglický originál (celý odstavec / nadpis / tlačítko), msgstr = překlad.
+# msgid = English original (a whole paragraph / heading / button), msgstr = translation.
+#  • Značky jako <strong>, <em>, <br>, <a href="…">…</a>, <span …> musí v překladu zůstat (text uvnitř se překládá).
+#    Keep HTML tags such as <strong>, <br>, <a href="…">…</a>; translate the text inside them.
+#  • „#, fuzzy“ = nejisté, web to nepoužije (ukáže angličtinu), dokud řádek „#, fuzzy“ nesmažeš.
+#  • Upravovat jde v programu Poedit (zdarma) nebo v textovém editoru. Po nahrání do preklady/ se web sestaví sám.
+msgid ""
+msgstr ""
+"Language: sq-AL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: index
+msgid "Swajp – Anax Keyboard for Android"
+msgstr "Swajp – Tastiera Anax për Android"
+
+#: index (atribut / attribute) languages (atribut / attribute) privacy (atribut / attribute) licenses (atribut / attribute)
+msgid ""
+"Swajp – swipe keyboard for Android, no internet access, offline dictation."
+msgstr ""
+"Swajp – tastierë me rrëshqitje për Android, pa qasje në internet, diktim jashtë linje."
+
+#: index languages privacy licenses
+msgid "Home"
+msgstr "Kreu"
+
+#: index languages privacy licenses
+msgid "Languages"
+msgstr "Gjuhët"
+
+#: index languages privacy licenses
+msgid "Privacy"
+msgstr "Privatësia"
+
+#: index languages privacy licenses
+msgid "Licenses"
+msgstr "Licencat"
+
+#: index
+msgid "Swajp – Anax Keyboard"
+msgstr "Swajp – Tastiera Anax"
+
+#: index
+msgid "A keyboard<br><em>fit for an emperor.</em>"
+msgstr "Një tastierë<br><em>e denjë për një perandor.</em>"
+
+#: index
+msgid "Swift as Anax – the emperor dragonfly.<br>Precise as its hunt."
+msgstr "E shpejtë si Anax – pilivesa perandorake.<br>E saktë si gjuetia e saj."
+
+#: index
+msgid ""
+"<strong class=\"story\">Inspired by Swype. Born as Swajp.</strong> An Android keyboard you type on with a glide of your finger. It guesses words from context, learns your style, and all your data stays on your phone."
+msgstr ""
+"<strong class=\"story\">Frymëzuar nga Swype. Lindur si Swajp.</strong> Tastierë për Android ku shkruan duke rrëshqitur gishtin. I gjen fjalët sipas kontekstit, mëson stilin tënd dhe të gjitha të dhënat e tua mbeten në telefon."
+
+#: index
+msgid "Coming soon to Google Play"
+msgstr "Së shpejti në Google Play"
+
+#: index languages
+msgid "Language packs"
+msgstr "Paketat gjuhësore"
+
+#: index
+msgid "Features"
+msgstr "Funksionet"
+
+#: index
+msgid "Swipe typing"
+msgstr "Shkrimi me rrëshqitje"
+
+#: index
+msgid "Glide over the letters and the word appears."
+msgstr "Rrëshqit gishtin mbi shkronjat dhe fjala shfaqet vetë."
+
+#: index
+msgid "Word prediction"
+msgstr "Parashikimi i fjalëve"
+
+#: index
+msgid "Suggests the next word from what you type."
+msgstr "Sugjeron fjalën tjetër sipas asaj që shkruan."
+
+#: index
+msgid "Gestures & text editing"
+msgstr "Gjestet dhe modifikimi i tekstit"
+
+#: index
+msgid "Copy, paste, undo and select with one swipe."
+msgstr "Kopjo, ngjit, zhbëj dhe zgjidh me një rrëshqitje."
+
+#: index
+msgid "Emoji"
+msgstr "Emoji"
+
+#: index
+msgid "Type a word and the emoji flies in."
+msgstr "Shkruaj një fjalë dhe emoji vjen fluturimthi."
+
+#: index
+msgid "Two languages at once, 35 in total."
+msgstr "Dy gjuhë njëherësh, 35 gjithsej."
+
+#: index
+msgid "Offline dictation"
+msgstr "Diktim jashtë linje"
+
+#: index
+msgid "Speech to text right on your phone."
+msgstr "Nga e folura në tekst, drejtpërdrejt në telefon."
+
+#: index
+msgid "Clipboard history"
+msgstr "Historiku i kujtesës së fragmenteve"
+
+#: index
+msgid "Your last 30 copied texts at hand."
+msgstr "30 tekstet e fundit të kopjuara gjithmonë pranë."
+
+#: index
+msgid "Number pad & calculator"
+msgstr "Tastiera numerike dhe makina llogaritëse"
+
+#: index
+msgid "Big digits, a calculator and a scientific one."
+msgstr "Shifra të mëdha, makinë llogaritëse dhe një shkencore."
+
+#: index
+msgid "Backup"
+msgstr "Rezervimi"
+
+#: index
+msgid "Take your learned words to your new phone."
+msgstr "Merri fjalët e mësuara me vete në telefonin e ri."
+
+#: index
+msgid "No internet, no ads, no tracking."
+msgstr "Pa internet, pa reklama, pa gjurmim."
+
+#: index
+msgid "Glide over the keys like a dragonfly."
+msgstr "Rrëshqit lehtë mbi tastet si një pilivesë."
+
+#: index (atribut / attribute)
+msgid "Previous"
+msgstr "E mëparshmja"
+
+#: index (atribut / attribute)
+msgid "Next"
+msgstr "Tjetra"
+
+#: index
+msgid ""
+"No need to tap letter by letter – one stroke across the letters of a word is enough. Swajp recognises the swipe even when it is not perfect, and learns your style so it keeps getting more accurate."
+msgstr ""
+"Nuk ke nevojë të trokasësh shkronjë pas shkronje – mjafton një rrëshqitje e vetme mbi shkronjat e fjalës. Swajp e njeh rrëshqitjen edhe kur nuk është e përsosur dhe mëson stilin tënd, kështu që bëhet gjithnjë e më i saktë."
+
+#: index
+msgid "Predicts your next word like a dragonfly predicts its prey."
+msgstr ""
+"Parashikon fjalën tënde të radhës, ashtu si pilivesa parashikon fluturimin e presë."
+
+#: index
+msgid ""
+"From the words before, it suggests what you are likely to type next, and uses context to tell similar words apart. It learns the words you actually use."
+msgstr ""
+"Sipas fjalëve të mëparshme sugjeron atë që ka të ngjarë të shkruash më pas dhe nga konteksti dallon edhe fjalët e ngjashme. Mëson fjalët që përdor ti."
+
+#: index
+msgid "Rules the air. Now rules your text."
+msgstr "Sundon ajrin. Tani sundon edhe tekstin tënd."
+
+#: index
+msgid ""
+"It flies backwards and forwards too – undo and redo, up to 60 steps. Moving the cursor to select or delete text is as precise as landing on a reed. Copy, paste, cut and select all with a swipe from the Swajp key, change case with a single gesture."
+msgstr ""
+"Fluturon edhe prapa, edhe përpara – zhbëj dhe ribëj, deri në 60 hapa. Lëvizja e kursorit për të zgjedhur ose fshirë tekst është e saktë si ulja mbi një fije kallami. Kopjo, ngjit, prit dhe zgjidh të gjitha me një rrëshqitje nga tasti Swajp, ndrysho shkronjat e mëdha/të vogla me një gjest të vetëm."
+
+#: index
+msgid ""
+"All gestures with demos and practice are in the app: Settings → Gestures and guide."
+msgstr ""
+"Të gjitha gjestet me demonstrime dhe ushtrime i gjen në aplikacion: Cilësimet → Gjestet dhe udhëzuesi."
+
+#: index
+msgid "Catch your emotion mid-air."
+msgstr "Kape emocionin në fluturim."
+
+#: index
+msgid ""
+"Swipe or type a word – like “heart”, “beer” or “sad” – and Swajp offers the emoji in the suggestion bar. The :) shortcut works too, or simply pick one from the list."
+msgstr ""
+"Shkruaj një fjalë me rrëshqitje ose me trokitje – si “heart”, “beer” ose “sad” – dhe Swajp të ofron emoji-n në shiritin e sugjerimeve. Funksionon edhe shkurtesa :), ose thjesht zgjidhe nga lista."
+
+#: index
+msgid "Born to rule – in 35 languages."
+msgstr "E lindur për të sunduar – në 35 gjuhë."
+
+#: index
+msgid ""
+"Type in two languages without switching – the keyboard knows words from both. 9 languages are built in (English in two variants), 26 more can be downloaded as packs."
+msgstr ""
+"Shkruaj në dy gjuhë pa ndërruar – tastiera i njeh fjalët e të dyjave. 9 gjuhë janë të integruara (anglishtja në dy variante), 26 të tjera mund të shkarkohen si paketa."
+
+#: index
+msgid ""
+"<span style=\"color:var(--g)\">Green</span> languages are built in, the others can be <a href=\"languages.html\">downloaded as packs</a>."
+msgstr ""
+"Gjuhët me <span style=\"color:var(--g)\">të gjelbër</span> janë të integruara, të tjerat mund të <a href=\"languages.html\">shkarkohen si paketa</a>."
+
+#: index
+msgid "Hears you. Tells no one."
+msgstr "Të dëgjon. Nuk i tregon askujt."
+
+#: index
+msgid ""
+"Speech is turned into text right on your phone (Parakeet and Omnilingual models), with no internet. If you like, you can use Google recognition instead. Recognised words are checked against the dictionary."
+msgstr ""
+"E folura shndërrohet në tekst drejtpërdrejt në telefon (modelet Parakeet dhe Omnilingual), pa internet. Nëse dëshiron, mund të përdorësh në vend të tyre njohjen e Google. Fjalët e njohura kontrollohen sipas fjalorit."
+
+#: index
+msgid "Remembers your copies. Forgets your secrets."
+msgstr "Kujton çfarë kopjon. Harron sekretet e tua."
+
+#: index
+msgid ""
+"Your last 30 copied texts are always at hand. Passwords, codes and text marked as sensitive are never stored, and the history clears itself after the time you choose."
+msgstr ""
+"30 tekstet e fundit të kopjuara janë gjithmonë pranë teje. Fjalëkalimet, kodet dhe tekstet e shënuara si të ndjeshme nuk ruhen kurrë, dhe historiku pastrohet vetë pas kohës që zgjedh ti."
+
+#: index
+msgid "Even sharp minds reach for a calculator."
+msgstr "Edhe mendjes së mprehtë i duhet një makinë llogaritëse."
+
+#: index
+msgid ""
+"Big digits for quick entry of phone numbers and amounts. A calculator and a scientific calculator right in the keyboard – no switching apps."
+msgstr ""
+"Shifra të mëdha për futjen e shpejtë të numrave të telefonit dhe shumave. Makinë llogaritëse dhe makinë llogaritëse shkencore drejtpërdrejt në tastierë – pa kaluar në aplikacione të tjera."
+
+#: index
+msgid ""
+"A dragonfly can cross the sea. Your learned words and typing style can cross to your new phone."
+msgstr ""
+"Pilivesa mund të fluturojë përtej detit. Fjalët e tua të mësuara dhe stili yt i shkrimit mund të fluturojnë në telefonin tënd të ri."
+
+#: index
+msgid ""
+"Settings, your own words and everything Swajp has learned from your typing go into a single file – load it on your new phone and Swajp types like yours right away. The file stays with you: nothing goes over the internet or to the cloud."
+msgstr ""
+"Cilësimet, fjalët e tua dhe gjithçka që Swajp ka mësuar nga shkrimi yt ruhen në një skedar të vetëm – ngarkoje në telefonin e ri dhe Swajp shkruan menjëherë si i yti. Skedari mbetet te ti: asgjë nuk kalon përmes internetit apo në cloud."
+
+#: index
+msgid "You’re the hunter, never the prey."
+msgstr "Ti je gjahtari, kurrë preja."
+
+#: index
+msgid ""
+"<strong class=\"story\">Zero tracking, maximum privacy. </strong>Swajp has no internet permission. Nothing you type or dictate offline can leave your phone. No ads, no analytics. Nothing is learned or stored in password fields."
+msgstr ""
+"<strong class=\"story\">Zero gjurmim, privatësi maksimale. </strong>Swajp nuk ka leje për internetin. Asgjë nga ato që shkruan ose dikton jashtë linje nuk mund të largohet nga telefoni yt. Pa reklama, pa analitikë. Në fushat e fjalëkalimeve nuk mësohet dhe nuk ruhet asgjë."
+
+#: index
+msgid "Privacy policy →"
+msgstr "Politika e privatësisë →"
+
+#: index
+msgid ""
+"<span class=\"o1\">They say when a dragonfly lands on you, change is coming into your life.</span>Let this one land on your fingertips."
+msgstr ""
+"<span class=\"o1\">Thonë se kur një pilivesë ulet mbi ty, në jetën tënde po vjen një ndryshim.</span>Lëre këtë të ulet në majat e gishtave të tu."
+
+#: languages
+msgid "Swajp – language packs"
+msgstr "Swajp – paketat gjuhësore"
+
+#: languages
+msgid ""
+"Languages that are not built into the app can be added as a pack. It is a plain zip with a dictionary – nothing gets installed and the app needs no internet for it."
+msgstr ""
+"Gjuhët që nuk janë të integruara në aplikacion mund të shtohen si paketë. Është një skedar zip i thjeshtë me një fjalor – nuk instalohet asgjë dhe aplikacionit nuk i duhet internet për këtë."
+
+#: languages
+msgid "How to add a pack"
+msgstr "Si të shtosh një paketë"
+
+#: languages
+msgid ""
+"Download the zip of the language you want. It is saved to your Downloads folder."
+msgstr ""
+"Shkarko skedarin zip të gjuhës që dëshiron. Ruhet në dosjen Shkarkimet."
+
+#: languages
+msgid "Open <b>Swajp → Settings → Languages → More languages (packs)</b>."
+msgstr "Hap <b>Swajp → Cilësimet → Gjuhët → Gjuhë të tjera (paketa)</b>."
+
+#: languages
+msgid ""
+"Tap <b>Import language packs (one or more)</b> and choose the downloaded file."
+msgstr ""
+"Trokit <b>Importo paketat gjuhësore (një ose më shumë)</b> dhe zgjidh skedarin e shkarkuar."
+
+#: languages
+msgid "Select the new language as your main or second language."
+msgstr "Zgjidh gjuhën e re si gjuhë kryesore ose të dytë."
+
+#: languages
+msgid "Available languages"
+msgstr "Gjuhët në dispozicion"
+
+#: languages
+msgid "Catalan · 89,809 words"
+msgstr "Katalanisht · 89 809 fjalë"
+
+#: languages
+msgid "Danish · 152,106 words"
+msgstr "Danisht · 152 106 fjalë"
+
+#: languages
+msgid "Esperanto · 11,343 words"
+msgstr "Esperanto · 11 343 fjalë"
+
+#: languages
+msgid "Estonian · 326,938 words"
+msgstr "Estonisht · 326 938 fjalë"
+
+#: languages
+msgid "Basque · 53,700 words"
+msgstr "Baskisht · 53 700 fjalë"
+
+#: languages
+msgid "Finnish · 197,333 words"
+msgstr "Finlandisht · 197 333 fjalë"
+
+#: languages
+msgid "Galician · 30,624 words"
+msgstr "Galicisht · 30 624 fjalë"
+
+#: languages
+msgid "Hindi (Latin letters or Devanagari) · 52,622 words"
+msgstr "Hindisht (me shkronja latine ose devanagari) · 52 622 fjalë"
+
+#: languages
+msgid "Croatian · 191,499 words"
+msgstr "Kroatisht · 191 499 fjalë"
+
+#: languages
+msgid "Hungarian · 380,920 words"
+msgstr "Hungarisht · 380 920 fjalë"
+
+#: languages
+msgid "Indonesian · 75,492 words"
+msgstr "Indonezisht · 75 492 fjalë"
+
+#: languages
+msgid "Icelandic · 74,391 words"
+msgstr "Islandisht · 74 391 fjalë"
+
+#: languages
+msgid "Latin · 165,218 words"
+msgstr "Latinisht · 165 218 fjalë"
+
+#: languages
+msgid "Lithuanian · 100,175 words"
+msgstr "Lituanisht · 100 175 fjalë"
+
+#: languages
+msgid "Latvian · 51,479 words"
+msgstr "Letonisht · 51 479 fjalë"
+
+#: languages
+msgid "Malay · 49,942 words"
+msgstr "Malajisht · 49 942 fjalë"
+
+#: languages
+msgid "Norwegian · 140,318 words"
+msgstr "Norvegjisht · 140 318 fjalë"
+
+#: languages
+msgid "Dutch · 140,383 words"
+msgstr "Holandisht · 140 383 fjalë"
+
+#: languages
+msgid "Romanian · 119,573 words"
+msgstr "Rumanisht · 119 573 fjalë"
+
+#: languages
+msgid "Slovenian · 182,841 words"
+msgstr "Sllovenisht · 182 841 fjalë"
+
+#: languages
+msgid "Albanian · 89,152 words"
+msgstr "Shqip · 89 152 fjalë"
+
+#: languages
+msgid "Serbian · 330,967 words"
+msgstr "Serbisht · 330 967 fjalë"
+
+#: languages
+msgid "Swedish · 153,998 words"
+msgstr "Suedisht · 153 998 fjalë"
+
+#: languages
+msgid "Tagalog · 30,099 words"
+msgstr "Tagalog · 30 099 fjalë"
+
+#: languages
+msgid "Turkish · 305,078 words"
+msgstr "Turqisht · 305 078 fjalë"
+
+#: languages
+msgid "Vietnamese · 35,303 words"
+msgstr "Vietnamisht · 35 303 fjalë"
+
+#: languages
+msgid ""
+"Voice input: the Parakeet model supports most European languages, Omnilingual supports every language listed here, including Latin."
+msgstr ""
+"Futja me zë: modeli Parakeet mbështet shumicën e gjuhëve evropiane, Omnilingual mbështet të gjitha gjuhët e listuara këtu, përfshirë latinishten."
+
+#: languages privacy licenses
+msgid "Swajp – keyboard for Android"
+msgstr "Swajp – tastierë për Android"
+
+#: privacy
+msgid "Swajp – Privacy Policy"
+msgstr "Swajp – Politika e privatësisë"
+
+#: privacy
+msgid "Effective 21 November 2026"
+msgstr "Në fuqi nga 21 nëntori 2026"
+
+#: privacy
+msgid ""
+"Swajp is an Android keyboard designed so that no data leaves your phone."
+msgstr ""
+"Swajp është një tastierë për Android e projektuar në mënyrë që asnjë e dhënë të mos largohet nga telefoni yt."
+
+#: privacy
+msgid "Internet access"
+msgstr "Qasja në internet"
+
+#: privacy
+msgid ""
+"The app does not have the internet permission, so it cannot send anything you type or say. It contains no ads, analytics or trackers."
+msgstr ""
+"Aplikacioni nuk ka leje për internetin, prandaj nuk mund të dërgojë asgjë nga ajo që shkruan ose thua. Nuk përmban reklama, analitikë apo gjurmues."
+
+#: privacy
+msgid "What is stored and where"
+msgstr "Çfarë ruhet dhe ku"
+
+#: privacy
+msgid ""
+"<b>Learned words, word pairs and swipe traces</b> are stored only in the app's private storage on your phone to improve suggestions."
+msgstr ""
+"<b>Fjalët e mësuara, çiftet e fjalëve dhe gjurmët e rrëshqitjeve</b> ruhen vetëm në hapësirën ruajtëse private të aplikacionit në telefonin tënd, për të përmirësuar sugjerimet."
+
+#: privacy
+msgid ""
+"<b>Clipboard history</b> (if enabled) stays on the phone and is deleted automatically after the chosen time. Text from password fields, text marked sensitive by the system and text that looks like a password or code is never stored."
+msgstr ""
+"<b>Historiku i kujtesës së fragmenteve</b> (nëse është aktiv) mbetet në telefon dhe fshihet automatikisht pas kohës së zgjedhur. Teksti nga fushat e fjalëkalimeve, teksti që sistemi e shënon si të ndjeshëm dhe teksti që duket si fjalëkalim ose kod nuk ruhen kurrë."
+
+#: privacy
+msgid "<b>Settings</b> stay on the phone."
+msgstr "<b>Cilësimet</b> mbeten në telefon."
+
+#: privacy
+msgid ""
+"Nothing is learned or stored in password fields or in apps that request incognito mode."
+msgstr ""
+"Në fushat e fjalëkalimeve dhe në aplikacionet që kërkojnë modalitetin e fshehtë nuk mësohet dhe nuk ruhet asgjë."
+
+#: privacy
+msgid "Microphone and voice input"
+msgstr "Mikrofoni dhe futja me zë"
+
+#: privacy
+msgid "The microphone is used only when you start voice input."
+msgstr "Mikrofoni përdoret vetëm kur e nis ti futjen me zë."
+
+#: privacy
+msgid ""
+"<b>Offline models</b> (Parakeet, Omnilingual) convert speech to text on the phone. Audio is not sent anywhere and is not kept."
+msgstr ""
+"<b>Modelet jashtë linje</b> (Parakeet, Omnilingual) e shndërrojnë të folurën në tekst drejtpërdrejt në telefon. Regjistrimi nuk dërgohet askund dhe nuk ruhet."
+
+#: privacy
+msgid ""
+"<b>Google recognition</b> (if you choose it) uses the Android system speech recognition service; Google processes the audio under its own policy: <a href=\"https://policies.google.com/privacy\">policies.google.com/privacy</a>. Swajp itself sends nothing."
+msgstr ""
+"<b>Njohja e Google</b> (nëse e zgjedh) përdor shërbimin e njohjes së të folurit të sistemit Android; Google e përpunon regjistrimin sipas politikës së vet: <a href=\"https://policies.google.com/privacy\">policies.google.com/privacy</a>. Vetë Swajp nuk dërgon asgjë."
+
+#: privacy
+msgid ""
+"You download voice models yourself in your browser; the app does not need the internet for that."
+msgstr ""
+"Modelet e zërit i shkarkon vetë në shfletues; aplikacionit nuk i duhet interneti për këtë."
+
+#: privacy
+msgid "Export and import"
+msgstr "Eksportimi dhe importimi"
+
+#: privacy
+msgid ""
+"A backup is created only on your request, into a file you choose. It is never sent automatically."
+msgstr ""
+"Rezervimi krijohet vetëm me kërkesën tënde, në një skedar që zgjedh ti. Nuk dërgohet kurrë automatikisht."
+
+#: privacy
+msgid "Sharing"
+msgstr "Ndarja me të tjerët"
+
+#: privacy
+msgid "Swajp does not sell, share or transfer any data to third parties."
+msgstr ""
+"Swajp nuk shet, nuk ndan dhe nuk transferon asnjë të dhënë te palë të treta."
+
+#: privacy
+msgid "Deleting data"
+msgstr "Fshirja e të dhënave"
+
+#: privacy
+msgid ""
+"Delete learned data in settings (Learning → “Smazat vše naučené”) or uninstall the app to remove everything."
+msgstr ""
+"Fshiji të dhënat e mësuara te cilësimet (Fjalët dhe mësimi → “Fshi gjithçka të mësuar”) ose çinstalo aplikacionin për të hequr gjithçka."
+
+#: privacy
+msgid "Children"
+msgstr "Fëmijët"
+
+#: privacy
+msgid "The app collects no personal data, including from children."
+msgstr "Aplikacioni nuk mbledh asnjë të dhënë personale, as nga fëmijët."
+
+#: privacy
+msgid "Changes and contact"
+msgstr "Ndryshimet dhe kontakti"
+
+#: privacy
+msgid ""
+"Changes will be published on this page. Questions: <a href=\"mailto:swajp.keyboard@gmail.com\">swajp.keyboard@gmail.com</a>"
+msgstr ""
+"Ndryshimet do të publikohen në këtë faqe. Pyetje: <a href=\"mailto:swajp.keyboard@gmail.com\">swajp.keyboard@gmail.com</a>"
+
+#: privacy
+msgid "Developer: Aleš Brunner, Czech Republic"
+msgstr "Zhvilluesi: Aleš Brunner, Republika Çeke"
+
+#: licenses
+msgid "Swajp – licenses and credits"
+msgstr "Swajp – licencat dhe autorët"
+
+#: licenses
+msgid "Licenses and credits"
+msgstr "Licencat dhe autorët"
+
+#: licenses
+msgid "Swajp uses the following data and libraries. Thanks to their authors."
+msgstr ""
+"Swajp përdor të dhënat dhe bibliotekat e mëposhtme. Falënderojmë autorët e tyre."
+

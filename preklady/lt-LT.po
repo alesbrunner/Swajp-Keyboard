@@ -1,0 +1,568 @@
+# Překlad webu Swajp – Lietuvių.  Translation of the Swajp website – Lietuvių.
+#
+# msgid = anglický originál (celý odstavec / nadpis / tlačítko), msgstr = překlad.
+# msgid = English original (a whole paragraph / heading / button), msgstr = translation.
+#  • Značky jako <strong>, <em>, <br>, <a href="…">…</a>, <span …> musí v překladu zůstat (text uvnitř se překládá).
+#    Keep HTML tags such as <strong>, <br>, <a href="…">…</a>; translate the text inside them.
+#  • „#, fuzzy“ = nejisté, web to nepoužije (ukáže angličtinu), dokud řádek „#, fuzzy“ nesmažeš.
+#  • Upravovat jde v programu Poedit (zdarma) nebo v textovém editoru. Po nahrání do preklady/ se web sestaví sám.
+msgid ""
+msgstr ""
+"Language: lt-LT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: index
+msgid "Swajp – Anax Keyboard for Android"
+msgstr "Swajp – Anax klaviatūra Android įrenginiams"
+
+#: index (atribut / attribute) languages (atribut / attribute) privacy (atribut / attribute) licenses (atribut / attribute)
+msgid ""
+"Swajp – swipe keyboard for Android, no internet access, offline dictation."
+msgstr ""
+"Swajp – braukiamoji klaviatūra Android įrenginiams, be prieigos prie interneto, diktavimas neprisijungus."
+
+#: index languages privacy licenses
+msgid "Home"
+msgstr "Pradžia"
+
+#: index languages privacy licenses
+msgid "Languages"
+msgstr "Kalbos"
+
+#: index languages privacy licenses
+msgid "Privacy"
+msgstr "Privatumas"
+
+#: index languages privacy licenses
+msgid "Licenses"
+msgstr "Licencijos"
+
+#: index
+msgid "Swajp – Anax Keyboard"
+msgstr "Swajp – Anax klaviatūra"
+
+#: index
+msgid "A keyboard<br><em>fit for an emperor.</em>"
+msgstr "Klaviatūra,<br><em>verta imperatoriaus.</em>"
+
+#: index
+msgid "Swift as Anax – the emperor dragonfly.<br>Precise as its hunt."
+msgstr ""
+"Greita kaip Anax – imperatoriškasis laumžirgis.<br>Tiksli kaip jo medžioklė."
+
+#: index
+msgid ""
+"<strong class=\"story\">Inspired by Swype. Born as Swajp.</strong> An Android keyboard you type on with a glide of your finger. It guesses words from context, learns your style, and all your data stays on your phone."
+msgstr ""
+"<strong class=\"story\">Įkvėpta Swype. Gimusi kaip Swajp.</strong> Android klaviatūra, kuria rašote tiesiog braukdami pirštu. Žodžius spėja pagal kontekstą, mokosi jūsų stiliaus, o visi jūsų duomenys lieka telefone."
+
+#: index
+msgid "Coming soon to Google Play"
+msgstr "Netrukus „Google Play“"
+
+#: index languages
+msgid "Language packs"
+msgstr "Kalbų paketai"
+
+#: index
+msgid "Features"
+msgstr "Funkcijos"
+
+#: index
+msgid "Swipe typing"
+msgstr "Rašymas braukiant"
+
+#: index
+msgid "Glide over the letters and the word appears."
+msgstr "Perbraukite per raides – ir žodis atsiranda."
+
+#: index
+msgid "Word prediction"
+msgstr "Žodžių nuspėjimas"
+
+#: index
+msgid "Suggests the next word from what you type."
+msgstr "Pasiūlo kitą žodį pagal tai, ką rašote."
+
+#: index
+msgid "Gestures & text editing"
+msgstr "Gestai ir teksto redagavimas"
+
+#: index
+msgid "Copy, paste, undo and select with one swipe."
+msgstr "Kopijuokite, įklijuokite, anuliuokite ir žymėkite vienu braukimu."
+
+#: index
+msgid "Emoji"
+msgstr "Jaustukai"
+
+#: index
+msgid "Type a word and the emoji flies in."
+msgstr "Parašykite žodį – ir jaustukas atskrenda."
+
+#: index
+msgid "Two languages at once, 35 in total."
+msgstr "Dvi kalbos vienu metu, iš viso 35."
+
+#: index
+msgid "Offline dictation"
+msgstr "Diktavimas neprisijungus"
+
+#: index
+msgid "Speech to text right on your phone."
+msgstr "Kalba virsta tekstu tiesiog jūsų telefone."
+
+#: index
+msgid "Clipboard history"
+msgstr "Iškarpinės istorija"
+
+#: index
+msgid "Your last 30 copied texts at hand."
+msgstr "Paskutiniai 30 nukopijuotų tekstų po ranka."
+
+#: index
+msgid "Number pad & calculator"
+msgstr "Skaičių klaviatūra ir skaičiuotuvas"
+
+#: index
+msgid "Big digits, a calculator and a scientific one."
+msgstr "Dideli skaitmenys, skaičiuotuvas ir mokslinis skaičiuotuvas."
+
+#: index
+msgid "Backup"
+msgstr "Atsarginė kopija"
+
+#: index
+msgid "Take your learned words to your new phone."
+msgstr "Išmoktus žodžius persikelkite į naują telefoną."
+
+#: index
+msgid "No internet, no ads, no tracking."
+msgstr "Be interneto, be reklamų, be sekimo."
+
+#: index
+msgid "Glide over the keys like a dragonfly."
+msgstr "Sklandykite klavišais kaip laumžirgis."
+
+#: index (atribut / attribute)
+msgid "Previous"
+msgstr "Ankstesnis"
+
+#: index (atribut / attribute)
+msgid "Next"
+msgstr "Kitas"
+
+#: index
+msgid ""
+"No need to tap letter by letter – one stroke across the letters of a word is enough. Swajp recognises the swipe even when it is not perfect, and learns your style so it keeps getting more accurate."
+msgstr ""
+"Nereikia baksnoti raidės po raidės – užtenka vienu brūkšniu perbraukti per žodžio raides. Swajp atpažįsta braukimą, net jei jis nėra tobulas, ir mokosi jūsų stiliaus, tad tampa vis tikslesnė."
+
+#: index
+msgid "Predicts your next word like a dragonfly predicts its prey."
+msgstr "Nuspėja kitą jūsų žodį, kaip laumžirgis nuspėja grobį."
+
+#: index
+msgid ""
+"From the words before, it suggests what you are likely to type next, and uses context to tell similar words apart. It learns the words you actually use."
+msgstr ""
+"Pagal ankstesnius žodžius pasiūlo, ką greičiausiai parašysite toliau, o pagal kontekstą atskiria ir panašius žodžius. Mokosi žodžių, kuriuos vartojate būtent jūs."
+
+#: index
+msgid "Rules the air. Now rules your text."
+msgstr "Valdo orą. Dabar valdo ir jūsų tekstą."
+
+#: index
+msgid ""
+"It flies backwards and forwards too – undo and redo, up to 60 steps. Moving the cursor to select or delete text is as precise as landing on a reed. Copy, paste, cut and select all with a swipe from the Swajp key, change case with a single gesture."
+msgstr ""
+"Skraido ir atgal, ir pirmyn – anuliuoti ir grąžinti galima iki 60 žingsnių. Žymeklis žymint ar trinant tekstą juda taip tiksliai, kaip laumžirgis nutupia ant nendrės. Kopijuokite, įklijuokite, iškirpkite ir žymėkite viską braukdami nuo Swajp klavišo, raidžių dydį keiskite vienu gestu."
+
+#: index
+msgid ""
+"All gestures with demos and practice are in the app: Settings → Gestures and guide."
+msgstr ""
+"Visus gestus su demonstracijomis ir išbandymu rasite programoje: Nustatymai → Gestai ir vadovas."
+
+#: index
+msgid "Catch your emotion mid-air."
+msgstr "Pagaukite emociją skrydžio metu."
+
+#: index
+msgid ""
+"Swipe or type a word – like “heart”, “beer” or “sad” – and Swajp offers the emoji in the suggestion bar. The :) shortcut works too, or simply pick one from the list."
+msgstr ""
+"Perbraukite ar parašykite žodį – pavyzdžiui, „širdis“, „alus“ ar „liūdnas“ – ir Swajp pasiūlys jaustuką pasiūlymų juostoje. Veikia ir santrumpa :), arba tiesiog išsirinkite iš sąrašo."
+
+#: index
+msgid "Born to rule – in 35 languages."
+msgstr "Gimusi valdyti – 35 kalbomis."
+
+#: index
+msgid ""
+"Type in two languages without switching – the keyboard knows words from both. 9 languages are built in (English in two variants), 26 more can be downloaded as packs."
+msgstr ""
+"Rašykite dviem kalbomis neperjungdami – klaviatūra atpažįsta abiejų kalbų žodžius. 9 kalbos įdiegtos (anglų – dviem variantais), dar 26 galima atsisiųsti kaip paketus."
+
+#: index
+msgid ""
+"<span style=\"color:var(--g)\">Green</span> languages are built in, the others can be <a href=\"languages.html\">downloaded as packs</a>."
+msgstr ""
+"<span style=\"color:var(--g)\">Žaliai</span> pažymėtos kalbos įdiegtos programoje, kitas galima <a href=\"languages.html\">atsisiųsti kaip paketus</a>."
+
+#: index
+msgid "Hears you. Tells no one."
+msgstr "Girdi jus. Niekam nepasakoja."
+
+#: index
+msgid ""
+"Speech is turned into text right on your phone (Parakeet and Omnilingual models), with no internet. If you like, you can use Google recognition instead. Recognised words are checked against the dictionary."
+msgstr ""
+"Kalba paverčiama tekstu tiesiog jūsų telefone (modeliai Parakeet ir Omnilingual), be interneto. Jei norite, galite naudoti ir Google atpažinimą. Atpažinti žodžiai tikrinami pagal žodyną."
+
+#: index
+msgid "Remembers your copies. Forgets your secrets."
+msgstr "Atsimena, ką nukopijavote. Paslaptis pamiršta."
+
+#: index
+msgid ""
+"Your last 30 copied texts are always at hand. Passwords, codes and text marked as sensitive are never stored, and the history clears itself after the time you choose."
+msgstr ""
+"Paskutiniai 30 nukopijuotų tekstų visada po ranka. Slaptažodžiai, kodai ir kaip jautrūs pažymėti tekstai niekada neišsaugomi, o istorija pati išsivalo po jūsų pasirinkto laiko."
+
+#: index
+msgid "Even sharp minds reach for a calculator."
+msgstr "Net ir gudrioms galvoms praverčia skaičiuotuvas."
+
+#: index
+msgid ""
+"Big digits for quick entry of phone numbers and amounts. A calculator and a scientific calculator right in the keyboard – no switching apps."
+msgstr ""
+"Dideli skaitmenys greitam telefono numerių ir sumų įvedimui. Skaičiuotuvas ir mokslinis skaičiuotuvas – tiesiog klaviatūroje, nereikia perjungti programų."
+
+#: index
+msgid ""
+"A dragonfly can cross the sea. Your learned words and typing style can cross to your new phone."
+msgstr ""
+"Laumžirgis gali perskristi jūrą. Jūsų išmokti žodžiai ir rašymo stilius gali perskristi į naują telefoną."
+
+#: index
+msgid ""
+"Settings, your own words and everything Swajp has learned from your typing go into a single file – load it on your new phone and Swajp types like yours right away. The file stays with you: nothing goes over the internet or to the cloud."
+msgstr ""
+"Nustatymai, jūsų žodžiai ir viskas, ką Swajp išmoko iš jūsų rašymo, sutelpa į vieną failą – įkelkite jį naujame telefone, ir Swajp iškart rašys kaip jūsiškė. Failas lieka pas jus: niekas nekeliauja internetu ar į debesį."
+
+#: index
+msgid "You’re the hunter, never the prey."
+msgstr "Jūs – medžiotojas, niekada ne grobis."
+
+#: index
+msgid ""
+"<strong class=\"story\">Zero tracking, maximum privacy. </strong>Swajp has no internet permission. Nothing you type or dictate offline can leave your phone. No ads, no analytics. Nothing is learned or stored in password fields."
+msgstr ""
+"<strong class=\"story\">Jokio sekimo, maksimalus privatumas. </strong>Swajp neturi leidimo naudotis internetu. Niekas, ką parašote ar padiktuojate neprisijungę, negali palikti jūsų telefono. Jokių reklamų, jokios analitikos. Slaptažodžių laukuose nieko neišmokstama ir neišsaugoma."
+
+#: index
+msgid "Privacy policy →"
+msgstr "Privatumo politika →"
+
+#: index
+msgid ""
+"<span class=\"o1\">They say when a dragonfly lands on you, change is coming into your life.</span>Let this one land on your fingertips."
+msgstr ""
+"<span class=\"o1\">Sakoma, kad kai ant jūsų nutupia laumžirgis, į jūsų gyvenimą ateina permainos.</span>Leiskite šiam nutūpti ant jūsų pirštų galiukų."
+
+#: languages
+msgid "Swajp – language packs"
+msgstr "Swajp – kalbų paketai"
+
+#: languages
+msgid ""
+"Languages that are not built into the app can be added as a pack. It is a plain zip with a dictionary – nothing gets installed and the app needs no internet for it."
+msgstr ""
+"Kalbas, kurios neįdiegtos programoje, galima pridėti kaip paketą. Tai paprastas zip failas su žodynu – niekas neįdiegiama, o programai tam nereikia interneto."
+
+#: languages
+msgid "How to add a pack"
+msgstr "Kaip pridėti paketą"
+
+#: languages
+msgid ""
+"Download the zip of the language you want. It is saved to your Downloads folder."
+msgstr ""
+"Atsisiųsk norimos kalbos zip failą. Jis išsaugomas aplanke „Atsisiuntimai“."
+
+#: languages
+msgid "Open <b>Swajp → Settings → Languages → More languages (packs)</b>."
+msgstr ""
+"Atidarykite <b>Swajp → Nustatymai → Kalbos → Daugiau kalbų (paketai)</b>."
+
+#: languages
+msgid ""
+"Tap <b>Import language packs (one or more)</b> and choose the downloaded file."
+msgstr ""
+"Bakstelėkite <b>Importuoti kalbų paketus (vieną ar kelis)</b> ir pasirinkite atsisiųstą failą."
+
+#: languages
+msgid "Select the new language as your main or second language."
+msgstr "Pasirinkite naująją kalbą kaip pagrindinę arba antrąją."
+
+#: languages
+msgid "Available languages"
+msgstr "Galimos kalbos"
+
+#: languages
+msgid "Catalan · 89,809 words"
+msgstr "Katalonų · 89 809 žodžiai"
+
+#: languages
+msgid "Danish · 152,106 words"
+msgstr "Danų · 152 106 žodžiai"
+
+#: languages
+msgid "Esperanto · 11,343 words"
+msgstr "Esperanto · 11 343 žodžiai"
+
+#: languages
+msgid "Estonian · 326,938 words"
+msgstr "Estų · 326 938 žodžiai"
+
+#: languages
+msgid "Basque · 53,700 words"
+msgstr "Baskų · 53 700 žodžiai"
+
+#: languages
+msgid "Finnish · 197,333 words"
+msgstr "Suomių · 197 333 žodžiai"
+
+#: languages
+msgid "Galician · 30,624 words"
+msgstr "Galisų · 30 624 žodžiai"
+
+#: languages
+msgid "Hindi (Latin letters or Devanagari) · 52,622 words"
+msgstr "Hindi (lotyniškos raidės arba devanagaris) · 52 622 žodžiai"
+
+#: languages
+msgid "Croatian · 191,499 words"
+msgstr "Kroatų · 191 499 žodžiai"
+
+#: languages
+msgid "Hungarian · 380,920 words"
+msgstr "Vengrų · 380 920 žodžių"
+
+#: languages
+msgid "Indonesian · 75,492 words"
+msgstr "Indoneziečių · 75 492 žodžiai"
+
+#: languages
+msgid "Icelandic · 74,391 words"
+msgstr "Islandų · 74 391 žodžiai"
+
+#: languages
+msgid "Latin · 165,218 words"
+msgstr "Lotynų · 165 218 žodžių"
+
+#: languages
+msgid "Lithuanian · 100,175 words"
+msgstr "Lietuvių · 100 175 žodžiai"
+
+#: languages
+msgid "Latvian · 51,479 words"
+msgstr "Latvių · 51 479 žodžiai"
+
+#: languages
+msgid "Malay · 49,942 words"
+msgstr "Malajų · 49 942 žodžiai"
+
+#: languages
+msgid "Norwegian · 140,318 words"
+msgstr "Norvegų · 140 318 žodžių"
+
+#: languages
+msgid "Dutch · 140,383 words"
+msgstr "Nyderlandų · 140 383 žodžiai"
+
+#: languages
+msgid "Romanian · 119,573 words"
+msgstr "Rumunų · 119 573 žodžiai"
+
+#: languages
+msgid "Slovenian · 182,841 words"
+msgstr "Slovėnų · 182 841 žodis"
+
+#: languages
+msgid "Albanian · 89,152 words"
+msgstr "Albanų · 89 152 žodžiai"
+
+#: languages
+msgid "Serbian · 330,967 words"
+msgstr "Serbų · 330 967 žodžiai"
+
+#: languages
+msgid "Swedish · 153,998 words"
+msgstr "Švedų · 153 998 žodžiai"
+
+#: languages
+msgid "Tagalog · 30,099 words"
+msgstr "Tagalų · 30 099 žodžiai"
+
+#: languages
+msgid "Turkish · 305,078 words"
+msgstr "Turkų · 305 078 žodžiai"
+
+#: languages
+msgid "Vietnamese · 35,303 words"
+msgstr "Vietnamiečių · 35 303 žodžiai"
+
+#: languages
+msgid ""
+"Voice input: the Parakeet model supports most European languages, Omnilingual supports every language listed here, including Latin."
+msgstr ""
+"Balso įvestis: modelis Parakeet palaiko daugumą Europos kalbų, Omnilingual – visas čia išvardytas kalbas, įskaitant lotynų."
+
+#: languages privacy licenses
+msgid "Swajp – keyboard for Android"
+msgstr "Swajp – klaviatūra Android įrenginiams"
+
+#: privacy
+msgid "Swajp – Privacy Policy"
+msgstr "Swajp – privatumo politika"
+
+#: privacy
+msgid "Effective 21 November 2026"
+msgstr "Galioja nuo 2026 m. lapkričio 21 d."
+
+#: privacy
+msgid ""
+"Swajp is an Android keyboard designed so that no data leaves your phone."
+msgstr ""
+"Swajp – tai Android klaviatūra, sukurta taip, kad jokie duomenys nepaliktų jūsų telefono."
+
+#: privacy
+msgid "Internet access"
+msgstr "Prieiga prie interneto"
+
+#: privacy
+msgid ""
+"The app does not have the internet permission, so it cannot send anything you type or say. It contains no ads, analytics or trackers."
+msgstr ""
+"Programa neturi leidimo naudotis internetu, todėl negali išsiųsti nieko, ką rašote ar sakote. Joje nėra reklamų, analitikos ar sekiklių."
+
+#: privacy
+msgid "What is stored and where"
+msgstr "Kas saugoma ir kur"
+
+#: privacy
+msgid ""
+"<b>Learned words, word pairs and swipe traces</b> are stored only in the app's private storage on your phone to improve suggestions."
+msgstr ""
+"<b>Išmokti žodžiai, žodžių poros ir braukimų pėdsakai</b> saugomi tik privačioje programos saugykloje jūsų telefone, kad pasiūlymai būtų geresni."
+
+#: privacy
+msgid ""
+"<b>Clipboard history</b> (if enabled) stays on the phone and is deleted automatically after the chosen time. Text from password fields, text marked sensitive by the system and text that looks like a password or code is never stored."
+msgstr ""
+"<b>Iškarpinės istorija</b> (jei įjungta) lieka telefone ir po pasirinkto laiko automatiškai ištrinama. Tekstas iš slaptažodžių laukų, sistemos pažymėtas kaip konfidencialus tekstas ir tekstas, panašus į slaptažodį ar kodą, niekada neišsaugomas."
+
+#: privacy
+msgid "<b>Settings</b> stay on the phone."
+msgstr "<b>Nustatymai</b> lieka telefone."
+
+#: privacy
+msgid ""
+"Nothing is learned or stored in password fields or in apps that request incognito mode."
+msgstr ""
+"Slaptažodžių laukuose ir programose, kurios reikalauja inkognito režimo, niekas neišmokstama ir neišsaugoma."
+
+#: privacy
+msgid "Microphone and voice input"
+msgstr "Mikrofonas ir balso įvestis"
+
+#: privacy
+msgid "The microphone is used only when you start voice input."
+msgstr "Mikrofonas naudojamas tik tada, kai įjungiate balso įvestį."
+
+#: privacy
+msgid ""
+"<b>Offline models</b> (Parakeet, Omnilingual) convert speech to text on the phone. Audio is not sent anywhere and is not kept."
+msgstr ""
+"<b>Neprisijungus veikiantys modeliai</b> (Parakeet, Omnilingual) kalbą paverčia tekstu pačiame telefone. Įrašas niekur nesiunčiamas ir nesaugomas."
+
+#: privacy
+msgid ""
+"<b>Google recognition</b> (if you choose it) uses the Android system speech recognition service; Google processes the audio under its own policy: <a href=\"https://policies.google.com/privacy\">policies.google.com/privacy</a>. Swajp itself sends nothing."
+msgstr ""
+"<b>Google atpažinimas</b> (jei jį pasirenkate) naudoja Android sistemos kalbos atpažinimo paslaugą; Google įrašą apdoroja pagal savo politiką: <a href=\"https://policies.google.com/privacy\">policies.google.com/privacy</a>. Pati Swajp nieko nesiunčia."
+
+#: privacy
+msgid ""
+"You download voice models yourself in your browser; the app does not need the internet for that."
+msgstr ""
+"Balso modelius atsisiunčiate patys naršyklėje; programai tam internetas nereikalingas."
+
+#: privacy
+msgid "Export and import"
+msgstr "Eksportas ir importas"
+
+#: privacy
+msgid ""
+"A backup is created only on your request, into a file you choose. It is never sent automatically."
+msgstr ""
+"Atsarginė kopija kuriama tik jūsų prašymu, į jūsų pasirinktą failą. Ji niekada nesiunčiama automatiškai."
+
+#: privacy
+msgid "Sharing"
+msgstr "Dalijimasis"
+
+#: privacy
+msgid "Swajp does not sell, share or transfer any data to third parties."
+msgstr ""
+"Swajp neparduoda, nesidalija ir neperduoda jokių duomenų trečiosioms šalims."
+
+#: privacy
+msgid "Deleting data"
+msgstr "Duomenų ištrynimas"
+
+#: privacy
+msgid ""
+"Delete learned data in settings (Learning → “Smazat vše naučené”) or uninstall the app to remove everything."
+msgstr ""
+"Ištrinkite išmoktus duomenis nustatymuose (Žodžiai ir mokymasis → „Ištrinti viską, kas išmokta“) arba pašalinkite programą, kad viskas būtų ištrinta."
+
+#: privacy
+msgid "Children"
+msgstr "Vaikai"
+
+#: privacy
+msgid "The app collects no personal data, including from children."
+msgstr "Programa nerenka jokių asmens duomenų, taip pat ir apie vaikus."
+
+#: privacy
+msgid "Changes and contact"
+msgstr "Pakeitimai ir kontaktai"
+
+#: privacy
+msgid ""
+"Changes will be published on this page. Questions: <a href=\"mailto:swajp.keyboard@gmail.com\">swajp.keyboard@gmail.com</a>"
+msgstr ""
+"Pakeitimai bus skelbiami šiame puslapyje. Klausimai: <a href=\"mailto:swajp.keyboard@gmail.com\">swajp.keyboard@gmail.com</a>"
+
+#: privacy
+msgid "Developer: Aleš Brunner, Czech Republic"
+msgstr "Kūrėjas: Aleš Brunner, Čekija"
+
+#: licenses
+msgid "Swajp – licenses and credits"
+msgstr "Swajp – licencijos ir padėkos"
+
+#: licenses
+msgid "Licenses and credits"
+msgstr "Licencijos ir padėkos"
+
+#: licenses
+msgid "Swajp uses the following data and libraries. Thanks to their authors."
+msgstr "Swajp naudoja šiuos duomenis ir bibliotekas. Dėkojame jų autoriams."
+

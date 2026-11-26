@@ -1,0 +1,565 @@
+# Překlad webu Swajp – Română.  Translation of the Swajp website – Română.
+#
+# msgid = anglický originál (celý odstavec / nadpis / tlačítko), msgstr = překlad.
+# msgid = English original (a whole paragraph / heading / button), msgstr = translation.
+#  • Značky jako <strong>, <em>, <br>, <a href="…">…</a>, <span …> musí v překladu zůstat (text uvnitř se překládá).
+#    Keep HTML tags such as <strong>, <br>, <a href="…">…</a>; translate the text inside them.
+#  • „#, fuzzy“ = nejisté, web to nepoužije (ukáže angličtinu), dokud řádek „#, fuzzy“ nesmažeš.
+#  • Upravovat jde v programu Poedit (zdarma) nebo v textovém editoru. Po nahrání do preklady/ se web sestaví sám.
+msgid ""
+msgstr ""
+"Language: ro-RO\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: index
+msgid "Swajp – Anax Keyboard for Android"
+msgstr "Swajp – Tastatura Anax pentru Android"
+
+#: index (atribut / attribute) languages (atribut / attribute) privacy (atribut / attribute) licenses (atribut / attribute)
+msgid ""
+"Swajp – swipe keyboard for Android, no internet access, offline dictation."
+msgstr ""
+"Swajp – tastatură cu glisare pentru Android, fără acces la internet, dictare offline."
+
+#: index languages privacy licenses
+msgid "Home"
+msgstr "Acasă"
+
+#: index languages privacy licenses
+msgid "Languages"
+msgstr "Limbi"
+
+#: index languages privacy licenses
+msgid "Privacy"
+msgstr "Confidențialitate"
+
+#: index languages privacy licenses
+msgid "Licenses"
+msgstr "Licențe"
+
+#: index
+msgid "Swajp – Anax Keyboard"
+msgstr "Swajp – Tastatura Anax"
+
+#: index
+msgid "A keyboard<br><em>fit for an emperor.</em>"
+msgstr "O tastatură<br><em>pe măsura unui împărat.</em>"
+
+#: index
+msgid "Swift as Anax – the emperor dragonfly.<br>Precise as its hunt."
+msgstr "Iute ca Anax – libelula-împărat.<br>Precisă ca vânătoarea ei."
+
+#: index
+msgid ""
+"<strong class=\"story\">Inspired by Swype. Born as Swajp.</strong> An Android keyboard you type on with a glide of your finger. It guesses words from context, learns your style, and all your data stays on your phone."
+msgstr ""
+"<strong class=\"story\">Inspirată de Swype. Născută ca Swajp.</strong> O tastatură pentru Android pe care scrii glisând degetul. Ghicește cuvintele din context, învață stilul tău, iar toate datele tale rămân în telefon."
+
+#: index
+msgid "Coming soon to Google Play"
+msgstr "În curând pe Google Play"
+
+#: index languages
+msgid "Language packs"
+msgstr "Pachete de limbă"
+
+#: index
+msgid "Features"
+msgstr "Funcții"
+
+#: index
+msgid "Swipe typing"
+msgstr "Tastare prin glisare"
+
+#: index
+msgid "Glide over the letters and the word appears."
+msgstr "Glisează peste litere și cuvântul apare."
+
+#: index
+msgid "Word prediction"
+msgstr "Predicția cuvintelor"
+
+#: index
+msgid "Suggests the next word from what you type."
+msgstr "Sugerează cuvântul următor după ce scrii."
+
+#: index
+msgid "Gestures & text editing"
+msgstr "Gesturi și editare text"
+
+#: index
+msgid "Copy, paste, undo and select with one swipe."
+msgstr "Copiezi, lipești, anulezi și selectezi dintr-o glisare."
+
+#: index
+msgid "Emoji"
+msgstr "Emoji"
+
+#: index
+msgid "Type a word and the emoji flies in."
+msgstr "Scrie un cuvânt și emoji-ul zboară la tine."
+
+#: index
+msgid "Two languages at once, 35 in total."
+msgstr "Două limbi deodată, 35 în total."
+
+#: index
+msgid "Offline dictation"
+msgstr "Dictare offline"
+
+#: index
+msgid "Speech to text right on your phone."
+msgstr "Vorbire transformată în text direct în telefon."
+
+#: index
+msgid "Clipboard history"
+msgstr "Istoric clipboard"
+
+#: index
+msgid "Your last 30 copied texts at hand."
+msgstr "Ultimele 30 de texte copiate la îndemână."
+
+#: index
+msgid "Number pad & calculator"
+msgstr "Tastatură numerică și calculator"
+
+#: index
+msgid "Big digits, a calculator and a scientific one."
+msgstr "Cifre mari, un calculator și unul științific."
+
+#: index
+msgid "Backup"
+msgstr "Copie de rezervă"
+
+#: index
+msgid "Take your learned words to your new phone."
+msgstr "Îți iei cuvintele învățate pe noul telefon."
+
+#: index
+msgid "No internet, no ads, no tracking."
+msgstr "Fără internet, fără reclame, fără urmărire."
+
+#: index
+msgid "Glide over the keys like a dragonfly."
+msgstr "Plutește peste taste ca o libelulă."
+
+#: index (atribut / attribute)
+msgid "Previous"
+msgstr "Anterior"
+
+#: index (atribut / attribute)
+msgid "Next"
+msgstr "Următor"
+
+#: index
+msgid ""
+"No need to tap letter by letter – one stroke across the letters of a word is enough. Swajp recognises the swipe even when it is not perfect, and learns your style so it keeps getting more accurate."
+msgstr ""
+"Nu trebuie să atingi literă cu literă – ajunge o singură glisare peste literele cuvântului. Swajp recunoaște glisarea chiar dacă nu e perfectă și îți învață stilul, așa că devine tot mai precis."
+
+#: index
+msgid "Predicts your next word like a dragonfly predicts its prey."
+msgstr "Îți prevede următorul cuvânt cum prevede libelula zborul prăzii."
+
+#: index
+msgid ""
+"From the words before, it suggests what you are likely to type next, and uses context to tell similar words apart. It learns the words you actually use."
+msgstr ""
+"Din cuvintele anterioare sugerează ce vei scrie probabil în continuare și folosește contextul ca să deosebească și cuvintele asemănătoare. Învață cuvintele pe care le folosești tu."
+
+#: index
+msgid "Rules the air. Now rules your text."
+msgstr "Stăpânește văzduhul. Acum îți stăpânește și textul."
+
+#: index
+msgid ""
+"It flies backwards and forwards too – undo and redo, up to 60 steps. Moving the cursor to select or delete text is as precise as landing on a reed. Copy, paste, cut and select all with a swipe from the Swajp key, change case with a single gesture."
+msgstr ""
+"Zboară și înapoi, și înainte – anulare și refacere, până la 60 de pași. Mutarea cursorului la selectarea sau ștergerea textului e precisă ca o aterizare pe un fir de trestie. Copiezi, lipești, decupezi și selectezi tot cu o glisare de la tasta Swajp, iar literele mari și mici le schimbi cu un singur gest."
+
+#: index
+msgid ""
+"All gestures with demos and practice are in the app: Settings → Gestures and guide."
+msgstr ""
+"Toate gesturile, cu demonstrații și exersare, sunt în aplicație: Setări → Gesturi și ghid."
+
+#: index
+msgid "Catch your emotion mid-air."
+msgstr "Prinde emoția din zbor."
+
+#: index
+msgid ""
+"Swipe or type a word – like “heart”, “beer” or “sad” – and Swajp offers the emoji in the suggestion bar. The :) shortcut works too, or simply pick one from the list."
+msgstr ""
+"Glisează sau scrie un cuvânt – de exemplu „inimă”, „bere” sau „trist” – și Swajp îți oferă emoji-ul în bara de sugestii. Merge și scurtătura :) sau îl alegi pur și simplu din listă."
+
+#: index
+msgid "Born to rule – in 35 languages."
+msgstr "Născută să domnească – în 35 de limbi."
+
+#: index
+msgid ""
+"Type in two languages without switching – the keyboard knows words from both. 9 languages are built in (English in two variants), 26 more can be downloaded as packs."
+msgstr ""
+"Scrie în două limbi fără să comuți – tastatura cunoaște cuvintele din amândouă. 9 limbi sunt incluse în aplicație (engleza în două variante), alte 26 se pot descărca drept pachete."
+
+#: index
+msgid ""
+"<span style=\"color:var(--g)\">Green</span> languages are built in, the others can be <a href=\"languages.html\">downloaded as packs</a>."
+msgstr ""
+"Limbile marcate cu <span style=\"color:var(--g)\">verde</span> sunt incluse, pe celelalte le poți <a href=\"languages.html\">descărca drept pachete</a>."
+
+#: index
+msgid "Hears you. Tells no one."
+msgstr "Te aude. Nu spune nimănui."
+
+#: index
+msgid ""
+"Speech is turned into text right on your phone (Parakeet and Omnilingual models), with no internet. If you like, you can use Google recognition instead. Recognised words are checked against the dictionary."
+msgstr ""
+"Vorbirea se transformă în text direct în telefon (modelele Parakeet și Omnilingual), fără internet. Dacă vrei, poți folosi în schimb recunoașterea Google. Cuvintele recunoscute sunt verificate cu dicționarul."
+
+#: index
+msgid "Remembers your copies. Forgets your secrets."
+msgstr "Îți ține minte copiile. Îți uită secretele."
+
+#: index
+msgid ""
+"Your last 30 copied texts are always at hand. Passwords, codes and text marked as sensitive are never stored, and the history clears itself after the time you choose."
+msgstr ""
+"Ultimele 30 de texte copiate sunt mereu la îndemână. Parolele, codurile și textele marcate ca sensibile nu se salvează niciodată, iar istoricul se șterge singur după timpul ales de tine."
+
+#: index
+msgid "Even sharp minds reach for a calculator."
+msgstr "Și mințile ascuțite apelează la un calculator."
+
+#: index
+msgid ""
+"Big digits for quick entry of phone numbers and amounts. A calculator and a scientific calculator right in the keyboard – no switching apps."
+msgstr ""
+"Cifre mari pentru introducerea rapidă a numerelor de telefon și a sumelor. Un calculator și un calculator științific direct în tastatură – fără să schimbi aplicația."
+
+#: index
+msgid ""
+"A dragonfly can cross the sea. Your learned words and typing style can cross to your new phone."
+msgstr ""
+"O libelulă poate traversa marea. Cuvintele învățate și stilul tău de scriere pot trece pe noul telefon."
+
+#: index
+msgid ""
+"Settings, your own words and everything Swajp has learned from your typing go into a single file – load it on your new phone and Swajp types like yours right away. The file stays with you: nothing goes over the internet or to the cloud."
+msgstr ""
+"Setările, cuvintele tale și tot ce a învățat Swajp din felul în care scrii intră într-un singur fișier – îl încarci pe noul telefon și Swajp scrie imediat ca al tău. Fișierul rămâne la tine: nimic nu trece prin internet sau în cloud."
+
+#: index
+msgid "You’re the hunter, never the prey."
+msgstr "Tu ești vânătorul, niciodată prada."
+
+#: index
+msgid ""
+"<strong class=\"story\">Zero tracking, maximum privacy. </strong>Swajp has no internet permission. Nothing you type or dictate offline can leave your phone. No ads, no analytics. Nothing is learned or stored in password fields."
+msgstr ""
+"<strong class=\"story\">Zero urmărire, confidențialitate maximă. </strong>Swajp nu are permisiunea de acces la internet. Nimic din ce scrii sau dictezi offline nu poate părăsi telefonul. Fără reclame, fără analize. În câmpurile de parolă nu se învață și nu se salvează nimic."
+
+#: index
+msgid "Privacy policy →"
+msgstr "Politica de confidențialitate →"
+
+#: index
+msgid ""
+"<span class=\"o1\">They say when a dragonfly lands on you, change is coming into your life.</span>Let this one land on your fingertips."
+msgstr ""
+"<span class=\"o1\">Se spune că atunci când o libelulă se așază pe tine, în viața ta vine o schimbare.</span>Las-o pe aceasta să se așeze pe vârful degetelor tale."
+
+#: languages
+msgid "Swajp – language packs"
+msgstr "Swajp – pachete de limbă"
+
+#: languages
+msgid ""
+"Languages that are not built into the app can be added as a pack. It is a plain zip with a dictionary – nothing gets installed and the app needs no internet for it."
+msgstr ""
+"Limbile care nu sunt incluse în aplicație se pot adăuga ca pachet. Este o simplă arhivă zip cu un dicționar – nu se instalează nimic, iar aplicația nu are nevoie de internet pentru asta."
+
+#: languages
+msgid "How to add a pack"
+msgstr "Cum adaugi un pachet"
+
+#: languages
+msgid ""
+"Download the zip of the language you want. It is saved to your Downloads folder."
+msgstr "Descarcă zip-ul limbii dorite. Se salvează în folderul Descărcări."
+
+#: languages
+msgid "Open <b>Swajp → Settings → Languages → More languages (packs)</b>."
+msgstr "Deschide <b>Swajp → Setări → Limbi → Mai multe limbi (pachete)</b>."
+
+#: languages
+msgid ""
+"Tap <b>Import language packs (one or more)</b> and choose the downloaded file."
+msgstr ""
+"Atinge <b>Importă pachete de limbă (unul sau mai multe)</b> și alege fișierul descărcat."
+
+#: languages
+msgid "Select the new language as your main or second language."
+msgstr "Alege noua limbă ca limbă principală sau a doua."
+
+#: languages
+msgid "Available languages"
+msgstr "Limbi disponibile"
+
+#: languages
+msgid "Catalan · 89,809 words"
+msgstr "Catalană · 89.809 cuvinte"
+
+#: languages
+msgid "Danish · 152,106 words"
+msgstr "Daneză · 152.106 cuvinte"
+
+#: languages
+msgid "Esperanto · 11,343 words"
+msgstr "Esperanto · 11.343 de cuvinte"
+
+#: languages
+msgid "Estonian · 326,938 words"
+msgstr "Estonă · 326.938 de cuvinte"
+
+#: languages
+msgid "Basque · 53,700 words"
+msgstr "Bască · 53.700 de cuvinte"
+
+#: languages
+msgid "Finnish · 197,333 words"
+msgstr "Finlandeză · 197.333 de cuvinte"
+
+#: languages
+msgid "Galician · 30,624 words"
+msgstr "Galiciană · 30.624 de cuvinte"
+
+#: languages
+msgid "Hindi (Latin letters or Devanagari) · 52,622 words"
+msgstr "Hindi (litere latine sau devanagari) · 52.622 de cuvinte"
+
+#: languages
+msgid "Croatian · 191,499 words"
+msgstr "Croată · 191.499 de cuvinte"
+
+#: languages
+msgid "Hungarian · 380,920 words"
+msgstr "Maghiară · 380.920 de cuvinte"
+
+#: languages
+msgid "Indonesian · 75,492 words"
+msgstr "Indoneziană · 75.492 de cuvinte"
+
+#: languages
+msgid "Icelandic · 74,391 words"
+msgstr "Islandeză · 74.391 de cuvinte"
+
+#: languages
+msgid "Latin · 165,218 words"
+msgstr "Latină · 165.218 cuvinte"
+
+#: languages
+msgid "Lithuanian · 100,175 words"
+msgstr "Lituaniană · 100.175 de cuvinte"
+
+#: languages
+msgid "Latvian · 51,479 words"
+msgstr "Letonă · 51.479 de cuvinte"
+
+#: languages
+msgid "Malay · 49,942 words"
+msgstr "Malaieză · 49.942 de cuvinte"
+
+#: languages
+msgid "Norwegian · 140,318 words"
+msgstr "Norvegiană · 140.318 cuvinte"
+
+#: languages
+msgid "Dutch · 140,383 words"
+msgstr "Neerlandeză · 140.383 de cuvinte"
+
+#: languages
+msgid "Romanian · 119,573 words"
+msgstr "Română · 119.573 de cuvinte"
+
+#: languages
+msgid "Slovenian · 182,841 words"
+msgstr "Slovenă · 182.841 de cuvinte"
+
+#: languages
+msgid "Albanian · 89,152 words"
+msgstr "Albaneză · 89.152 de cuvinte"
+
+#: languages
+msgid "Serbian · 330,967 words"
+msgstr "Sârbă · 330.967 de cuvinte"
+
+#: languages
+msgid "Swedish · 153,998 words"
+msgstr "Suedeză · 153.998 de cuvinte"
+
+#: languages
+msgid "Tagalog · 30,099 words"
+msgstr "Tagalog · 30.099 de cuvinte"
+
+#: languages
+msgid "Turkish · 305,078 words"
+msgstr "Turcă · 305.078 de cuvinte"
+
+#: languages
+msgid "Vietnamese · 35,303 words"
+msgstr "Vietnameză · 35.303 de cuvinte"
+
+#: languages
+msgid ""
+"Voice input: the Parakeet model supports most European languages, Omnilingual supports every language listed here, including Latin."
+msgstr ""
+"Introducere vocală: modelul Parakeet suportă majoritatea limbilor europene, Omnilingual suportă toate limbile de aici, inclusiv latina."
+
+#: languages privacy licenses
+msgid "Swajp – keyboard for Android"
+msgstr "Swajp – tastatură pentru Android"
+
+#: privacy
+msgid "Swajp – Privacy Policy"
+msgstr "Swajp – Politica de confidențialitate"
+
+#: privacy
+msgid "Effective 21 November 2026"
+msgstr "În vigoare din 21 noiembrie 2026"
+
+#: privacy
+msgid ""
+"Swajp is an Android keyboard designed so that no data leaves your phone."
+msgstr ""
+"Swajp este o tastatură pentru Android concepută astfel încât nicio dată să nu părăsească telefonul."
+
+#: privacy
+msgid "Internet access"
+msgstr "Acces la internet"
+
+#: privacy
+msgid ""
+"The app does not have the internet permission, so it cannot send anything you type or say. It contains no ads, analytics or trackers."
+msgstr ""
+"Aplicația nu are permisiunea de internet, deci nu poate trimite nimic din ce scrii sau spui. Nu conține reclame, analize sau instrumente de urmărire."
+
+#: privacy
+msgid "What is stored and where"
+msgstr "Ce se stochează și unde"
+
+#: privacy
+msgid ""
+"<b>Learned words, word pairs and swipe traces</b> are stored only in the app's private storage on your phone to improve suggestions."
+msgstr ""
+"<b>Cuvintele învățate, perechile de cuvinte și traseele glisărilor</b> sunt stocate doar în spațiul privat al aplicației din telefon, pentru a îmbunătăți sugestiile."
+
+#: privacy
+msgid ""
+"<b>Clipboard history</b> (if enabled) stays on the phone and is deleted automatically after the chosen time. Text from password fields, text marked sensitive by the system and text that looks like a password or code is never stored."
+msgstr ""
+"<b>Istoricul clipboardului</b> (dacă este activat) rămâne în telefon și se șterge automat după timpul ales. Textul din câmpurile de parolă, textul marcat de sistem ca sensibil și textul care arată ca o parolă sau un cod nu se salvează niciodată."
+
+#: privacy
+msgid "<b>Settings</b> stay on the phone."
+msgstr "<b>Setările</b> rămân în telefon."
+
+#: privacy
+msgid ""
+"Nothing is learned or stored in password fields or in apps that request incognito mode."
+msgstr ""
+"Nu se învață și nu se salvează nimic în câmpurile de parolă sau în aplicațiile care solicită modul incognito."
+
+#: privacy
+msgid "Microphone and voice input"
+msgstr "Microfon și introducere vocală"
+
+#: privacy
+msgid "The microphone is used only when you start voice input."
+msgstr "Microfonul este folosit doar când pornești introducerea vocală."
+
+#: privacy
+msgid ""
+"<b>Offline models</b> (Parakeet, Omnilingual) convert speech to text on the phone. Audio is not sent anywhere and is not kept."
+msgstr ""
+"<b>Modelele offline</b> (Parakeet, Omnilingual) transformă vorbirea în text direct în telefon. Înregistrarea nu este trimisă nicăieri și nu este păstrată."
+
+#: privacy
+msgid ""
+"<b>Google recognition</b> (if you choose it) uses the Android system speech recognition service; Google processes the audio under its own policy: <a href=\"https://policies.google.com/privacy\">policies.google.com/privacy</a>. Swajp itself sends nothing."
+msgstr ""
+"<b>Recunoașterea Google</b> (dacă o alegi) folosește serviciul de recunoaștere vocală al sistemului Android; Google procesează înregistrarea conform propriei politici: <a href=\"https://policies.google.com/privacy\">policies.google.com/privacy</a>. Swajp însuși nu trimite nimic."
+
+#: privacy
+msgid ""
+"You download voice models yourself in your browser; the app does not need the internet for that."
+msgstr ""
+"Modelele vocale le descarci singur din browser; aplicația nu are nevoie de internet pentru asta."
+
+#: privacy
+msgid "Export and import"
+msgstr "Export și import"
+
+#: privacy
+msgid ""
+"A backup is created only on your request, into a file you choose. It is never sent automatically."
+msgstr ""
+"O copie de rezervă se creează doar la cererea ta, într-un fișier ales de tine. Nu este trimisă niciodată automat."
+
+#: privacy
+msgid "Sharing"
+msgstr "Partajare"
+
+#: privacy
+msgid "Swajp does not sell, share or transfer any data to third parties."
+msgstr "Swajp nu vinde, nu partajează și nu transferă date către terți."
+
+#: privacy
+msgid "Deleting data"
+msgstr "Ștergerea datelor"
+
+#: privacy
+msgid ""
+"Delete learned data in settings (Learning → “Smazat vše naučené”) or uninstall the app to remove everything."
+msgstr ""
+"Șterge datele învățate din setări (Cuvinte și învățare → „Șterge tot ce a învățat”) sau dezinstalează aplicația pentru a elimina totul."
+
+#: privacy
+msgid "Children"
+msgstr "Copii"
+
+#: privacy
+msgid "The app collects no personal data, including from children."
+msgstr "Aplicația nu colectează date personale, inclusiv de la copii."
+
+#: privacy
+msgid "Changes and contact"
+msgstr "Modificări și contact"
+
+#: privacy
+msgid ""
+"Changes will be published on this page. Questions: <a href=\"mailto:swajp.keyboard@gmail.com\">swajp.keyboard@gmail.com</a>"
+msgstr ""
+"Modificările vor fi publicate pe această pagină. Întrebări: <a href=\"mailto:swajp.keyboard@gmail.com\">swajp.keyboard@gmail.com</a>"
+
+#: privacy
+msgid "Developer: Aleš Brunner, Czech Republic"
+msgstr "Dezvoltator: Aleš Brunner, Republica Cehă"
+
+#: licenses
+msgid "Swajp – licenses and credits"
+msgstr "Swajp – licențe și mulțumiri"
+
+#: licenses
+msgid "Licenses and credits"
+msgstr "Licențe și mulțumiri"
+
+#: licenses
+msgid "Swajp uses the following data and libraries. Thanks to their authors."
+msgstr ""
+"Swajp folosește următoarele date și biblioteci. Mulțumim autorilor lor."
+

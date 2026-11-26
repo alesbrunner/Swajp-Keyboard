@@ -1,0 +1,567 @@
+# Překlad webu Swajp – Bahasa Indonesia.  Translation of the Swajp website – Bahasa Indonesia.
+#
+# msgid = anglický originál (celý odstavec / nadpis / tlačítko), msgstr = překlad.
+# msgid = English original (a whole paragraph / heading / button), msgstr = translation.
+#  • Značky jako <strong>, <em>, <br>, <a href="…">…</a>, <span …> musí v překladu zůstat (text uvnitř se překládá).
+#    Keep HTML tags such as <strong>, <br>, <a href="…">…</a>; translate the text inside them.
+#  • „#, fuzzy“ = nejisté, web to nepoužije (ukáže angličtinu), dokud řádek „#, fuzzy“ nesmažeš.
+#  • Upravovat jde v programu Poedit (zdarma) nebo v textovém editoru. Po nahrání do preklady/ se web sestaví sám.
+msgid ""
+msgstr ""
+"Language: id-ID\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: index
+msgid "Swajp – Anax Keyboard for Android"
+msgstr "Swajp – Keyboard Anax untuk Android"
+
+#: index (atribut / attribute) languages (atribut / attribute) privacy (atribut / attribute) licenses (atribut / attribute)
+msgid ""
+"Swajp – swipe keyboard for Android, no internet access, offline dictation."
+msgstr ""
+"Swajp – keyboard geser untuk Android, tanpa akses internet, dikte offline."
+
+#: index languages privacy licenses
+msgid "Home"
+msgstr "Beranda"
+
+#: index languages privacy licenses
+msgid "Languages"
+msgstr "Bahasa"
+
+#: index languages privacy licenses
+msgid "Privacy"
+msgstr "Privasi"
+
+#: index languages privacy licenses
+msgid "Licenses"
+msgstr "Lisensi"
+
+#: index
+msgid "Swajp – Anax Keyboard"
+msgstr "Swajp – Keyboard Anax"
+
+#: index
+msgid "A keyboard<br><em>fit for an emperor.</em>"
+msgstr "Keyboard<br><em>yang layak bagi kaisar.</em>"
+
+#: index
+msgid "Swift as Anax – the emperor dragonfly.<br>Precise as its hunt."
+msgstr "Secepat Anax – sang capung kaisar.<br>Setepat caranya berburu."
+
+#: index
+msgid ""
+"<strong class=\"story\">Inspired by Swype. Born as Swajp.</strong> An Android keyboard you type on with a glide of your finger. It guesses words from context, learns your style, and all your data stays on your phone."
+msgstr ""
+"<strong class=\"story\">Terinspirasi Swype. Lahir sebagai Swajp.</strong> Keyboard Android yang bisa kamu pakai mengetik cukup dengan menggeser jari. Ia menebak kata dari konteks, mempelajari gayamu, dan semua datamu tetap di ponsel."
+
+#: index
+msgid "Coming soon to Google Play"
+msgstr "Segera hadir di Google Play"
+
+#: index languages
+msgid "Language packs"
+msgstr "Paket bahasa"
+
+#: index
+msgid "Features"
+msgstr "Fitur"
+
+#: index
+msgid "Swipe typing"
+msgstr "Ketik geser"
+
+#: index
+msgid "Glide over the letters and the word appears."
+msgstr "Geser jari di atas huruf, katanya langsung muncul."
+
+#: index
+msgid "Word prediction"
+msgstr "Prediksi kata"
+
+#: index
+msgid "Suggests the next word from what you type."
+msgstr "Menyarankan kata berikutnya dari apa yang kamu ketik."
+
+#: index
+msgid "Gestures & text editing"
+msgstr "Gestur & edit teks"
+
+#: index
+msgid "Copy, paste, undo and select with one swipe."
+msgstr "Salin, tempel, urungkan, dan pilih dengan sekali geser."
+
+#: index
+msgid "Emoji"
+msgstr "Emoji"
+
+#: index
+msgid "Type a word and the emoji flies in."
+msgstr "Ketik kata, emojinya langsung terbang datang."
+
+#: index
+msgid "Two languages at once, 35 in total."
+msgstr "Dua bahasa sekaligus, total 35 bahasa."
+
+#: index
+msgid "Offline dictation"
+msgstr "Dikte offline"
+
+#: index
+msgid "Speech to text right on your phone."
+msgstr "Ucapan jadi teks langsung di ponselmu."
+
+#: index
+msgid "Clipboard history"
+msgstr "Riwayat papan klip"
+
+#: index
+msgid "Your last 30 copied texts at hand."
+msgstr "30 teks terakhir yang kamu salin selalu siap."
+
+#: index
+msgid "Number pad & calculator"
+msgstr "Papan angka & kalkulator"
+
+#: index
+msgid "Big digits, a calculator and a scientific one."
+msgstr "Angka besar, kalkulator, dan kalkulator ilmiah."
+
+#: index
+msgid "Backup"
+msgstr "Cadangan"
+
+#: index
+msgid "Take your learned words to your new phone."
+msgstr "Bawa kata-kata yang sudah dipelajari ke ponsel barumu."
+
+#: index
+msgid "No internet, no ads, no tracking."
+msgstr "Tanpa internet, tanpa iklan, tanpa pelacakan."
+
+#: index
+msgid "Glide over the keys like a dragonfly."
+msgstr "Meluncur di atas tombol bagai capung."
+
+#: index (atribut / attribute)
+msgid "Previous"
+msgstr "Sebelumnya"
+
+#: index (atribut / attribute)
+msgid "Next"
+msgstr "Berikutnya"
+
+#: index
+msgid ""
+"No need to tap letter by letter – one stroke across the letters of a word is enough. Swajp recognises the swipe even when it is not perfect, and learns your style so it keeps getting more accurate."
+msgstr ""
+"Tak perlu mengetuk huruf demi huruf – cukup satu gerakan melewati huruf-huruf sebuah kata. Swajp mengenali geseranmu meski tidak sempurna, dan mempelajari gayamu sehingga makin lama makin akurat."
+
+#: index
+msgid "Predicts your next word like a dragonfly predicts its prey."
+msgstr "Menebak kata berikutnya seperti capung menebak gerak mangsanya."
+
+#: index
+msgid ""
+"From the words before, it suggests what you are likely to type next, and uses context to tell similar words apart. It learns the words you actually use."
+msgstr ""
+"Dari kata-kata sebelumnya, Swajp menyarankan apa yang mungkin kamu ketik berikutnya, dan memakai konteks untuk membedakan kata-kata yang mirip. Ia mempelajari kata-kata yang benar-benar kamu pakai."
+
+#: index
+msgid "Rules the air. Now rules your text."
+msgstr "Menguasai udara. Kini menguasai teksmu."
+
+#: index
+msgid ""
+"It flies backwards and forwards too – undo and redo, up to 60 steps. Moving the cursor to select or delete text is as precise as landing on a reed. Copy, paste, cut and select all with a swipe from the Swajp key, change case with a single gesture."
+msgstr ""
+"Ia juga bisa terbang mundur dan maju – urungkan dan ulangi, hingga 60 langkah. Menggeser kursor untuk memilih atau menghapus teks setepat capung mendarat di sebatang ilalang. Salin, tempel, potong, dan pilih semua dengan geseran dari tombol Swajp, ubah huruf besar/kecil dengan satu gestur."
+
+#: index
+msgid ""
+"All gestures with demos and practice are in the app: Settings → Gestures and guide."
+msgstr ""
+"Semua gestur beserta demo dan latihannya ada di aplikasi: Setelan → Gestur dan panduan."
+
+#: index
+msgid "Catch your emotion mid-air."
+msgstr "Tangkap emosimu di udara."
+
+#: index
+msgid ""
+"Swipe or type a word – like “heart”, “beer” or “sad” – and Swajp offers the emoji in the suggestion bar. The :) shortcut works too, or simply pick one from the list."
+msgstr ""
+"Geser atau ketik sebuah kata – misalnya “hati”, “bir”, atau “sedih” – dan Swajp menawarkan emojinya di bilah saran. Pintasan :) juga bisa, atau pilih saja dari daftar."
+
+#: index
+msgid "Born to rule – in 35 languages."
+msgstr "Terlahir untuk berkuasa – dalam 35 bahasa."
+
+#: index
+msgid ""
+"Type in two languages without switching – the keyboard knows words from both. 9 languages are built in (English in two variants), 26 more can be downloaded as packs."
+msgstr ""
+"Ketik dalam dua bahasa tanpa berganti-ganti – keyboard mengenali kata dari keduanya. 9 bahasa sudah tersedia di aplikasi (bahasa Inggris dalam dua varian), 26 lainnya bisa diunduh sebagai paket."
+
+#: index
+msgid ""
+"<span style=\"color:var(--g)\">Green</span> languages are built in, the others can be <a href=\"languages.html\">downloaded as packs</a>."
+msgstr ""
+"Bahasa bertanda <span style=\"color:var(--g)\">hijau</span> sudah tersedia di aplikasi, sisanya bisa <a href=\"languages.html\">diunduh sebagai paket</a>."
+
+#: index
+msgid "Hears you. Tells no one."
+msgstr "Mendengarmu. Tak bercerita pada siapa pun."
+
+#: index
+msgid ""
+"Speech is turned into text right on your phone (Parakeet and Omnilingual models), with no internet. If you like, you can use Google recognition instead. Recognised words are checked against the dictionary."
+msgstr ""
+"Ucapan diubah menjadi teks langsung di ponselmu (model Parakeet dan Omnilingual), tanpa internet. Jika mau, kamu juga bisa memakai pengenalan Google. Kata yang dikenali dicocokkan dengan kamus."
+
+#: index
+msgid "Remembers your copies. Forgets your secrets."
+msgstr "Mengingat salinanmu. Melupakan rahasiamu."
+
+#: index
+msgid ""
+"Your last 30 copied texts are always at hand. Passwords, codes and text marked as sensitive are never stored, and the history clears itself after the time you choose."
+msgstr ""
+"30 teks terakhir yang kamu salin selalu siap dipakai. Kata sandi, kode, dan teks yang ditandai sensitif tidak pernah disimpan, dan riwayat terhapus sendiri setelah waktu yang kamu pilih."
+
+#: index
+msgid "Even sharp minds reach for a calculator."
+msgstr "Otak encer pun butuh kalkulator."
+
+#: index
+msgid ""
+"Big digits for quick entry of phone numbers and amounts. A calculator and a scientific calculator right in the keyboard – no switching apps."
+msgstr ""
+"Angka besar untuk mengetik nomor telepon dan nominal dengan cepat. Kalkulator dan kalkulator ilmiah langsung di keyboard – tanpa berpindah aplikasi."
+
+#: index
+msgid ""
+"A dragonfly can cross the sea. Your learned words and typing style can cross to your new phone."
+msgstr ""
+"Capung sanggup menyeberangi lautan. Kata-kata yang sudah dipelajari dan gaya mengetikmu pun bisa menyeberang ke ponsel barumu."
+
+#: index
+msgid ""
+"Settings, your own words and everything Swajp has learned from your typing go into a single file – load it on your new phone and Swajp types like yours right away. The file stays with you: nothing goes over the internet or to the cloud."
+msgstr ""
+"Setelan, kata-katamu sendiri, dan semua yang dipelajari Swajp dari ketikanmu masuk ke satu file – muat di ponsel barumu dan Swajp langsung mengetik seperti milikmu yang lama. File itu tetap bersamamu: tidak ada yang lewat internet atau ke cloud."
+
+#: index
+msgid "You’re the hunter, never the prey."
+msgstr "Kamu pemburunya, bukan mangsanya."
+
+#: index
+msgid ""
+"<strong class=\"story\">Zero tracking, maximum privacy. </strong>Swajp has no internet permission. Nothing you type or dictate offline can leave your phone. No ads, no analytics. Nothing is learned or stored in password fields."
+msgstr ""
+"<strong class=\"story\">Tanpa pelacakan, privasi maksimal. </strong>Swajp tidak punya izin internet. Apa pun yang kamu ketik atau diktekan secara offline tidak bisa keluar dari ponselmu. Tanpa iklan, tanpa analitik. Di kolom kata sandi tidak ada yang dipelajari atau disimpan."
+
+#: index
+msgid "Privacy policy →"
+msgstr "Kebijakan privasi →"
+
+#: index
+msgid ""
+"<span class=\"o1\">They say when a dragonfly lands on you, change is coming into your life.</span>Let this one land on your fingertips."
+msgstr ""
+"<span class=\"o1\">Konon, jika capung hinggap padamu, perubahan akan datang dalam hidupmu.</span>Biarkan yang satu ini hinggap di ujung jarimu."
+
+#: languages
+msgid "Swajp – language packs"
+msgstr "Swajp – paket bahasa"
+
+#: languages
+msgid ""
+"Languages that are not built into the app can be added as a pack. It is a plain zip with a dictionary – nothing gets installed and the app needs no internet for it."
+msgstr ""
+"Bahasa yang tidak tersedia di aplikasi bisa ditambahkan sebagai paket. Paket itu hanya file zip berisi kamus – tidak ada yang diinstal dan aplikasi tidak butuh internet untuk itu."
+
+#: languages
+msgid "How to add a pack"
+msgstr "Cara menambahkan paket"
+
+#: languages
+msgid ""
+"Download the zip of the language you want. It is saved to your Downloads folder."
+msgstr "Unduh zip bahasa yang kamu inginkan. File disimpan di folder Unduhan."
+
+#: languages
+msgid "Open <b>Swajp → Settings → Languages → More languages (packs)</b>."
+msgstr "Buka <b>Swajp → Setelan → Bahasa → Bahasa lainnya (paket)</b>."
+
+#: languages
+msgid ""
+"Tap <b>Import language packs (one or more)</b> and choose the downloaded file."
+msgstr ""
+"Ketuk <b>Impor paket bahasa (satu atau lebih)</b> lalu pilih file yang diunduh."
+
+#: languages
+msgid "Select the new language as your main or second language."
+msgstr "Pilih bahasa baru sebagai bahasa utama atau kedua."
+
+#: languages
+msgid "Available languages"
+msgstr "Bahasa yang tersedia"
+
+#: languages
+msgid "Catalan · 89,809 words"
+msgstr "Bahasa Katala · 89.809 kata"
+
+#: languages
+msgid "Danish · 152,106 words"
+msgstr "Bahasa Denmark · 152.106 kata"
+
+#: languages
+msgid "Esperanto · 11,343 words"
+msgstr "Esperanto · 11.343 kata"
+
+#: languages
+msgid "Estonian · 326,938 words"
+msgstr "Estonia · 326.938 kata"
+
+#: languages
+msgid "Basque · 53,700 words"
+msgstr "Basque · 53.700 kata"
+
+#: languages
+msgid "Finnish · 197,333 words"
+msgstr "Bahasa Finlandia · 197.333 kata"
+
+#: languages
+msgid "Galician · 30,624 words"
+msgstr "Galisia · 30.624 kata"
+
+#: languages
+msgid "Hindi (Latin letters or Devanagari) · 52,622 words"
+msgstr "Hindi (huruf Latin atau Dewanagari) · 52.622 kata"
+
+#: languages
+msgid "Croatian · 191,499 words"
+msgstr "Bahasa Kroasia · 191.499 kata"
+
+#: languages
+msgid "Hungarian · 380,920 words"
+msgstr "Bahasa Hungaria · 380.920 kata"
+
+#: languages
+msgid "Indonesian · 75,492 words"
+msgstr "Bahasa Indonesia · 75.492 kata"
+
+#: languages
+msgid "Icelandic · 74,391 words"
+msgstr "Islandia · 74.391 kata"
+
+#: languages
+msgid "Latin · 165,218 words"
+msgstr "Bahasa Latin · 165.218 kata"
+
+#: languages
+msgid "Lithuanian · 100,175 words"
+msgstr "Bahasa Lituania · 100.175 kata"
+
+#: languages
+msgid "Latvian · 51,479 words"
+msgstr "Bahasa Latvia · 51.479 kata"
+
+#: languages
+msgid "Malay · 49,942 words"
+msgstr "Bahasa Melayu · 49.942 kata"
+
+#: languages
+msgid "Norwegian · 140,318 words"
+msgstr "Bahasa Norwegia · 140.318 kata"
+
+#: languages
+msgid "Dutch · 140,383 words"
+msgstr "Bahasa Belanda · 140.383 kata"
+
+#: languages
+msgid "Romanian · 119,573 words"
+msgstr "Bahasa Rumania · 119.573 kata"
+
+#: languages
+msgid "Slovenian · 182,841 words"
+msgstr "Bahasa Slovenia · 182.841 kata"
+
+#: languages
+msgid "Albanian · 89,152 words"
+msgstr "Albania · 89.152 kata"
+
+#: languages
+msgid "Serbian · 330,967 words"
+msgstr "Serbia · 330.967 kata"
+
+#: languages
+msgid "Swedish · 153,998 words"
+msgstr "Bahasa Swedia · 153.998 kata"
+
+#: languages
+msgid "Tagalog · 30,099 words"
+msgstr "Tagalog · 30.099 kata"
+
+#: languages
+msgid "Turkish · 305,078 words"
+msgstr "Bahasa Turki · 305.078 kata"
+
+#: languages
+msgid "Vietnamese · 35,303 words"
+msgstr "Vietnam · 35.303 kata"
+
+#: languages
+msgid ""
+"Voice input: the Parakeet model supports most European languages, Omnilingual supports every language listed here, including Latin."
+msgstr ""
+"Input suara: model Parakeet mendukung sebagian besar bahasa Eropa, Omnilingual mendukung semua bahasa di daftar ini, termasuk bahasa Latin."
+
+#: languages privacy licenses
+msgid "Swajp – keyboard for Android"
+msgstr "Swajp – keyboard untuk Android"
+
+#: privacy
+msgid "Swajp – Privacy Policy"
+msgstr "Swajp – Kebijakan Privasi"
+
+#: privacy
+msgid "Effective 21 November 2026"
+msgstr "Berlaku sejak 21 November 2026"
+
+#: privacy
+msgid ""
+"Swajp is an Android keyboard designed so that no data leaves your phone."
+msgstr ""
+"Swajp adalah keyboard Android yang dirancang agar tidak ada data yang keluar dari ponselmu."
+
+#: privacy
+msgid "Internet access"
+msgstr "Akses internet"
+
+#: privacy
+msgid ""
+"The app does not have the internet permission, so it cannot send anything you type or say. It contains no ads, analytics or trackers."
+msgstr ""
+"Aplikasi tidak memiliki izin internet, sehingga tidak bisa mengirim apa pun yang kamu ketik atau ucapkan. Tidak ada iklan, analitik, atau pelacak."
+
+#: privacy
+msgid "What is stored and where"
+msgstr "Apa yang disimpan dan di mana"
+
+#: privacy
+msgid ""
+"<b>Learned words, word pairs and swipe traces</b> are stored only in the app's private storage on your phone to improve suggestions."
+msgstr ""
+"<b>Kata yang dipelajari, pasangan kata, dan jejak geseran</b> hanya disimpan di penyimpanan pribadi aplikasi di ponselmu untuk meningkatkan saran."
+
+#: privacy
+msgid ""
+"<b>Clipboard history</b> (if enabled) stays on the phone and is deleted automatically after the chosen time. Text from password fields, text marked sensitive by the system and text that looks like a password or code is never stored."
+msgstr ""
+"<b>Riwayat papan klip</b> (jika diaktifkan) tetap di ponsel dan terhapus otomatis setelah waktu yang dipilih. Teks dari kolom kata sandi, teks yang ditandai sensitif oleh sistem, dan teks yang tampak seperti kata sandi atau kode tidak pernah disimpan."
+
+#: privacy
+msgid "<b>Settings</b> stay on the phone."
+msgstr "<b>Setelan</b> tetap di ponsel."
+
+#: privacy
+msgid ""
+"Nothing is learned or stored in password fields or in apps that request incognito mode."
+msgstr ""
+"Tidak ada yang dipelajari atau disimpan di kolom kata sandi atau di aplikasi yang meminta mode penyamaran."
+
+#: privacy
+msgid "Microphone and voice input"
+msgstr "Mikrofon dan input suara"
+
+#: privacy
+msgid "The microphone is used only when you start voice input."
+msgstr "Mikrofon hanya digunakan saat kamu memulai input suara."
+
+#: privacy
+msgid ""
+"<b>Offline models</b> (Parakeet, Omnilingual) convert speech to text on the phone. Audio is not sent anywhere and is not kept."
+msgstr ""
+"<b>Model offline</b> (Parakeet, Omnilingual) mengubah ucapan menjadi teks langsung di ponsel. Audio tidak dikirim ke mana pun dan tidak disimpan."
+
+#: privacy
+msgid ""
+"<b>Google recognition</b> (if you choose it) uses the Android system speech recognition service; Google processes the audio under its own policy: <a href=\"https://policies.google.com/privacy\">policies.google.com/privacy</a>. Swajp itself sends nothing."
+msgstr ""
+"<b>Pengenalan Google</b> (jika kamu memilihnya) memakai layanan pengenalan ucapan sistem Android; Google memproses audio sesuai kebijakannya sendiri: <a href=\"https://policies.google.com/privacy\">policies.google.com/privacy</a>. Swajp sendiri tidak mengirim apa pun."
+
+#: privacy
+msgid ""
+"You download voice models yourself in your browser; the app does not need the internet for that."
+msgstr ""
+"Model suara kamu unduh sendiri lewat browser; aplikasinya tidak memerlukan internet untuk itu."
+
+#: privacy
+msgid "Export and import"
+msgstr "Ekspor dan impor"
+
+#: privacy
+msgid ""
+"A backup is created only on your request, into a file you choose. It is never sent automatically."
+msgstr ""
+"Cadangan hanya dibuat atas permintaanmu, ke file yang kamu pilih. Cadangan tidak pernah dikirim secara otomatis."
+
+#: privacy
+msgid "Sharing"
+msgstr "Berbagi data"
+
+#: privacy
+msgid "Swajp does not sell, share or transfer any data to third parties."
+msgstr ""
+"Swajp tidak menjual, membagikan, atau memindahkan data apa pun kepada pihak ketiga."
+
+#: privacy
+msgid "Deleting data"
+msgstr "Menghapus data"
+
+#: privacy
+msgid ""
+"Delete learned data in settings (Learning → “Smazat vše naučené”) or uninstall the app to remove everything."
+msgstr ""
+"Hapus data yang dipelajari di setelan (Kata dan pembelajaran → “Hapus semua yang dipelajari”) atau copot pemasangan aplikasi untuk menghapus semuanya."
+
+#: privacy
+msgid "Children"
+msgstr "Anak-anak"
+
+#: privacy
+msgid "The app collects no personal data, including from children."
+msgstr ""
+"Aplikasi tidak mengumpulkan data pribadi apa pun, termasuk dari anak-anak."
+
+#: privacy
+msgid "Changes and contact"
+msgstr "Perubahan dan kontak"
+
+#: privacy
+msgid ""
+"Changes will be published on this page. Questions: <a href=\"mailto:swajp.keyboard@gmail.com\">swajp.keyboard@gmail.com</a>"
+msgstr ""
+"Perubahan akan dipublikasikan di halaman ini. Pertanyaan: <a href=\"mailto:swajp.keyboard@gmail.com\">swajp.keyboard@gmail.com</a>"
+
+#: privacy
+msgid "Developer: Aleš Brunner, Czech Republic"
+msgstr "Pengembang: Aleš Brunner, Republik Ceko"
+
+#: licenses
+msgid "Swajp – licenses and credits"
+msgstr "Swajp – lisensi dan kredit"
+
+#: licenses
+msgid "Licenses and credits"
+msgstr "Lisensi dan kredit"
+
+#: licenses
+msgid "Swajp uses the following data and libraries. Thanks to their authors."
+msgstr ""
+"Swajp menggunakan data dan pustaka berikut. Terima kasih kepada para pembuatnya."
+

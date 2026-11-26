@@ -1,0 +1,117 @@
+# Texty webu, které se nepřekládají (názvy jazyků v jejich jazyce, e-mail, …). Jeden na řádek.
+0.1 MB
+0.2 MB
+0.3 MB
+0.4 MB
+0.5 MB
+0.6 MB
+0.7 MB
+0.8 MB
+0.9 MB
+1.0 MB
+1.6 MB
+1.7 MB
+1.9 MB
+2.2 MB
+Bahasa Indonesia
+Bahasa Melayu
+CA
+CZ
+Català
+DA
+DE
+Dansk
+Deutsch
+EN
+ES
+ET
+EU
+Eesti
+English
+English (UK)
+English (US)
+Español
+Esperanto
+Euskara
+FI
+FR
+Français
+GL
+Galego
+HI
+HR
+HU
+Hindi हिन्दी (Hinglish)
+Hrvatski
+ID
+IS
+IT
+Italiano
+LT
+LV
+Latina
+Latviešu
+Lietuvių
+MS
+Magyar
+NL
+NO
+Nederlands
+Norsk
+PL
+PT
+Polski
+Português
+RO
+Română
+SK
+SL
+SQ
+SR
+SV
+Shqip
+Slovenčina
+Slovenščina
+Srpski
+Srpski (latinica)
+Suomi
+Svenska
+Swajp
+TL
+TR
+Tagalog
+Tagalog (Filipino)
+Tiếng Việt
+Türkçe
+VI
+ca
+da
+eo
+et
+eu
+fi
+gl
+hi
+hr
+hu
+id
+is
+la
+lt
+lv
+ms
+nb
+nl
+policies.google.com/privacy
+ro
+sl
+sq
+sr
+sv
+swajp.keyboard@gmail.com
+tl
+tr
+vi
+© 2026 Aleš Brunner
+Íslenska
+Čeština

@@ -1,0 +1,564 @@
+# Překlad webu Swajp – Slovenčina.  Translation of the Swajp website – Slovenčina.
+#
+# msgid = anglický originál (celý odstavec / nadpis / tlačítko), msgstr = překlad.
+# msgid = English original (a whole paragraph / heading / button), msgstr = translation.
+#  • Značky jako <strong>, <em>, <br>, <a href="…">…</a>, <span …> musí v překladu zůstat (text uvnitř se překládá).
+#    Keep HTML tags such as <strong>, <br>, <a href="…">…</a>; translate the text inside them.
+#  • „#, fuzzy“ = nejisté, web to nepoužije (ukáže angličtinu), dokud řádek „#, fuzzy“ nesmažeš.
+#  • Upravovat jde v programu Poedit (zdarma) nebo v textovém editoru. Po nahrání do preklady/ se web sestaví sám.
+msgid ""
+msgstr ""
+"Language: sk-SK\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: index
+msgid "Swajp – Anax Keyboard for Android"
+msgstr "Swajp – Anax klávesnica pre Android"
+
+#: index (atribut / attribute) languages (atribut / attribute) privacy (atribut / attribute) licenses (atribut / attribute)
+msgid ""
+"Swajp – swipe keyboard for Android, no internet access, offline dictation."
+msgstr ""
+"Swajp – klávesnica na písanie ťahom pre Android, bez prístupu na internet, offline diktovanie."
+
+#: index languages privacy licenses
+msgid "Home"
+msgstr "Úvod"
+
+#: index languages privacy licenses
+msgid "Languages"
+msgstr "Jazyky"
+
+#: index languages privacy licenses
+msgid "Privacy"
+msgstr "Súkromie"
+
+#: index languages privacy licenses
+msgid "Licenses"
+msgstr "Licencie"
+
+#: index
+msgid "Swajp – Anax Keyboard"
+msgstr "Swajp – Anax klávesnica"
+
+#: index
+msgid "A keyboard<br><em>fit for an emperor.</em>"
+msgstr "Klávesnica<br><em>pre kráľa.</em>"
+
+#: index
+msgid "Swift as Anax – the emperor dragonfly.<br>Precise as its hunt."
+msgstr "Rýchla ako Anax – šidlo veľké.<br>Presná ako jeho lov."
+
+#: index
+msgid ""
+"<strong class=\"story\">Inspired by Swype. Born as Swajp.</strong> An Android keyboard you type on with a glide of your finger. It guesses words from context, learns your style, and all your data stays on your phone."
+msgstr ""
+"<strong class=\"story\">Inšpirovaný Swypom. Zrodený ako Swajp.</strong> Klávesnica pre Android, na ktorej píšeš ťahom prsta. Slová háda podľa kontextu, učí sa tvoj štýl a všetky údaje zostávajú len v telefóne."
+
+#: index
+msgid "Coming soon to Google Play"
+msgstr "Čoskoro na Google Play"
+
+#: index languages
+msgid "Language packs"
+msgstr "Jazykové balíčky"
+
+#: index
+msgid "Features"
+msgstr "Čo vie"
+
+#: index
+msgid "Swipe typing"
+msgstr "Písanie ťahom"
+
+#: index
+msgid "Glide over the letters and the word appears."
+msgstr "Ťahaj prstom po písmenách a slovo sa doplní samo."
+
+#: index
+msgid "Word prediction"
+msgstr "Predvídanie slov"
+
+#: index
+msgid "Suggests the next word from what you type."
+msgstr "Ponúka ďalšie slovo podľa toho, čo píšeš."
+
+#: index
+msgid "Gestures & text editing"
+msgstr "Gestá a práca s textom"
+
+#: index
+msgid "Copy, paste, undo and select with one swipe."
+msgstr "Kopírovanie, vkladanie, späť aj označovanie jedným ťahom."
+
+#: index
+msgid "Emoji"
+msgstr "Smajlíky"
+
+#: index
+msgid "Type a word and the emoji flies in."
+msgstr "Napíš slovo a smajlík priletí."
+
+#: index
+msgid "Two languages at once, 35 in total."
+msgstr "Dva jazyky naraz, spolu 35 jazykov."
+
+#: index
+msgid "Offline dictation"
+msgstr "Offline diktovanie"
+
+#: index
+msgid "Speech to text right on your phone."
+msgstr "Prevod reči na text priamo v telefóne."
+
+#: index
+msgid "Clipboard history"
+msgstr "História schránky"
+
+#: index
+msgid "Your last 30 copied texts at hand."
+msgstr "Posledných 30 skopírovaných textov po ruke."
+
+#: index
+msgid "Number pad & calculator"
+msgstr "Číselná klávesnica a kalkulačka"
+
+#: index
+msgid "Big digits, a calculator and a scientific one."
+msgstr "Veľké čísla, kalkulačka aj vedecká kalkulačka."
+
+#: index
+msgid "Backup"
+msgstr "Záloha"
+
+#: index
+msgid "Take your learned words to your new phone."
+msgstr "Naučené slová si prenesieš do nového telefónu."
+
+#: index
+msgid "No internet, no ads, no tracking."
+msgstr "Bez internetu, bez reklám a sledovania."
+
+#: index
+msgid "Glide over the keys like a dragonfly."
+msgstr "Plachti po klávesoch ako šidlo."
+
+#: index (atribut / attribute)
+msgid "Previous"
+msgstr "Predchádzajúci"
+
+#: index (atribut / attribute)
+msgid "Next"
+msgstr "Ďalší"
+
+#: index
+msgid ""
+"No need to tap letter by letter – one stroke across the letters of a word is enough. Swajp recognises the swipe even when it is not perfect, and learns your style so it keeps getting more accurate."
+msgstr ""
+"Nemusíš ťukať písmeno po písmene – stačí jedným ťahom prejsť cez písmená slova. Swajp ťah rozpozná, aj keď nie je úplne presný, a postupne sa učí tvoj štýl, takže je čoraz presnejší."
+
+#: index
+msgid "Predicts your next word like a dragonfly predicts its prey."
+msgstr "Predvída tvoje ďalšie slovo, ako šidlo predvída let koristi."
+
+#: index
+msgid ""
+"From the words before, it suggests what you are likely to type next, and uses context to tell similar words apart. It learns the words you actually use."
+msgstr ""
+"Podľa predchádzajúcich slov ponúka, čo pravdepodobne napíšeš ďalej, a podľa súvislostí rozlíši aj podobné tvary. Učí sa slová, ktoré používaš ty."
+
+#: index
+msgid "Rules the air. Now rules your text."
+msgstr "Vládne vzduchu. Teraz vládne aj tvojmu textu."
+
+#: index
+msgid ""
+"It flies backwards and forwards too – undo and redo, up to 60 steps. Moving the cursor to select or delete text is as precise as landing on a reed. Copy, paste, cut and select all with a swipe from the Swajp key, change case with a single gesture."
+msgstr ""
+"Vie lietať dozadu aj dopredu – krok späť a znova, až 60 krokov. Posun kurzora pri označovaní a mazaní textu je presný ako pristátie na steble. Kopírovanie, vkladanie, vystrihnutie a označenie všetkého urobíš ťahom z klávesu Swajp, veľkosť písmen zmeníš jedným gestom."
+
+#: index
+msgid ""
+"All gestures with demos and practice are in the app: Settings → Gestures and guide."
+msgstr ""
+"Všetky gestá aj s ukážkami a vyskúšaním nájdeš v aplikácii: Nastavenia → Gestá a sprievodca."
+
+#: index
+msgid "Catch your emotion mid-air."
+msgstr "Zachyť emóciu v lete."
+
+#: index
+msgid ""
+"Swipe or type a word – like “heart”, “beer” or “sad” – and Swajp offers the emoji in the suggestion bar. The :) shortcut works too, or simply pick one from the list."
+msgstr ""
+"Napíš ťahom alebo ťukaním slovo – napríklad „srdce“, „pivo“ alebo „smutný“ – a Swajp ti v lište ponúkne smajlíka. Funguje aj skratka :), alebo si ho jednoducho vyber zo zoznamu."
+
+#: index
+msgid "Born to rule – in 35 languages."
+msgstr "Zrodená vládnuť – v 35 jazykoch."
+
+#: index
+msgid ""
+"Type in two languages without switching – the keyboard knows words from both. 9 languages are built in (English in two variants), 26 more can be downloaded as packs."
+msgstr ""
+"Píš v dvoch jazykoch bez prepínania – klávesnica pozná slová z oboch. 9 jazykov je priamo v aplikácii (angličtina v dvoch variantoch), ďalších 26 si stiahneš ako balíček."
+
+#: index
+msgid ""
+"<span style=\"color:var(--g)\">Green</span> languages are built in, the others can be <a href=\"languages.html\">downloaded as packs</a>."
+msgstr ""
+"<span style=\"color:var(--g)\">Zelené</span> jazyky sú priamo v aplikácii, ostatné si <a href=\"languages.html\">stiahneš ako balíčky</a>."
+
+#: index
+msgid "Hears you. Tells no one."
+msgstr "Počuje ťa. Nikomu to nepovie."
+
+#: index
+msgid ""
+"Speech is turned into text right on your phone (Parakeet and Omnilingual models), with no internet. If you like, you can use Google recognition instead. Recognised words are checked against the dictionary."
+msgstr ""
+"Reč sa prevádza na text priamo v telefóne (modely Parakeet a Omnilingual), bez internetu. Ak chceš, môžeš použiť aj rozpoznávanie Google. Rozpoznané slová sa opravujú podľa slovníka."
+
+#: index
+msgid "Remembers your copies. Forgets your secrets."
+msgstr "Pamätá si, čo skopíruješ. Tajomstvá zabudne."
+
+#: index
+msgid ""
+"Your last 30 copied texts are always at hand. Passwords, codes and text marked as sensitive are never stored, and the history clears itself after the time you choose."
+msgstr ""
+"Posledných 30 skopírovaných textov máš vždy po ruke. Heslá, kódy a texty označené ako citlivé sa neukladajú a história sa sama maže po nastavenom čase."
+
+#: index
+msgid "Even sharp minds reach for a calculator."
+msgstr "Aj bystrej hlave sa kalkulačka zíde."
+
+#: index
+msgid ""
+"Big digits for quick entry of phone numbers and amounts. A calculator and a scientific calculator right in the keyboard – no switching apps."
+msgstr ""
+"Veľké čísla na rýchle zadávanie telefónnych čísel a súm. Kalkulačka aj vedecká kalkulačka sú priamo v klávesnici – bez prepínania do inej aplikácie."
+
+#: index
+msgid ""
+"A dragonfly can cross the sea. Your learned words and typing style can cross to your new phone."
+msgstr ""
+"Šidlo dokáže preletieť aj more. Tvoje naučené slová aj štýl písania môžu preletieť do nového telefónu."
+
+#: index
+msgid ""
+"Settings, your own words and everything Swajp has learned from your typing go into a single file – load it on your new phone and Swajp types like yours right away. The file stays with you: nothing goes over the internet or to the cloud."
+msgstr ""
+"Nastavenia, vlastné slová aj všetko, čo sa Swajp naučil z tvojho písania, uložíš do jedného súboru – v novom telefóne ho načítaš a Swajp tam hneď píše ako ten tvoj. Súbor máš u seba ty: nič nejde cez internet ani do cloudu."
+
+#: index
+msgid "You’re the hunter, never the prey."
+msgstr "Ty si lovec, nikdy korisť."
+
+#: index
+msgid ""
+"<strong class=\"story\">Zero tracking, maximum privacy. </strong>Swajp has no internet permission. Nothing you type or dictate offline can leave your phone. No ads, no analytics. Nothing is learned or stored in password fields."
+msgstr ""
+"<strong class=\"story\">Žiadne sledovanie, maximálne súkromie. </strong>Swajp nemá oprávnenie na prístup na internet. Nič z toho, čo napíšeš alebo nadiktuješ offline, nemôže opustiť telefón. Žiadne reklamy, žiadna analytika. V poliach pre heslo sa nič neučí ani neukladá."
+
+#: index
+msgid "Privacy policy →"
+msgstr "Zásady ochrany súkromia →"
+
+#: index
+msgid ""
+"<span class=\"o1\">They say when a dragonfly lands on you, change is coming into your life.</span>Let this one land on your fingertips."
+msgstr ""
+"<span class=\"o1\">Hovorí sa, že keď na teba sadne vážka, prichádza ti do života zmena.</span>Nechaj túto sadnúť na končeky svojich prstov."
+
+#: languages
+msgid "Swajp – language packs"
+msgstr "Swajp – jazykové balíčky"
+
+#: languages
+msgid ""
+"Languages that are not built into the app can be added as a pack. It is a plain zip with a dictionary – nothing gets installed and the app needs no internet for it."
+msgstr ""
+"Jazyky, ktoré nie sú priamo v aplikácii, pridáš ako balíček. Je to obyčajný zip so slovníkom – nič sa neinštaluje a aplikácia na to nepotrebuje internet."
+
+#: languages
+msgid "How to add a pack"
+msgstr "Ako pridať balíček"
+
+#: languages
+msgid ""
+"Download the zip of the language you want. It is saved to your Downloads folder."
+msgstr "Stiahni zip jazyka, ktorý chceš. Uloží sa do priečinka Stiahnuté."
+
+#: languages
+msgid "Open <b>Swajp → Settings → Languages → More languages (packs)</b>."
+msgstr "Otvor <b>Swajp → Nastavenia → Jazyky → Ďalšie jazyky (balíčky)</b>."
+
+#: languages
+msgid ""
+"Tap <b>Import language packs (one or more)</b> and choose the downloaded file."
+msgstr ""
+"Ťukni na <b>Importovať jazykové balíčky (jeden alebo viac)</b> a vyber stiahnutý súbor."
+
+#: languages
+msgid "Select the new language as your main or second language."
+msgstr "Nový jazyk vyber ako hlavný alebo druhý jazyk."
+
+#: languages
+msgid "Available languages"
+msgstr "Dostupné jazyky"
+
+#: languages
+msgid "Catalan · 89,809 words"
+msgstr "Katalánčina · 89 809 slov"
+
+#: languages
+msgid "Danish · 152,106 words"
+msgstr "Dánčina · 152 106 slov"
+
+#: languages
+msgid "Esperanto · 11,343 words"
+msgstr "Esperanto · 11 343 slov"
+
+#: languages
+msgid "Estonian · 326,938 words"
+msgstr "Estónčina · 326 938 slov"
+
+#: languages
+msgid "Basque · 53,700 words"
+msgstr "Baskičtina · 53 700 slov"
+
+#: languages
+msgid "Finnish · 197,333 words"
+msgstr "Fínčina · 197 333 slov"
+
+#: languages
+msgid "Galician · 30,624 words"
+msgstr "Galícijčina · 30 624 slov"
+
+#: languages
+msgid "Hindi (Latin letters or Devanagari) · 52,622 words"
+msgstr "Hindčina (latinkou aj v dévanágarí) · 52 622 slov"
+
+#: languages
+msgid "Croatian · 191,499 words"
+msgstr "Chorvátčina · 191 499 slov"
+
+#: languages
+msgid "Hungarian · 380,920 words"
+msgstr "Maďarčina · 380 920 slov"
+
+#: languages
+msgid "Indonesian · 75,492 words"
+msgstr "Indonézština · 75 492 slov"
+
+#: languages
+msgid "Icelandic · 74,391 words"
+msgstr "Islandčina · 74 391 slov"
+
+#: languages
+msgid "Latin · 165,218 words"
+msgstr "Latinčina · 165 218 slov"
+
+#: languages
+msgid "Lithuanian · 100,175 words"
+msgstr "Litovčina · 100 175 slov"
+
+#: languages
+msgid "Latvian · 51,479 words"
+msgstr "Lotyština · 51 479 slov"
+
+#: languages
+msgid "Malay · 49,942 words"
+msgstr "Malajčina · 49 942 slov"
+
+#: languages
+msgid "Norwegian · 140,318 words"
+msgstr "Nórčina · 140 318 slov"
+
+#: languages
+msgid "Dutch · 140,383 words"
+msgstr "Holandčina · 140 383 slov"
+
+#: languages
+msgid "Romanian · 119,573 words"
+msgstr "Rumunčina · 119 573 slov"
+
+#: languages
+msgid "Slovenian · 182,841 words"
+msgstr "Slovinčina · 182 841 slov"
+
+#: languages
+msgid "Albanian · 89,152 words"
+msgstr "Albánčina · 89 152 slov"
+
+#: languages
+msgid "Serbian · 330,967 words"
+msgstr "Srbčina · 330 967 slov"
+
+#: languages
+msgid "Swedish · 153,998 words"
+msgstr "Švédčina · 153 998 slov"
+
+#: languages
+msgid "Tagalog · 30,099 words"
+msgstr "Tagalčina · 30 099 slov"
+
+#: languages
+msgid "Turkish · 305,078 words"
+msgstr "Turečtina · 305 078 slov"
+
+#: languages
+msgid "Vietnamese · 35,303 words"
+msgstr "Vietnamčina · 35 303 slov"
+
+#: languages
+msgid ""
+"Voice input: the Parakeet model supports most European languages, Omnilingual supports every language listed here, including Latin."
+msgstr ""
+"Hlasové zadávanie: model Parakeet vie väčšinu európskych jazykov, Omnilingual všetky jazyky v zozname vrátane latinčiny."
+
+#: languages privacy licenses
+msgid "Swajp – keyboard for Android"
+msgstr "Swajp – klávesnica pre Android"
+
+#: privacy
+msgid "Swajp – Privacy Policy"
+msgstr "Swajp – Zásady ochrany súkromia"
+
+#: privacy
+msgid "Effective 21 November 2026"
+msgstr "Platné od 21. 11. 2026"
+
+#: privacy
+msgid ""
+"Swajp is an Android keyboard designed so that no data leaves your phone."
+msgstr ""
+"Swajp je klávesnica pre Android navrhnutá tak, aby žiadne údaje neopúšťali tvoj telefón."
+
+#: privacy
+msgid "Internet access"
+msgstr "Prístup na internet"
+
+#: privacy
+msgid ""
+"The app does not have the internet permission, so it cannot send anything you type or say. It contains no ads, analytics or trackers."
+msgstr ""
+"Aplikácia nemá oprávnenie na prístup na internet, preto nemôže odoslať nič, čo napíšeš alebo povieš. Nepoužíva reklamy, analytiku ani sledovacie nástroje."
+
+#: privacy
+msgid "What is stored and where"
+msgstr "Aké údaje sa ukladajú a kde"
+
+#: privacy
+msgid ""
+"<b>Learned words, word pairs and swipe traces</b> are stored only in the app's private storage on your phone to improve suggestions."
+msgstr ""
+"<b>Naučené slová, slovné spojenia a trasy ťahov</b> sa ukladajú len do súkromného úložiska aplikácie v telefóne, aby sa zlepšovali návrhy."
+
+#: privacy
+msgid ""
+"<b>Clipboard history</b> (if enabled) stays on the phone and is deleted automatically after the chosen time. Text from password fields, text marked sensitive by the system and text that looks like a password or code is never stored."
+msgstr ""
+"<b>História schránky</b> (ak ju zapneš) zostáva len v telefóne a po nastavenom čase sa sama maže. Nikdy sa neukladajú texty z polí pre heslo, texty, ktoré systém označí ako citlivé, ani texty, ktoré vyzerajú ako heslá alebo kódy."
+
+#: privacy
+msgid "<b>Settings</b> stay on the phone."
+msgstr "<b>Nastavenia</b> zostávajú len v telefóne."
+
+#: privacy
+msgid ""
+"Nothing is learned or stored in password fields or in apps that request incognito mode."
+msgstr ""
+"V poliach pre heslo a v aplikáciách, ktoré požadujú anonymný režim, sa nič neučí ani neukladá."
+
+#: privacy
+msgid "Microphone and voice input"
+msgstr "Mikrofón a hlasové zadávanie"
+
+#: privacy
+msgid "The microphone is used only when you start voice input."
+msgstr "Mikrofón sa používa len vo chvíli, keď sám spustíš hlasové zadávanie."
+
+#: privacy
+msgid ""
+"<b>Offline models</b> (Parakeet, Omnilingual) convert speech to text on the phone. Audio is not sent anywhere and is not kept."
+msgstr ""
+"<b>Offline modely</b> (Parakeet, Omnilingual) prevádzajú reč na text priamo v telefóne. Nahrávka sa nikam neodosiela a neuchováva sa."
+
+#: privacy
+msgid ""
+"<b>Google recognition</b> (if you choose it) uses the Android system speech recognition service; Google processes the audio under its own policy: <a href=\"https://policies.google.com/privacy\">policies.google.com/privacy</a>. Swajp itself sends nothing."
+msgstr ""
+"<b>Rozpoznávanie Google</b> (ak ho zvolíš) používa službu rozpoznávania reči systému Android; zvuk vtedy spracúva Google podľa svojich zásad: <a href=\"https://policies.google.com/privacy\">policies.google.com/privacy</a>. Swajp sám nič neodosiela."
+
+#: privacy
+msgid ""
+"You download voice models yourself in your browser; the app does not need the internet for that."
+msgstr ""
+"Hlasové modely si sťahuješ sám cez prehliadač; aplikácia na to internet nepotrebuje."
+
+#: privacy
+msgid "Export and import"
+msgstr "Export a import"
+
+#: privacy
+msgid ""
+"A backup is created only on your request, into a file you choose. It is never sent automatically."
+msgstr ""
+"Zálohu vytvoríš len na vlastnú žiadosť do súboru, ktorý si sám vyberieš. Nikdy sa automaticky neodosiela."
+
+#: privacy
+msgid "Sharing"
+msgstr "Zdieľanie údajov"
+
+#: privacy
+msgid "Swajp does not sell, share or transfer any data to third parties."
+msgstr "Swajp žiadne údaje nepredáva, nezdieľa ani neposkytuje tretím stranám."
+
+#: privacy
+msgid "Deleting data"
+msgstr "Vymazanie údajov"
+
+#: privacy
+msgid ""
+"Delete learned data in settings (Learning → “Smazat vše naučené”) or uninstall the app to remove everything."
+msgstr ""
+"Naučené údaje vymažeš v nastaveniach (Slová a učenie → „Vymazať všetko naučené“) alebo odinštalovaním aplikácie, ktoré vymaže všetko."
+
+#: privacy
+msgid "Children"
+msgstr "Deti"
+
+#: privacy
+msgid "The app collects no personal data, including from children."
+msgstr "Aplikácia nezhromažďuje žiadne osobné údaje, a to ani od detí."
+
+#: privacy
+msgid "Changes and contact"
+msgstr "Zmeny a kontakt"
+
+#: privacy
+msgid ""
+"Changes will be published on this page. Questions: <a href=\"mailto:swajp.keyboard@gmail.com\">swajp.keyboard@gmail.com</a>"
+msgstr ""
+"Zmeny budú zverejnené na tejto stránke. Otázky: <a href=\"mailto:swajp.keyboard@gmail.com\">swajp.keyboard@gmail.com</a>"
+
+#: privacy
+msgid "Developer: Aleš Brunner, Czech Republic"
+msgstr "Prevádzkovateľ: Aleš Brunner, Česká republika"
+
+#: licenses
+msgid "Swajp – licenses and credits"
+msgstr "Swajp – licencie a autori"
+
+#: licenses
+msgid "Licenses and credits"
+msgstr "Licencie a autori"
+
+#: licenses
+msgid "Swajp uses the following data and libraries. Thanks to their authors."
+msgstr "Swajp používa tieto údaje a knižnice. Ďakujeme ich autorom."
+
