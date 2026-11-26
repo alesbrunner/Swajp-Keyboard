@@ -50,7 +50,7 @@ msgstr "Billentyűzet,<br><em>amely császárhoz méltó.</em>"
 #: index
 msgid "Swift as Anax – the emperor dragonfly.<br>Precise as its hunt."
 msgstr ""
-"Gyors, mint az Anax imperator – a „császár” óriás szitakötő.<br>Pontos, mint a vadászata."
+"Gyors, mint az Anax – a zöld óriásacsa, a szitakötők császára.<br>Pontos, mint a vadászata."
 
 #: index
 msgid ""
