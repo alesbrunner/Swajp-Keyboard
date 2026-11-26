@@ -134,6 +134,22 @@ msgid "Big digits, a calculator and a scientific one."
 msgstr "Isot numerot, laskin ja tieteellinen laskin."
 
 #: index
+msgid "Themes &amp; colours"
+msgstr "Teemat ja värit"
+
+#: index
+msgid "Six themes or colours of your own."
+msgstr "Kuusi teemaa tai omat värisi."
+
+#: index
+msgid "Size &amp; layout"
+msgstr "Koko ja asettelu"
+
+#: index
+msgid "Split, one-handed or floating."
+msgstr "Jaettu, yhden käden tai kelluva."
+
+#: index
 msgid "Backup"
 msgstr "Varmuuskopio"
 
@@ -159,9 +175,9 @@ msgstr "Seuraava"
 
 #: index
 msgid ""
-"No need to tap letter by letter – one stroke across the letters of a word is enough. Swajp recognises the swipe even when it is not perfect, and learns your style so it keeps getting more accurate."
+"No need to tap letter by letter – one stroke across the letters of a word is enough. Swajp recognises the swipe even when it is not perfect, and learns your style so it keeps getting more accurate. Words with a similar swipe wait in the suggestion bar – one tap swaps them. For a capital letter, slide from the first letter up above the keyboard and straight on to the next one. A swipe from a letter to the space bar types the character from its corner, such as ? or !"
 msgstr ""
-"Kirjaimia ei tarvitse napauttaa yksi kerrallaan – yksi veto sanan kirjainten yli riittää. Swajp tunnistaa pyyhkäisyn, vaikka se ei olisi täydellinen, ja oppii tyylisi, joten se tarkentuu koko ajan."
+"Kirjaimia ei tarvitse napauttaa yksitellen – yksi veto sanan kirjainten yli riittää. Swajp tunnistaa pyyhkäisyn, vaikka se ei olisi täydellinen, ja oppii tyylisi, joten se tarkentuu jatkuvasti. Samankaltaisella pyyhkäisyllä syntyvät sanat odottavat ehdotuspalkissa – yksi napautus vaihtaa ne. Ison kirjaimen saat, kun liu’ut ensimmäisestä kirjaimesta ylös näppäimistön yläpuolelle ja siitä suoraan seuraavaan. Pyyhkäisy kirjaimesta välilyöntinäppäimeen kirjoittaa kirjaimen kulmassa olevan merkin, kuten ? tai !"
 
 #: index
 msgid "Predicts your next word like a dragonfly predicts its prey."
@@ -169,9 +185,9 @@ msgstr "Ennakoi seuraavan sanasi kuin sudenkorento saaliinsa lennon."
 
 #: index
 msgid ""
-"From the words before, it suggests what you are likely to type next, and uses context to tell similar words apart. It learns the words you actually use."
+"From the words before, it suggests what you are likely to type next – after a space, just tap it. It uses context to tell similar words apart and learns the words you actually use. When you tap out a word with a typo, the bar shows what you typed next to the fix, and the space bar inserts the highlighted fix."
 msgstr ""
-"Edellisten sanojen perusteella se ehdottaa, mitä todennäköisesti kirjoitat seuraavaksi, ja erottaa asiayhteyden avulla samankaltaiset sanat toisistaan. Se oppii sanat, joita oikeasti käytät."
+"Edellisten sanojen perusteella se ehdottaa, mitä todennäköisesti kirjoitat seuraavaksi – välilyönnin jälkeen napauta vain ehdotusta. Se erottaa samankaltaiset sanat asiayhteyden avulla ja oppii sanat, joita oikeasti käytät. Kun näppäilet sanaan kirjoitusvirheen, palkki näyttää kirjoittamasi sanan korjauksen vieressä, ja välilyöntinäppäin lisää korostetun korjauksen."
 
 #: index
 msgid "Rules the air. Now rules your text."
@@ -179,9 +195,9 @@ msgstr "Hallitsee ilmaa. Nyt myös tekstiäsi."
 
 #: index
 msgid ""
-"It flies backwards and forwards too – undo and redo, up to 60 steps. Moving the cursor to select or delete text is as precise as landing on a reed. Copy, paste, cut and select all with a swipe from the Swajp key, change case with a single gesture."
+"It flies backwards and forwards too – Enter → space undoes, Swajp → space redoes, up to 60 steps. Copy, paste, cut or select all with a swipe from the Swajp key to C, V, X or A, and change case with a single gesture. Slide left from ⌫ to delete whole words, or up for whole lines. Double-tap the space bar and slide to move the cursor as precisely as landing on a reed. The [I] key opens editing with arrows, selection, Start and End."
 msgstr ""
-"Se lentää myös taakse- ja eteenpäin – kumoa ja toista, jopa 60 vaihetta. Kohdistimen siirto tekstiä valittaessa tai poistettaessa on tarkkaa kuin laskeutuminen kaislanvarrelle. Kopioi, liitä, leikkaa ja valitse kaikki pyyhkäisyllä Swajp-näppäimestä, vaihda kirjainkoko yhdellä eleellä."
+"Se lentää myös taakse ja eteen – Enter → välilyönti kumoaa, Swajp → välilyönti tekee uudelleen, jopa 60 askelta. Kopioi, liitä, leikkaa tai valitse kaikki pyyhkäisemällä Swajp-näppäimestä kirjaimeen C, V, X tai A, ja vaihda kirjainkoko yhdellä eleellä. Liu’u näppäimestä ⌫ vasemmalle poistaaksesi kokonaisia sanoja tai ylös poistaaksesi kokonaisia rivejä. Kaksoisnapauta välilyöntinäppäintä ja liu’u – kohdistin siirtyy yhtä tarkasti kuin sudenkorento laskeutuu kaislalle. Näppäin [I] avaa muokkauksen, jossa on nuolet, valinta, Alku ja Loppu."
 
 #: index
 msgid ""
@@ -205,9 +221,9 @@ msgstr "Syntynyt hallitsemaan – 35 kielellä."
 
 #: index
 msgid ""
-"Type in two languages without switching – the keyboard knows words from both. 9 languages are built in (English in two variants), 26 more can be downloaded as packs."
+"Type in two languages without switching – the keyboard knows words from both. Tap an unknown word in the bar to add it to the dictionary of one language or both. In Hindi you type in Latin letters (Hinglish) and get Devanagari – or stay with Latin. 9 languages are built in (English in two variants), 26 more can be downloaded as packs."
 msgstr ""
-"Kirjoita kahdella kielellä ilman vaihtamista – näppäimistö tuntee molempien sanat. 9 kieltä on valmiina sovelluksessa (englanti kahtena muunnelmana), 26 muuta voi ladata paketteina."
+"Kirjoita kahdella kielellä vaihtamatta – näppäimistö tuntee molempien kielten sanat. Napauta palkissa tuntematonta sanaa lisätäksesi sen toisen tai molempien kielten sanakirjaan. Hindiä kirjoitat latinalaisin kirjaimin (Hinglish) ja saat devanagaria – tai pysyt latinalaisissa kirjaimissa. Sisäänrakennettuja kieliä on 9 (englanti kahtena versiona), ja 26 muuta voi ladata kielipaketteina."
 
 #: index
 msgid ""
@@ -221,9 +237,9 @@ msgstr "Kuulee sinut. Ei kerro kenellekään."
 
 #: index
 msgid ""
-"Speech is turned into text right on your phone (Parakeet and Omnilingual models), with no internet. If you like, you can use Google recognition instead. Recognised words are checked against the dictionary."
+"Hold the Swajp key and pick the microphone – the text appears as you speak. Speech is turned into text right on your phone (Parakeet and Omnilingual models), with no internet. If you like, you can use Google recognition instead. Recognised words are checked against the dictionary."
 msgstr ""
-"Puhe muunnetaan tekstiksi suoraan puhelimessasi (Parakeet- ja Omnilingual-mallit) ilman internetiä. Halutessasi voit käyttää sen sijaan Googlen tunnistusta. Tunnistetut sanat tarkistetaan sanakirjaa vasten."
+"Pidä Swajp-näppäintä painettuna ja valitse mikrofoni – teksti ilmestyy sitä mukaa kuin puhut. Puhe muunnetaan tekstiksi suoraan puhelimessasi (Parakeet- ja Omnilingual-mallit) ilman internetiä. Halutessasi voit käyttää sen sijaan Googlen tunnistusta. Tunnistetut sanat tarkistetaan sanakirjaa vasten."
 
 #: index
 msgid "Remembers your copies. Forgets your secrets."
@@ -231,9 +247,9 @@ msgstr "Muistaa kopiosi. Unohtaa salaisuutesi."
 
 #: index
 msgid ""
-"Your last 30 copied texts are always at hand. Passwords, codes and text marked as sensitive are never stored, and the history clears itself after the time you choose."
+"Hold Enter and pick the clipboard: your last 30 copied texts are always at hand – tap to paste, pin the ones you want to keep. Passwords, codes and text marked as sensitive are never stored, and the history clears itself after the time you choose."
 msgstr ""
-"Viimeiset 30 kopioimaasi tekstiä ovat aina käden ulottuvilla. Salasanoja, koodeja ja arkaluonteisiksi merkittyjä tekstejä ei koskaan tallenneta, ja historia tyhjenee itsestään valitsemasi ajan kuluttua."
+"Pidä Enteriä painettuna ja valitse leikepöytä: 30 viimeksi kopioimaasi tekstiä on aina käden ulottuvilla – napauta liittääksesi ja kiinnitä ne, jotka haluat säilyttää. Salasanoja, koodeja ja arkaluonteiseksi merkittyä tekstiä ei koskaan tallenneta, ja historia tyhjenee itsestään valitsemasi ajan kuluttua."
 
 #: index
 msgid "Even sharp minds reach for a calculator."
@@ -241,9 +257,73 @@ msgstr "Terävätkin päät tarttuvat laskimeen."
 
 #: index
 msgid ""
-"Big digits for quick entry of phone numbers and amounts. A calculator and a scientific calculator right in the keyboard – no switching apps."
+"Hold the [I] key for the number pad: big digits for quick entry of phone numbers and amounts. The calculator counts right in the suggestion bar and inserts the result into the text. It handles percent (200 + 10 % = 220) and brackets, and the scientific mode adds functions, powers, degrees and radians – no switching apps."
 msgstr ""
-"Isot numerot puhelinnumeroiden ja summien nopeaan syöttämiseen. Laskin ja tieteellinen laskin suoraan näppäimistössä – ei sovelluksen vaihtamista."
+"Pidä [I]-näppäintä painettuna, niin saat numeronäppäimistön: isot numerot puhelinnumeroiden ja summien nopeaan syöttämiseen. Laskin laskee suoraan ehdotuspalkissa ja lisää tuloksen tekstiin. Se osaa prosentit (200 + 10 % = 220) ja sulkeet, ja tieteellinen tila tuo mukaan funktiot, potenssit, asteet ja radiaanit – ilman sovelluksen vaihtamista."
+
+#: index
+msgid "Shimmering colours, like a dragonfly’s wings."
+msgstr "Hohtavat värit kuin sudenkorennon siivet."
+
+#: index
+msgid ""
+"Pick a ready-made theme or set your own colours for the highlight, keys, special keys, background and text. You can also adjust the font size in the suggestion bar, vibration and key sounds."
+msgstr ""
+"Valitse valmis teema tai määritä omat värit korostukselle, näppäimille, erikoisnäppäimille, taustalle ja tekstille. Voit myös säätää ehdotuspalkin fonttikokoa, värinää ja näppäinääniä."
+
+#: index
+msgid "Light green"
+msgstr "Vaaleanvihreä"
+
+#: index
+msgid "Light"
+msgstr "Vaalea"
+
+#: index
+msgid "AMOLED black"
+msgstr "AMOLED-musta"
+
+#: index
+msgid "Blue"
+msgstr "Sininen"
+
+#: index
+msgid "Orange"
+msgstr "Oranssi"
+
+#: index
+msgid "Purple"
+msgstr "Violetti"
+
+#: index
+msgid "Wide wings or narrow – it fits your hand."
+msgstr "Leveät siivet tai kapeat – se mukautuu käteesi."
+
+#: index
+msgid ""
+"Hold the Swajp key and pick Size: drag the handles to change the height, width and position. Tablet splits the letters into two halves for both thumbs, Left and Right make it narrower at the edge for one hand, and Floating lets it hover freely above apps. In landscape the keyboard is lower and split."
+msgstr ""
+"Pidä Swajp-näppäintä painettuna ja valitse Koko: vedä kahvoista muuttaaksesi korkeutta, leveyttä ja sijaintia. Tabletti jakaa kirjaimet kahteen puolikkaaseen molemmille peukaloille, Vasen ja Oikea kaventavat sen reunaan yhdelle kädelle, ja Kelluva antaa sen leijua vapaasti sovellusten päällä. Vaakatilassa näppäimistö on matalampi ja jaettu."
+
+#: index
+msgid "Full"
+msgstr "Täysi"
+
+#: index
+msgid "Tablet"
+msgstr "Tabletti"
+
+#: index
+msgid "Left"
+msgstr "Vasen"
+
+#: index
+msgid "Right"
+msgstr "Oikea"
+
+#: index
+msgid "Floating"
+msgstr "Kelluva"
 
 #: index
 msgid ""

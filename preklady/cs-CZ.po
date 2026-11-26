@@ -134,6 +134,22 @@ msgid "Big digits, a calculator and a scientific one."
 msgstr "Velká čísla, kalkulačka i vědecká kalkulačka."
 
 #: index
+msgid "Themes &amp; colours"
+msgstr "Motivy a barvy"
+
+#: index
+msgid "Six themes or colours of your own."
+msgstr "Šest motivů nebo vlastní barvy."
+
+#: index
+msgid "Size &amp; layout"
+msgstr "Velikost a rozložení"
+
+#: index
+msgid "Split, one-handed or floating."
+msgstr "Rozdělená, pro jednu ruku i plovoucí."
+
+#: index
 msgid "Backup"
 msgstr "Záloha"
 
@@ -159,9 +175,9 @@ msgstr "Další"
 
 #: index
 msgid ""
-"No need to tap letter by letter – one stroke across the letters of a word is enough. Swajp recognises the swipe even when it is not perfect, and learns your style so it keeps getting more accurate."
+"No need to tap letter by letter – one stroke across the letters of a word is enough. Swajp recognises the swipe even when it is not perfect, and learns your style so it keeps getting more accurate. Words with a similar swipe wait in the suggestion bar – one tap swaps them. For a capital letter, slide from the first letter up above the keyboard and straight on to the next one. A swipe from a letter to the space bar types the character from its corner, such as ? or !"
 msgstr ""
-"Nemusíš ťukat písmeno po písmenu – stačí jedním tahem projet přes písmena slova. Swajp tah rozpozná, i když není úplně přesný, a postupně se učí tvůj styl, takže je čím dál přesnější."
+"Nemusíš ťukat písmeno po písmenu – stačí jeden tah přes písmena slova. Swajp tah pozná, i když není dokonalý, a učí se tvůj styl, takže je čím dál přesnější. Slova s podobným tahem čekají v liště návrhů – jedním klepnutím je vyměníš. Velké písmeno napíšeš tak, že z prvního písmene vyjedeš nad klávesnici a odtud rovnou na další. Tah z písmene na mezerník napíše znak z jeho rohu, třeba ? nebo !"
 
 #: index
 msgid "Predicts your next word like a dragonfly predicts its prey."
@@ -169,9 +185,9 @@ msgstr "Předvídá tvé další slovo, jako šídlo předvídá let kořisti."
 
 #: index
 msgid ""
-"From the words before, it suggests what you are likely to type next, and uses context to tell similar words apart. It learns the words you actually use."
+"From the words before, it suggests what you are likely to type next – after a space, just tap it. It uses context to tell similar words apart and learns the words you actually use. When you tap out a word with a typo, the bar shows what you typed next to the fix, and the space bar inserts the highlighted fix."
 msgstr ""
-"Podle předchozích slov nabízí, co pravděpodobně napíšeš dál, a podle souvislostí rozliší i podobné tvary (třeba „ze“ a „že“). Učí se slova, která používáš ty."
+"Podle předchozích slov nabízí, co asi napíšeš dál – po mezeře stačí klepnout. Z kontextu rozliší podobná slova a učí se slova, která opravdu používáš. Když při ťukání uděláš překlep, lišta ukáže napsané slovo vedle opravy a mezerník vloží zvýrazněnou opravu."
 
 #: index
 msgid "Rules the air. Now rules your text."
@@ -179,9 +195,9 @@ msgstr "Vládne vzduchu. Teď vládne i tvému textu."
 
 #: index
 msgid ""
-"It flies backwards and forwards too – undo and redo, up to 60 steps. Moving the cursor to select or delete text is as precise as landing on a reed. Copy, paste, cut and select all with a swipe from the Swajp key, change case with a single gesture."
+"It flies backwards and forwards too – Enter → space undoes, Swajp → space redoes, up to 60 steps. Copy, paste, cut or select all with a swipe from the Swajp key to C, V, X or A, and change case with a single gesture. Slide left from ⌫ to delete whole words, or up for whole lines. Double-tap the space bar and slide to move the cursor as precisely as landing on a reed. The [I] key opens editing with arrows, selection, Start and End."
 msgstr ""
-"Umí létat dozadu i dopředu – krok zpět a znovu, až 60 kroků. Posun kurzoru při označování a mazání textu je přesný jako přistání na stéblu. Kopírování, vkládání, vyjmutí a označení všeho uděláš tahem z klávesy Swajp, velikost písmen změníš jedním gestem."
+"Létá i dozadu a zase dopředu – Enter → mezerník vrátí změnu, Swajp → mezerník ji vrátí zpět, až 60 kroků. Kopírovat, vložit, vyjmout i označit vše tahem z klávesy Swajp na C, V, X nebo A, velikost písmen změníš jediným gestem. Tahem z ⌫ doleva mažeš celá slova, nahoru celé řádky. Dvakrát ťukni na mezerník a táhni – kurzor posuneš přesně jako vážka, když přistává na stéble. Klávesa [I] otevře úpravy se šipkami, označováním, Začátkem a Koncem."
 
 #: index
 msgid ""
@@ -205,9 +221,9 @@ msgstr "Zrozená vládnout – v 35 jazycích."
 
 #: index
 msgid ""
-"Type in two languages without switching – the keyboard knows words from both. 9 languages are built in (English in two variants), 26 more can be downloaded as packs."
+"Type in two languages without switching – the keyboard knows words from both. Tap an unknown word in the bar to add it to the dictionary of one language or both. In Hindi you type in Latin letters (Hinglish) and get Devanagari – or stay with Latin. 9 languages are built in (English in two variants), 26 more can be downloaded as packs."
 msgstr ""
-"Piš ve dvou jazycích bez přepínání – klávesnice pozná slova z obou. 9 jazyků je přímo v aplikaci (angličtina ve dvou variantách), dalších 26 si stáhneš jako balíček."
+"Piš dvěma jazyky bez přepínání – klávesnice zná slova z obou. Klepnutím na neznámé slovo v liště ho přidáš do slovníku jednoho jazyka nebo obou. V hindštině píšeš latinkou (Hinglish) a v textu se objeví dévanágarí – nebo zůstaneš u latinky. 9 jazyků je vestavěných (angličtina ve dvou variantách), dalších 26 si stáhneš jako balíčky."
 
 #: index
 msgid ""
@@ -221,9 +237,9 @@ msgstr "Slyší tě. Nikomu to neřekne."
 
 #: index
 msgid ""
-"Speech is turned into text right on your phone (Parakeet and Omnilingual models), with no internet. If you like, you can use Google recognition instead. Recognised words are checked against the dictionary."
+"Hold the Swajp key and pick the microphone – the text appears as you speak. Speech is turned into text right on your phone (Parakeet and Omnilingual models), with no internet. If you like, you can use Google recognition instead. Recognised words are checked against the dictionary."
 msgstr ""
-"Řeč se převádí na text přímo v telefonu (modely Parakeet a Omnilingual), bez internetu. Pokud chceš, můžeš použít i rozpoznávání Google. Rozpoznaná slova se opravují podle slovníku."
+"Podrž klávesu Swajp a vyber mikrofon – text se píše, jak mluvíš. Řeč se mění na text přímo v telefonu (modely Parakeet a Omnilingual), bez internetu. Když chceš, můžeš místo toho použít rozpoznávání Google. Rozpoznaná slova se ověřují podle slovníku."
 
 #: index
 msgid "Remembers your copies. Forgets your secrets."
@@ -231,9 +247,9 @@ msgstr "Pamatuje si, co zkopíruješ. Tajnosti zapomene."
 
 #: index
 msgid ""
-"Your last 30 copied texts are always at hand. Passwords, codes and text marked as sensitive are never stored, and the history clears itself after the time you choose."
+"Hold Enter and pick the clipboard: your last 30 copied texts are always at hand – tap to paste, pin the ones you want to keep. Passwords, codes and text marked as sensitive are never stored, and the history clears itself after the time you choose."
 msgstr ""
-"Posledních 30 zkopírovaných textů máš po ruce. Hesla, kódy a texty označené jako citlivé se neukládají a historie se sama maže po nastavené době."
+"Podrž Enter a vyber schránku: posledních 30 zkopírovaných textů máš vždy po ruce – klepnutím vložíš, špendlíkem připneš ty, které chceš nechat. Hesla, kódy a text označený jako citlivý se nikdy neukládají a historie se sama smaže po době, kterou si zvolíš."
 
 #: index
 msgid "Even sharp minds reach for a calculator."
@@ -241,9 +257,73 @@ msgstr "I bystré hlavě se kalkulačka hodí."
 
 #: index
 msgid ""
-"Big digits for quick entry of phone numbers and amounts. A calculator and a scientific calculator right in the keyboard – no switching apps."
+"Hold the [I] key for the number pad: big digits for quick entry of phone numbers and amounts. The calculator counts right in the suggestion bar and inserts the result into the text. It handles percent (200 + 10 % = 220) and brackets, and the scientific mode adds functions, powers, degrees and radians – no switching apps."
 msgstr ""
-"Velká čísla pro rychlé zadávání telefonních čísel a částek. Kalkulačka i vědecká kalkulačka jsou přímo v klávesnici – bez přepínání do jiné aplikace."
+"Podrž klávesu [I] a máš číselník: velká čísla pro rychlé zadání telefonních čísel a částek. Kalkulačka počítá rovnou v liště návrhů a výsledek vloží do textu. Zvládne procenta (200 + 10 % = 220) i závorky a vědecký režim přidá funkce, mocniny, stupně a radiány – bez přepínání aplikací."
+
+#: index
+msgid "Shimmering colours, like a dragonfly’s wings."
+msgstr "Barvy se třpytí jako křídla vážky."
+
+#: index
+msgid ""
+"Pick a ready-made theme or set your own colours for the highlight, keys, special keys, background and text. You can also adjust the font size in the suggestion bar, vibration and key sounds."
+msgstr ""
+"Vyber hotový motiv, nebo si nastav vlastní barvy zvýraznění, kláves, speciálních kláves, pozadí a písma. Upravit jde i velikost písma v liště návrhů, vibrace a zvuky kláves."
+
+#: index
+msgid "Light green"
+msgstr "Světle zelený"
+
+#: index
+msgid "Light"
+msgstr "Světlý"
+
+#: index
+msgid "AMOLED black"
+msgstr "AMOLED černý"
+
+#: index
+msgid "Blue"
+msgstr "Modrý"
+
+#: index
+msgid "Orange"
+msgstr "Oranžový"
+
+#: index
+msgid "Purple"
+msgstr "Fialový"
+
+#: index
+msgid "Wide wings or narrow – it fits your hand."
+msgstr "Široká křídla, nebo úzká – přizpůsobí se tvé ruce."
+
+#: index
+msgid ""
+"Hold the Swajp key and pick Size: drag the handles to change the height, width and position. Tablet splits the letters into two halves for both thumbs, Left and Right make it narrower at the edge for one hand, and Floating lets it hover freely above apps. In landscape the keyboard is lower and split."
+msgstr ""
+"Podrž klávesu Swajp a vyber Velikost: tahem za úchyty změníš výšku, šířku i polohu. Tablet rozdělí písmena na dvě poloviny pro oba palce, Vlevo a Vpravo ji zúží k okraji pro jednu ruku a Plovoucí se volně vznáší nad aplikacemi. Naležato je klávesnice nižší a rozdělená."
+
+#: index
+msgid "Full"
+msgstr "Celá"
+
+#: index
+msgid "Tablet"
+msgstr "Tablet"
+
+#: index
+msgid "Left"
+msgstr "Vlevo"
+
+#: index
+msgid "Right"
+msgstr "Vpravo"
+
+#: index
+msgid "Floating"
+msgstr "Plovoucí"
 
 #: index
 msgid ""

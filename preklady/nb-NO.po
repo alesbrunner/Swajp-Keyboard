@@ -135,6 +135,22 @@ msgid "Big digits, a calculator and a scientific one."
 msgstr "Store sifre, en kalkulator og en vitenskapelig kalkulator."
 
 #: index
+msgid "Themes &amp; colours"
+msgstr "Temaer og farger"
+
+#: index
+msgid "Six themes or colours of your own."
+msgstr "Seks temaer eller dine egne farger."
+
+#: index
+msgid "Size &amp; layout"
+msgstr "Størrelse og oppsett"
+
+#: index
+msgid "Split, one-handed or floating."
+msgstr "Delt, for én hånd eller flytende."
+
+#: index
 msgid "Backup"
 msgstr "Sikkerhetskopi"
 
@@ -160,9 +176,9 @@ msgstr "Neste"
 
 #: index
 msgid ""
-"No need to tap letter by letter – one stroke across the letters of a word is enough. Swajp recognises the swipe even when it is not perfect, and learns your style so it keeps getting more accurate."
+"No need to tap letter by letter – one stroke across the letters of a word is enough. Swajp recognises the swipe even when it is not perfect, and learns your style so it keeps getting more accurate. Words with a similar swipe wait in the suggestion bar – one tap swaps them. For a capital letter, slide from the first letter up above the keyboard and straight on to the next one. A swipe from a letter to the space bar types the character from its corner, such as ? or !"
 msgstr ""
-"Du trenger ikke trykke bokstav for bokstav – ett strøk over bokstavene i et ord er nok. Swajp gjenkjenner sveipet selv når det ikke er perfekt, og lærer stilen din, så det blir stadig mer presist."
+"Du trenger ikke trykke bokstav for bokstav – ett strøk over bokstavene i ordet er nok. Swajp kjenner igjen sveipet selv når det ikke er perfekt, og lærer stilen din, så det blir stadig mer treffsikkert. Ord med lignende sveip venter i forslagslinjen – ett trykk bytter dem. For stor bokstav drar du fra den første bokstaven opp over tastaturet og rett videre til den neste. Et sveip fra en bokstav til mellomromstasten skriver tegnet i bokstavens hjørne, for eksempel ? eller !"
 
 #: index
 msgid "Predicts your next word like a dragonfly predicts its prey."
@@ -170,9 +186,9 @@ msgstr "Forutser ditt neste ord slik en øyenstikker forutser byttet sitt."
 
 #: index
 msgid ""
-"From the words before, it suggests what you are likely to type next, and uses context to tell similar words apart. It learns the words you actually use."
+"From the words before, it suggests what you are likely to type next – after a space, just tap it. It uses context to tell similar words apart and learns the words you actually use. When you tap out a word with a typo, the bar shows what you typed next to the fix, and the space bar inserts the highlighted fix."
 msgstr ""
-"Ut fra de foregående ordene foreslår det hva du sannsynligvis skriver videre, og bruker sammenhengen til å skille like ord fra hverandre. Det lærer ordene du faktisk bruker."
+"Ut fra ordene foran foreslår det hva du sannsynligvis skriver nå – etter et mellomrom trykker du bare på forslaget. Det bruker sammenhengen til å skille like ord fra hverandre og lærer ordene du faktisk bruker. Når du taster et ord med skrivefeil, viser linjen det du skrev, ved siden av rettelsen, og mellomromstasten setter inn den uthevede rettelsen."
 
 #: index
 msgid "Rules the air. Now rules your text."
@@ -180,9 +196,9 @@ msgstr "Hersker over luften. Nå også over teksten din."
 
 #: index
 msgid ""
-"It flies backwards and forwards too – undo and redo, up to 60 steps. Moving the cursor to select or delete text is as precise as landing on a reed. Copy, paste, cut and select all with a swipe from the Swajp key, change case with a single gesture."
+"It flies backwards and forwards too – Enter → space undoes, Swajp → space redoes, up to 60 steps. Copy, paste, cut or select all with a swipe from the Swajp key to C, V, X or A, and change case with a single gesture. Slide left from ⌫ to delete whole words, or up for whole lines. Double-tap the space bar and slide to move the cursor as precisely as landing on a reed. The [I] key opens editing with arrows, selection, Start and End."
 msgstr ""
-"Den flyr både bakover og forover – angre og gjør om, opptil 60 trinn. Å flytte markøren for å merke eller slette tekst er like presist som å lande på et siv. Kopier, lim inn, klipp ut og merk alt med et sveip fra Swajp-tasten, og bytt mellom store og små bokstaver med én gest."
+"Det flyr også bakover og fremover – Enter → mellomrom angrer, Swajp → mellomrom gjør om, opptil 60 trinn. Kopier, lim inn, klipp ut eller merk alt med et sveip fra Swajp-tasten til C, V, X eller A, og bytt mellom store og små bokstaver med én enkelt bevegelse. Dra mot venstre fra ⌫ for å slette hele ord, eller opp for hele linjer. Dobbelttrykk på mellomromstasten og dra for å flytte markøren like presist som en øyenstikker som lander på et siv. Tasten [I] åpner redigering med piler, merking, Start og Slutt."
 
 #: index
 msgid ""
@@ -206,9 +222,9 @@ msgstr "Født til å herske – på 35 språk."
 
 #: index
 msgid ""
-"Type in two languages without switching – the keyboard knows words from both. 9 languages are built in (English in two variants), 26 more can be downloaded as packs."
+"Type in two languages without switching – the keyboard knows words from both. Tap an unknown word in the bar to add it to the dictionary of one language or both. In Hindi you type in Latin letters (Hinglish) and get Devanagari – or stay with Latin. 9 languages are built in (English in two variants), 26 more can be downloaded as packs."
 msgstr ""
-"Skriv på to språk uten å bytte – tastaturet kjenner ordene fra begge. 9 språk er innebygd (engelsk i to varianter), 26 til kan lastes ned som pakker."
+"Skriv på to språk uten å bytte – tastaturet kjenner ord fra begge. Trykk på et ukjent ord i linjen for å legge det til i ordboken for ett av språkene eller begge. På hindi skriver du med latinske bokstaver (Hinglish) og får devanagari – eller holder deg til latinske. 9 språk er innebygd (engelsk i to varianter), og 26 til kan lastes ned som språkpakker."
 
 #: index
 msgid ""
@@ -222,9 +238,9 @@ msgstr "Hører deg. Sladrer ikke."
 
 #: index
 msgid ""
-"Speech is turned into text right on your phone (Parakeet and Omnilingual models), with no internet. If you like, you can use Google recognition instead. Recognised words are checked against the dictionary."
+"Hold the Swajp key and pick the microphone – the text appears as you speak. Speech is turned into text right on your phone (Parakeet and Omnilingual models), with no internet. If you like, you can use Google recognition instead. Recognised words are checked against the dictionary."
 msgstr ""
-"Tale gjøres om til tekst direkte på telefonen (modellene Parakeet og Omnilingual), uten internett. Hvis du vil, kan du bruke Googles talegjenkjenning i stedet. Gjenkjente ord sjekkes mot ordboken."
+"Hold inne Swajp-tasten og velg mikrofonen – teksten dukker opp mens du snakker. Tale gjøres om til tekst direkte på telefonen (modellene Parakeet og Omnilingual), uten internett. Hvis du vil, kan du bruke Googles talegjenkjenning i stedet. Gjenkjente ord sjekkes mot ordboken."
 
 #: index
 msgid "Remembers your copies. Forgets your secrets."
@@ -232,9 +248,9 @@ msgstr "Husker det du kopierer. Glemmer hemmelighetene dine."
 
 #: index
 msgid ""
-"Your last 30 copied texts are always at hand. Passwords, codes and text marked as sensitive are never stored, and the history clears itself after the time you choose."
+"Hold Enter and pick the clipboard: your last 30 copied texts are always at hand – tap to paste, pin the ones you want to keep. Passwords, codes and text marked as sensitive are never stored, and the history clears itself after the time you choose."
 msgstr ""
-"De siste 30 kopierte tekstene er alltid for hånden. Passord, koder og tekst merket som sensitiv lagres aldri, og historikken tømmer seg selv etter tiden du velger."
+"Hold inne Enter og velg utklippstavlen: de 30 siste tekstene du har kopiert, er alltid for hånden – trykk for å lime inn, fest dem du vil beholde. Passord, koder og tekst som er merket som sensitiv, lagres aldri, og historikken tømmes av seg selv etter tiden du velger."
 
 #: index
 msgid "Even sharp minds reach for a calculator."
@@ -242,9 +258,73 @@ msgstr "Selv skarpe hoder trenger en kalkulator."
 
 #: index
 msgid ""
-"Big digits for quick entry of phone numbers and amounts. A calculator and a scientific calculator right in the keyboard – no switching apps."
+"Hold the [I] key for the number pad: big digits for quick entry of phone numbers and amounts. The calculator counts right in the suggestion bar and inserts the result into the text. It handles percent (200 + 10 % = 220) and brackets, and the scientific mode adds functions, powers, degrees and radians – no switching apps."
 msgstr ""
-"Store sifre for rask inntasting av telefonnumre og beløp. En kalkulator og en vitenskapelig kalkulator rett i tastaturet – uten å bytte app."
+"Hold inne tasten [I] for talltastaturet: store sifre for rask inntasting av telefonnumre og beløp. Kalkulatoren regner rett i forslagslinjen og setter inn resultatet i teksten. Den håndterer prosent (200 + 10 % = 220) og parenteser, og den vitenskapelige modusen legger til funksjoner, potenser, grader og radianer – uten å bytte app."
+
+#: index
+msgid "Shimmering colours, like a dragonfly’s wings."
+msgstr "Skimrende farger, som en øyenstikkers vinger."
+
+#: index
+msgid ""
+"Pick a ready-made theme or set your own colours for the highlight, keys, special keys, background and text. You can also adjust the font size in the suggestion bar, vibration and key sounds."
+msgstr ""
+"Velg et ferdig tema eller still inn egne farger for utheving, taster, spesialtaster, bakgrunn og tekst. Du kan også justere skriftstørrelsen i forslagslinjen, vibrasjon og tastelyder."
+
+#: index
+msgid "Light green"
+msgstr "Lysegrønt"
+
+#: index
+msgid "Light"
+msgstr "Lyst"
+
+#: index
+msgid "AMOLED black"
+msgstr "AMOLED-svart"
+
+#: index
+msgid "Blue"
+msgstr "Blått"
+
+#: index
+msgid "Orange"
+msgstr "Oransje"
+
+#: index
+msgid "Purple"
+msgstr "Lilla"
+
+#: index
+msgid "Wide wings or narrow – it fits your hand."
+msgstr "Brede vinger eller smale – det tilpasser seg hånden din."
+
+#: index
+msgid ""
+"Hold the Swajp key and pick Size: drag the handles to change the height, width and position. Tablet splits the letters into two halves for both thumbs, Left and Right make it narrower at the edge for one hand, and Floating lets it hover freely above apps. In landscape the keyboard is lower and split."
+msgstr ""
+"Hold inne Swajp-tasten og velg Størrelse: dra i håndtakene for å endre høyde, bredde og plassering. Nettbrett deler bokstavene i to halvdeler for begge tomlene, Venstre og Høyre gjør det smalere ved kanten for én hånd, og Flytende lar det sveve fritt over apper. I liggende modus er tastaturet lavere og delt."
+
+#: index
+msgid "Full"
+msgstr "Full"
+
+#: index
+msgid "Tablet"
+msgstr "Nettbrett"
+
+#: index
+msgid "Left"
+msgstr "Venstre"
+
+#: index
+msgid "Right"
+msgstr "Høyre"
+
+#: index
+msgid "Floating"
+msgstr "Flytende"
 
 #: index
 msgid ""

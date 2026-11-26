@@ -134,6 +134,22 @@ msgid "Big digits, a calculator and a scientific one."
 msgstr "Lieli cipari, kalkulators un arī zinātniskais."
 
 #: index
+msgid "Themes &amp; colours"
+msgstr "Motīvi un krāsas"
+
+#: index
+msgid "Six themes or colours of your own."
+msgstr "Seši motīvi vai paša izvēlētas krāsas."
+
+#: index
+msgid "Size &amp; layout"
+msgstr "Izmērs un izkārtojums"
+
+#: index
+msgid "Split, one-handed or floating."
+msgstr "Sadalīta, vienai rokai vai peldoša."
+
+#: index
 msgid "Backup"
 msgstr "Dublējums"
 
@@ -159,9 +175,9 @@ msgstr "Nākamais"
 
 #: index
 msgid ""
-"No need to tap letter by letter – one stroke across the letters of a word is enough. Swajp recognises the swipe even when it is not perfect, and learns your style so it keeps getting more accurate."
+"No need to tap letter by letter – one stroke across the letters of a word is enough. Swajp recognises the swipe even when it is not perfect, and learns your style so it keeps getting more accurate. Words with a similar swipe wait in the suggestion bar – one tap swaps them. For a capital letter, slide from the first letter up above the keyboard and straight on to the next one. A swipe from a letter to the space bar types the character from its corner, such as ? or !"
 msgstr ""
-"Nav jāpieskaras burtam pēc burta – pietiek ar vienu vilkumu pāri vārda burtiem. Swajp atpazīst vilkumu, pat ja tas nav pilnīgi precīzs, un mācās tavu stilu, tāpēc kļūst arvien precīzāks."
+"Nav jāpieskaras burtam pēc burta – pietiek ar vienu vilkumu pāri vārda burtiem. Swajp atpazīst vilkumu arī tad, ja tas nav perfekts, un mācās tavu stilu, tāpēc precizitāte arvien uzlabojas. Vārdi ar līdzīgu vilkumu gaida ieteikumu joslā – viens pieskāriens tos samaina. Lai uzrakstītu lielo burtu, velc no pirmā burta uz augšu virs tastatūras un tad uzreiz uz nākamo. Vilkums no burta uz atstarpes taustiņu ieraksta rakstzīmi no burta stūra, piemēram, ? vai !"
 
 #: index
 msgid "Predicts your next word like a dragonfly predicts its prey."
@@ -169,9 +185,9 @@ msgstr "Paredz tavu nākamo vārdu, kā spāre paredz medījuma lidojumu."
 
 #: index
 msgid ""
-"From the words before, it suggests what you are likely to type next, and uses context to tell similar words apart. It learns the words you actually use."
+"From the words before, it suggests what you are likely to type next – after a space, just tap it. It uses context to tell similar words apart and learns the words you actually use. When you tap out a word with a typo, the bar shows what you typed next to the fix, and the space bar inserts the highlighted fix."
 msgstr ""
-"Pēc iepriekšējiem vārdiem tā piedāvā, ko tu visticamāk rakstīsi tālāk, un pēc konteksta atšķir līdzīgus vārdus. Tā mācās vārdus, kurus tu patiešām lieto."
+"Pēc iepriekšējiem vārdiem tastatūra iesaka, ko tu, visticamāk, rakstīsi tālāk – pēc atstarpes tikai pieskaries. Pēc konteksta tā atšķir līdzīgus vārdus un mācās vārdus, ko tu patiešām lieto. Ja, rakstot ar pieskārieniem, vārdā ielaižas drukas kļūda, josla parāda uzrakstīto blakus labojumam, un atstarpes taustiņš ievieto iezīmēto labojumu."
 
 #: index
 msgid "Rules the air. Now rules your text."
@@ -179,9 +195,9 @@ msgstr "Valda gaisā. Tagad valda arī tavā tekstā."
 
 #: index
 msgid ""
-"It flies backwards and forwards too – undo and redo, up to 60 steps. Moving the cursor to select or delete text is as precise as landing on a reed. Copy, paste, cut and select all with a swipe from the Swajp key, change case with a single gesture."
+"It flies backwards and forwards too – Enter → space undoes, Swajp → space redoes, up to 60 steps. Copy, paste, cut or select all with a swipe from the Swajp key to C, V, X or A, and change case with a single gesture. Slide left from ⌫ to delete whole words, or up for whole lines. Double-tap the space bar and slide to move the cursor as precisely as landing on a reed. The [I] key opens editing with arrows, selection, Start and End."
 msgstr ""
-"Tā prot lidot arī atpakaļ un uz priekšu – atsaukt un atkārtot, līdz 60 soļiem. Kursora pārvietošana, lai atlasītu vai dzēstu tekstu, ir precīza kā nolaišanās uz niedres. Kopē, ielīmē, izgriez un atlasi visu ar vilkumu no taustiņa Swajp, burtu lielumu maini ar vienu žestu."
+"Tā lido arī atpakaļ un uz priekšu – Enter → atstarpe atsauc, Swajp → atstarpe atkārto, līdz 60 soļiem. Kopē, ielīmē, izgriez vai atlasi visu ar vilkumu no Swajp taustiņa uz C, V, X vai A, un maini burtu reģistru ar vienu žestu. Velc no ⌫ pa kreisi, lai dzēstu veselus vārdus, vai uz augšu – veselas rindas. Divreiz pieskaries atstarpes taustiņam un velc – kursors pārvietosies tik precīzi kā spāre, kas nolaižas uz niedres. Taustiņš [I] atver rediģēšanu ar bultiņām, atlasi, Sākumu un Beigām."
 
 #: index
 msgid ""
@@ -205,9 +221,9 @@ msgstr "Dzimusi valdīt – 35 valodās."
 
 #: index
 msgid ""
-"Type in two languages without switching – the keyboard knows words from both. 9 languages are built in (English in two variants), 26 more can be downloaded as packs."
+"Type in two languages without switching – the keyboard knows words from both. Tap an unknown word in the bar to add it to the dictionary of one language or both. In Hindi you type in Latin letters (Hinglish) and get Devanagari – or stay with Latin. 9 languages are built in (English in two variants), 26 more can be downloaded as packs."
 msgstr ""
-"Raksti divās valodās bez pārslēgšanas – tastatūra pazīst vārdus no abām. 9 valodas ir iebūvētas (angļu divos variantos), vēl 26 var lejupielādēt kā pakotnes."
+"Raksti divās valodās bez pārslēgšanas – tastatūra zina abu valodu vārdus. Pieskaries nezināmam vārdam joslā, lai pievienotu to vienas vai abu valodu vārdnīcai. Hindi valodā tu raksti ar latīņu burtiem (Hinglish) un iegūsti devanāgarī – vai paliec pie latīņu burtiem. Iebūvētas ir 9 valodas (angļu divos variantos), vēl 26 var lejupielādēt kā valodu pakotnes."
 
 #: index
 msgid ""
@@ -221,9 +237,9 @@ msgstr "Dzird tevi. Nevienam nepastāsta."
 
 #: index
 msgid ""
-"Speech is turned into text right on your phone (Parakeet and Omnilingual models), with no internet. If you like, you can use Google recognition instead. Recognised words are checked against the dictionary."
+"Hold the Swajp key and pick the microphone – the text appears as you speak. Speech is turned into text right on your phone (Parakeet and Omnilingual models), with no internet. If you like, you can use Google recognition instead. Recognised words are checked against the dictionary."
 msgstr ""
-"Runa tiek pārvērsta tekstā tieši tavā tālrunī (modeļi Parakeet un Omnilingual), bez interneta. Ja vēlies, vari izmantot arī Google atpazīšanu. Atpazītie vārdi tiek pārbaudīti pēc vārdnīcas."
+"Turi nospiestu Swajp taustiņu un izvēlies mikrofonu – teksts parādās, kamēr tu runā. Runa tiek pārvērsta tekstā tieši tavā tālrunī (modeļi Parakeet un Omnilingual), bez interneta. Ja vēlies, tās vietā vari izmantot Google atpazīšanu. Atpazītie vārdi tiek pārbaudīti pēc vārdnīcas."
 
 #: index
 msgid "Remembers your copies. Forgets your secrets."
@@ -231,9 +247,9 @@ msgstr "Atceras, ko nokopē. Noslēpumus aizmirst."
 
 #: index
 msgid ""
-"Your last 30 copied texts are always at hand. Passwords, codes and text marked as sensitive are never stored, and the history clears itself after the time you choose."
+"Hold Enter and pick the clipboard: your last 30 copied texts are always at hand – tap to paste, pin the ones you want to keep. Passwords, codes and text marked as sensitive are never stored, and the history clears itself after the time you choose."
 msgstr ""
-"Pēdējie 30 nokopētie teksti vienmēr ir pa rokai. Paroles, kodi un teksti, kas atzīmēti kā sensitīvi, netiek saglabāti, un vēsture pati notīrās pēc tevis izvēlētā laika."
+"Turi nospiestu Enter un izvēlies starpliktuvi: pēdējie 30 nokopētie teksti vienmēr ir pa rokai – pieskaries, lai ielīmētu, piesprauž tos, kurus vēlies paturēt. Paroles, kodi un teksts, kas atzīmēts kā sensitīvs, nekad netiek saglabāti, un vēsture pati notīrās pēc tevis izvēlētā laika."
 
 #: index
 msgid "Even sharp minds reach for a calculator."
@@ -241,9 +257,73 @@ msgstr "Pat asam prātam noder kalkulators."
 
 #: index
 msgid ""
-"Big digits for quick entry of phone numbers and amounts. A calculator and a scientific calculator right in the keyboard – no switching apps."
+"Hold the [I] key for the number pad: big digits for quick entry of phone numbers and amounts. The calculator counts right in the suggestion bar and inserts the result into the text. It handles percent (200 + 10 % = 220) and brackets, and the scientific mode adds functions, powers, degrees and radians – no switching apps."
 msgstr ""
-"Lieli cipari ātrai tālruņa numuru un summu ievadei. Kalkulators un zinātniskais kalkulators tieši tastatūrā – bez pārslēgšanās uz citu lietotni."
+"Turi nospiestu taustiņu [I], lai atvērtu ciparu tastatūru: lieli cipari ātrai tālruņa numuru un summu ievadei. Kalkulators rēķina tieši ieteikumu joslā un ievieto rezultātu tekstā. Tas prot procentus (200 + 10% = 220) un iekavas, un zinātniskais režīms pievieno funkcijas, pakāpes, grādus un radiānus – bez lietotņu pārslēgšanas."
+
+#: index
+msgid "Shimmering colours, like a dragonfly’s wings."
+msgstr "Mirdzošas krāsas kā spāres spārni."
+
+#: index
+msgid ""
+"Pick a ready-made theme or set your own colours for the highlight, keys, special keys, background and text. You can also adjust the font size in the suggestion bar, vibration and key sounds."
+msgstr ""
+"Izvēlies gatavu motīvu vai iestati savas krāsas izcēlumam, taustiņiem, speciālajiem taustiņiem, fonam un tekstam. Vari pielāgot arī fonta lielumu ieteikumu joslā, vibrāciju un taustiņu skaņas."
+
+#: index
+msgid "Light green"
+msgstr "Gaiši zaļš"
+
+#: index
+msgid "Light"
+msgstr "Gaišs"
+
+#: index
+msgid "AMOLED black"
+msgstr "AMOLED melns"
+
+#: index
+msgid "Blue"
+msgstr "Zils"
+
+#: index
+msgid "Orange"
+msgstr "Oranžs"
+
+#: index
+msgid "Purple"
+msgstr "Violets"
+
+#: index
+msgid "Wide wings or narrow – it fits your hand."
+msgstr "Plaši spārni vai šauri – tā pielāgojas tavai rokai."
+
+#: index
+msgid ""
+"Hold the Swajp key and pick Size: drag the handles to change the height, width and position. Tablet splits the letters into two halves for both thumbs, Left and Right make it narrower at the edge for one hand, and Floating lets it hover freely above apps. In landscape the keyboard is lower and split."
+msgstr ""
+"Turi nospiestu Swajp taustiņu un izvēlies opciju Izmērs: velkot turus, maini augstumu, platumu un novietojumu. Planšete sadala burtus divās pusēs abiem īkšķiem, Pa kreisi un Pa labi to sašaurina pie malas vienai rokai, bet Peldoša ļauj tai brīvi lidināties virs lietotnēm. Ainavas režīmā tastatūra ir zemāka un sadalīta."
+
+#: index
+msgid "Full"
+msgstr "Pilna"
+
+#: index
+msgid "Tablet"
+msgstr "Planšete"
+
+#: index
+msgid "Left"
+msgstr "Pa kreisi"
+
+#: index
+msgid "Right"
+msgstr "Pa labi"
+
+#: index
+msgid "Floating"
+msgstr "Peldoša"
 
 #: index
 msgid ""

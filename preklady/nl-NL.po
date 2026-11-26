@@ -134,6 +134,22 @@ msgid "Big digits, a calculator and a scientific one."
 msgstr "Grote cijfers, een rekenmachine en een wetenschappelijke."
 
 #: index
+msgid "Themes &amp; colours"
+msgstr "Thema’s &amp; kleuren"
+
+#: index
+msgid "Six themes or colours of your own."
+msgstr "Zes thema’s of je eigen kleuren."
+
+#: index
+msgid "Size &amp; layout"
+msgstr "Grootte &amp; indeling"
+
+#: index
+msgid "Split, one-handed or floating."
+msgstr "Gesplitst, voor één hand of zwevend."
+
+#: index
 msgid "Backup"
 msgstr "Back-up"
 
@@ -159,9 +175,9 @@ msgstr "Volgende"
 
 #: index
 msgid ""
-"No need to tap letter by letter – one stroke across the letters of a word is enough. Swajp recognises the swipe even when it is not perfect, and learns your style so it keeps getting more accurate."
+"No need to tap letter by letter – one stroke across the letters of a word is enough. Swajp recognises the swipe even when it is not perfect, and learns your style so it keeps getting more accurate. Words with a similar swipe wait in the suggestion bar – one tap swaps them. For a capital letter, slide from the first letter up above the keyboard and straight on to the next one. A swipe from a letter to the space bar types the character from its corner, such as ? or !"
 msgstr ""
-"Je hoeft niet letter voor letter te tikken – één veeg over de letters van een woord is genoeg. Swajp herkent de veeg ook als die niet perfect is, en leert jouw stijl, zodat het steeds nauwkeuriger wordt."
+"Je hoeft niet letter voor letter te tikken – één veeg over de letters van een woord is genoeg. Swajp herkent de veeg ook als die niet perfect is, en leert je stijl, zodat het steeds nauwkeuriger wordt. Woorden met een vergelijkbare veeg wachten in de suggestiebalk – één tik wisselt ze om. Voor een hoofdletter veeg je vanaf de eerste letter omhoog, boven het toetsenbord uit, en meteen door naar de volgende. Een veeg van een letter naar de spatiebalk typt het teken uit de hoek ervan, zoals ? of !"
 
 #: index
 msgid "Predicts your next word like a dragonfly predicts its prey."
@@ -169,9 +185,9 @@ msgstr "Voorspelt je volgende woord zoals een libel de vlucht van zijn prooi."
 
 #: index
 msgid ""
-"From the words before, it suggests what you are likely to type next, and uses context to tell similar words apart. It learns the words you actually use."
+"From the words before, it suggests what you are likely to type next – after a space, just tap it. It uses context to tell similar words apart and learns the words you actually use. When you tap out a word with a typo, the bar shows what you typed next to the fix, and the space bar inserts the highlighted fix."
 msgstr ""
-"Op basis van de vorige woorden stelt het voor wat je waarschijnlijk hierna typt, en aan de context onderscheidt het ook woorden die op elkaar lijken. Het leert de woorden die jij echt gebruikt."
+"Op basis van de vorige woorden stelt het voor wat je waarschijnlijk als volgende typt – na een spatie hoef je alleen te tikken. Uit de context onderscheidt het vergelijkbare woorden, en het leert de woorden die je echt gebruikt. Tik je een woord met een typfout, dan toont de balk wat je typte naast de correctie, en de spatiebalk voegt de gemarkeerde correctie in."
 
 #: index
 msgid "Rules the air. Now rules your text."
@@ -179,9 +195,9 @@ msgstr "Heerst in de lucht. Nu ook over je tekst."
 
 #: index
 msgid ""
-"It flies backwards and forwards too – undo and redo, up to 60 steps. Moving the cursor to select or delete text is as precise as landing on a reed. Copy, paste, cut and select all with a swipe from the Swajp key, change case with a single gesture."
+"It flies backwards and forwards too – Enter → space undoes, Swajp → space redoes, up to 60 steps. Copy, paste, cut or select all with a swipe from the Swajp key to C, V, X or A, and change case with a single gesture. Slide left from ⌫ to delete whole words, or up for whole lines. Double-tap the space bar and slide to move the cursor as precisely as landing on a reed. The [I] key opens editing with arrows, selection, Start and End."
 msgstr ""
-"Het vliegt ook achteruit en vooruit – ongedaan maken en opnieuw, tot 60 stappen. De cursor verplaatsen om tekst te selecteren of te wissen gaat zo precies als een landing op een rietstengel. Kopiëren, plakken, knippen en alles selecteren met een veeg vanaf de Swajp-toets, hoofdletters wijzigen met één gebaar."
+"Het vliegt ook achteruit en weer vooruit – Enter → spatie maakt ongedaan, Swajp → spatie doet opnieuw, tot 60 stappen. Kopieer, plak, knip of selecteer alles met een veeg van de Swajp-toets naar C, V, X of A, en wissel tussen hoofd- en kleine letters met één gebaar. Veeg vanaf ⌫ naar links om hele woorden te wissen, of omhoog voor hele regels. Tik twee keer op de spatiebalk en veeg om de cursor te verplaatsen, zo precies als een libel die op een rietstengel landt. De toets [I] opent bewerken met pijlen, selectie, Begin en Einde."
 
 #: index
 msgid ""
@@ -205,9 +221,9 @@ msgstr "Geboren om te heersen – in 35 talen."
 
 #: index
 msgid ""
-"Type in two languages without switching – the keyboard knows words from both. 9 languages are built in (English in two variants), 26 more can be downloaded as packs."
+"Type in two languages without switching – the keyboard knows words from both. Tap an unknown word in the bar to add it to the dictionary of one language or both. In Hindi you type in Latin letters (Hinglish) and get Devanagari – or stay with Latin. 9 languages are built in (English in two variants), 26 more can be downloaded as packs."
 msgstr ""
-"Typ in twee talen zonder te wisselen – het toetsenbord kent woorden uit allebei. 9 talen zijn ingebouwd (Engels in twee varianten), nog 26 kun je downloaden als pakket."
+"Typ in twee talen zonder te wisselen – het toetsenbord kent de woorden van beide. Tik op een onbekend woord in de balk om het toe te voegen aan het woordenboek van één taal of beide. In het Hindi typ je met Latijnse letters (Hinglish) en krijg je Devanagari – of je blijft bij het Latijnse schrift. 9 talen zijn ingebouwd (Engels in twee varianten), nog 26 kun je downloaden als pakketten."
 
 #: index
 msgid ""
@@ -221,9 +237,9 @@ msgstr "Hoort je. Verklapt niets."
 
 #: index
 msgid ""
-"Speech is turned into text right on your phone (Parakeet and Omnilingual models), with no internet. If you like, you can use Google recognition instead. Recognised words are checked against the dictionary."
+"Hold the Swajp key and pick the microphone – the text appears as you speak. Speech is turned into text right on your phone (Parakeet and Omnilingual models), with no internet. If you like, you can use Google recognition instead. Recognised words are checked against the dictionary."
 msgstr ""
-"Spraak wordt direct op je telefoon omgezet in tekst (modellen Parakeet en Omnilingual), zonder internet. Als je wilt, kun je ook de spraakherkenning van Google gebruiken. Herkende woorden worden gecontroleerd met het woordenboek."
+"Houd de Swajp-toets vast en kies de microfoon – de tekst verschijnt terwijl je praat. Spraak wordt direct op je telefoon omgezet in tekst (modellen Parakeet en Omnilingual), zonder internet. Als je wilt, kun je ook de spraakherkenning van Google gebruiken. Herkende woorden worden gecontroleerd met het woordenboek."
 
 #: index
 msgid "Remembers your copies. Forgets your secrets."
@@ -231,9 +247,9 @@ msgstr "Onthoudt wat je kopieert. Vergeet je geheimen."
 
 #: index
 msgid ""
-"Your last 30 copied texts are always at hand. Passwords, codes and text marked as sensitive are never stored, and the history clears itself after the time you choose."
+"Hold Enter and pick the clipboard: your last 30 copied texts are always at hand – tap to paste, pin the ones you want to keep. Passwords, codes and text marked as sensitive are never stored, and the history clears itself after the time you choose."
 msgstr ""
-"Je laatste 30 gekopieerde teksten zijn altijd bij de hand. Wachtwoorden, codes en tekst die als gevoelig is gemarkeerd, worden nooit opgeslagen, en de geschiedenis wist zichzelf na de tijd die jij kiest."
+"Houd Enter vast en kies het klembord: je laatste 30 gekopieerde teksten altijd bij de hand – tik om te plakken, zet vast wat je wilt bewaren. Wachtwoorden, codes en als gevoelig gemarkeerde tekst worden nooit opgeslagen, en de geschiedenis wist zichzelf na de tijd die je kiest."
 
 #: index
 msgid "Even sharp minds reach for a calculator."
@@ -241,9 +257,73 @@ msgstr "Ook een scherpe geest grijpt weleens naar de rekenmachine."
 
 #: index
 msgid ""
-"Big digits for quick entry of phone numbers and amounts. A calculator and a scientific calculator right in the keyboard – no switching apps."
+"Hold the [I] key for the number pad: big digits for quick entry of phone numbers and amounts. The calculator counts right in the suggestion bar and inserts the result into the text. It handles percent (200 + 10 % = 220) and brackets, and the scientific mode adds functions, powers, degrees and radians – no switching apps."
 msgstr ""
-"Grote cijfers om snel telefoonnummers en bedragen in te voeren. Een rekenmachine en een wetenschappelijke rekenmachine direct in het toetsenbord – zonder van app te wisselen."
+"Houd de toets [I] vast voor het cijferblok: grote cijfers om snel telefoonnummers en bedragen in te voeren. De rekenmachine rekent direct in de suggestiebalk en voegt de uitkomst in de tekst in. Hij kan overweg met procenten (200 + 10% = 220) en haakjes, en de wetenschappelijke modus voegt functies, machten, graden en radialen toe – zonder van app te wisselen."
+
+#: index
+msgid "Shimmering colours, like a dragonfly’s wings."
+msgstr "Schitterende kleuren, als de vleugels van een libel."
+
+#: index
+msgid ""
+"Pick a ready-made theme or set your own colours for the highlight, keys, special keys, background and text. You can also adjust the font size in the suggestion bar, vibration and key sounds."
+msgstr ""
+"Kies een kant-en-klaar thema of stel je eigen kleuren in voor de markering, toetsen, speciale toetsen, achtergrond en tekst. Ook de lettergrootte in de suggestiebalk, het trillen en de toetsgeluiden kun je aanpassen."
+
+#: index
+msgid "Light green"
+msgstr "Lichtgroen"
+
+#: index
+msgid "Light"
+msgstr "Licht"
+
+#: index
+msgid "AMOLED black"
+msgstr "AMOLED-zwart"
+
+#: index
+msgid "Blue"
+msgstr "Blauw"
+
+#: index
+msgid "Orange"
+msgstr "Oranje"
+
+#: index
+msgid "Purple"
+msgstr "Paars"
+
+#: index
+msgid "Wide wings or narrow – it fits your hand."
+msgstr "Brede vleugels of smalle – het past zich aan je hand aan."
+
+#: index
+msgid ""
+"Hold the Swajp key and pick Size: drag the handles to change the height, width and position. Tablet splits the letters into two halves for both thumbs, Left and Right make it narrower at the edge for one hand, and Floating lets it hover freely above apps. In landscape the keyboard is lower and split."
+msgstr ""
+"Houd de Swajp-toets vast en kies Grootte: sleep aan de grepen om de hoogte, breedte en positie te wijzigen. Tablet splitst de letters in twee helften voor beide duimen, Links en Rechts maken het smaller aan de rand voor één hand, en Zwevend laat het vrij boven apps zweven. In liggende stand is het toetsenbord lager en gesplitst."
+
+#: index
+msgid "Full"
+msgstr "Volledig"
+
+#: index
+msgid "Tablet"
+msgstr "Tablet"
+
+#: index
+msgid "Left"
+msgstr "Links"
+
+#: index
+msgid "Right"
+msgstr "Rechts"
+
+#: index
+msgid "Floating"
+msgstr "Zwevend"
 
 #: index
 msgid ""

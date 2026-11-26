@@ -135,6 +135,22 @@ msgid "Big digits, a calculator and a scientific one."
 msgstr "Chữ số lớn, máy tính thường và máy tính khoa học."
 
 #: index
+msgid "Themes &amp; colours"
+msgstr "Chủ đề &amp; màu sắc"
+
+#: index
+msgid "Six themes or colours of your own."
+msgstr "Sáu chủ đề hoặc màu sắc của riêng bạn."
+
+#: index
+msgid "Size &amp; layout"
+msgstr "Kích thước &amp; bố cục"
+
+#: index
+msgid "Split, one-handed or floating."
+msgstr "Tách đôi, một tay hoặc nổi."
+
+#: index
 msgid "Backup"
 msgstr "Sao lưu"
 
@@ -160,9 +176,9 @@ msgstr "Tiếp"
 
 #: index
 msgid ""
-"No need to tap letter by letter – one stroke across the letters of a word is enough. Swajp recognises the swipe even when it is not perfect, and learns your style so it keeps getting more accurate."
+"No need to tap letter by letter – one stroke across the letters of a word is enough. Swajp recognises the swipe even when it is not perfect, and learns your style so it keeps getting more accurate. Words with a similar swipe wait in the suggestion bar – one tap swaps them. For a capital letter, slide from the first letter up above the keyboard and straight on to the next one. A swipe from a letter to the space bar types the character from its corner, such as ? or !"
 msgstr ""
-"Không cần chạm từng chữ một – chỉ cần một nét vuốt qua các chữ cái của từ. Swajp nhận ra nét vuốt ngay cả khi chưa thật chính xác, và dần học phong cách của bạn nên ngày càng chính xác hơn."
+"Không cần chạm từng chữ cái – chỉ một nét vuốt qua các chữ cái của từ là đủ. Swajp nhận ra nét vuốt ngay cả khi chưa hoàn hảo và học phong cách của bạn để ngày càng chính xác hơn. Các từ có nét vuốt tương tự chờ sẵn trên thanh gợi ý – chạm một lần để đổi. Để viết hoa, vuốt từ chữ cái đầu tiên lên phía trên bàn phím rồi đi thẳng sang chữ tiếp theo. Vuốt từ một chữ cái tới phím cách sẽ gõ ký tự ở góc của phím đó, chẳng hạn ? hoặc !"
 
 #: index
 msgid "Predicts your next word like a dragonfly predicts its prey."
@@ -171,9 +187,9 @@ msgstr ""
 
 #: index
 msgid ""
-"From the words before, it suggests what you are likely to type next, and uses context to tell similar words apart. It learns the words you actually use."
+"From the words before, it suggests what you are likely to type next – after a space, just tap it. It uses context to tell similar words apart and learns the words you actually use. When you tap out a word with a typo, the bar shows what you typed next to the fix, and the space bar inserts the highlighted fix."
 msgstr ""
-"Dựa vào các từ phía trước, Swajp gợi ý từ bạn nhiều khả năng sẽ gõ tiếp, và dùng ngữ cảnh để phân biệt những từ giống nhau. Swajp học chính những từ bạn thường dùng."
+"Dựa vào các từ phía trước, bàn phím gợi ý từ bạn có thể sẽ gõ tiếp – sau dấu cách, chỉ cần chạm vào. Nó dựa vào ngữ cảnh để phân biệt các từ giống nhau và học những từ bạn thực sự dùng. Khi bạn gõ nhầm một từ, thanh gợi ý hiển thị từ bạn đã gõ bên cạnh từ sửa, và phím cách sẽ chèn từ sửa được tô sáng."
 
 #: index
 msgid "Rules the air. Now rules your text."
@@ -181,9 +197,9 @@ msgstr "Làm chủ bầu trời. Giờ làm chủ cả văn bản của bạn."
 
 #: index
 msgid ""
-"It flies backwards and forwards too – undo and redo, up to 60 steps. Moving the cursor to select or delete text is as precise as landing on a reed. Copy, paste, cut and select all with a swipe from the Swajp key, change case with a single gesture."
+"It flies backwards and forwards too – Enter → space undoes, Swajp → space redoes, up to 60 steps. Copy, paste, cut or select all with a swipe from the Swajp key to C, V, X or A, and change case with a single gesture. Slide left from ⌫ to delete whole words, or up for whole lines. Double-tap the space bar and slide to move the cursor as precisely as landing on a reed. The [I] key opens editing with arrows, selection, Start and End."
 msgstr ""
-"Nó còn bay được cả lùi lẫn tiến – hoàn tác và làm lại, tối đa 60 bước. Di chuyển con trỏ để chọn hay xóa văn bản chính xác như khi đậu xuống một cọng cỏ. Sao chép, dán, cắt và chọn tất cả chỉ bằng một nét vuốt từ phím Swajp, đổi chữ hoa/thường chỉ bằng một cử chỉ."
+"Nó còn bay lùi và bay tới – Enter → phím cách để hoàn tác, Swajp → phím cách để làm lại, tối đa 60 bước. Sao chép, dán, cắt hoặc chọn tất cả bằng một nét vuốt từ phím Swajp tới C, V, X hoặc A, và đổi chữ hoa/thường chỉ với một cử chỉ. Vuốt sang trái từ ⌫ để xóa cả từ, hoặc lên trên để xóa cả dòng. Chạm hai lần vào phím cách rồi trượt để di chuyển con trỏ chính xác như chuồn chuồn đậu trên ngọn lau. Phím [I] mở chế độ chỉnh sửa với các phím mũi tên, chọn, Đầu và Cuối."
 
 #: index
 msgid ""
@@ -207,9 +223,9 @@ msgstr "Sinh ra để làm chủ – bằng 35 ngôn ngữ."
 
 #: index
 msgid ""
-"Type in two languages without switching – the keyboard knows words from both. 9 languages are built in (English in two variants), 26 more can be downloaded as packs."
+"Type in two languages without switching – the keyboard knows words from both. Tap an unknown word in the bar to add it to the dictionary of one language or both. In Hindi you type in Latin letters (Hinglish) and get Devanagari – or stay with Latin. 9 languages are built in (English in two variants), 26 more can be downloaded as packs."
 msgstr ""
-"Gõ hai ngôn ngữ mà không cần chuyển đổi – bàn phím nhận ra từ của cả hai. 9 ngôn ngữ có sẵn trong ứng dụng (tiếng Anh với hai biến thể), 26 ngôn ngữ khác có thể tải về dưới dạng gói."
+"Gõ hai ngôn ngữ mà không cần chuyển đổi – bàn phím biết từ của cả hai. Chạm vào một từ lạ trên thanh gợi ý để thêm nó vào từ điển của một hoặc cả hai ngôn ngữ. Với tiếng Hindi, bạn gõ bằng chữ Latinh (Hinglish) và nhận được chữ Devanagari – hoặc giữ nguyên chữ Latinh. Có sẵn 9 ngôn ngữ (tiếng Anh với hai biến thể), 26 ngôn ngữ khác có thể tải về dưới dạng gói."
 
 #: index
 msgid ""
@@ -223,9 +239,9 @@ msgstr "Nghe bạn nói. Không kể với ai."
 
 #: index
 msgid ""
-"Speech is turned into text right on your phone (Parakeet and Omnilingual models), with no internet. If you like, you can use Google recognition instead. Recognised words are checked against the dictionary."
+"Hold the Swajp key and pick the microphone – the text appears as you speak. Speech is turned into text right on your phone (Parakeet and Omnilingual models), with no internet. If you like, you can use Google recognition instead. Recognised words are checked against the dictionary."
 msgstr ""
-"Giọng nói được chuyển thành văn bản ngay trên điện thoại (mô hình Parakeet và Omnilingual), không cần Internet. Nếu muốn, bạn cũng có thể dùng tính năng nhận dạng của Google. Các từ nhận dạng được sẽ được sửa theo từ điển."
+"Nhấn giữ phím Swajp và chọn micrô – văn bản hiện ra ngay khi bạn nói. Giọng nói được chuyển thành văn bản ngay trên điện thoại (mô hình Parakeet và Omnilingual), không cần Internet. Nếu muốn, bạn cũng có thể dùng tính năng nhận dạng của Google. Các từ nhận dạng được sẽ được đối chiếu với từ điển."
 
 #: index
 msgid "Remembers your copies. Forgets your secrets."
@@ -233,9 +249,9 @@ msgstr "Nhớ những gì bạn sao chép. Quên đi những điều bí mật."
 
 #: index
 msgid ""
-"Your last 30 copied texts are always at hand. Passwords, codes and text marked as sensitive are never stored, and the history clears itself after the time you choose."
+"Hold Enter and pick the clipboard: your last 30 copied texts are always at hand – tap to paste, pin the ones you want to keep. Passwords, codes and text marked as sensitive are never stored, and the history clears itself after the time you choose."
 msgstr ""
-"30 văn bản sao chép gần nhất luôn trong tầm tay. Mật khẩu, mã và văn bản được đánh dấu là nhạy cảm không bao giờ được lưu, và lịch sử tự xóa sau khoảng thời gian bạn chọn."
+"Nhấn giữ Enter và chọn bảng nhớ tạm: 30 văn bản sao chép gần nhất luôn trong tầm tay – chạm để dán, ghim những mục bạn muốn giữ lại. Mật khẩu, mã và văn bản được đánh dấu là nhạy cảm không bao giờ được lưu, và lịch sử sẽ tự xóa sau khoảng thời gian bạn chọn."
 
 #: index
 msgid "Even sharp minds reach for a calculator."
@@ -243,9 +259,73 @@ msgstr "Đầu óc nhanh nhạy đến mấy cũng cần đến máy tính."
 
 #: index
 msgid ""
-"Big digits for quick entry of phone numbers and amounts. A calculator and a scientific calculator right in the keyboard – no switching apps."
+"Hold the [I] key for the number pad: big digits for quick entry of phone numbers and amounts. The calculator counts right in the suggestion bar and inserts the result into the text. It handles percent (200 + 10 % = 220) and brackets, and the scientific mode adds functions, powers, degrees and radians – no switching apps."
 msgstr ""
-"Chữ số lớn để nhập nhanh số điện thoại và số tiền. Máy tính thường và máy tính khoa học nằm ngay trong bàn phím – không cần chuyển sang ứng dụng khác."
+"Nhấn giữ phím [I] để mở bàn phím số: chữ số lớn giúp nhập nhanh số điện thoại và số tiền. Máy tính tính toán ngay trên thanh gợi ý và chèn kết quả vào văn bản. Máy tính xử lý được phần trăm (200 + 10% = 220) và dấu ngoặc, còn chế độ khoa học bổ sung hàm số, lũy thừa, độ và radian – không cần chuyển ứng dụng."
+
+#: index
+msgid "Shimmering colours, like a dragonfly’s wings."
+msgstr "Sắc màu lấp lánh như đôi cánh chuồn chuồn."
+
+#: index
+msgid ""
+"Pick a ready-made theme or set your own colours for the highlight, keys, special keys, background and text. You can also adjust the font size in the suggestion bar, vibration and key sounds."
+msgstr ""
+"Chọn một chủ đề có sẵn hoặc tự đặt màu cho phần tô sáng, phím, phím đặc biệt, nền và chữ. Bạn cũng có thể điều chỉnh cỡ chữ trên thanh gợi ý, độ rung và âm thanh phím."
+
+#: index
+msgid "Light green"
+msgstr "Xanh lá nhạt"
+
+#: index
+msgid "Light"
+msgstr "Sáng"
+
+#: index
+msgid "AMOLED black"
+msgstr "Đen AMOLED"
+
+#: index
+msgid "Blue"
+msgstr "Xanh dương"
+
+#: index
+msgid "Orange"
+msgstr "Cam"
+
+#: index
+msgid "Purple"
+msgstr "Tím"
+
+#: index
+msgid "Wide wings or narrow – it fits your hand."
+msgstr "Cánh rộng hay hẹp – vừa vặn với bàn tay bạn."
+
+#: index
+msgid ""
+"Hold the Swajp key and pick Size: drag the handles to change the height, width and position. Tablet splits the letters into two halves for both thumbs, Left and Right make it narrower at the edge for one hand, and Floating lets it hover freely above apps. In landscape the keyboard is lower and split."
+msgstr ""
+"Nhấn giữ phím Swajp và chọn Kích thước: kéo các tay nắm để thay đổi chiều cao, chiều rộng và vị trí. Máy tính bảng chia chữ cái thành hai nửa cho cả hai ngón cái, Trái và Phải thu hẹp bàn phím về phía mép để dùng một tay, còn Nổi cho phép bàn phím lơ lửng tự do trên các ứng dụng. Khi xoay ngang, bàn phím thấp hơn và được tách đôi."
+
+#: index
+msgid "Full"
+msgstr "Đầy đủ"
+
+#: index
+msgid "Tablet"
+msgstr "Máy tính bảng"
+
+#: index
+msgid "Left"
+msgstr "Trái"
+
+#: index
+msgid "Right"
+msgstr "Phải"
+
+#: index
+msgid "Floating"
+msgstr "Nổi"
 
 #: index
 msgid ""

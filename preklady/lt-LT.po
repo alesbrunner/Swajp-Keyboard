@@ -135,6 +135,22 @@ msgid "Big digits, a calculator and a scientific one."
 msgstr "Dideli skaitmenys, skaičiuotuvas ir mokslinis skaičiuotuvas."
 
 #: index
+msgid "Themes &amp; colours"
+msgstr "Temos ir spalvos"
+
+#: index
+msgid "Six themes or colours of your own."
+msgstr "Šešios temos arba jūsų pačių spalvos."
+
+#: index
+msgid "Size &amp; layout"
+msgstr "Dydis ir išdėstymas"
+
+#: index
+msgid "Split, one-handed or floating."
+msgstr "Padalyta, vienai rankai arba plaukiojanti."
+
+#: index
 msgid "Backup"
 msgstr "Atsarginė kopija"
 
@@ -160,9 +176,9 @@ msgstr "Kitas"
 
 #: index
 msgid ""
-"No need to tap letter by letter – one stroke across the letters of a word is enough. Swajp recognises the swipe even when it is not perfect, and learns your style so it keeps getting more accurate."
+"No need to tap letter by letter – one stroke across the letters of a word is enough. Swajp recognises the swipe even when it is not perfect, and learns your style so it keeps getting more accurate. Words with a similar swipe wait in the suggestion bar – one tap swaps them. For a capital letter, slide from the first letter up above the keyboard and straight on to the next one. A swipe from a letter to the space bar types the character from its corner, such as ? or !"
 msgstr ""
-"Nereikia baksnoti raidės po raidės – užtenka vienu brūkšniu perbraukti per žodžio raides. Swajp atpažįsta braukimą, net jei jis nėra tobulas, ir mokosi jūsų stiliaus, tad tampa vis tikslesnė."
+"Nereikia spausti raidės po raidės – užtenka vieno brūkšnio per žodžio raides. Swajp atpažįsta braukimą net tada, kai jis nėra tobulas, ir mokosi jūsų stiliaus, todėl veikia vis tiksliau. Žodžiai su panašiu braukimu laukia pasiūlymų juostoje – vienu bakstelėjimu juos sukeisite. Didžiąją raidę parašysite braukdami nuo pirmosios raidės aukštyn virš klaviatūros ir iškart toliau į kitą raidę. Braukimas nuo raidės į tarpo klavišą įrašo ženklą iš raidės kampo, pavyzdžiui, ? arba !"
 
 #: index
 msgid "Predicts your next word like a dragonfly predicts its prey."
@@ -170,9 +186,9 @@ msgstr "Nuspėja kitą jūsų žodį, kaip laumžirgis nuspėja grobį."
 
 #: index
 msgid ""
-"From the words before, it suggests what you are likely to type next, and uses context to tell similar words apart. It learns the words you actually use."
+"From the words before, it suggests what you are likely to type next – after a space, just tap it. It uses context to tell similar words apart and learns the words you actually use. When you tap out a word with a typo, the bar shows what you typed next to the fix, and the space bar inserts the highlighted fix."
 msgstr ""
-"Pagal ankstesnius žodžius pasiūlo, ką greičiausiai parašysite toliau, o pagal kontekstą atskiria ir panašius žodžius. Mokosi žodžių, kuriuos vartojate būtent jūs."
+"Pagal ankstesnius žodžius klaviatūra siūlo, ką greičiausiai rašysite toliau – po tarpo tiesiog bakstelėkite. Iš konteksto ji atskiria panašius žodžius ir mokosi tų žodžių, kuriuos iš tikrųjų vartojate. Kai spausdami raides padarote rašybos klaidą, juosta parodo, ką parašėte, šalia pataisymo, o tarpo klavišas įterpia paryškintą pataisymą."
 
 #: index
 msgid "Rules the air. Now rules your text."
@@ -180,9 +196,9 @@ msgstr "Valdo orą. Dabar valdo ir jūsų tekstą."
 
 #: index
 msgid ""
-"It flies backwards and forwards too – undo and redo, up to 60 steps. Moving the cursor to select or delete text is as precise as landing on a reed. Copy, paste, cut and select all with a swipe from the Swajp key, change case with a single gesture."
+"It flies backwards and forwards too – Enter → space undoes, Swajp → space redoes, up to 60 steps. Copy, paste, cut or select all with a swipe from the Swajp key to C, V, X or A, and change case with a single gesture. Slide left from ⌫ to delete whole words, or up for whole lines. Double-tap the space bar and slide to move the cursor as precisely as landing on a reed. The [I] key opens editing with arrows, selection, Start and End."
 msgstr ""
-"Skraido ir atgal, ir pirmyn – anuliuoti ir grąžinti galima iki 60 žingsnių. Žymeklis žymint ar trinant tekstą juda taip tiksliai, kaip laumžirgis nutupia ant nendrės. Kopijuokite, įklijuokite, iškirpkite ir žymėkite viską braukdami nuo Swajp klavišo, raidžių dydį keiskite vienu gestu."
+"Ji skraido ir atgal, ir pirmyn – Enter → tarpas anuliuoja, Swajp → tarpas grąžina, iki 60 žingsnių. Kopijuokite, įklijuokite, iškirpkite arba pažymėkite viską braukdami nuo Swajp klavišo į C, V, X arba A, o raidžių dydį keiskite vienu gestu. Braukite nuo ⌫ į kairę, kad ištrintumėte ištisus žodžius, arba aukštyn – ištisas eilutes. Dukart bakstelėkite tarpo klavišą ir braukite – žymeklis pajudės taip tiksliai, kaip laumžirgis nusileidžia ant nendrės. Klavišas [I] atveria redagavimą su rodyklėmis, žymėjimu, Pradžia ir Pabaiga."
 
 #: index
 msgid ""
@@ -206,9 +222,9 @@ msgstr "Gimusi valdyti – 35 kalbomis."
 
 #: index
 msgid ""
-"Type in two languages without switching – the keyboard knows words from both. 9 languages are built in (English in two variants), 26 more can be downloaded as packs."
+"Type in two languages without switching – the keyboard knows words from both. Tap an unknown word in the bar to add it to the dictionary of one language or both. In Hindi you type in Latin letters (Hinglish) and get Devanagari – or stay with Latin. 9 languages are built in (English in two variants), 26 more can be downloaded as packs."
 msgstr ""
-"Rašykite dviem kalbomis neperjungdami – klaviatūra atpažįsta abiejų kalbų žodžius. 9 kalbos įdiegtos (anglų – dviem variantais), dar 26 galima atsisiųsti kaip paketus."
+"Rašykite dviem kalbomis neperjungdami – klaviatūra žino abiejų kalbų žodžius. Bakstelėkite nežinomą žodį juostoje ir pridėkite jį į vienos ar abiejų kalbų žodyną. Hindi kalba rašote lotyniškomis raidėmis (Hinglish) ir gaunate devanagarį – arba liekate prie lotyniškų raidžių. Įdiegtos 9 kalbos (anglų – dviem variantais), dar 26 galima atsisiųsti kaip kalbų paketus."
 
 #: index
 msgid ""
@@ -222,9 +238,9 @@ msgstr "Girdi jus. Niekam nepasakoja."
 
 #: index
 msgid ""
-"Speech is turned into text right on your phone (Parakeet and Omnilingual models), with no internet. If you like, you can use Google recognition instead. Recognised words are checked against the dictionary."
+"Hold the Swajp key and pick the microphone – the text appears as you speak. Speech is turned into text right on your phone (Parakeet and Omnilingual models), with no internet. If you like, you can use Google recognition instead. Recognised words are checked against the dictionary."
 msgstr ""
-"Kalba paverčiama tekstu tiesiog jūsų telefone (modeliai Parakeet ir Omnilingual), be interneto. Jei norite, galite naudoti ir Google atpažinimą. Atpažinti žodžiai tikrinami pagal žodyną."
+"Palaikykite Swajp klavišą ir pasirinkite mikrofoną – tekstas atsiranda jums kalbant. Kalba paverčiama tekstu tiesiog jūsų telefone (modeliai Parakeet ir Omnilingual), be interneto. Jei norite, vietoj to galite naudoti Google atpažinimą. Atpažinti žodžiai tikrinami pagal žodyną."
 
 #: index
 msgid "Remembers your copies. Forgets your secrets."
@@ -232,9 +248,9 @@ msgstr "Atsimena, ką nukopijavote. Paslaptis pamiršta."
 
 #: index
 msgid ""
-"Your last 30 copied texts are always at hand. Passwords, codes and text marked as sensitive are never stored, and the history clears itself after the time you choose."
+"Hold Enter and pick the clipboard: your last 30 copied texts are always at hand – tap to paste, pin the ones you want to keep. Passwords, codes and text marked as sensitive are never stored, and the history clears itself after the time you choose."
 msgstr ""
-"Paskutiniai 30 nukopijuotų tekstų visada po ranka. Slaptažodžiai, kodai ir kaip jautrūs pažymėti tekstai niekada neišsaugomi, o istorija pati išsivalo po jūsų pasirinkto laiko."
+"Palaikykite Enter ir pasirinkite iškarpinę: paskutiniai 30 nukopijuotų tekstų visada po ranka – bakstelėkite, kad įklijuotumėte, prisekite tuos, kuriuos norite išsaugoti. Slaptažodžiai, kodai ir tekstas, pažymėtas kaip konfidencialus, niekada nesaugomi, o istorija išsivalo pati po jūsų pasirinkto laiko."
 
 #: index
 msgid "Even sharp minds reach for a calculator."
@@ -242,9 +258,73 @@ msgstr "Net ir gudrioms galvoms praverčia skaičiuotuvas."
 
 #: index
 msgid ""
-"Big digits for quick entry of phone numbers and amounts. A calculator and a scientific calculator right in the keyboard – no switching apps."
+"Hold the [I] key for the number pad: big digits for quick entry of phone numbers and amounts. The calculator counts right in the suggestion bar and inserts the result into the text. It handles percent (200 + 10 % = 220) and brackets, and the scientific mode adds functions, powers, degrees and radians – no switching apps."
 msgstr ""
-"Dideli skaitmenys greitam telefono numerių ir sumų įvedimui. Skaičiuotuvas ir mokslinis skaičiuotuvas – tiesiog klaviatūroje, nereikia perjungti programų."
+"Palaikykite klavišą [I] ir gausite skaičių klaviatūrą: dideli skaitmenys greitam telefono numerių ir sumų įvedimui. Skaičiuotuvas skaičiuoja tiesiog pasiūlymų juostoje ir įterpia rezultatą į tekstą. Jis moka procentus (200 + 10 % = 220) ir skliaustus, o mokslinis režimas prideda funkcijas, kėlimą laipsniu, kampų laipsnius ir radianus – nereikia perjungti programų."
+
+#: index
+msgid "Shimmering colours, like a dragonfly’s wings."
+msgstr "Mirguliuojančios spalvos – tarsi laumžirgio sparnai."
+
+#: index
+msgid ""
+"Pick a ready-made theme or set your own colours for the highlight, keys, special keys, background and text. You can also adjust the font size in the suggestion bar, vibration and key sounds."
+msgstr ""
+"Pasirinkite paruoštą temą arba nustatykite savas paryškinimo, klavišų, specialiųjų klavišų, fono ir teksto spalvas. Taip pat galite koreguoti šrifto dydį pasiūlymų juostoje, vibraciją ir klavišų garsus."
+
+#: index
+msgid "Light green"
+msgstr "Šviesiai žalia"
+
+#: index
+msgid "Light"
+msgstr "Šviesi"
+
+#: index
+msgid "AMOLED black"
+msgstr "AMOLED juoda"
+
+#: index
+msgid "Blue"
+msgstr "Mėlyna"
+
+#: index
+msgid "Orange"
+msgstr "Oranžinė"
+
+#: index
+msgid "Purple"
+msgstr "Violetinė"
+
+#: index
+msgid "Wide wings or narrow – it fits your hand."
+msgstr "Platūs sparnai ar siauri – ji prisitaiko prie jūsų rankos."
+
+#: index
+msgid ""
+"Hold the Swajp key and pick Size: drag the handles to change the height, width and position. Tablet splits the letters into two halves for both thumbs, Left and Right make it narrower at the edge for one hand, and Floating lets it hover freely above apps. In landscape the keyboard is lower and split."
+msgstr ""
+"Palaikykite Swajp klavišą ir pasirinkite Dydis: tempdami rankenėles keiskite aukštį, plotį ir padėtį. Planšetė padalija raides į dvi puses abiem nykščiams, Kairėje ir Dešinėje ją susiaurina prie krašto vienai rankai, o Plaukiojanti leidžia jai laisvai sklandyti virš programų. Gulsčiai klaviatūra žemesnė ir padalyta."
+
+#: index
+msgid "Full"
+msgstr "Visa"
+
+#: index
+msgid "Tablet"
+msgstr "Planšetė"
+
+#: index
+msgid "Left"
+msgstr "Kairėje"
+
+#: index
+msgid "Right"
+msgstr "Dešinėje"
+
+#: index
+msgid "Floating"
+msgstr "Plaukiojanti"
 
 #: index
 msgid ""

@@ -134,6 +134,22 @@ msgid "Big digits, a calculator and a scientific one."
 msgstr "Velike cifre, kalkulator i naučni kalkulator."
 
 #: index
+msgid "Themes &amp; colours"
+msgstr "Teme i boje"
+
+#: index
+msgid "Six themes or colours of your own."
+msgstr "Šest tema ili sopstvene boje."
+
+#: index
+msgid "Size &amp; layout"
+msgstr "Veličina i raspored"
+
+#: index
+msgid "Split, one-handed or floating."
+msgstr "Podeljena, za jednu ruku ili plutajuća."
+
+#: index
 msgid "Backup"
 msgstr "Rezervna kopija"
 
@@ -159,9 +175,9 @@ msgstr "Sledeće"
 
 #: index
 msgid ""
-"No need to tap letter by letter – one stroke across the letters of a word is enough. Swajp recognises the swipe even when it is not perfect, and learns your style so it keeps getting more accurate."
+"No need to tap letter by letter – one stroke across the letters of a word is enough. Swajp recognises the swipe even when it is not perfect, and learns your style so it keeps getting more accurate. Words with a similar swipe wait in the suggestion bar – one tap swaps them. For a capital letter, slide from the first letter up above the keyboard and straight on to the next one. A swipe from a letter to the space bar types the character from its corner, such as ? or !"
 msgstr ""
-"Ne moraš da kucaš slovo po slovo – dovoljno je jedno prevlačenje preko slova reči. Swajp prepoznaje prevlačenje i kad nije savršeno i uči tvoj stil, pa je sve precizniji."
+"Ne moraš da kucaš slovo po slovo – dovoljno je jedno prevlačenje preko slova reči. Swajp prepoznaje prevlačenje i kad nije savršeno i uči tvoj stil, pa je sve precizniji. Reči sa sličnim prevlačenjem čekaju na traci predloga – jednim dodirom ih zameniš. Za veliko slovo sa prvog slova kreni nagore iznad tastature i odatle pravo na sledeće. Prevlačenje sa slova na razmaknicu upisuje znak iz njegovog ugla, na primer ? ili !"
 
 #: index
 msgid "Predicts your next word like a dragonfly predicts its prey."
@@ -170,9 +186,9 @@ msgstr ""
 
 #: index
 msgid ""
-"From the words before, it suggests what you are likely to type next, and uses context to tell similar words apart. It learns the words you actually use."
+"From the words before, it suggests what you are likely to type next – after a space, just tap it. It uses context to tell similar words apart and learns the words you actually use. When you tap out a word with a typo, the bar shows what you typed next to the fix, and the space bar inserts the highlighted fix."
 msgstr ""
-"Na osnovu prethodnih reči predlaže ono što ćeš verovatno sledeće otkucati, a iz konteksta razlikuje i slične reči. Uči reči koje ti zaista koristiš."
+"Na osnovu prethodnih reči predlaže šta ćeš verovatno sledeće otkucati – posle razmaka samo dodirni. Iz konteksta razlikuje slične reči i uči reči koje zaista koristiš. Kad pri kucanju pogrešiš, traka prikazuje otkucano pored ispravke, a razmaknica umeće istaknutu ispravku."
 
 #: index
 msgid "Rules the air. Now rules your text."
@@ -180,9 +196,9 @@ msgstr "Vlada vazduhom. Sada vlada i tvojim tekstom."
 
 #: index
 msgid ""
-"It flies backwards and forwards too – undo and redo, up to 60 steps. Moving the cursor to select or delete text is as precise as landing on a reed. Copy, paste, cut and select all with a swipe from the Swajp key, change case with a single gesture."
+"It flies backwards and forwards too – Enter → space undoes, Swajp → space redoes, up to 60 steps. Copy, paste, cut or select all with a swipe from the Swajp key to C, V, X or A, and change case with a single gesture. Slide left from ⌫ to delete whole words, or up for whole lines. Double-tap the space bar and slide to move the cursor as precisely as landing on a reed. The [I] key opens editing with arrows, selection, Start and End."
 msgstr ""
-"Leti i unazad i unapred – opozovi i ponovi, do 60 koraka. Pomeranje kursora pri biranju ili brisanju teksta precizno je kao sletanje na trsku. Kopiranje, lepljenje, isecanje i biranje svega jednim prevlačenjem s tastera Swajp, a veličinu slova menjaš jednim pokretom."
+"Leti i unazad i unapred – Enter → razmaknica opoziva, Swajp → razmaknica ponavlja, do 60 koraka. Kopiraj, nalepi, iseci ili izaberi sve prevlačenjem sa tastera Swajp na C, V, X ili A, a veličinu slova menjaš jednim pokretom. Prevlačenjem sa ⌫ ulevo brišeš cele reči, nagore cele redove. Dvaput dodirni razmaknicu i prevuci – kursor pomeraš precizno kao vilin konjic kad sleće na trsku. Taster [I] otvara uređivanje sa strelicama, izborom, Početkom i Krajem."
 
 #: index
 msgid ""
@@ -206,9 +222,9 @@ msgstr "Rođena da vlada – na 35 jezika."
 
 #: index
 msgid ""
-"Type in two languages without switching – the keyboard knows words from both. 9 languages are built in (English in two variants), 26 more can be downloaded as packs."
+"Type in two languages without switching – the keyboard knows words from both. Tap an unknown word in the bar to add it to the dictionary of one language or both. In Hindi you type in Latin letters (Hinglish) and get Devanagari – or stay with Latin. 9 languages are built in (English in two variants), 26 more can be downloaded as packs."
 msgstr ""
-"Kucaj na dva jezika bez prebacivanja – tastatura poznaje reči iz oba. 9 jezika je ugrađeno u aplikaciju (engleski u dve varijante), još 26 možeš da preuzmeš kao pakete."
+"Kucaj na dva jezika bez prebacivanja – tastatura zna reči iz oba. Dodirom nepoznate reči na traci dodaješ je u rečnik jednog ili oba jezika. Na hindiju kucaš latinicom (Hinglish) i dobijaš devanagari – ili ostaješ na latinici. 9 jezika je ugrađeno (engleski u dve varijante), još 26 možeš da preuzmeš kao pakete."
 
 #: index
 msgid ""
@@ -222,9 +238,9 @@ msgstr "Čuje te. Nikome ne govori."
 
 #: index
 msgid ""
-"Speech is turned into text right on your phone (Parakeet and Omnilingual models), with no internet. If you like, you can use Google recognition instead. Recognised words are checked against the dictionary."
+"Hold the Swajp key and pick the microphone – the text appears as you speak. Speech is turned into text right on your phone (Parakeet and Omnilingual models), with no internet. If you like, you can use Google recognition instead. Recognised words are checked against the dictionary."
 msgstr ""
-"Govor se pretvara u tekst direktno na telefonu (modeli Parakeet i Omnilingual), bez interneta. Ako želiš, umesto toga možeš da koristiš Google prepoznavanje. Prepoznate reči se proveravaju prema rečniku."
+"Drži taster Swajp i izaberi mikrofon – tekst se kuca dok govoriš. Govor se pretvara u tekst direktno na telefonu (modeli Parakeet i Omnilingual), bez interneta. Ako želiš, umesto toga možeš da koristiš prepoznavanje govora Google. Prepoznate reči se proveravaju prema rečniku."
 
 #: index
 msgid "Remembers your copies. Forgets your secrets."
@@ -232,9 +248,9 @@ msgstr "Pamti šta kopiraš. Tajne zaboravlja."
 
 #: index
 msgid ""
-"Your last 30 copied texts are always at hand. Passwords, codes and text marked as sensitive are never stored, and the history clears itself after the time you choose."
+"Hold Enter and pick the clipboard: your last 30 copied texts are always at hand – tap to paste, pin the ones you want to keep. Passwords, codes and text marked as sensitive are never stored, and the history clears itself after the time you choose."
 msgstr ""
-"Poslednjih 30 kopiranih tekstova uvek ti je pri ruci. Lozinke, kodovi i tekstovi označeni kao osetljivi nikad se ne čuvaju, a istorija se sama briše posle vremena koje izabereš."
+"Drži Enter i izaberi privremenu memoriju: poslednjih 30 kopiranih tekstova uvek ti je pri ruci – dodirom ih nalepiš, a one koje želiš da zadržiš zakačiš. Lozinke, kodovi i tekst označen kao osetljiv nikad se ne čuvaju, a istorija se sama briše posle vremena koje izabereš."
 
 #: index
 msgid "Even sharp minds reach for a calculator."
@@ -242,9 +258,73 @@ msgstr "I bistroj glavi dobro dođe kalkulator."
 
 #: index
 msgid ""
-"Big digits for quick entry of phone numbers and amounts. A calculator and a scientific calculator right in the keyboard – no switching apps."
+"Hold the [I] key for the number pad: big digits for quick entry of phone numbers and amounts. The calculator counts right in the suggestion bar and inserts the result into the text. It handles percent (200 + 10 % = 220) and brackets, and the scientific mode adds functions, powers, degrees and radians – no switching apps."
 msgstr ""
-"Velike cifre za brz unos telefonskih brojeva i iznosa. Kalkulator i naučni kalkulator direktno u tastaturi – bez prebacivanja u drugu aplikaciju."
+"Drži taster [I] za numeričku tastaturu: velike cifre za brz unos brojeva telefona i iznosa. Kalkulator računa direktno na traci predloga i umeće rezultat u tekst. Zna procente (200 + 10% = 220) i zagrade, a naučni režim dodaje funkcije, potencije, stepene i radijane – bez prebacivanja aplikacija."
+
+#: index
+msgid "Shimmering colours, like a dragonfly’s wings."
+msgstr "Svetlucave boje, poput krila vilinog konjica."
+
+#: index
+msgid ""
+"Pick a ready-made theme or set your own colours for the highlight, keys, special keys, background and text. You can also adjust the font size in the suggestion bar, vibration and key sounds."
+msgstr ""
+"Izaberi gotovu temu ili podesi sopstvene boje za isticanje, tastere, posebne tastere, pozadinu i tekst. Možeš da podesiš i veličinu slova na traci predloga, vibraciju i zvuke tastera."
+
+#: index
+msgid "Light green"
+msgstr "Svetlozelena"
+
+#: index
+msgid "Light"
+msgstr "Svetla"
+
+#: index
+msgid "AMOLED black"
+msgstr "AMOLED crna"
+
+#: index
+msgid "Blue"
+msgstr "Plava"
+
+#: index
+msgid "Orange"
+msgstr "Narandžasta"
+
+#: index
+msgid "Purple"
+msgstr "Ljubičasta"
+
+#: index
+msgid "Wide wings or narrow – it fits your hand."
+msgstr "Široka krila ili uska – prilagođava se tvojoj ruci."
+
+#: index
+msgid ""
+"Hold the Swajp key and pick Size: drag the handles to change the height, width and position. Tablet splits the letters into two halves for both thumbs, Left and Right make it narrower at the edge for one hand, and Floating lets it hover freely above apps. In landscape the keyboard is lower and split."
+msgstr ""
+"Drži taster Swajp i izaberi Veličinu: prevlačenjem ručica menjaš visinu, širinu i položaj. Tablet deli slova na dve polovine za oba palca, Levo i Desno je sužavaju ka ivici za jednu ruku, a Plutajuća slobodno lebdi iznad aplikacija. U horizontalnom položaju tastatura je niža i podeljena."
+
+#: index
+msgid "Full"
+msgstr "Cela"
+
+#: index
+msgid "Tablet"
+msgstr "Tablet"
+
+#: index
+msgid "Left"
+msgstr "Levo"
+
+#: index
+msgid "Right"
+msgstr "Desno"
+
+#: index
+msgid "Floating"
+msgstr "Plutajuća"
 
 #: index
 msgid ""

@@ -134,6 +134,22 @@ msgid "Big digits, a calculator and a scientific one."
 msgstr "Große Ziffern, ein Rechner und ein wissenschaftlicher."
 
 #: index
+msgid "Themes &amp; colours"
+msgstr "Designs &amp; Farben"
+
+#: index
+msgid "Six themes or colours of your own."
+msgstr "Sechs Designs oder eigene Farben."
+
+#: index
+msgid "Size &amp; layout"
+msgstr "Größe &amp; Layout"
+
+#: index
+msgid "Split, one-handed or floating."
+msgstr "Geteilt, für eine Hand oder schwebend."
+
+#: index
 msgid "Backup"
 msgstr "Sicherung"
 
@@ -159,9 +175,9 @@ msgstr "Weiter"
 
 #: index
 msgid ""
-"No need to tap letter by letter – one stroke across the letters of a word is enough. Swajp recognises the swipe even when it is not perfect, and learns your style so it keeps getting more accurate."
+"No need to tap letter by letter – one stroke across the letters of a word is enough. Swajp recognises the swipe even when it is not perfect, and learns your style so it keeps getting more accurate. Words with a similar swipe wait in the suggestion bar – one tap swaps them. For a capital letter, slide from the first letter up above the keyboard and straight on to the next one. A swipe from a letter to the space bar types the character from its corner, such as ? or !"
 msgstr ""
-"Kein Tippen Buchstabe für Buchstabe nötig – ein Strich über die Buchstaben eines Wortes genügt. Swajp erkennt den Wisch auch, wenn er nicht perfekt ist, und lernt deinen Stil, sodass es immer genauer wird."
+"Kein Tippen Buchstabe für Buchstabe – ein Wisch über die Buchstaben eines Wortes genügt. Swajp erkennt den Wisch auch, wenn er nicht perfekt ist, und lernt deinen Stil, sodass es immer genauer wird. Wörter mit ähnlichem Wisch warten in der Vorschlagsleiste – ein Tippen tauscht sie aus. Für einen Großbuchstaben wischst du vom ersten Buchstaben nach oben über die Tastatur hinaus und gleich weiter zum nächsten. Ein Wisch von einem Buchstaben zur Leertaste schreibt das Zeichen aus seiner Ecke, etwa ? oder !"
 
 #: index
 msgid "Predicts your next word like a dragonfly predicts its prey."
@@ -169,9 +185,9 @@ msgstr "Sagt dein nächstes Wort voraus wie eine Libelle ihre Beute."
 
 #: index
 msgid ""
-"From the words before, it suggests what you are likely to type next, and uses context to tell similar words apart. It learns the words you actually use."
+"From the words before, it suggests what you are likely to type next – after a space, just tap it. It uses context to tell similar words apart and learns the words you actually use. When you tap out a word with a typo, the bar shows what you typed next to the fix, and the space bar inserts the highlighted fix."
 msgstr ""
-"Aus den vorherigen Wörtern schlägt es vor, was du wahrscheinlich als Nächstes tippst, und unterscheidet ähnliche Wörter anhand des Zusammenhangs. Es lernt die Wörter, die du wirklich benutzt."
+"Anhand der vorherigen Wörter schlägt es vor, was du wahrscheinlich als Nächstes schreibst – nach einem Leerzeichen genügt ein Tippen. Aus dem Kontext unterscheidet es ähnliche Wörter und lernt die Wörter, die du wirklich benutzt. Vertippst du dich, zeigt die Leiste das Getippte neben der Korrektur, und die Leertaste fügt die markierte Korrektur ein."
 
 #: index
 msgid "Rules the air. Now rules your text."
@@ -179,9 +195,9 @@ msgstr "Herrscht in der Luft. Jetzt auch über deinen Text."
 
 #: index
 msgid ""
-"It flies backwards and forwards too – undo and redo, up to 60 steps. Moving the cursor to select or delete text is as precise as landing on a reed. Copy, paste, cut and select all with a swipe from the Swajp key, change case with a single gesture."
+"It flies backwards and forwards too – Enter → space undoes, Swajp → space redoes, up to 60 steps. Copy, paste, cut or select all with a swipe from the Swajp key to C, V, X or A, and change case with a single gesture. Slide left from ⌫ to delete whole words, or up for whole lines. Double-tap the space bar and slide to move the cursor as precisely as landing on a reed. The [I] key opens editing with arrows, selection, Start and End."
 msgstr ""
-"Sie fliegt auch rückwärts und vorwärts – rückgängig und wiederholen, bis zu 60 Schritte. Den Cursor zum Markieren oder Löschen von Text zu bewegen ist so präzise wie die Landung auf einem Schilfhalm. Kopieren, einfügen, ausschneiden und alles auswählen mit einem Wisch von der Swajp-Taste, Groß- und Kleinschreibung mit einer einzigen Geste."
+"Es fliegt auch rückwärts und wieder vorwärts – Enter → Leertaste macht rückgängig, Swajp → Leertaste stellt wieder her, bis zu 60 Schritte. Kopieren, einfügen, ausschneiden oder alles markieren per Wisch von der Swajp-Taste zu C, V, X oder A, und die Groß-/Kleinschreibung änderst du mit einer einzigen Geste. Wische von ⌫ nach links, um ganze Wörter zu löschen, oder nach oben für ganze Zeilen. Tippe zweimal auf die Leertaste und zieh – der Cursor landet so präzise wie eine Libelle auf einem Schilfhalm. Die Taste [I] öffnet die Bearbeitung mit Pfeilen, Markieren, Anfang und Ende."
 
 #: index
 msgid ""
@@ -205,9 +221,9 @@ msgstr "Zum Herrschen geboren – in 35 Sprachen."
 
 #: index
 msgid ""
-"Type in two languages without switching – the keyboard knows words from both. 9 languages are built in (English in two variants), 26 more can be downloaded as packs."
+"Type in two languages without switching – the keyboard knows words from both. Tap an unknown word in the bar to add it to the dictionary of one language or both. In Hindi you type in Latin letters (Hinglish) and get Devanagari – or stay with Latin. 9 languages are built in (English in two variants), 26 more can be downloaded as packs."
 msgstr ""
-"Schreib in zwei Sprachen ohne Umschalten – die Tastatur kennt die Wörter beider. 9 Sprachen sind eingebaut (Englisch in zwei Varianten), 26 weitere lassen sich als Pakete herunterladen."
+"Schreib in zwei Sprachen ohne Umschalten – die Tastatur kennt die Wörter beider. Tippe auf ein unbekanntes Wort in der Leiste, um es ins Wörterbuch einer oder beider Sprachen aufzunehmen. Auf Hindi tippst du in lateinischen Buchstaben (Hinglish) und erhältst Devanagari – oder bleibst bei der lateinischen Schrift. 9 Sprachen sind eingebaut (Englisch in zwei Varianten), 26 weitere lassen sich als Pakete herunterladen."
 
 #: index
 msgid ""
@@ -221,9 +237,9 @@ msgstr "Hört dich. Verrät es niemandem."
 
 #: index
 msgid ""
-"Speech is turned into text right on your phone (Parakeet and Omnilingual models), with no internet. If you like, you can use Google recognition instead. Recognised words are checked against the dictionary."
+"Hold the Swajp key and pick the microphone – the text appears as you speak. Speech is turned into text right on your phone (Parakeet and Omnilingual models), with no internet. If you like, you can use Google recognition instead. Recognised words are checked against the dictionary."
 msgstr ""
-"Sprache wird direkt auf deinem Handy in Text umgewandelt (Modelle Parakeet und Omnilingual), ohne Internet. Wenn du willst, kannst du stattdessen die Google-Erkennung nutzen. Erkannte Wörter werden mit dem Wörterbuch abgeglichen."
+"Halte die Swajp-Taste gedrückt und wähle das Mikrofon – der Text erscheint, während du sprichst. Sprache wird direkt auf deinem Handy in Text umgewandelt (Modelle Parakeet und Omnilingual), ohne Internet. Wenn du willst, kannst du stattdessen die Google-Erkennung nutzen. Erkannte Wörter werden mit dem Wörterbuch abgeglichen."
 
 #: index
 msgid "Remembers your copies. Forgets your secrets."
@@ -231,9 +247,9 @@ msgstr "Merkt sich deine Kopien. Vergisst deine Geheimnisse."
 
 #: index
 msgid ""
-"Your last 30 copied texts are always at hand. Passwords, codes and text marked as sensitive are never stored, and the history clears itself after the time you choose."
+"Hold Enter and pick the clipboard: your last 30 copied texts are always at hand – tap to paste, pin the ones you want to keep. Passwords, codes and text marked as sensitive are never stored, and the history clears itself after the time you choose."
 msgstr ""
-"Deine letzten 30 kopierten Texte sind immer griffbereit. Passwörter, Codes und als vertraulich markierter Text werden nie gespeichert, und der Verlauf löscht sich nach der gewählten Zeit selbst."
+"Halte Enter gedrückt und wähle die Zwischenablage: Deine letzten 30 kopierten Texte sind immer griffbereit – tippen zum Einfügen, anheften, was du behalten willst. Passwörter, Codes und als vertraulich markierter Text werden nie gespeichert, und der Verlauf löscht sich nach der von dir gewählten Zeit von selbst."
 
 #: index
 msgid "Even sharp minds reach for a calculator."
@@ -241,9 +257,73 @@ msgstr "Auch kluge Köpfe greifen zum Taschenrechner."
 
 #: index
 msgid ""
-"Big digits for quick entry of phone numbers and amounts. A calculator and a scientific calculator right in the keyboard – no switching apps."
+"Hold the [I] key for the number pad: big digits for quick entry of phone numbers and amounts. The calculator counts right in the suggestion bar and inserts the result into the text. It handles percent (200 + 10 % = 220) and brackets, and the scientific mode adds functions, powers, degrees and radians – no switching apps."
 msgstr ""
-"Große Ziffern für die schnelle Eingabe von Telefonnummern und Beträgen. Ein Rechner und ein wissenschaftlicher Rechner direkt in der Tastatur – ohne App-Wechsel."
+"Halte die Taste [I] gedrückt für den Ziffernblock: große Ziffern für die schnelle Eingabe von Telefonnummern und Beträgen. Der Rechner rechnet direkt in der Vorschlagsleiste und fügt das Ergebnis in den Text ein. Er beherrscht Prozent (200 + 10 % = 220) und Klammern, und der wissenschaftliche Modus bietet Funktionen, Potenzen, Grad und Bogenmaß – ganz ohne App-Wechsel."
+
+#: index
+msgid "Shimmering colours, like a dragonfly’s wings."
+msgstr "Schimmernde Farben wie Libellenflügel."
+
+#: index
+msgid ""
+"Pick a ready-made theme or set your own colours for the highlight, keys, special keys, background and text. You can also adjust the font size in the suggestion bar, vibration and key sounds."
+msgstr ""
+"Wähle ein fertiges Design oder stell eigene Farben für Hervorhebung, Tasten, Sondertasten, Hintergrund und Text ein. Auch die Schriftgröße in der Vorschlagsleiste, die Vibration und die Tastentöne lassen sich anpassen."
+
+#: index
+msgid "Light green"
+msgstr "Hellgrün"
+
+#: index
+msgid "Light"
+msgstr "Hell"
+
+#: index
+msgid "AMOLED black"
+msgstr "AMOLED-Schwarz"
+
+#: index
+msgid "Blue"
+msgstr "Blau"
+
+#: index
+msgid "Orange"
+msgstr "Orange"
+
+#: index
+msgid "Purple"
+msgstr "Lila"
+
+#: index
+msgid "Wide wings or narrow – it fits your hand."
+msgstr "Breite Flügel oder schmale – sie passt sich deiner Hand an."
+
+#: index
+msgid ""
+"Hold the Swajp key and pick Size: drag the handles to change the height, width and position. Tablet splits the letters into two halves for both thumbs, Left and Right make it narrower at the edge for one hand, and Floating lets it hover freely above apps. In landscape the keyboard is lower and split."
+msgstr ""
+"Halte die Swajp-Taste gedrückt und wähle Größe: Zieh an den Griffen, um Höhe, Breite und Position zu ändern. Tablet teilt die Buchstaben in zwei Hälften für beide Daumen, Links und Rechts machen sie am Rand schmaler für eine Hand, und Schwebend lässt sie frei über den Apps schweben. Im Querformat ist die Tastatur niedriger und geteilt."
+
+#: index
+msgid "Full"
+msgstr "Ganz"
+
+#: index
+msgid "Tablet"
+msgstr "Tablet"
+
+#: index
+msgid "Left"
+msgstr "Links"
+
+#: index
+msgid "Right"
+msgstr "Rechts"
+
+#: index
+msgid "Floating"
+msgstr "Schwebend"
 
 #: index
 msgid ""

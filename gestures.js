@@ -3,8 +3,14 @@
 (function () {
   var en = (document.documentElement.lang || '').indexOf('cs') !== 0; // ostatní jazyky webu mají ukázky anglicky
   var NS = 'http://www.w3.org/2000/svg';
-  var G = '#9ccc65', KEY = '#2a2d31', SPEC = '#3a3f44', TX = '#ececec', MUT = '#a4a8ad', OP = '#34402b';
+  // barvy z CSS proměnných (style.css) → ukázky se přepnou se světlým / tmavým režimem webu
+  var G = 'var(--dk-g)', KEY = 'var(--dk-key)', SPEC = 'var(--dk-spec)', TX = 'var(--dk-tx)', MUT = 'var(--dk-mut)', OP = 'var(--dk-op)';
   function L(cs, e) { return en ? e : cs; }
+  /** Atribut SVG; barvy „var(--…)“ jako styl (atribut fill proměnnou neumí). */
+  function setA(e, q, v) {
+    if ((q === 'fill' || q === 'stroke') && typeof v === 'string' && v.indexOf('var(') === 0) { e.style[q] = v; e.removeAttribute(q); }
+    else { if (q === 'fill' || q === 'stroke') e.style[q] = ''; e.setAttribute(q, v); }
+  }
 
   // ------------------------------------------------------------ rozložení (šířky v klávesách, řada = 10)
   var R0 = en ? 'qwertyuiop' : 'qwertzuiop', R2 = en ? 'zxcvbnm' : 'yxcvbnm';
@@ -61,15 +67,15 @@
     svg.setAttribute('viewBox', '-2 ' + (FY - 2) + ' 104 ' + (rows * RH - FY + 3));
     svg.setAttribute('class', 'gsvg');
     box.querySelector('.gview').appendChild(svg);
-    function el(n, a, p) { var e = document.createElementNS(NS, n); for (var q in a) e.setAttribute(q, a[q]); (p || svg).appendChild(e); return e; }
-    el('rect', {x: 0, y: FY, width: 100, height: FH, rx: 3, fill: '#23262a'});
+    function el(n, a, p) { var e = document.createElementNS(NS, n); for (var q in a) setA(e, q, a[q]); (p || svg).appendChild(e); return e; }
+    el('rect', {x: 0, y: FY, width: 100, height: FH, rx: 3, fill: 'var(--dk-field)'});
     var fieldG = el('g', {});
     var barG = el('g', {});
     var kbG = el('g', {});
     var popG = el('g', {});
     var trail = el('polyline', {fill: 'none', stroke: G, 'stroke-width': 1.6, 'stroke-linecap': 'round', 'stroke-linejoin': 'round', opacity: 0.9});
-    var finger = el('circle', {r: 3.2, fill: 'none', stroke: '#fff', 'stroke-width': 0.8});
-    var fdot = el('circle', {r: 1.2, fill: '#fff'});
+    var finger = el('circle', {r: 3.2, fill: 'none', stroke: 'var(--dk-finger)', 'stroke-width': 0.8});
+    var fdot = el('circle', {r: 1.2, fill: 'var(--dk-finger)'});
     var bubble = el('g', {});
     var bRect = el('rect', {rx: 3.5, height: 7, fill: G}, bubble);
     var bText = el('text', {fill: '#10140c', 'font-size': 4.2, 'text-anchor': 'middle', 'font-weight': 700}, bubble);
@@ -121,7 +127,7 @@
         if (st.selA >= 0) {
           var a = Math.max(st.selA, off), b = Math.min(st.selB, off + ln.length);
           if (b > a || (st.selA <= off && st.selB > off + ln.length)) {
-            var r = el('rect', {x: xAt(a - off), y: y - 5, width: Math.max(1.5, xAt(b - off) - xAt(a - off)), height: 6.6, fill: '#2f5e8c'}, fieldG);
+            var r = el('rect', {x: xAt(a - off), y: y - 5, width: Math.max(1.5, xAt(b - off) - xAt(a - off)), height: 6.6, fill: 'var(--dk-sel)'}, fieldG);
             fieldG.insertBefore(r, t);
           }
         } else if (cur >= off && cur <= off + ln.length && Math.floor(performance.now() / 450) % 2 === 0) {
@@ -146,7 +152,7 @@
       if (st.pills) {
         var ws = [29, 40, 29], x = 0.5;
         st.pills.forEach(function (s, i) {
-          el('rect', {x: x + 0.4, y: BY + 0.6, width: ws[i] - 0.8, height: BH - 1.2, rx: 2.6, fill: '#34402b'}, barG);
+          el('rect', {x: x + 0.4, y: BY + 0.6, width: ws[i] - 0.8, height: BH - 1.2, rx: 2.6, fill: OP}, barG);
           var t = el('text', {x: x + ws[i] / 2, y: BY + 5, fill: G, 'font-size': 3.5, 'text-anchor': 'middle', 'font-weight': 700}, barG); t.textContent = s;
           barPos.push([x + ws[i] / 2, BY + BH / 2]);
           x += ws[i] + 0.5;
@@ -158,7 +164,7 @@
       st.bar.forEach(function (s, i) {
         barPos.push([w * i + w / 2, BY + BH / 2]);
         var t = el('text', {x: w * i + w / 2, y: BY + 5.1, fill: i === (st.hl || 0) ? G : TX, 'font-size': 4.2, 'text-anchor': 'middle'}, barG); t.textContent = s;
-        if (i > 0) el('rect', {x: w * i, y: BY + 1.3, width: 0.3, height: BH - 2.6, fill: '#4a4f55'}, barG);
+        if (i > 0) el('rect', {x: w * i, y: BY + 1.3, width: 0.3, height: BH - 2.6, fill: 'var(--dk-bar)'}, barG);
       });
     }
     // historie schránky a diktování: vlastní kresba místo kláves (jako v aplikaci)
@@ -205,7 +211,7 @@
       while (popG.firstChild) popG.removeChild(popG.firstChild);
       if (!st.pop) return;
       var cw = st.pop.cw, x0 = st.pop.x0, y = st.pop.y, n = st.pop.items.length;
-      el('rect', {x: x0, y: y, width: n * cw, height: RH - 1, rx: 1.8, fill: '#44494f'}, popG);
+      el('rect', {x: x0, y: y, width: n * cw, height: RH - 1, rx: 1.8, fill: 'var(--dk-pop)'}, popG);
       st.pop.items.forEach(function (s, i) {
         var on = i === st.pop.sel, col = on ? '#10140c' : TX, cx = x0 + i * cw + cw / 2, cy = y + (RH - 1) / 2;
         if (on) el('rect', {x: x0 + i * cw + 0.6, y: y + 0.6, width: cw - 1.2, height: RH - 2.2, rx: 1.6, fill: G}, popG);
@@ -247,14 +253,14 @@
       drawLayer(slides[cur].layer || 'letters');
       idx = 0; t0 = performance.now(); down = false; moving = false; pts = []; glowKey = null; upAt = 0; endAt = 0;
       var p0 = pt('space'); fx = p0[0]; fy = p0[1];
-      for (var q in rects) rects[q].setAttribute('stroke', 'none');
+      for (var q in rects) setA(rects[q], 'stroke', 'none');
       bubble.setAttribute('opacity', 0);
     }
     function glow(id, label) {
-      if (glowKey && rects[glowKey]) rects[glowKey].setAttribute('stroke', 'none');
+      if (glowKey && rects[glowKey]) setA(rects[glowKey], 'stroke', 'none');
       glowKey = id;
       if (!id || !rects[id]) { bubble.setAttribute('opacity', 0); return; }
-      rects[id].setAttribute('stroke', G); rects[id].setAttribute('stroke-width', 1.2);
+      setA(rects[id], 'stroke', G); rects[id].setAttribute('stroke-width', 1.2);
       if (!label) { bubble.setAttribute('opacity', 0); return; }
       var kk = K[id], w = Math.max(14, label.length * 2.5 + 6), cx = Math.max(w / 2, Math.min(100 - w / 2, kk.x + kk.w / 2));
       bRect.setAttribute('x', cx - w / 2); bRect.setAttribute('y', kk.y - 8.5); bRect.setAttribute('width', w);
@@ -304,7 +310,7 @@
           break;
         }
         case 'A': for (var lk in labs) labs[lk].textContent = op[1] ? lk.toUpperCase() : lk; break; // velká písmena (nad klávesnicí = Shift)
-        case 'H': if (rects[op[1]]) rects[op[1]].setAttribute('fill', op[2] ? '#4e6b2f' : SPEC); break;
+        case 'H': if (rects[op[1]]) setA(rects[op[1]], 'fill', op[2] ? 'var(--dk-hl)' : SPEC); break;
       }
     }
     var capOn = false;
@@ -321,10 +327,10 @@
     }
 
     var titleEl = box.querySelector('.gt'), descEl = box.querySelector('.gd'), dots = box.querySelector('.gdots');
-    slides.forEach(function (_, i) { var b = document.createElement('button'); b.setAttribute('aria-label', (i + 1) + ''); b.onclick = function () { go(i); }; dots.appendChild(b); });
+    slides.forEach(function (_, i) { var b = document.createElement('button'); b.setAttribute('aria-label', (i + 1) + ''); b.title = _.t; b.onclick = function () { go(i); }; dots.appendChild(b); });
     function go(i) {
       cur = (i + slides.length) % slides.length;
-      titleEl.textContent = slides[cur].t; descEl.textContent = slides[cur].d;
+      if (titleEl) titleEl.textContent = slides[cur].t; if (descEl) descEl.textContent = slides[cur].d;
       [].forEach.call(dots.children, function (b, j) { b.className = j === cur ? 'on' : ''; });
       reset();
     }

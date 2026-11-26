@@ -134,6 +134,22 @@ msgid "Big digits, a calculator and a scientific one."
 msgstr "Números grans, una calculadora i una de científica."
 
 #: index
+msgid "Themes &amp; colours"
+msgstr "Temes i colors"
+
+#: index
+msgid "Six themes or colours of your own."
+msgstr "Sis temes o colors propis."
+
+#: index
+msgid "Size &amp; layout"
+msgstr "Mida i disposició"
+
+#: index
+msgid "Split, one-handed or floating."
+msgstr "Dividit, per a una mà o flotant."
+
+#: index
 msgid "Backup"
 msgstr "Còpia de seguretat"
 
@@ -159,9 +175,9 @@ msgstr "Següent"
 
 #: index
 msgid ""
-"No need to tap letter by letter – one stroke across the letters of a word is enough. Swajp recognises the swipe even when it is not perfect, and learns your style so it keeps getting more accurate."
+"No need to tap letter by letter – one stroke across the letters of a word is enough. Swajp recognises the swipe even when it is not perfect, and learns your style so it keeps getting more accurate. Words with a similar swipe wait in the suggestion bar – one tap swaps them. For a capital letter, slide from the first letter up above the keyboard and straight on to the next one. A swipe from a letter to the space bar types the character from its corner, such as ? or !"
 msgstr ""
-"No cal tocar lletra per lletra – n'hi ha prou amb un sol traç per les lletres d'una paraula. Swajp reconeix el traç encara que no sigui perfecte, i aprèn el teu estil perquè cada vegada sigui més precís."
+"No cal tocar lletra per lletra – n'hi ha prou amb un sol traç per les lletres de la paraula. Swajp reconeix el traç encara que no sigui perfecte i aprèn el teu estil, de manera que cada cop és més precís. Les paraules amb un traç semblant esperen a la barra de suggeriments – amb un toc les canvies. Per a una majúscula, llisca des de la primera lletra cap amunt, per sobre del teclat, i d'allà directament a la següent. Un traç d'una lletra a la barra d'espai escriu el caràcter de la seva cantonada, com ara ? o !"
 
 #: index
 msgid "Predicts your next word like a dragonfly predicts its prey."
@@ -170,9 +186,9 @@ msgstr ""
 
 #: index
 msgid ""
-"From the words before, it suggests what you are likely to type next, and uses context to tell similar words apart. It learns the words you actually use."
+"From the words before, it suggests what you are likely to type next – after a space, just tap it. It uses context to tell similar words apart and learns the words you actually use. When you tap out a word with a typo, the bar shows what you typed next to the fix, and the space bar inserts the highlighted fix."
 msgstr ""
-"A partir de les paraules anteriors, et suggereix el que probablement escriuràs després, i pel context distingeix fins i tot paraules semblants. Aprèn les paraules que fas servir tu."
+"A partir de les paraules anteriors, et suggereix què escriuràs probablement després – després d'un espai, només cal tocar-la. Fa servir el context per distingir paraules semblants i aprèn les que realment utilitzes. Quan escrius tocant i fas un error, la barra mostra el que has escrit al costat de la correcció, i la barra d'espai insereix la correcció destacada."
 
 #: index
 msgid "Rules the air. Now rules your text."
@@ -180,9 +196,9 @@ msgstr "Domina l'aire. Ara domina també el teu text."
 
 #: index
 msgid ""
-"It flies backwards and forwards too – undo and redo, up to 60 steps. Moving the cursor to select or delete text is as precise as landing on a reed. Copy, paste, cut and select all with a swipe from the Swajp key, change case with a single gesture."
+"It flies backwards and forwards too – Enter → space undoes, Swajp → space redoes, up to 60 steps. Copy, paste, cut or select all with a swipe from the Swajp key to C, V, X or A, and change case with a single gesture. Slide left from ⌫ to delete whole words, or up for whole lines. Double-tap the space bar and slide to move the cursor as precisely as landing on a reed. The [I] key opens editing with arrows, selection, Start and End."
 msgstr ""
-"També vola enrere i endavant – desfés i refés, fins a 60 passos. Moure el cursor per seleccionar o esborrar text és tan precís com posar-se sobre un jonc. Copia, enganxa, retalla i selecciona-ho tot amb un traç des de la tecla Swajp, i canvia majúscules i minúscules amb un sol gest."
+"També vola enrere i endavant – Enter → espai desfà, Swajp → espai refà, fins a 60 passos. Copia, enganxa, retalla o selecciona-ho tot lliscant de la tecla Swajp a C, V, X o A, i canvia entre majúscules i minúscules amb un sol gest. Llisca a l'esquerra des de ⌫ per esborrar paraules senceres, o amunt per a línies senceres. Toca dues vegades la barra d'espai i llisca per moure el cursor amb la precisió d'una libèl·lula que es posa sobre un jonc. La tecla [I] obre l'edició amb fletxes, selecció, Inici i Final."
 
 #: index
 msgid ""
@@ -206,9 +222,9 @@ msgstr "Nascut per regnar – en 35 idiomes."
 
 #: index
 msgid ""
-"Type in two languages without switching – the keyboard knows words from both. 9 languages are built in (English in two variants), 26 more can be downloaded as packs."
+"Type in two languages without switching – the keyboard knows words from both. Tap an unknown word in the bar to add it to the dictionary of one language or both. In Hindi you type in Latin letters (Hinglish) and get Devanagari – or stay with Latin. 9 languages are built in (English in two variants), 26 more can be downloaded as packs."
 msgstr ""
-"Escriu en dos idiomes sense canviar – el teclat reconeix les paraules de tots dos. 9 idiomes vénen integrats (l'anglès en dues variants) i 26 més es poden baixar com a paquets."
+"Escriu en dos idiomes sense canviar – el teclat coneix les paraules de tots dos. Toca una paraula desconeguda a la barra per afegir-la al diccionari d'un idioma o de tots dos. En hindi escrius amb lletres llatines (Hinglish) i obtens devanagari – o et quedes amb les llatines. 9 idiomes venen integrats (l'anglès en dues variants) i se'n poden baixar 26 més com a paquets."
 
 #: index
 msgid ""
@@ -222,9 +238,9 @@ msgstr "T'escolta. No ho explica a ningú."
 
 #: index
 msgid ""
-"Speech is turned into text right on your phone (Parakeet and Omnilingual models), with no internet. If you like, you can use Google recognition instead. Recognised words are checked against the dictionary."
+"Hold the Swajp key and pick the microphone – the text appears as you speak. Speech is turned into text right on your phone (Parakeet and Omnilingual models), with no internet. If you like, you can use Google recognition instead. Recognised words are checked against the dictionary."
 msgstr ""
-"La veu es converteix en text directament al telèfon (models Parakeet i Omnilingual), sense internet. Si vols, pots fer servir el reconeixement de Google. Les paraules reconegudes es corregeixen amb el diccionari."
+"Mantén premuda la tecla Swajp i tria el micròfon – el text apareix mentre parles. La veu es converteix en text directament al telèfon (models Parakeet i Omnilingual), sense internet. Si vols, també pots fer servir el reconeixement de Google. Les paraules reconegudes es comproven amb el diccionari."
 
 #: index
 msgid "Remembers your copies. Forgets your secrets."
@@ -232,9 +248,9 @@ msgstr "Recorda el que copies. Oblida els teus secrets."
 
 #: index
 msgid ""
-"Your last 30 copied texts are always at hand. Passwords, codes and text marked as sensitive are never stored, and the history clears itself after the time you choose."
+"Hold Enter and pick the clipboard: your last 30 copied texts are always at hand – tap to paste, pin the ones you want to keep. Passwords, codes and text marked as sensitive are never stored, and the history clears itself after the time you choose."
 msgstr ""
-"Els teus últims 30 textos copiats sempre a mà. Les contrasenyes, els codis i els textos marcats com a sensibles no es desen mai, i l'historial s'esborra sol passat el temps que triïs."
+"Mantén premut Enter i tria el porta-retalls: els teus últims 30 textos copiats sempre a mà – toca per enganxar i fixa els que vulguis conservar. Les contrasenyes, els codis i el text marcat com a sensible no es desen mai, i l'historial s'esborra tot sol després del temps que triïs."
 
 #: index
 msgid "Even sharp minds reach for a calculator."
@@ -242,9 +258,73 @@ msgstr "Fins i tot els caps més desperts fan servir la calculadora."
 
 #: index
 msgid ""
-"Big digits for quick entry of phone numbers and amounts. A calculator and a scientific calculator right in the keyboard – no switching apps."
+"Hold the [I] key for the number pad: big digits for quick entry of phone numbers and amounts. The calculator counts right in the suggestion bar and inserts the result into the text. It handles percent (200 + 10 % = 220) and brackets, and the scientific mode adds functions, powers, degrees and radians – no switching apps."
 msgstr ""
-"Números grans per escriure ràpidament telèfons i imports. Una calculadora i una calculadora científica dins del mateix teclat – sense canviar d'aplicació."
+"Mantén premuda la tecla [I] per al teclat numèric: dígits grans per introduir ràpidament números de telèfon i imports. La calculadora calcula directament a la barra de suggeriments i insereix el resultat al text. Entén els percentatges (200 + 10 % = 220) i els parèntesis, i el mode científic hi afegeix funcions, potències, graus i radians – sense canviar d'aplicació."
+
+#: index
+msgid "Shimmering colours, like a dragonfly’s wings."
+msgstr "Colors que brillen com les ales d'una libèl·lula."
+
+#: index
+msgid ""
+"Pick a ready-made theme or set your own colours for the highlight, keys, special keys, background and text. You can also adjust the font size in the suggestion bar, vibration and key sounds."
+msgstr ""
+"Tria un tema predefinit o configura els teus colors per al realçat, les tecles, les tecles especials, el fons i el text. També pots ajustar la mida de la lletra de la barra de suggeriments, la vibració i els sons de les tecles."
+
+#: index
+msgid "Light green"
+msgstr "Verd clar"
+
+#: index
+msgid "Light"
+msgstr "Clar"
+
+#: index
+msgid "AMOLED black"
+msgstr "Negre AMOLED"
+
+#: index
+msgid "Blue"
+msgstr "Blau"
+
+#: index
+msgid "Orange"
+msgstr "Taronja"
+
+#: index
+msgid "Purple"
+msgstr "Lila"
+
+#: index
+msgid "Wide wings or narrow – it fits your hand."
+msgstr "Ales amples o estretes – s'adapta a la teva mà."
+
+#: index
+msgid ""
+"Hold the Swajp key and pick Size: drag the handles to change the height, width and position. Tablet splits the letters into two halves for both thumbs, Left and Right make it narrower at the edge for one hand, and Floating lets it hover freely above apps. In landscape the keyboard is lower and split."
+msgstr ""
+"Mantén premuda la tecla Swajp i tria Mida: arrossega les nanses per canviar l'alçada, l'amplada i la posició. Tauleta divideix les lletres en dues meitats per als dos polzes, Esquerra i Dreta l'estrenyen cap a la vora per a una sola mà, i Flotant el fa surar lliurement per sobre de les aplicacions. En horitzontal, el teclat és més baix i dividit."
+
+#: index
+msgid "Full"
+msgstr "Complet"
+
+#: index
+msgid "Tablet"
+msgstr "Tauleta"
+
+#: index
+msgid "Left"
+msgstr "Esquerra"
+
+#: index
+msgid "Right"
+msgstr "Dreta"
+
+#: index
+msgid "Floating"
+msgstr "Flotant"
 
 #: index
 msgid ""

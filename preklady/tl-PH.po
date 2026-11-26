@@ -135,6 +135,22 @@ msgid "Big digits, a calculator and a scientific one."
 msgstr "Malalaking numero, calculator at scientific calculator."
 
 #: index
+msgid "Themes &amp; colours"
+msgstr "Mga tema at kulay"
+
+#: index
+msgid "Six themes or colours of your own."
+msgstr "Anim na tema o sarili mong mga kulay."
+
+#: index
+msgid "Size &amp; layout"
+msgstr "Laki at layout"
+
+#: index
+msgid "Split, one-handed or floating."
+msgstr "Hati, pang-isang kamay o lumulutang."
+
+#: index
 msgid "Backup"
 msgstr "Backup"
 
@@ -160,9 +176,9 @@ msgstr "Susunod"
 
 #: index
 msgid ""
-"No need to tap letter by letter – one stroke across the letters of a word is enough. Swajp recognises the swipe even when it is not perfect, and learns your style so it keeps getting more accurate."
+"No need to tap letter by letter – one stroke across the letters of a word is enough. Swajp recognises the swipe even when it is not perfect, and learns your style so it keeps getting more accurate. Words with a similar swipe wait in the suggestion bar – one tap swaps them. For a capital letter, slide from the first letter up above the keyboard and straight on to the next one. A swipe from a letter to the space bar types the character from its corner, such as ? or !"
 msgstr ""
-"Hindi na kailangang mag-tap nang titik-titik – sapat na ang isang guhit sa mga titik ng salita. Nakikilala ng Swajp ang swipe kahit hindi ito perpekto, at natututo ito sa istilo mo kaya lalo itong tumutumpak."
+"Hindi mo kailangang mag-tap nang isa-isang titik – sapat na ang isang guhit sa mga titik ng salita. Nakikilala ng Swajp ang swipe kahit hindi ito perpekto, at natututunan nito ang istilo mo kaya lalo itong tumutumpak. Naghihintay sa bar ng mungkahi ang mga salitang may kahawig na swipe – isang tap lang para palitan. Para sa malaking titik, mag-slide mula sa unang titik pataas sa ibabaw ng keyboard at diretso sa susunod na titik. Ang swipe mula sa isang titik papunta sa space bar ay nagta-type ng character na nasa sulok nito, gaya ng ? o !"
 
 #: index
 msgid "Predicts your next word like a dragonfly predicts its prey."
@@ -171,9 +187,9 @@ msgstr ""
 
 #: index
 msgid ""
-"From the words before, it suggests what you are likely to type next, and uses context to tell similar words apart. It learns the words you actually use."
+"From the words before, it suggests what you are likely to type next – after a space, just tap it. It uses context to tell similar words apart and learns the words you actually use. When you tap out a word with a typo, the bar shows what you typed next to the fix, and the space bar inserts the highlighted fix."
 msgstr ""
-"Mula sa mga naunang salita, iminumungkahi nito ang malamang na susunod mong i-type, at ginagamit nito ang konteksto para makilala ang magkakahawig na salita. Natututunan nito ang mga salitang talagang ginagamit mo."
+"Batay sa mga naunang salita, iminumungkahi nito ang malamang na susunod mong ita-type – pagkatapos ng space, i-tap lang. Ginagamit nito ang konteksto para makilala ang magkakahawig na salita at natututunan ang mga salitang talagang ginagamit mo. Kapag nagkamali ka sa pag-tap ng isang salita, ipinapakita ng bar ang tinype mo katabi ng pagwawasto, at ilalagay ng space bar ang naka-highlight na pagwawasto."
 
 #: index
 msgid "Rules the air. Now rules your text."
@@ -181,9 +197,9 @@ msgstr "Hari ng himpapawid. Ngayon, hari na rin ng teksto mo."
 
 #: index
 msgid ""
-"It flies backwards and forwards too – undo and redo, up to 60 steps. Moving the cursor to select or delete text is as precise as landing on a reed. Copy, paste, cut and select all with a swipe from the Swajp key, change case with a single gesture."
+"It flies backwards and forwards too – Enter → space undoes, Swajp → space redoes, up to 60 steps. Copy, paste, cut or select all with a swipe from the Swajp key to C, V, X or A, and change case with a single gesture. Slide left from ⌫ to delete whole words, or up for whole lines. Double-tap the space bar and slide to move the cursor as precisely as landing on a reed. The [I] key opens editing with arrows, selection, Start and End."
 msgstr ""
-"Lumilipad din ito paatras at pasulong – i-undo at i-redo, hanggang 60 hakbang. Ang paggalaw ng cursor para pumili o magbura ng teksto ay kasintumpak ng paglapag sa dahon ng tambo. Kopyahin, i-paste, i-cut at piliin lahat sa isang swipe mula sa Swajp key; palitan ang laki ng titik sa iisang galaw."
+"Lumilipad din ito paatras at pasulong – Enter → space para mag-undo, Swajp → space para mag-redo, hanggang 60 hakbang. Kopyahin, i-paste, i-cut o piliin lahat sa isang swipe mula sa Swajp key papunta sa C, V, X o A, at palitan ang laki ng titik sa iisang galaw. Mag-slide pakaliwa mula sa ⌫ para magbura ng buong salita, o pataas para sa buong linya. I-double tap ang space bar at mag-slide para igalaw ang cursor nang kasintumpak ng tutubing dumadapo sa tambo. Binubuksan ng [I] key ang pag-edit na may mga arrow, pagpili, Simula at Dulo."
 
 #: index
 msgid ""
@@ -207,9 +223,9 @@ msgstr "Isinilang para maghari – sa 35 wika."
 
 #: index
 msgid ""
-"Type in two languages without switching – the keyboard knows words from both. 9 languages are built in (English in two variants), 26 more can be downloaded as packs."
+"Type in two languages without switching – the keyboard knows words from both. Tap an unknown word in the bar to add it to the dictionary of one language or both. In Hindi you type in Latin letters (Hinglish) and get Devanagari – or stay with Latin. 9 languages are built in (English in two variants), 26 more can be downloaded as packs."
 msgstr ""
-"Mag-type sa dalawang wika nang hindi nagpapalit – alam ng keyboard ang mga salita ng dalawa. 9 na wika ang kasama na sa app (Ingles sa dalawang bersyon), at 26 pa ang puwedeng i-download bilang pack."
+"Mag-type sa dalawang wika nang hindi nagpapalit – kilala ng keyboard ang mga salita ng pareho. I-tap ang hindi kilalang salita sa bar para idagdag ito sa diksiyonaryo ng isang wika o ng pareho. Sa Hindi, nagta-type ka sa mga titik na Latin (Hinglish) at Devanagari ang lumalabas – o manatili sa Latin. May 9 na built-in na wika (Ingles sa dalawang variant), at 26 pa ang puwedeng i-download bilang mga pack."
 
 #: index
 msgid ""
@@ -223,9 +239,9 @@ msgstr "Nakikinig sa iyo. Walang pagsasabihan."
 
 #: index
 msgid ""
-"Speech is turned into text right on your phone (Parakeet and Omnilingual models), with no internet. If you like, you can use Google recognition instead. Recognised words are checked against the dictionary."
+"Hold the Swajp key and pick the microphone – the text appears as you speak. Speech is turned into text right on your phone (Parakeet and Omnilingual models), with no internet. If you like, you can use Google recognition instead. Recognised words are checked against the dictionary."
 msgstr ""
-"Nagiging teksto ang pananalita mismo sa telepono mo (mga model na Parakeet at Omnilingual), nang walang internet. Kung gusto mo, puwede mong gamitin ang pagkilala ng Google. Sinusuri sa diksiyonaryo ang mga nakilalang salita."
+"Pindutin nang matagal ang Swajp key at piliin ang mikropono – lumilitaw ang teksto habang nagsasalita ka. Nagiging teksto ang pananalita mismo sa telepono mo (mga model na Parakeet at Omnilingual), nang walang internet. Kung gusto mo, puwede mong gamitin ang pagkilala ng Google. Sinusuri sa diksiyonaryo ang mga nakilalang salita."
 
 #: index
 msgid "Remembers your copies. Forgets your secrets."
@@ -233,9 +249,9 @@ msgstr "Tanda ang mga kinopya mo. Limot ang mga sikreto mo."
 
 #: index
 msgid ""
-"Your last 30 copied texts are always at hand. Passwords, codes and text marked as sensitive are never stored, and the history clears itself after the time you choose."
+"Hold Enter and pick the clipboard: your last 30 copied texts are always at hand – tap to paste, pin the ones you want to keep. Passwords, codes and text marked as sensitive are never stored, and the history clears itself after the time you choose."
 msgstr ""
-"Laging abot-kamay ang huling 30 tekstong kinopya mo. Hindi kailanman itinatago ang mga password, code at tekstong minarkahang sensitibo, at kusang nabubura ang history pagkalipas ng oras na pinili mo."
+"Pindutin nang matagal ang Enter at piliin ang clipboard: laging abot-kamay ang huling 30 tekstong kinopya mo – i-tap para i-paste, i-pin ang mga gusto mong itago. Hindi kailanman sine-save ang mga password, code at tekstong minarkahang sensitibo, at kusang nabubura ang history pagkalipas ng oras na pipiliin mo."
 
 #: index
 msgid "Even sharp minds reach for a calculator."
@@ -243,9 +259,73 @@ msgstr "Kahit matalas ang isip, may silbi pa rin ang calculator."
 
 #: index
 msgid ""
-"Big digits for quick entry of phone numbers and amounts. A calculator and a scientific calculator right in the keyboard – no switching apps."
+"Hold the [I] key for the number pad: big digits for quick entry of phone numbers and amounts. The calculator counts right in the suggestion bar and inserts the result into the text. It handles percent (200 + 10 % = 220) and brackets, and the scientific mode adds functions, powers, degrees and radians – no switching apps."
 msgstr ""
-"Malalaking numero para sa mabilis na paglalagay ng numero ng telepono at halaga. Calculator at scientific calculator mismo sa keyboard – hindi na kailangang magpalit ng app."
+"Pindutin nang matagal ang [I] key para sa number pad: malalaking numero para mabilis na mailagay ang mga numero ng telepono at halaga. Nagkukuwenta ang calculator mismo sa bar ng mungkahi at inilalagay ang resulta sa teksto. Kaya nito ang porsiyento (200 + 10% = 220) at mga panaklong, at nagdaragdag ang scientific mode ng mga function, power, degree at radian – nang hindi nagpapalit ng app."
+
+#: index
+msgid "Shimmering colours, like a dragonfly’s wings."
+msgstr "Kumikinang na mga kulay, gaya ng pakpak ng tutubi."
+
+#: index
+msgid ""
+"Pick a ready-made theme or set your own colours for the highlight, keys, special keys, background and text. You can also adjust the font size in the suggestion bar, vibration and key sounds."
+msgstr ""
+"Pumili ng handang tema o itakda ang sarili mong mga kulay para sa highlight, mga key, mga espesyal na key, background at teksto. Puwede mo ring i-adjust ang laki ng font sa bar ng mungkahi, ang vibration at ang tunog ng mga key."
+
+#: index
+msgid "Light green"
+msgstr "Mapusyaw na berde"
+
+#: index
+msgid "Light"
+msgstr "Maliwanag"
+
+#: index
+msgid "AMOLED black"
+msgstr "AMOLED na itim"
+
+#: index
+msgid "Blue"
+msgstr "Asul"
+
+#: index
+msgid "Orange"
+msgstr "Kahel"
+
+#: index
+msgid "Purple"
+msgstr "Lila"
+
+#: index
+msgid "Wide wings or narrow – it fits your hand."
+msgstr "Malapad o makitid na pakpak – akma sa kamay mo."
+
+#: index
+msgid ""
+"Hold the Swajp key and pick Size: drag the handles to change the height, width and position. Tablet splits the letters into two halves for both thumbs, Left and Right make it narrower at the edge for one hand, and Floating lets it hover freely above apps. In landscape the keyboard is lower and split."
+msgstr ""
+"Pindutin nang matagal ang Swajp key at piliin ang Laki: i-drag ang mga hawakan para baguhin ang taas, lapad at posisyon. Hinahati ng Tablet ang mga titik sa dalawa para sa dalawang hinlalaki, pinakikitid ito ng Kaliwa at Kanan sa gilid para sa isang kamay, at sa Lumulutang ay malaya itong lumilipad sa ibabaw ng mga app. Sa landscape, mas mababa at hati ang keyboard."
+
+#: index
+msgid "Full"
+msgstr "Buo"
+
+#: index
+msgid "Tablet"
+msgstr "Tablet"
+
+#: index
+msgid "Left"
+msgstr "Kaliwa"
+
+#: index
+msgid "Right"
+msgstr "Kanan"
+
+#: index
+msgid "Floating"
+msgstr "Lumulutang"
 
 #: index
 msgid ""

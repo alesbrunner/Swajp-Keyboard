@@ -134,6 +134,22 @@ msgid "Big digits, a calculator and a scientific one."
 msgstr "Cifre mari, un calculator și unul științific."
 
 #: index
+msgid "Themes &amp; colours"
+msgstr "Teme și culori"
+
+#: index
+msgid "Six themes or colours of your own."
+msgstr "Șase teme sau culorile tale."
+
+#: index
+msgid "Size &amp; layout"
+msgstr "Mărime și aspect"
+
+#: index
+msgid "Split, one-handed or floating."
+msgstr "Împărțită, pentru o mână sau plutitoare."
+
+#: index
 msgid "Backup"
 msgstr "Copie de rezervă"
 
@@ -159,9 +175,9 @@ msgstr "Următor"
 
 #: index
 msgid ""
-"No need to tap letter by letter – one stroke across the letters of a word is enough. Swajp recognises the swipe even when it is not perfect, and learns your style so it keeps getting more accurate."
+"No need to tap letter by letter – one stroke across the letters of a word is enough. Swajp recognises the swipe even when it is not perfect, and learns your style so it keeps getting more accurate. Words with a similar swipe wait in the suggestion bar – one tap swaps them. For a capital letter, slide from the first letter up above the keyboard and straight on to the next one. A swipe from a letter to the space bar types the character from its corner, such as ? or !"
 msgstr ""
-"Nu trebuie să atingi literă cu literă – ajunge o singură glisare peste literele cuvântului. Swajp recunoaște glisarea chiar dacă nu e perfectă și îți învață stilul, așa că devine tot mai precis."
+"Nu trebuie să atingi literă cu literă – ajunge o singură glisare peste literele cuvântului. Swajp recunoaște glisarea chiar dacă nu e perfectă și îți învață stilul, așa că devine tot mai precisă. Cuvintele cu o glisare asemănătoare așteaptă în bara de sugestii – le schimbi cu o atingere. Pentru o majusculă, glisează de la prima literă în sus, deasupra tastaturii, și de acolo direct la următoarea. O glisare de la o literă la bara de spațiu scrie caracterul din colțul ei, de exemplu ? sau !"
 
 #: index
 msgid "Predicts your next word like a dragonfly predicts its prey."
@@ -169,9 +185,9 @@ msgstr "Îți prevede următorul cuvânt cum prevede libelula zborul prăzii."
 
 #: index
 msgid ""
-"From the words before, it suggests what you are likely to type next, and uses context to tell similar words apart. It learns the words you actually use."
+"From the words before, it suggests what you are likely to type next – after a space, just tap it. It uses context to tell similar words apart and learns the words you actually use. When you tap out a word with a typo, the bar shows what you typed next to the fix, and the space bar inserts the highlighted fix."
 msgstr ""
-"Din cuvintele anterioare sugerează ce vei scrie probabil în continuare și folosește contextul ca să deosebească și cuvintele asemănătoare. Învață cuvintele pe care le folosești tu."
+"Pe baza cuvintelor anterioare îți sugerează ce vei scrie probabil în continuare – după spațiu, doar atinge-l. Folosește contextul ca să deosebească cuvintele asemănătoare și învață cuvintele pe care le folosești cu adevărat. Când tastezi un cuvânt cu o greșeală, bara arată ce ai scris lângă corectură, iar bara de spațiu inserează corectura evidențiată."
 
 #: index
 msgid "Rules the air. Now rules your text."
@@ -179,9 +195,9 @@ msgstr "Stăpânește văzduhul. Acum îți stăpânește și textul."
 
 #: index
 msgid ""
-"It flies backwards and forwards too – undo and redo, up to 60 steps. Moving the cursor to select or delete text is as precise as landing on a reed. Copy, paste, cut and select all with a swipe from the Swajp key, change case with a single gesture."
+"It flies backwards and forwards too – Enter → space undoes, Swajp → space redoes, up to 60 steps. Copy, paste, cut or select all with a swipe from the Swajp key to C, V, X or A, and change case with a single gesture. Slide left from ⌫ to delete whole words, or up for whole lines. Double-tap the space bar and slide to move the cursor as precisely as landing on a reed. The [I] key opens editing with arrows, selection, Start and End."
 msgstr ""
-"Zboară și înapoi, și înainte – anulare și refacere, până la 60 de pași. Mutarea cursorului la selectarea sau ștergerea textului e precisă ca o aterizare pe un fir de trestie. Copiezi, lipești, decupezi și selectezi tot cu o glisare de la tasta Swajp, iar literele mari și mici le schimbi cu un singur gest."
+"Zboară și înapoi, și înainte – Enter → spațiu anulează, Swajp → spațiu reface, până la 60 de pași. Copiezi, lipești, decupezi sau selectezi tot glisând de pe tasta Swajp pe C, V, X sau A, iar majusculele le schimbi dintr-un singur gest. Glisează la stânga de pe ⌫ ca să ștergi cuvinte întregi sau în sus pentru rânduri întregi. Atinge de două ori bara de spațiu și glisează ca să muți cursorul precis, ca o libelulă care se așază pe un fir de trestie. Tasta [I] deschide editarea cu săgeți, selecție, Început și Sfârșit."
 
 #: index
 msgid ""
@@ -205,9 +221,9 @@ msgstr "Născută să domnească – în 35 de limbi."
 
 #: index
 msgid ""
-"Type in two languages without switching – the keyboard knows words from both. 9 languages are built in (English in two variants), 26 more can be downloaded as packs."
+"Type in two languages without switching – the keyboard knows words from both. Tap an unknown word in the bar to add it to the dictionary of one language or both. In Hindi you type in Latin letters (Hinglish) and get Devanagari – or stay with Latin. 9 languages are built in (English in two variants), 26 more can be downloaded as packs."
 msgstr ""
-"Scrie în două limbi fără să comuți – tastatura cunoaște cuvintele din amândouă. 9 limbi sunt incluse în aplicație (engleza în două variante), alte 26 se pot descărca drept pachete."
+"Scrie în două limbi fără să comuți – tastatura știe cuvintele din amândouă. Atinge un cuvânt necunoscut din bară ca să-l adaugi în dicționarul unei limbi sau al amândurora. În hindi scrii cu litere latine (Hinglish) și obții devanagari – sau rămâi la literele latine. 9 limbi sunt integrate (engleza în două variante), alte 26 se pot descărca drept pachete."
 
 #: index
 msgid ""
@@ -221,9 +237,9 @@ msgstr "Te aude. Nu spune nimănui."
 
 #: index
 msgid ""
-"Speech is turned into text right on your phone (Parakeet and Omnilingual models), with no internet. If you like, you can use Google recognition instead. Recognised words are checked against the dictionary."
+"Hold the Swajp key and pick the microphone – the text appears as you speak. Speech is turned into text right on your phone (Parakeet and Omnilingual models), with no internet. If you like, you can use Google recognition instead. Recognised words are checked against the dictionary."
 msgstr ""
-"Vorbirea se transformă în text direct în telefon (modelele Parakeet și Omnilingual), fără internet. Dacă vrei, poți folosi în schimb recunoașterea Google. Cuvintele recunoscute sunt verificate cu dicționarul."
+"Ține apăsată tasta Swajp și alege microfonul – textul apare pe măsură ce vorbești. Vorbirea devine text direct în telefon (modelele Parakeet și Omnilingual), fără internet. Dacă vrei, poți folosi în schimb recunoașterea Google. Cuvintele recunoscute sunt verificate cu dicționarul."
 
 #: index
 msgid "Remembers your copies. Forgets your secrets."
@@ -231,9 +247,9 @@ msgstr "Îți ține minte copiile. Îți uită secretele."
 
 #: index
 msgid ""
-"Your last 30 copied texts are always at hand. Passwords, codes and text marked as sensitive are never stored, and the history clears itself after the time you choose."
+"Hold Enter and pick the clipboard: your last 30 copied texts are always at hand – tap to paste, pin the ones you want to keep. Passwords, codes and text marked as sensitive are never stored, and the history clears itself after the time you choose."
 msgstr ""
-"Ultimele 30 de texte copiate sunt mereu la îndemână. Parolele, codurile și textele marcate ca sensibile nu se salvează niciodată, iar istoricul se șterge singur după timpul ales de tine."
+"Ține apăsat Enter și alege clipboardul: ultimele 30 de texte copiate sunt mereu la îndemână – atinge ca să lipești, fixează-le pe cele pe care vrei să le păstrezi. Parolele, codurile și textul marcat ca sensibil nu sunt salvate niciodată, iar istoricul se șterge singur după intervalul ales."
 
 #: index
 msgid "Even sharp minds reach for a calculator."
@@ -241,9 +257,73 @@ msgstr "Și mințile ascuțite apelează la un calculator."
 
 #: index
 msgid ""
-"Big digits for quick entry of phone numbers and amounts. A calculator and a scientific calculator right in the keyboard – no switching apps."
+"Hold the [I] key for the number pad: big digits for quick entry of phone numbers and amounts. The calculator counts right in the suggestion bar and inserts the result into the text. It handles percent (200 + 10 % = 220) and brackets, and the scientific mode adds functions, powers, degrees and radians – no switching apps."
 msgstr ""
-"Cifre mari pentru introducerea rapidă a numerelor de telefon și a sumelor. Un calculator și un calculator științific direct în tastatură – fără să schimbi aplicația."
+"Ține apăsată tasta [I] pentru tastatura numerică: cifre mari pentru introducerea rapidă a numerelor de telefon și a sumelor. Calculatorul socotește direct în bara de sugestii și inserează rezultatul în text. Știe procente (200 + 10% = 220) și paranteze, iar modul științific adaugă funcții, puteri, grade și radiani – fără să schimbi aplicația."
+
+#: index
+msgid "Shimmering colours, like a dragonfly’s wings."
+msgstr "Culori sclipitoare, ca aripile unei libelule."
+
+#: index
+msgid ""
+"Pick a ready-made theme or set your own colours for the highlight, keys, special keys, background and text. You can also adjust the font size in the suggestion bar, vibration and key sounds."
+msgstr ""
+"Alege o temă gata făcută sau setează-ți propriile culori pentru evidențiere, taste, taste speciale, fundal și text. Poți ajusta și mărimea fontului din bara de sugestii, vibrația și sunetele tastelor."
+
+#: index
+msgid "Light green"
+msgstr "Verde deschis"
+
+#: index
+msgid "Light"
+msgstr "Luminoasă"
+
+#: index
+msgid "AMOLED black"
+msgstr "Neagră AMOLED"
+
+#: index
+msgid "Blue"
+msgstr "Albastră"
+
+#: index
+msgid "Orange"
+msgstr "Portocalie"
+
+#: index
+msgid "Purple"
+msgstr "Mov"
+
+#: index
+msgid "Wide wings or narrow – it fits your hand."
+msgstr "Aripi largi sau înguste – se potrivește mâinii tale."
+
+#: index
+msgid ""
+"Hold the Swajp key and pick Size: drag the handles to change the height, width and position. Tablet splits the letters into two halves for both thumbs, Left and Right make it narrower at the edge for one hand, and Floating lets it hover freely above apps. In landscape the keyboard is lower and split."
+msgstr ""
+"Ține apăsată tasta Swajp și alege Mărime: trage de mânere ca să schimbi înălțimea, lățimea și poziția. Tabletă împarte literele în două jumătăți pentru ambele degete mari, Stânga și Dreapta o îngustează spre margine pentru o singură mână, iar Plutitoare o lasă să plutească liber deasupra aplicațiilor. În modul peisaj, tastatura e mai joasă și împărțită."
+
+#: index
+msgid "Full"
+msgstr "Completă"
+
+#: index
+msgid "Tablet"
+msgstr "Tabletă"
+
+#: index
+msgid "Left"
+msgstr "Stânga"
+
+#: index
+msgid "Right"
+msgstr "Dreapta"
+
+#: index
+msgid "Floating"
+msgstr "Plutitoare"
 
 #: index
 msgid ""

@@ -135,6 +135,22 @@ msgid "Big digits, a calculator and a scientific one."
 msgstr "Zenbaki handiak, kalkulagailua eta kalkulagailu zientifikoa."
 
 #: index
+msgid "Themes &amp; colours"
+msgstr "Gaiak eta koloreak"
+
+#: index
+msgid "Six themes or colours of your own."
+msgstr "Sei gai edo zure koloreak."
+
+#: index
+msgid "Size &amp; layout"
+msgstr "Tamaina eta diseinua"
+
+#: index
+msgid "Split, one-handed or floating."
+msgstr "Zatitua, esku bakarrekoa edo flotatzailea."
+
+#: index
 msgid "Backup"
 msgstr "Babeskopia"
 
@@ -160,9 +176,9 @@ msgstr "Hurrengoa"
 
 #: index
 msgid ""
-"No need to tap letter by letter – one stroke across the letters of a word is enough. Swajp recognises the swipe even when it is not perfect, and learns your style so it keeps getting more accurate."
+"No need to tap letter by letter – one stroke across the letters of a word is enough. Swajp recognises the swipe even when it is not perfect, and learns your style so it keeps getting more accurate. Words with a similar swipe wait in the suggestion bar – one tap swaps them. For a capital letter, slide from the first letter up above the keyboard and straight on to the next one. A swipe from a letter to the space bar types the character from its corner, such as ? or !"
 msgstr ""
-"Ez dago letraz letra sakatu beharrik – nahikoa da trazu bakarra egitea hitzaren letren gainetik. Swajpek irristatzea ezagutzen du perfektua ez denean ere, eta zure estiloa ikasten du, gero eta zehatzagoa izan dadin."
+"Ez duzu letraz letra sakatu beharrik – nahikoa da trazu bakar bat hitzaren letren gainetik. Swajpek irristatzea ezagutzen du perfektua ez denean ere, eta zure estiloa ikasten du, gero eta zehatzagoa izan dadin. Antzeko irristatzea duten hitzak iradokizun-barran zain daude – ukitu batez trukatzen dituzu. Letra larri baterako, irristatu lehen letratik gora, teklatuaren gainetik, eta handik zuzenean hurrengo letrara. Letra batetik zuriune-barrara irristatuz gero, haren izkinako karakterea idazten da, adibidez ? edo !"
 
 #: index
 msgid "Predicts your next word like a dragonfly predicts its prey."
@@ -171,9 +187,9 @@ msgstr ""
 
 #: index
 msgid ""
-"From the words before, it suggests what you are likely to type next, and uses context to tell similar words apart. It learns the words you actually use."
+"From the words before, it suggests what you are likely to type next – after a space, just tap it. It uses context to tell similar words apart and learns the words you actually use. When you tap out a word with a typo, the bar shows what you typed next to the fix, and the space bar inserts the highlighted fix."
 msgstr ""
-"Aurreko hitzetatik abiatuta, ziurrenik jarraian idatziko duzuna iradokitzen du, eta testuingurua erabiltzen du antzeko hitzak bereizteko. Benetan erabiltzen dituzun hitzak ikasten ditu."
+"Aurreko hitzetan oinarrituta, ziurrenik hurrengo idatziko duzuna iradokitzen du – zuriunearen ondoren, ukitu besterik ez. Testuingurua erabiltzen du antzeko hitzak bereizteko, eta benetan erabiltzen dituzun hitzak ikasten ditu. Hitz bat tekleatzean akatsen bat egiten baduzu, barrak idatzi duzuna zuzenketaren ondoan erakusten du, eta zuriune-barrak nabarmendutako zuzenketa txertatzen du."
 
 #: index
 msgid "Rules the air. Now rules your text."
@@ -181,9 +197,9 @@ msgstr "Airea menderatzen du. Orain, zure testua ere bai."
 
 #: index
 msgid ""
-"It flies backwards and forwards too – undo and redo, up to 60 steps. Moving the cursor to select or delete text is as precise as landing on a reed. Copy, paste, cut and select all with a swipe from the Swajp key, change case with a single gesture."
+"It flies backwards and forwards too – Enter → space undoes, Swajp → space redoes, up to 60 steps. Copy, paste, cut or select all with a swipe from the Swajp key to C, V, X or A, and change case with a single gesture. Slide left from ⌫ to delete whole words, or up for whole lines. Double-tap the space bar and slide to move the cursor as precisely as landing on a reed. The [I] key opens editing with arrows, selection, Start and End."
 msgstr ""
-"Atzera eta aurrera ere egiten du hegan – desegin eta berregin, 60 urrats arte. Kurtsorea mugitzea testua hautatzeko edo ezabatzeko ihi batean pausatzea bezain zehatza da. Kopiatu, itsatsi, ebaki eta hautatu guztia Swajp teklatik irristatuz; aldatu maiuskulak eta minuskulak keinu bakar batez."
+"Atzera eta aurrera ere hegan egiten du – Enter → zuriune-barra desegiteko, Swajp → zuriune-barra berregiteko, 60 urrats arte. Kopiatu, itsatsi, ebaki edo hautatu dena Swajp teklatik C, V, X edo A letrara irristatuz, eta aldatu maiuskulak eta minuskulak keinu bakar batez. Irristatu ⌫ tekletik ezkerrera hitz osoak ezabatzeko, edo gora lerro osoak ezabatzeko. Sakatu birritan zuriune-barra eta irristatu kurtsorea mugitzeko, ihi batean lurreratzen den burruntzia bezain zehatz. [I] teklak edizioa irekitzen du, geziekin, hautapenarekin eta Hasiera eta Amaiera aukerekin."
 
 #: index
 msgid ""
@@ -207,9 +223,9 @@ msgstr "Agintzeko jaioa – 35 hizkuntzatan."
 
 #: index
 msgid ""
-"Type in two languages without switching – the keyboard knows words from both. 9 languages are built in (English in two variants), 26 more can be downloaded as packs."
+"Type in two languages without switching – the keyboard knows words from both. Tap an unknown word in the bar to add it to the dictionary of one language or both. In Hindi you type in Latin letters (Hinglish) and get Devanagari – or stay with Latin. 9 languages are built in (English in two variants), 26 more can be downloaded as packs."
 msgstr ""
-"Idatzi bi hizkuntzatan, aldatu beharrik gabe – teklatuak bi hizkuntzetako hitzak ezagutzen ditu. 9 hizkuntza integratuta daude (ingelesa bi aldaeratan), eta beste 26 pakete gisa deskarga daitezke."
+"Idatzi bi hizkuntzatan aldatu gabe – teklatuak bietako hitzak ezagutzen ditu. Ukitu barrako hitz ezezagun bat hizkuntza baten edo bien hiztegira gehitzeko. Hindiz latindar letrekin idazten duzu (Hinglish) eta devanagaria lortzen duzu – edo latindar letrekin jarrai dezakezu. 9 hizkuntza daude integratuta (ingelesa bi aldaeratan), eta beste 26 pakete gisa deskarga daitezke."
 
 #: index
 msgid ""
@@ -223,9 +239,9 @@ msgstr "Entzun egiten zaitu. Ez dio inori kontatzen."
 
 #: index
 msgid ""
-"Speech is turned into text right on your phone (Parakeet and Omnilingual models), with no internet. If you like, you can use Google recognition instead. Recognised words are checked against the dictionary."
+"Hold the Swajp key and pick the microphone – the text appears as you speak. Speech is turned into text right on your phone (Parakeet and Omnilingual models), with no internet. If you like, you can use Google recognition instead. Recognised words are checked against the dictionary."
 msgstr ""
-"Ahotsa testu bihurtzen da zuzenean zure telefonoan (Parakeet eta Omnilingual ereduak), Internetik gabe. Nahi baduzu, Google-ren ezagutza erabil dezakezu horren ordez. Ezagututako hitzak hiztegiarekin egiaztatzen dira."
+"Eutsi sakatuta Swajp tekla eta aukeratu mikrofonoa – testua hitz egin ahala agertzen da. Ahotsa testu bihurtzen da zuzenean zure telefonoan (Parakeet eta Omnilingual ereduak), Internetik gabe. Nahi baduzu, Google-ren ezagutza erabil dezakezu horren ordez. Ezagututako hitzak hiztegiarekin egiaztatzen dira."
 
 #: index
 msgid "Remembers your copies. Forgets your secrets."
@@ -233,9 +249,9 @@ msgstr "Zure kopiak gogoratzen ditu. Zure sekretuak ahazten ditu."
 
 #: index
 msgid ""
-"Your last 30 copied texts are always at hand. Passwords, codes and text marked as sensitive are never stored, and the history clears itself after the time you choose."
+"Hold Enter and pick the clipboard: your last 30 copied texts are always at hand – tap to paste, pin the ones you want to keep. Passwords, codes and text marked as sensitive are never stored, and the history clears itself after the time you choose."
 msgstr ""
-"Kopiatutako azken 30 testuak beti dituzu eskura. Pasahitzak, kodeak eta konfidentzial gisa markatutako testuak ez dira inoiz gordetzen, eta historia bere kabuz garbitzen da zuk aukeratutako denboraren buruan."
+"Eutsi sakatuta Enter eta aukeratu arbela: kopiatutako azken 30 testuak beti eskura – ukitu itsasteko, eta ainguratu gorde nahi dituzunak. Pasahitzak, kodeak eta konfidentzial gisa markatutako testua ez dira inoiz gordetzen, eta historia bere kabuz garbitzen da zuk aukeratutako denbora igarotakoan."
 
 #: index
 msgid "Even sharp minds reach for a calculator."
@@ -243,9 +259,73 @@ msgstr "Buru argienek ere kalkulagailua hartzen dute."
 
 #: index
 msgid ""
-"Big digits for quick entry of phone numbers and amounts. A calculator and a scientific calculator right in the keyboard – no switching apps."
+"Hold the [I] key for the number pad: big digits for quick entry of phone numbers and amounts. The calculator counts right in the suggestion bar and inserts the result into the text. It handles percent (200 + 10 % = 220) and brackets, and the scientific mode adds functions, powers, degrees and radians – no switching apps."
 msgstr ""
-"Zenbaki handiak, telefono-zenbakiak eta zenbatekoak azkar idazteko. Kalkulagailua eta kalkulagailu zientifikoa teklatuan bertan – aplikazioz aldatu beharrik gabe."
+"Eutsi sakatuta [I] tekla zenbaki-teklatua irekitzeko: zenbaki handiak, telefono-zenbakiak eta zenbatekoak azkar idazteko. Kalkulagailuak iradokizun-barran bertan kalkulatzen du eta emaitza testuan txertatzen du. Ehunekoak (200 + % 10 = 220) eta parentesiak maneiatzen ditu, eta modu zientifikoak funtzioak, berreturak, graduak eta radianak gehitzen ditu – aplikazioz aldatu gabe."
+
+#: index
+msgid "Shimmering colours, like a dragonfly’s wings."
+msgstr "Kolore distiratsuak, burruntziaren hegoak bezala."
+
+#: index
+msgid ""
+"Pick a ready-made theme or set your own colours for the highlight, keys, special keys, background and text. You can also adjust the font size in the suggestion bar, vibration and key sounds."
+msgstr ""
+"Aukeratu gai prest bat, edo ezarri zure koloreak nabarmentzeari, teklei, tekla bereziei, atzeko planoari eta testuari. Iradokizun-barrako letra-tamaina, bibrazioa eta teklen soinuak ere doi ditzakezu."
+
+#: index
+msgid "Light green"
+msgstr "Berde argia"
+
+#: index
+msgid "Light"
+msgstr "Argia"
+
+#: index
+msgid "AMOLED black"
+msgstr "AMOLED beltza"
+
+#: index
+msgid "Blue"
+msgstr "Urdina"
+
+#: index
+msgid "Orange"
+msgstr "Laranja"
+
+#: index
+msgid "Purple"
+msgstr "Morea"
+
+#: index
+msgid "Wide wings or narrow – it fits your hand."
+msgstr "Hego zabalak edo estuak – zure eskura egokitzen da."
+
+#: index
+msgid ""
+"Hold the Swajp key and pick Size: drag the handles to change the height, width and position. Tablet splits the letters into two halves for both thumbs, Left and Right make it narrower at the edge for one hand, and Floating lets it hover freely above apps. In landscape the keyboard is lower and split."
+msgstr ""
+"Eutsi sakatuta Swajp tekla eta aukeratu Tamaina: arrastatu heldulekuak altuera, zabalera eta kokapena aldatzeko. Tableta moduak letrak bi erditan banatzen ditu bi erpuruentzat, Ezkerra eta Eskuina moduek teklatua estutu eta ertzera eramaten dute esku bakarrerako, eta Flotatzailea moduarekin aplikazioen gainean aske hegan egiten du. Horizontalean, teklatua baxuagoa eta zatitua da."
+
+#: index
+msgid "Full"
+msgstr "Osoa"
+
+#: index
+msgid "Tablet"
+msgstr "Tableta"
+
+#: index
+msgid "Left"
+msgstr "Ezkerra"
+
+#: index
+msgid "Right"
+msgstr "Eskuina"
+
+#: index
+msgid "Floating"
+msgstr "Flotatzailea"
 
 #: index
 msgid ""

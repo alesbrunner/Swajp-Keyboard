@@ -134,6 +134,22 @@ msgid "Big digits, a calculator and a scientific one."
 msgstr "Angka besar, kalkulator, dan kalkulator ilmiah."
 
 #: index
+msgid "Themes &amp; colours"
+msgstr "Tema &amp; warna"
+
+#: index
+msgid "Six themes or colours of your own."
+msgstr "Enam tema atau warna pilihanmu sendiri."
+
+#: index
+msgid "Size &amp; layout"
+msgstr "Ukuran &amp; tata letak"
+
+#: index
+msgid "Split, one-handed or floating."
+msgstr "Terbelah, satu tangan, atau mengambang."
+
+#: index
 msgid "Backup"
 msgstr "Cadangan"
 
@@ -159,9 +175,9 @@ msgstr "Berikutnya"
 
 #: index
 msgid ""
-"No need to tap letter by letter – one stroke across the letters of a word is enough. Swajp recognises the swipe even when it is not perfect, and learns your style so it keeps getting more accurate."
+"No need to tap letter by letter – one stroke across the letters of a word is enough. Swajp recognises the swipe even when it is not perfect, and learns your style so it keeps getting more accurate. Words with a similar swipe wait in the suggestion bar – one tap swaps them. For a capital letter, slide from the first letter up above the keyboard and straight on to the next one. A swipe from a letter to the space bar types the character from its corner, such as ? or !"
 msgstr ""
-"Tak perlu mengetuk huruf demi huruf – cukup satu gerakan melewati huruf-huruf sebuah kata. Swajp mengenali geseranmu meski tidak sempurna, dan mempelajari gayamu sehingga makin lama makin akurat."
+"Tak perlu mengetuk huruf demi huruf – cukup satu goresan melewati huruf-huruf sebuah kata. Swajp mengenali geseranmu meski tidak sempurna, dan mempelajari gayamu sehingga makin lama makin akurat. Kata dengan geseran serupa menunggu di bilah saran – sekali ketuk untuk menukarnya. Untuk huruf kapital, geser dari huruf pertama ke atas melewati keyboard, lalu langsung ke huruf berikutnya. Geseran dari sebuah huruf ke tombol spasi mengetikkan karakter di sudut tombol huruf itu, seperti ? atau !"
 
 #: index
 msgid "Predicts your next word like a dragonfly predicts its prey."
@@ -169,9 +185,9 @@ msgstr "Menebak kata berikutnya seperti capung menebak gerak mangsanya."
 
 #: index
 msgid ""
-"From the words before, it suggests what you are likely to type next, and uses context to tell similar words apart. It learns the words you actually use."
+"From the words before, it suggests what you are likely to type next – after a space, just tap it. It uses context to tell similar words apart and learns the words you actually use. When you tap out a word with a typo, the bar shows what you typed next to the fix, and the space bar inserts the highlighted fix."
 msgstr ""
-"Dari kata-kata sebelumnya, Swajp menyarankan apa yang mungkin kamu ketik berikutnya, dan memakai konteks untuk membedakan kata-kata yang mirip. Ia mempelajari kata-kata yang benar-benar kamu pakai."
+"Dari kata-kata sebelumnya, Swajp menebak apa yang kemungkinan akan kamu ketik berikutnya – setelah spasi, cukup ketuk. Konteks dipakai untuk membedakan kata yang mirip, dan Swajp mempelajari kata yang benar-benar kamu gunakan. Saat kamu salah ketik, bilah menampilkan apa yang kamu ketik di samping koreksinya, dan tombol spasi menyisipkan koreksi yang disorot."
 
 #: index
 msgid "Rules the air. Now rules your text."
@@ -179,9 +195,9 @@ msgstr "Menguasai udara. Kini menguasai teksmu."
 
 #: index
 msgid ""
-"It flies backwards and forwards too – undo and redo, up to 60 steps. Moving the cursor to select or delete text is as precise as landing on a reed. Copy, paste, cut and select all with a swipe from the Swajp key, change case with a single gesture."
+"It flies backwards and forwards too – Enter → space undoes, Swajp → space redoes, up to 60 steps. Copy, paste, cut or select all with a swipe from the Swajp key to C, V, X or A, and change case with a single gesture. Slide left from ⌫ to delete whole words, or up for whole lines. Double-tap the space bar and slide to move the cursor as precisely as landing on a reed. The [I] key opens editing with arrows, selection, Start and End."
 msgstr ""
-"Ia juga bisa terbang mundur dan maju – urungkan dan ulangi, hingga 60 langkah. Menggeser kursor untuk memilih atau menghapus teks setepat capung mendarat di sebatang ilalang. Salin, tempel, potong, dan pilih semua dengan geseran dari tombol Swajp, ubah huruf besar/kecil dengan satu gestur."
+"Ia juga bisa terbang mundur dan maju – Enter → spasi mengurungkan, Swajp → spasi mengulangi, hingga 60 langkah. Salin, tempel, potong, atau pilih semua dengan menggeser dari tombol Swajp ke C, V, X, atau A, dan ubah huruf besar/kecil dengan satu gestur. Geser ke kiri dari ⌫ untuk menghapus kata utuh, atau ke atas untuk baris utuh. Ketuk dua kali tombol spasi lalu geser untuk memindahkan kursor, setepat capung yang hinggap di sebatang buluh. Tombol [I] membuka mode edit dengan panah, pilihan, Awal, dan Akhir."
 
 #: index
 msgid ""
@@ -205,9 +221,9 @@ msgstr "Terlahir untuk berkuasa – dalam 35 bahasa."
 
 #: index
 msgid ""
-"Type in two languages without switching – the keyboard knows words from both. 9 languages are built in (English in two variants), 26 more can be downloaded as packs."
+"Type in two languages without switching – the keyboard knows words from both. Tap an unknown word in the bar to add it to the dictionary of one language or both. In Hindi you type in Latin letters (Hinglish) and get Devanagari – or stay with Latin. 9 languages are built in (English in two variants), 26 more can be downloaded as packs."
 msgstr ""
-"Ketik dalam dua bahasa tanpa berganti-ganti – keyboard mengenali kata dari keduanya. 9 bahasa sudah tersedia di aplikasi (bahasa Inggris dalam dua varian), 26 lainnya bisa diunduh sebagai paket."
+"Ketik dalam dua bahasa tanpa berganti – keyboard mengenal kata dari keduanya. Ketuk kata yang tidak dikenal di bilah untuk menambahkannya ke kamus satu bahasa atau keduanya. Dalam bahasa Hindi, kamu mengetik dengan huruf Latin (Hinglish) dan mendapatkan Dewanagari – atau tetap memakai Latin. 9 bahasa sudah tersedia bawaan (bahasa Inggris dalam dua varian), 26 lainnya bisa diunduh sebagai paket."
 
 #: index
 msgid ""
@@ -221,9 +237,9 @@ msgstr "Mendengarmu. Tak bercerita pada siapa pun."
 
 #: index
 msgid ""
-"Speech is turned into text right on your phone (Parakeet and Omnilingual models), with no internet. If you like, you can use Google recognition instead. Recognised words are checked against the dictionary."
+"Hold the Swajp key and pick the microphone – the text appears as you speak. Speech is turned into text right on your phone (Parakeet and Omnilingual models), with no internet. If you like, you can use Google recognition instead. Recognised words are checked against the dictionary."
 msgstr ""
-"Ucapan diubah menjadi teks langsung di ponselmu (model Parakeet dan Omnilingual), tanpa internet. Jika mau, kamu juga bisa memakai pengenalan Google. Kata yang dikenali dicocokkan dengan kamus."
+"Tahan tombol Swajp dan pilih mikrofon – teks muncul saat kamu berbicara. Ucapan diubah menjadi teks langsung di ponselmu (model Parakeet dan Omnilingual), tanpa internet. Jika mau, kamu juga bisa memakai pengenalan Google. Kata yang dikenali dicocokkan dengan kamus."
 
 #: index
 msgid "Remembers your copies. Forgets your secrets."
@@ -231,9 +247,9 @@ msgstr "Mengingat salinanmu. Melupakan rahasiamu."
 
 #: index
 msgid ""
-"Your last 30 copied texts are always at hand. Passwords, codes and text marked as sensitive are never stored, and the history clears itself after the time you choose."
+"Hold Enter and pick the clipboard: your last 30 copied texts are always at hand – tap to paste, pin the ones you want to keep. Passwords, codes and text marked as sensitive are never stored, and the history clears itself after the time you choose."
 msgstr ""
-"30 teks terakhir yang kamu salin selalu siap dipakai. Kata sandi, kode, dan teks yang ditandai sensitif tidak pernah disimpan, dan riwayat terhapus sendiri setelah waktu yang kamu pilih."
+"Tahan Enter dan pilih papan klip: 30 teks terakhir yang kamu salin selalu siap – ketuk untuk menempel, sematkan yang ingin kamu simpan. Kata sandi, kode, dan teks yang ditandai sensitif tidak pernah disimpan, dan riwayat terhapus sendiri setelah waktu yang kamu pilih."
 
 #: index
 msgid "Even sharp minds reach for a calculator."
@@ -241,9 +257,73 @@ msgstr "Otak encer pun butuh kalkulator."
 
 #: index
 msgid ""
-"Big digits for quick entry of phone numbers and amounts. A calculator and a scientific calculator right in the keyboard – no switching apps."
+"Hold the [I] key for the number pad: big digits for quick entry of phone numbers and amounts. The calculator counts right in the suggestion bar and inserts the result into the text. It handles percent (200 + 10 % = 220) and brackets, and the scientific mode adds functions, powers, degrees and radians – no switching apps."
 msgstr ""
-"Angka besar untuk mengetik nomor telepon dan nominal dengan cepat. Kalkulator dan kalkulator ilmiah langsung di keyboard – tanpa berpindah aplikasi."
+"Tahan tombol [I] untuk papan angka: angka besar untuk memasukkan nomor telepon dan nominal dengan cepat. Kalkulator menghitung langsung di bilah saran dan menyisipkan hasilnya ke teks. Ia bisa menghitung persen (200 + 10% = 220) dan tanda kurung, dan mode ilmiah menambahkan fungsi, pangkat, derajat, dan radian – tanpa berganti aplikasi."
+
+#: index
+msgid "Shimmering colours, like a dragonfly’s wings."
+msgstr "Warna berkilau, bagai sayap capung."
+
+#: index
+msgid ""
+"Pick a ready-made theme or set your own colours for the highlight, keys, special keys, background and text. You can also adjust the font size in the suggestion bar, vibration and key sounds."
+msgstr ""
+"Pilih tema siap pakai atau atur warnamu sendiri untuk sorotan, tombol, tombol khusus, latar belakang, dan teks. Kamu juga bisa menyesuaikan ukuran huruf di bilah saran, getaran, dan suara tombol."
+
+#: index
+msgid "Light green"
+msgstr "Hijau muda"
+
+#: index
+msgid "Light"
+msgstr "Terang"
+
+#: index
+msgid "AMOLED black"
+msgstr "Hitam AMOLED"
+
+#: index
+msgid "Blue"
+msgstr "Biru"
+
+#: index
+msgid "Orange"
+msgstr "Oranye"
+
+#: index
+msgid "Purple"
+msgstr "Ungu"
+
+#: index
+msgid "Wide wings or narrow – it fits your hand."
+msgstr "Sayap lebar atau ramping – menyesuaikan dengan tanganmu."
+
+#: index
+msgid ""
+"Hold the Swajp key and pick Size: drag the handles to change the height, width and position. Tablet splits the letters into two halves for both thumbs, Left and Right make it narrower at the edge for one hand, and Floating lets it hover freely above apps. In landscape the keyboard is lower and split."
+msgstr ""
+"Tahan tombol Swajp dan pilih Ukuran: seret pegangannya untuk mengubah tinggi, lebar, dan posisi. Tablet membagi huruf menjadi dua bagian untuk kedua ibu jari, Kiri dan Kanan membuatnya lebih sempit di tepi untuk satu tangan, dan Mengambang membuatnya melayang bebas di atas aplikasi. Dalam posisi lanskap, keyboard lebih rendah dan terbelah."
+
+#: index
+msgid "Full"
+msgstr "Penuh"
+
+#: index
+msgid "Tablet"
+msgstr "Tablet"
+
+#: index
+msgid "Left"
+msgstr "Kiri"
+
+#: index
+msgid "Right"
+msgstr "Kanan"
+
+#: index
+msgid "Floating"
+msgstr "Mengambang"
 
 #: index
 msgid ""

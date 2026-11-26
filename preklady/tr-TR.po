@@ -134,6 +134,22 @@ msgid "Big digits, a calculator and a scientific one."
 msgstr "Büyük rakamlar, hesap makinesi ve bilimsel hesap makinesi."
 
 #: index
+msgid "Themes &amp; colours"
+msgstr "Temalar ve renkler"
+
+#: index
+msgid "Six themes or colours of your own."
+msgstr "Altı tema veya kendi renklerin."
+
+#: index
+msgid "Size &amp; layout"
+msgstr "Boyut ve düzen"
+
+#: index
+msgid "Split, one-handed or floating."
+msgstr "Bölünmüş, tek elle veya yüzen."
+
+#: index
 msgid "Backup"
 msgstr "Yedekleme"
 
@@ -159,9 +175,9 @@ msgstr "Sonraki"
 
 #: index
 msgid ""
-"No need to tap letter by letter – one stroke across the letters of a word is enough. Swajp recognises the swipe even when it is not perfect, and learns your style so it keeps getting more accurate."
+"No need to tap letter by letter – one stroke across the letters of a word is enough. Swajp recognises the swipe even when it is not perfect, and learns your style so it keeps getting more accurate. Words with a similar swipe wait in the suggestion bar – one tap swaps them. For a capital letter, slide from the first letter up above the keyboard and straight on to the next one. A swipe from a letter to the space bar types the character from its corner, such as ? or !"
 msgstr ""
-"Harf harf dokunmana gerek yok – kelimenin harflerinin üzerinden tek bir kaydırma yeter. Swajp kaydırma kusursuz olmasa da onu tanır ve stilini öğrenir, böylece giderek daha isabetli olur."
+"Harf harf dokunmana gerek yok – kelimenin harfleri üzerinden tek bir kaydırma yeter. Swajp, kaydırma kusursuz olmasa bile onu tanır ve tarzını öğrenir; böylece giderek daha isabetli olur. Benzer kaydırmalı kelimeler öneri çubuğunda bekler – tek dokunuşla değiştirirsin. Büyük harf için ilk harften klavyenin üstüne kaydır ve oradan doğrudan sonraki harfe geç. Bir harften boşluk tuşuna kaydırmak, o harfin köşesindeki karakteri yazar; örneğin ? veya !"
 
 #: index
 msgid "Predicts your next word like a dragonfly predicts its prey."
@@ -169,9 +185,9 @@ msgstr "Sonraki kelimeni, yusufçuğun avını sezdiği gibi sezer."
 
 #: index
 msgid ""
-"From the words before, it suggests what you are likely to type next, and uses context to tell similar words apart. It learns the words you actually use."
+"From the words before, it suggests what you are likely to type next – after a space, just tap it. It uses context to tell similar words apart and learns the words you actually use. When you tap out a word with a typo, the bar shows what you typed next to the fix, and the space bar inserts the highlighted fix."
 msgstr ""
-"Önceki kelimelere bakarak büyük olasılıkla ne yazacağını önerir ve bağlamdan benzer kelimeleri ayırt eder. Gerçekten kullandığın kelimeleri öğrenir."
+"Önceki kelimelere bakarak büyük olasılıkla ne yazacağını önerir – boşluktan sonra dokunman yeter. Benzer kelimeleri bağlamdan ayırt eder ve gerçekten kullandığın kelimeleri öğrenir. Dokunarak yazarken yazım hatası yaparsan çubuk, yazdığını düzeltmenin yanında gösterir; boşluk tuşu da vurgulanan düzeltmeyi ekler."
 
 #: index
 msgid "Rules the air. Now rules your text."
@@ -179,9 +195,9 @@ msgstr "Göklere hükmeder. Şimdi de metnine."
 
 #: index
 msgid ""
-"It flies backwards and forwards too – undo and redo, up to 60 steps. Moving the cursor to select or delete text is as precise as landing on a reed. Copy, paste, cut and select all with a swipe from the Swajp key, change case with a single gesture."
+"It flies backwards and forwards too – Enter → space undoes, Swajp → space redoes, up to 60 steps. Copy, paste, cut or select all with a swipe from the Swajp key to C, V, X or A, and change case with a single gesture. Slide left from ⌫ to delete whole words, or up for whole lines. Double-tap the space bar and slide to move the cursor as precisely as landing on a reed. The [I] key opens editing with arrows, selection, Start and End."
 msgstr ""
-"Geri ve ileri de uçar – 60 adıma kadar geri al ve yinele. Metin seçerken ya da silerken imleci taşımak, bir sazlığa konmak kadar isabetlidir. Kopyalama, yapıştırma, kesme ve tümünü seçme Swajp tuşundan tek kaydırmayla; harf büyüklüğünü tek bir hareketle değiştirirsin."
+"Geriye ve ileriye de uçar – Enter → boşluk geri alır, Swajp → boşluk yineler, 60 adıma kadar. Swajp tuşundan C, V, X veya A'ya kaydırarak kopyala, yapıştır, kes veya tümünü seç; büyük/küçük harfi tek hareketle değiştir. ⌫ tuşundan sola kaydırarak kelime kelime, yukarı kaydırarak satır satır sil. Boşluk tuşuna iki kez dokunup kaydır – imleci, bir sazın üzerine konan yusufçuk kadar hassas taşı. [I] tuşu; oklar, seçim, Baş ve Son düğmeleriyle düzenleme panelini açar."
 
 #: index
 msgid ""
@@ -205,9 +221,9 @@ msgstr "Hükmetmek için doğdu – 35 dilde."
 
 #: index
 msgid ""
-"Type in two languages without switching – the keyboard knows words from both. 9 languages are built in (English in two variants), 26 more can be downloaded as packs."
+"Type in two languages without switching – the keyboard knows words from both. Tap an unknown word in the bar to add it to the dictionary of one language or both. In Hindi you type in Latin letters (Hinglish) and get Devanagari – or stay with Latin. 9 languages are built in (English in two variants), 26 more can be downloaded as packs."
 msgstr ""
-"Dil değiştirmeden iki dilde yaz – klavye her ikisinin kelimelerini tanır. 9 dil yerleşik (İngilizce iki çeşit), 26 dil daha paket olarak indirilebilir."
+"İki dilde, dil değiştirmeden yaz – klavye her ikisinin kelimelerini bilir. Çubuktaki bilinmeyen bir kelimeye dokunarak onu bir dilin veya her iki dilin sözlüğüne ekle. Hintçede Latin harfleriyle yazarsın (Hinglish) ve Devanagari elde edersin – ya da Latin harfleriyle devam edersin. 9 dil yerleşik olarak gelir (İngilizce iki varyantla), 26 dil daha paket olarak indirilebilir."
 
 #: index
 msgid ""
@@ -221,9 +237,9 @@ msgstr "Seni duyar. Kimseye söylemez."
 
 #: index
 msgid ""
-"Speech is turned into text right on your phone (Parakeet and Omnilingual models), with no internet. If you like, you can use Google recognition instead. Recognised words are checked against the dictionary."
+"Hold the Swajp key and pick the microphone – the text appears as you speak. Speech is turned into text right on your phone (Parakeet and Omnilingual models), with no internet. If you like, you can use Google recognition instead. Recognised words are checked against the dictionary."
 msgstr ""
-"Konuşma doğrudan telefonunda, internetsiz metne çevrilir (Parakeet ve Omnilingual modelleri). İstersen bunun yerine Google tanımayı kullanabilirsin. Tanınan kelimeler sözlükle denetlenir."
+"Swajp tuşunu basılı tut ve mikrofonu seç – sen konuştukça metin belirir. Konuşma doğrudan telefonunda, internet olmadan metne dönüştürülür (Parakeet ve Omnilingual modelleri). İstersen bunun yerine Google tanıma özelliğini kullanabilirsin. Tanınan kelimeler sözlükle karşılaştırılarak kontrol edilir."
 
 #: index
 msgid "Remembers your copies. Forgets your secrets."
@@ -231,9 +247,9 @@ msgstr "Kopyaladıklarını hatırlar. Sırlarını unutur."
 
 #: index
 msgid ""
-"Your last 30 copied texts are always at hand. Passwords, codes and text marked as sensitive are never stored, and the history clears itself after the time you choose."
+"Hold Enter and pick the clipboard: your last 30 copied texts are always at hand – tap to paste, pin the ones you want to keep. Passwords, codes and text marked as sensitive are never stored, and the history clears itself after the time you choose."
 msgstr ""
-"Son kopyaladığın 30 metin hep elinin altında. Şifreler, kodlar ve hassas olarak işaretlenen metinler asla saklanmaz; geçmiş, seçtiğin sürenin sonunda kendini temizler."
+"Enter'ı basılı tut ve panoyu seç: kopyaladığın son 30 metin her zaman elinin altında – yapıştırmak için dokun, saklamak istediklerini sabitle. Şifreler, kodlar ve hassas olarak işaretlenmiş metinler asla kaydedilmez; geçmiş, seçtiğin sürenin sonunda kendiliğinden silinir."
 
 #: index
 msgid "Even sharp minds reach for a calculator."
@@ -241,9 +257,73 @@ msgstr "Keskin zekâlar da hesap makinesine uzanır."
 
 #: index
 msgid ""
-"Big digits for quick entry of phone numbers and amounts. A calculator and a scientific calculator right in the keyboard – no switching apps."
+"Hold the [I] key for the number pad: big digits for quick entry of phone numbers and amounts. The calculator counts right in the suggestion bar and inserts the result into the text. It handles percent (200 + 10 % = 220) and brackets, and the scientific mode adds functions, powers, degrees and radians – no switching apps."
 msgstr ""
-"Telefon numaralarını ve tutarları hızlı girmek için büyük rakamlar. Hesap makinesi ve bilimsel hesap makinesi doğrudan klavyede – uygulama değiştirmeye gerek yok."
+"Sayı tuşları için [I] tuşunu basılı tut: telefon numaralarını ve tutarları hızlıca girmek için büyük rakamlar. Hesap makinesi doğrudan öneri çubuğunda hesaplar ve sonucu metne ekler. Yüzdeyi (200 + %10 = 220) ve parantezleri destekler; bilimsel mod ise fonksiyonlar, üsler, dereceler ve radyanlar ekler – uygulama değiştirmeden."
+
+#: index
+msgid "Shimmering colours, like a dragonfly’s wings."
+msgstr "Bir yusufçuğun kanatları gibi ışıldayan renkler."
+
+#: index
+msgid ""
+"Pick a ready-made theme or set your own colours for the highlight, keys, special keys, background and text. You can also adjust the font size in the suggestion bar, vibration and key sounds."
+msgstr ""
+"Hazır bir tema seç ya da vurgu, tuşlar, özel tuşlar, arka plan ve metin için kendi renklerini ayarla. Öneri çubuğundaki yazı boyutunu, titreşimi ve tuş seslerini de ayarlayabilirsin."
+
+#: index
+msgid "Light green"
+msgstr "Açık yeşil"
+
+#: index
+msgid "Light"
+msgstr "Açık"
+
+#: index
+msgid "AMOLED black"
+msgstr "AMOLED siyah"
+
+#: index
+msgid "Blue"
+msgstr "Mavi"
+
+#: index
+msgid "Orange"
+msgstr "Turuncu"
+
+#: index
+msgid "Purple"
+msgstr "Mor"
+
+#: index
+msgid "Wide wings or narrow – it fits your hand."
+msgstr "Geniş kanat ya da dar – eline uyum sağlar."
+
+#: index
+msgid ""
+"Hold the Swajp key and pick Size: drag the handles to change the height, width and position. Tablet splits the letters into two halves for both thumbs, Left and Right make it narrower at the edge for one hand, and Floating lets it hover freely above apps. In landscape the keyboard is lower and split."
+msgstr ""
+"Swajp tuşunu basılı tut ve Boyut'u seç: tutamaçları sürükleyerek yüksekliği, genişliği ve konumu değiştir. Tablet, harfleri iki başparmak için iki yarıya böler; Sol ve Sağ, tek elle kullanım için klavyeyi kenarda daraltır; Yüzen ise uygulamaların üzerinde serbestçe süzülür. Yatay modda klavye daha alçak ve bölünmüştür."
+
+#: index
+msgid "Full"
+msgstr "Tam"
+
+#: index
+msgid "Tablet"
+msgstr "Tablet"
+
+#: index
+msgid "Left"
+msgstr "Sol"
+
+#: index
+msgid "Right"
+msgstr "Sağ"
+
+#: index
+msgid "Floating"
+msgstr "Yüzen"
 
 #: index
 msgid ""

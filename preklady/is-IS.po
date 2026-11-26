@@ -135,6 +135,22 @@ msgid "Big digits, a calculator and a scientific one."
 msgstr "Stórir tölustafir, reiknivél og vísindareiknivél."
 
 #: index
+msgid "Themes &amp; colours"
+msgstr "Þemu og litir"
+
+#: index
+msgid "Six themes or colours of your own."
+msgstr "Sex þemu eða þínir eigin litir."
+
+#: index
+msgid "Size &amp; layout"
+msgstr "Stærð og útlit"
+
+#: index
+msgid "Split, one-handed or floating."
+msgstr "Skipt, einhent eða fljótandi."
+
+#: index
 msgid "Backup"
 msgstr "Öryggisafrit"
 
@@ -160,9 +176,9 @@ msgstr "Næsta"
 
 #: index
 msgid ""
-"No need to tap letter by letter – one stroke across the letters of a word is enough. Swajp recognises the swipe even when it is not perfect, and learns your style so it keeps getting more accurate."
+"No need to tap letter by letter – one stroke across the letters of a word is enough. Swajp recognises the swipe even when it is not perfect, and learns your style so it keeps getting more accurate. Words with a similar swipe wait in the suggestion bar – one tap swaps them. For a capital letter, slide from the first letter up above the keyboard and straight on to the next one. A swipe from a letter to the space bar types the character from its corner, such as ? or !"
 msgstr ""
-"Þú þarft ekki að pikka staf fyrir staf – eitt strok yfir stafi orðsins nægir. Swajp þekkir strokið þótt það sé ekki fullkomið og lærir þinn stíl, svo það verður sífellt nákvæmara."
+"Þú þarft ekki að pikka staf fyrir staf – eitt strok yfir stafi orðsins nægir. Swajp þekkir strokið þótt það sé ekki fullkomið og lærir á stílinn þinn, svo það verður sífellt nákvæmara. Orð með svipuðu stroki bíða í tillögustikunni – eitt pikk skiptir þeim út. Fyrir hástaf rennirðu frá fyrsta stafnum upp fyrir lyklaborðið og beint áfram á þann næsta. Strok frá staf að bilslánni skrifar táknið í horni stafsins, til dæmis ? eða !"
 
 #: index
 msgid "Predicts your next word like a dragonfly predicts its prey."
@@ -170,9 +186,9 @@ msgstr "Sér næsta orð fyrir eins og drekafluga sér fyrir flug bráðarinnar.
 
 #: index
 msgid ""
-"From the words before, it suggests what you are likely to type next, and uses context to tell similar words apart. It learns the words you actually use."
+"From the words before, it suggests what you are likely to type next – after a space, just tap it. It uses context to tell similar words apart and learns the words you actually use. When you tap out a word with a typo, the bar shows what you typed next to the fix, and the space bar inserts the highlighted fix."
 msgstr ""
-"Út frá orðunum á undan stingur það upp á því sem þú skrifar líklega næst og notar samhengið til að greina á milli svipaðra orða. Það lærir orðin sem þú notar í raun."
+"Út frá orðunum á undan stingur það upp á því sem þú skrifar líklega næst – eftir bil pikkarðu bara á tillöguna. Það notar samhengið til að greina á milli svipaðra orða og lærir orðin sem þú notar í raun. Þegar þú pikkar orð með innsláttarvillu sýnir stikan það sem þú skrifaðir við hlið leiðréttingarinnar og bilsláin setur inn auðkenndu leiðréttinguna."
 
 #: index
 msgid "Rules the air. Now rules your text."
@@ -180,9 +196,9 @@ msgstr "Drottnar yfir loftinu. Nú líka yfir textanum þínum."
 
 #: index
 msgid ""
-"It flies backwards and forwards too – undo and redo, up to 60 steps. Moving the cursor to select or delete text is as precise as landing on a reed. Copy, paste, cut and select all with a swipe from the Swajp key, change case with a single gesture."
+"It flies backwards and forwards too – Enter → space undoes, Swajp → space redoes, up to 60 steps. Copy, paste, cut or select all with a swipe from the Swajp key to C, V, X or A, and change case with a single gesture. Slide left from ⌫ to delete whole words, or up for whole lines. Double-tap the space bar and slide to move the cursor as precisely as landing on a reed. The [I] key opens editing with arrows, selection, Start and End."
 msgstr ""
-"Það flýgur líka aftur á bak og áfram – afturkalla og endurtaka, allt að 60 skref. Að færa bendilinn til að velja eða eyða texta er jafn nákvæmt og lending á sefstrái. Afritaðu, límdu, klipptu og veldu allt með stroki frá Swajp-lyklinum og breyttu stafastærð með einni bendingu."
+"Það flýgur líka aftur á bak og áfram – Enter → bilslá afturkallar, Swajp → bilslá endurgerir, allt að 60 skref. Afritaðu, límdu, klipptu eða veldu allt með stroki frá Swajp-lyklinum á C, V, X eða A, og breyttu há- og lágstöfum með einni hreyfingu. Renndu til vinstri frá ⌫ til að eyða heilum orðum, eða upp fyrir heilar línur. Pikkaðu tvisvar á bilslána og renndu til að færa bendilinn jafn nákvæmlega og drekafluga lendir á sefstrái. Lykillinn [I] opnar breytingar með örvum, vali, Upphafi og Enda."
 
 #: index
 msgid ""
@@ -206,9 +222,9 @@ msgstr "Fætt til að ríkja – á 35 tungumálum."
 
 #: index
 msgid ""
-"Type in two languages without switching – the keyboard knows words from both. 9 languages are built in (English in two variants), 26 more can be downloaded as packs."
+"Type in two languages without switching – the keyboard knows words from both. Tap an unknown word in the bar to add it to the dictionary of one language or both. In Hindi you type in Latin letters (Hinglish) and get Devanagari – or stay with Latin. 9 languages are built in (English in two variants), 26 more can be downloaded as packs."
 msgstr ""
-"Skrifaðu á tveimur tungumálum án þess að skipta á milli – lyklaborðið þekkir orð úr báðum. 9 tungumál eru innbyggð (enska í tveimur útgáfum) og 26 til viðbótar er hægt að sækja sem pakka."
+"Skrifaðu á tveimur tungumálum án þess að skipta – lyklaborðið þekkir orð úr báðum. Pikkaðu á óþekkt orð í stikunni til að bæta því í orðabók annars tungumálsins eða beggja. Á hindí skrifarðu með latneskum stöfum (Hinglish) og færð devanagari – eða heldur þig við latneska stafi. 9 tungumál eru innbyggð (enska í tveimur afbrigðum) og 26 í viðbót má sækja sem tungumálapakka."
 
 #: index
 msgid ""
@@ -222,9 +238,9 @@ msgstr "Heyrir í þér. Segir engum frá."
 
 #: index
 msgid ""
-"Speech is turned into text right on your phone (Parakeet and Omnilingual models), with no internet. If you like, you can use Google recognition instead. Recognised words are checked against the dictionary."
+"Hold the Swajp key and pick the microphone – the text appears as you speak. Speech is turned into text right on your phone (Parakeet and Omnilingual models), with no internet. If you like, you can use Google recognition instead. Recognised words are checked against the dictionary."
 msgstr ""
-"Tali er breytt í texta beint í símanum (líkönin Parakeet og Omnilingual), án nets. Ef þú vilt geturðu notað talgreiningu Google í staðinn. Greind orð eru borin saman við orðabókina."
+"Haltu Swajp-lyklinum inni og veldu hljóðnemann – textinn birtist um leið og þú talar. Tali er breytt í texta beint í símanum (líkönin Parakeet og Omnilingual), án nets. Ef þú vilt geturðu notað talgreiningu Google í staðinn. Greind orð eru borin saman við orðabókina."
 
 #: index
 msgid "Remembers your copies. Forgets your secrets."
@@ -232,9 +248,9 @@ msgstr "Man það sem þú afritar. Gleymir leyndarmálunum þínum."
 
 #: index
 msgid ""
-"Your last 30 copied texts are always at hand. Passwords, codes and text marked as sensitive are never stored, and the history clears itself after the time you choose."
+"Hold Enter and pick the clipboard: your last 30 copied texts are always at hand – tap to paste, pin the ones you want to keep. Passwords, codes and text marked as sensitive are never stored, and the history clears itself after the time you choose."
 msgstr ""
-"Síðustu 30 afrituðu textarnir eru alltaf við höndina. Lykilorð, kóðar og texti sem er merktur viðkvæmur eru aldrei vistuð og sagan hreinsast sjálfkrafa eftir þann tíma sem þú velur."
+"Haltu Enter inni og veldu klippiborðið: síðustu 30 textarnir sem þú afritaðir eru alltaf við höndina – pikkaðu til að líma, festu þá sem þú vilt halda. Lykilorð, kóðar og texti merktur sem viðkvæmur eru aldrei vistuð og sagan hreinsast sjálfkrafa eftir þann tíma sem þú velur."
 
 #: index
 msgid "Even sharp minds reach for a calculator."
@@ -242,9 +258,73 @@ msgstr "Jafnvel skarpir hugar grípa í reiknivél."
 
 #: index
 msgid ""
-"Big digits for quick entry of phone numbers and amounts. A calculator and a scientific calculator right in the keyboard – no switching apps."
+"Hold the [I] key for the number pad: big digits for quick entry of phone numbers and amounts. The calculator counts right in the suggestion bar and inserts the result into the text. It handles percent (200 + 10 % = 220) and brackets, and the scientific mode adds functions, powers, degrees and radians – no switching apps."
 msgstr ""
-"Stórir tölustafir til að slá hratt inn símanúmer og upphæðir. Reiknivél og vísindareiknivél beint í lyklaborðinu – ekkert flakk á milli forrita."
+"Haltu [I]-lyklinum inni fyrir talnaborðið: stórir tölustafir til að slá hratt inn símanúmer og upphæðir. Reiknivélin reiknar beint í tillögustikunni og setur niðurstöðuna inn í textann. Hún ræður við prósentur (200 + 10% = 220) og sviga, og vísindahamurinn bætir við föllum, veldum, gráðum og radíönum – án þess að skipta um forrit."
+
+#: index
+msgid "Shimmering colours, like a dragonfly’s wings."
+msgstr "Glitrandi litir, eins og vængir drekaflugu."
+
+#: index
+msgid ""
+"Pick a ready-made theme or set your own colours for the highlight, keys, special keys, background and text. You can also adjust the font size in the suggestion bar, vibration and key sounds."
+msgstr ""
+"Veldu tilbúið þema eða stilltu eigin liti fyrir áherslu, lykla, sérlykla, bakgrunn og texta. Þú getur líka stillt leturstærð í tillögustikunni, titring og lyklahljóð."
+
+#: index
+msgid "Light green"
+msgstr "Ljósgrænt"
+
+#: index
+msgid "Light"
+msgstr "Ljóst"
+
+#: index
+msgid "AMOLED black"
+msgstr "AMOLED-svart"
+
+#: index
+msgid "Blue"
+msgstr "Blátt"
+
+#: index
+msgid "Orange"
+msgstr "Appelsínugult"
+
+#: index
+msgid "Purple"
+msgstr "Fjólublátt"
+
+#: index
+msgid "Wide wings or narrow – it fits your hand."
+msgstr "Breiðir vængir eða mjóir – það lagar sig að hendinni þinni."
+
+#: index
+msgid ""
+"Hold the Swajp key and pick Size: drag the handles to change the height, width and position. Tablet splits the letters into two halves for both thumbs, Left and Right make it narrower at the edge for one hand, and Floating lets it hover freely above apps. In landscape the keyboard is lower and split."
+msgstr ""
+"Haltu Swajp-lyklinum inni og veldu Stærð: dragðu handföngin til að breyta hæð, breidd og staðsetningu. Spjaldtölva skiptir stöfunum í tvo helminga fyrir báða þumla, Vinstri og Hægri gera það mjórra við brúnina fyrir aðra höndina og Fljótandi lætur það svífa frjálst yfir forritum. Í láréttri stöðu er lyklaborðið lægra og skipt."
+
+#: index
+msgid "Full"
+msgstr "Fullt"
+
+#: index
+msgid "Tablet"
+msgstr "Spjaldtölva"
+
+#: index
+msgid "Left"
+msgstr "Vinstri"
+
+#: index
+msgid "Right"
+msgstr "Hægri"
+
+#: index
+msgid "Floating"
+msgstr "Fljótandi"
 
 #: index
 msgid ""

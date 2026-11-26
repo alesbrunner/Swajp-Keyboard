@@ -1,5 +1,5 @@
-:root{--bg:#141517;--panel:#1d1f22;--panel2:#23262a;--line:#2f3337;--tx:#ececec;--mut:#a4a8ad;--g:#9ccc65;--g2:#7cb342;--gd:#9ccc6522;--hdr:#141517e6;--key:#3a3f44}
-[data-theme=light]{--bg:#f4f5f2;--panel:#ffffff;--panel2:#eceee9;--line:#d6d9d2;--tx:#1b1d1f;--mut:#585d62;--g:#4e8a12;--g2:#3f7310;--gd:#7cb3421f;--hdr:#f4f5f2e6;--key:#c9ccc5}
+:root{--bg:#141517;--panel:#1d1f22;--panel2:#23262a;--line:#2f3337;--tx:#ececec;--mut:#a4a8ad;--g:#9ccc65;--g2:#7cb342;--gd:#9ccc6522;--hdr:#141517e6;--key:#3a3f44;--dk-g:#9ccc65;--dk-key:#2a2d31;--dk-spec:#3a3f44;--dk-tx:#ececec;--dk-mut:#a4a8ad;--dk-op:#34402b;--dk-field:#23262a;--dk-sel:#2f5e8c;--dk-bar:#4a4f55;--dk-pop:#44494f;--dk-hl:#4e6b2f;--dk-finger:#fff}
+[data-theme=light]{--bg:#f4f5f2;--panel:#ffffff;--panel2:#eceee9;--line:#d6d9d2;--tx:#1b1d1f;--mut:#585d62;--g:#4e8a12;--g2:#3f7310;--gd:#7cb3421f;--hdr:#f4f5f2e6;--key:#c9ccc5;--dk-g:#5f9e22;--dk-key:#ffffff;--dk-spec:#d9dcd5;--dk-tx:#1b1d1f;--dk-mut:#62676c;--dk-op:#dde9cf;--dk-field:#e6e8e3;--dk-sel:#b6d1ee;--dk-bar:#c3c7bf;--dk-pop:#e4e7e1;--dk-hl:#c2db9f;--dk-finger:#2b2e31}
 [data-theme=light] .btn{color:#fff}[data-theme=light] .btn:hover{background:#3f7310}[data-theme=light] .btn.ghost{color:var(--tx)}[data-theme=light] nav a.on{color:#fff}[data-theme=light] .steps li::before{color:#fff}[data-theme=light] .lmenu{box-shadow:0 12px 32px #0003}
 *{box-sizing:border-box}
 html{scroll-behavior:smooth}
@@ -144,3 +144,29 @@ a.card.ov{color:inherit;display:block}a.card.ov:hover{text-decoration:none}
 .thm+.lngs{margin-left:-12px}
 @media(min-width:601px){.thm{order:3;margin-left:0}.thm+.lngs{margin-left:-14px}}
 .btn.play svg{fill:currentColor;stroke:none}
+[data-theme=light] .logo svg>rect:first-child{fill:transparent}
+/* úvodní klávesnice ve světlém režimu */
+[data-theme=light] svg.kb [fill="#1b1c1f"]{fill:#e9ebe6}[data-theme=light] svg.kb [stroke="#1b1c1f"]{stroke:#e9ebe6}
+[data-theme=light] svg.kb [fill="#3a3c42"]{fill:#ffffff}[data-theme=light] svg.kb [stroke="#3a3c42"]{stroke:#c3c7bf}
+[data-theme=light] svg.kb [fill="#ececec"]{fill:#1b1d1f}[data-theme=light] svg.kb [fill="#d8d9dc"]{fill:#2b2e31}
+[data-theme=light] svg.kb [fill="#8e9096"]{fill:#7a7f85}[data-theme=light] svg.kb [fill="#a4a8ad"]{fill:#62676c}
+[data-theme=light] .hero svg.kb{filter:drop-shadow(0 14px 30px #0002)}
+/* přehled funkcí: 12 karet – 6 / 4 / 3 / 2 sloupce */
+@media(min-width:900px){.g3{grid-template-columns:repeat(4,1fr)}}
+@media(min-width:1240px){.g3{grid-template-columns:repeat(6,1fr)}}
+@media(min-width:601px) and (max-width:899px){.g3{grid-template-columns:repeat(3,1fr)}}
+/* ukázky bez nadpisu a popisu – co nejnižší */
+.gdemo{padding:8px 6px 6px}.gdots{margin-top:4px}
+/* motivy a velikost */
+.thms,.lays{display:grid;gap:12px;margin:8px 0 4px}
+.thms{grid-template-columns:repeat(auto-fill,minmax(130px,1fr));max-width:900px}
+.lays{grid-template-columns:repeat(5,minmax(0,92px))}
+.thms figure,.lays figure{margin:0;text-align:center}
+.thms svg{width:100%;height:auto;display:block;border-radius:8px;box-shadow:0 0 0 1px var(--line)}
+.lays svg{width:100%;height:auto;display:block}
+.thms figcaption,.lays figcaption{font-size:13px;color:var(--mut);margin-top:6px}
+@media(max-width:600px){.lays{gap:8px;grid-template-columns:repeat(5,1fr)}.thms{grid-template-columns:repeat(3,1fr);gap:8px}}
+/* světlá ukázka jako motiv „Světlý“ v aplikaci: šedozelené pozadí, bílé klávesy */
+[data-theme=light] .gdemo{background:#e8efe3;border-color:#d3ddcb}
+[data-theme=light]{--dk-field:#ffffff;--dk-spec:#d3ddcb;--dk-pop:#ffffff;--dk-op:#d5e6c0}
+[data-theme=light] .gprev,[data-theme=light] .gnext{background:#fff}
