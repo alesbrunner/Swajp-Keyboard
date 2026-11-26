@@ -1,0 +1,38 @@
+name: Sestavit web
+
+# Po každém nahrání (třeba nového preklady/xx.po) se web sestaví z en-US/*.html a překladů
+# a zveřejní na GitHub Pages. Jednou je potřeba v Settings → Pages → Source zvolit „GitHub Actions“.
+on:
+  push:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-24.04
+    steps:
+      - uses: actions/checkout@v6
+      - name: Kontrola překladů
+        run: python3 tools/build_web.py check || echo "::warning::Některé překlady mají chybu – ty odstavce zůstanou anglicky."
+      - name: Sestavení
+        run: python3 tools/build_web.py build _site
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+  deploy:
+    needs: build
+    runs-on: ubuntu-24.04
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4
