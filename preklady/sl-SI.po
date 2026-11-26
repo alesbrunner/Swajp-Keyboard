@@ -50,7 +50,7 @@ msgstr "Tipkovnica,<br><em>vredna cesarja.</em>"
 #: index
 msgid "Swift as Anax – the emperor dragonfly.<br>Precise as its hunt."
 msgstr ""
-"Hitra kot Anax imperator – veliki spremljevalec.<br>Natančna kot njegov lov."
+"Hitra kot Anax imperator – kačji pastir veliki spremljevalec.<br>Natančna kot njegov lov."
 
 #: index
 msgid ""

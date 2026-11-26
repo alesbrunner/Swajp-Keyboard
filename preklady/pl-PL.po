@@ -49,7 +49,7 @@ msgstr "Klawiatura<br><em>godna władcy.</em>"
 
 #: index
 msgid "Swift as Anax – the emperor dragonfly.<br>Precise as its hunt."
-msgstr "Szybka jak Anax – husarz władca.<br>Precyzyjna jak jego łowy."
+msgstr "Szybka jak Anax – ważka husarz władca.<br>Precyzyjna jak jego łowy."
 
 #: index
 msgid ""

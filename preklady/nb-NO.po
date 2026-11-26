@@ -49,7 +49,8 @@ msgstr "Et tastatur<br><em>verdig en keiser.</em>"
 
 #: index
 msgid "Swift as Anax – the emperor dragonfly.<br>Precise as its hunt."
-msgstr "Rask som Anax – storkeiserlibellen.<br>Presis som jakten dens."
+msgstr ""
+"Rask som Anax – øyenstikkeren storkeiserlibelle.<br>Presis som jakten dens."
 
 #: index
 msgid ""
