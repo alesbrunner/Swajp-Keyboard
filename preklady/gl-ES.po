@@ -23,6 +23,10 @@ msgid ""
 msgstr ""
 "Swajp – teclado de escritura xestual para Android, sen acceso a internet, ditado sen conexión."
 
+#: index (atribut / attribute) languages (atribut / attribute) privacy (atribut / attribute) licenses (atribut / attribute)
+msgid "Light / dark mode"
+msgstr "Modo claro / escuro"
+
 #: index languages privacy licenses
 msgid "Home"
 msgstr "Inicio"
@@ -59,8 +63,8 @@ msgstr ""
 "<strong class=\"story\">Inspirado en Swype. Nado como Swajp.</strong> Un teclado para Android no que escribes deslizando o dedo. Adiviña as palabras polo contexto, aprende o teu estilo e todos os teus datos quedan no teu teléfono."
 
 #: index
-msgid "Coming soon to Google Play"
-msgstr "Proximamente en Google Play"
+msgid "Get it on Google Play"
+msgstr "Dispoñible en Google Play"
 
 #: index languages
 msgid "Language packs"

@@ -23,6 +23,10 @@ msgid ""
 msgstr ""
 "Swajp – húzásos billentyűzet Androidra, internet-hozzáférés nélkül, offline diktálással."
 
+#: index (atribut / attribute) languages (atribut / attribute) privacy (atribut / attribute) licenses (atribut / attribute)
+msgid "Light / dark mode"
+msgstr "Világos / sötét mód"
+
 #: index languages privacy licenses
 msgid "Home"
 msgstr "Kezdőlap"
@@ -59,8 +63,8 @@ msgstr ""
 "<strong class=\"story\">A Swype ihlette. Swajpként született.</strong> Androidos billentyűzet, amelyen az ujjad egyetlen suhintásával írsz. A szavakat a szövegkörnyezetből találja ki, megtanulja a stílusodat, és minden adatod a telefonodon marad."
 
 #: index
-msgid "Coming soon to Google Play"
-msgstr "Hamarosan a Google Playen"
+msgid "Get it on Google Play"
+msgstr "Szerezd meg: Google Play"
 
 #: index languages
 msgid "Language packs"

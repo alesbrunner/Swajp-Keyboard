@@ -23,6 +23,10 @@ msgid ""
 msgstr ""
 "Swajp – tastierë me rrëshqitje për Android, pa qasje në internet, diktim jashtë linje."
 
+#: index (atribut / attribute) languages (atribut / attribute) privacy (atribut / attribute) licenses (atribut / attribute)
+msgid "Light / dark mode"
+msgstr "Modaliteti i çelët / i errët"
+
 #: index languages privacy licenses
 msgid "Home"
 msgstr "Kreu"
@@ -58,8 +62,8 @@ msgstr ""
 "<strong class=\"story\">Frymëzuar nga Swype. Lindur si Swajp.</strong> Tastierë për Android ku shkruan duke rrëshqitur gishtin. I gjen fjalët sipas kontekstit, mëson stilin tënd dhe të gjitha të dhënat e tua mbeten në telefon."
 
 #: index
-msgid "Coming soon to Google Play"
-msgstr "Së shpejti në Google Play"
+msgid "Get it on Google Play"
+msgstr "Merre në Google Play"
 
 #: index languages
 msgid "Language packs"

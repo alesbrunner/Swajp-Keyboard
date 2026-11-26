@@ -23,6 +23,10 @@ msgid ""
 msgstr ""
 "Swajp – clavier à glisser pour Android, sans accès à Internet, dictée hors ligne."
 
+#: index (atribut / attribute) languages (atribut / attribute) privacy (atribut / attribute) licenses (atribut / attribute)
+msgid "Light / dark mode"
+msgstr "Mode clair / sombre"
+
 #: index languages privacy licenses
 msgid "Home"
 msgstr "Accueil"
@@ -59,8 +63,8 @@ msgstr ""
 "<strong class=\"story\">Inspiré par Swype. Né sous le nom de Swajp.</strong> Un clavier Android sur lequel tu écris d'un simple glissement du doigt. Il devine les mots d'après le contexte, apprend ton style, et toutes tes données restent sur ton téléphone."
 
 #: index
-msgid "Coming soon to Google Play"
-msgstr "Bientôt sur Google Play"
+msgid "Get it on Google Play"
+msgstr "Disponible sur Google Play"
 
 #: index languages
 msgid "Language packs"

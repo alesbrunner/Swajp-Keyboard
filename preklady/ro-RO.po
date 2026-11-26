@@ -23,6 +23,10 @@ msgid ""
 msgstr ""
 "Swajp – tastatură cu glisare pentru Android, fără acces la internet, dictare offline."
 
+#: index (atribut / attribute) languages (atribut / attribute) privacy (atribut / attribute) licenses (atribut / attribute)
+msgid "Light / dark mode"
+msgstr "Mod luminos / întunecat"
+
 #: index languages privacy licenses
 msgid "Home"
 msgstr "Acasă"
@@ -58,8 +62,8 @@ msgstr ""
 "<strong class=\"story\">Inspirată de Swype. Născută ca Swajp.</strong> O tastatură pentru Android pe care scrii glisând degetul. Ghicește cuvintele din context, învață stilul tău, iar toate datele tale rămân în telefon."
 
 #: index
-msgid "Coming soon to Google Play"
-msgstr "În curând pe Google Play"
+msgid "Get it on Google Play"
+msgstr "Disponibil pe Google Play"
 
 #: index languages
 msgid "Language packs"

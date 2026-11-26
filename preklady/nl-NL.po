@@ -23,6 +23,10 @@ msgid ""
 msgstr ""
 "Swajp – veegtoetsenbord voor Android, zonder internettoegang, offline dicteren."
 
+#: index (atribut / attribute) languages (atribut / attribute) privacy (atribut / attribute) licenses (atribut / attribute)
+msgid "Light / dark mode"
+msgstr "Lichte / donkere modus"
+
 #: index languages privacy licenses
 msgid "Home"
 msgstr "Start"
@@ -58,8 +62,8 @@ msgstr ""
 "<strong class=\"story\">Geïnspireerd door Swype. Geboren als Swajp.</strong> Een Android-toetsenbord waarop je typt door met je vinger over de toetsen te glijden. Het raadt woorden uit de context, leert jouw stijl en al je gegevens blijven op je telefoon."
 
 #: index
-msgid "Coming soon to Google Play"
-msgstr "Binnenkort op Google Play"
+msgid "Get it on Google Play"
+msgstr "Ontdek het op Google Play"
 
 #: index languages
 msgid "Language packs"

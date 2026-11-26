@@ -23,6 +23,10 @@ msgid ""
 msgstr ""
 "Swajp – strokinnsláttarlyklaborð fyrir Android, enginn netaðgangur, raddinnsláttur án nettengingar."
 
+#: index (atribut / attribute) languages (atribut / attribute) privacy (atribut / attribute) licenses (atribut / attribute)
+msgid "Light / dark mode"
+msgstr "Ljós / dökk stilling"
+
 #: index languages privacy licenses
 msgid "Home"
 msgstr "Forsíða"
@@ -59,8 +63,8 @@ msgstr ""
 "<strong class=\"story\">Innblásið af Swype. Fætt sem Swajp.</strong> Android-lyklaborð sem þú skrifar á með því að renna fingrinum. Það giskar á orð út frá samhengi, lærir þinn stíl og öll gögnin þín haldast í símanum."
 
 #: index
-msgid "Coming soon to Google Play"
-msgstr "Væntanlegt á Google Play"
+msgid "Get it on Google Play"
+msgstr "Fáðu það á Google Play"
 
 #: index languages
 msgid "Language packs"

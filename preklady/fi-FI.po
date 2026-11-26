@@ -23,6 +23,10 @@ msgid ""
 msgstr ""
 "Swajp – pyyhkäisynäppäimistö Androidille, ilman internetyhteyttä, offline-sanelu."
 
+#: index (atribut / attribute) languages (atribut / attribute) privacy (atribut / attribute) licenses (atribut / attribute)
+msgid "Light / dark mode"
+msgstr "Vaalea / tumma tila"
+
 #: index languages privacy licenses
 msgid "Home"
 msgstr "Etusivu"
@@ -58,8 +62,8 @@ msgstr ""
 "<strong class=\"story\">Swypen innoittama. Syntynyt Swajpina.</strong> Android-näppäimistö, jolla kirjoitat sormen liu’utuksella. Se arvaa sanat asiayhteydestä, oppii tyylisi, ja kaikki tietosi pysyvät puhelimessasi."
 
 #: index
-msgid "Coming soon to Google Play"
-msgstr "Tulossa pian Google Playhin"
+msgid "Get it on Google Play"
+msgstr "Saatavana Google Playsta"
 
 #: index languages
 msgid "Language packs"

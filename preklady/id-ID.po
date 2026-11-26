@@ -23,6 +23,10 @@ msgid ""
 msgstr ""
 "Swajp – keyboard geser untuk Android, tanpa akses internet, dikte offline."
 
+#: index (atribut / attribute) languages (atribut / attribute) privacy (atribut / attribute) licenses (atribut / attribute)
+msgid "Light / dark mode"
+msgstr "Mode terang / gelap"
+
 #: index languages privacy licenses
 msgid "Home"
 msgstr "Beranda"
@@ -58,8 +62,8 @@ msgstr ""
 "<strong class=\"story\">Terinspirasi Swype. Lahir sebagai Swajp.</strong> Keyboard Android yang bisa kamu pakai mengetik cukup dengan menggeser jari. Ia menebak kata dari konteks, mempelajari gayamu, dan semua datamu tetap di ponsel."
 
 #: index
-msgid "Coming soon to Google Play"
-msgstr "Segera hadir di Google Play"
+msgid "Get it on Google Play"
+msgstr "Temukan di Google Play"
 
 #: index languages
 msgid "Language packs"

@@ -22,6 +22,10 @@ msgid ""
 "Swajp – swipe keyboard for Android, no internet access, offline dictation."
 msgstr ""
 
+#: index (atribut / attribute) languages (atribut / attribute) privacy (atribut / attribute) licenses (atribut / attribute)
+msgid "Light / dark mode"
+msgstr ""
+
 #: index languages privacy licenses
 msgid "Home"
 msgstr ""
@@ -56,7 +60,7 @@ msgid ""
 msgstr ""
 
 #: index
-msgid "Coming soon to Google Play"
+msgid "Get it on Google Play"
 msgstr ""
 
 #: index languages

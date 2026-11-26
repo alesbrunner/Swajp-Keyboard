@@ -23,6 +23,10 @@ msgid ""
 msgstr ""
 "Swajp – tastatura za kucanje prevlačenjem za Android, bez pristupa internetu, oflajn diktiranje."
 
+#: index (atribut / attribute) languages (atribut / attribute) privacy (atribut / attribute) licenses (atribut / attribute)
+msgid "Light / dark mode"
+msgstr "Svetli / tamni režim"
+
 #: index languages privacy licenses
 msgid "Home"
 msgstr "Početna"
@@ -58,8 +62,8 @@ msgstr ""
 "<strong class=\"story\">Nadahnuta Swypeom. Rođena kao Swajp.</strong> Tastatura za Android na kojoj kucaš klizanjem prsta. Reči pogađa iz konteksta, uči tvoj stil, a svi tvoji podaci ostaju na telefonu."
 
 #: index
-msgid "Coming soon to Google Play"
-msgstr "Uskoro na Google Playu"
+msgid "Get it on Google Play"
+msgstr "Nabavite na Google Play"
 
 #: index languages
 msgid "Language packs"

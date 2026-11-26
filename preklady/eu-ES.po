@@ -23,6 +23,10 @@ msgid ""
 msgstr ""
 "Swajp – irristatze bidezko teklatua Androiderako, Interneterako sarbiderik gabe eta lineaz kanpoko diktatzearekin."
 
+#: index (atribut / attribute) languages (atribut / attribute) privacy (atribut / attribute) licenses (atribut / attribute)
+msgid "Light / dark mode"
+msgstr "Modu argia / iluna"
+
 #: index languages privacy licenses
 msgid "Home"
 msgstr "Hasiera"
@@ -59,8 +63,8 @@ msgstr ""
 "<strong class=\"story\">Swype-n inspiratua. Swajp gisa jaioa.</strong> Hatza irristatuz idazteko Android teklatua. Hitzak testuinguruaren arabera asmatzen ditu, zure estiloa ikasten du, eta zure datu guztiak telefonoan geratzen dira."
 
 #: index
-msgid "Coming soon to Google Play"
-msgstr "Laster Google Play-n"
+msgid "Get it on Google Play"
+msgstr "Eskuratu Google Play-n"
 
 #: index languages
 msgid "Language packs"

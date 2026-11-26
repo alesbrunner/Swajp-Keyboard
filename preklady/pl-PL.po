@@ -23,6 +23,10 @@ msgid ""
 msgstr ""
 "Swajp – klawiatura do pisania przesuwaniem dla Androida, bez dostępu do internetu, dyktowanie offline."
 
+#: index (atribut / attribute) languages (atribut / attribute) privacy (atribut / attribute) licenses (atribut / attribute)
+msgid "Light / dark mode"
+msgstr "Tryb jasny / ciemny"
+
 #: index languages privacy licenses
 msgid "Home"
 msgstr "Start"
@@ -58,8 +62,8 @@ msgstr ""
 "<strong class=\"story\">Inspirowany Swype’em. Narodzony jako Swajp.</strong> Klawiatura dla Androida, na której piszesz, przesuwając palcem po klawiszach. Odgaduje słowa z kontekstu, uczy się twojego stylu, a wszystkie dane zostają tylko w telefonie."
 
 #: index
-msgid "Coming soon to Google Play"
-msgstr "Wkrótce w Google Play"
+msgid "Get it on Google Play"
+msgstr "Pobierz z Google Play"
 
 #: index languages
 msgid "Language packs"

@@ -23,6 +23,10 @@ msgid ""
 msgstr ""
 "Swajp – Wischtastatur für Android, ohne Internetzugriff, Offline-Diktat."
 
+#: index (atribut / attribute) languages (atribut / attribute) privacy (atribut / attribute) licenses (atribut / attribute)
+msgid "Light / dark mode"
+msgstr "Heller / dunkler Modus"
+
 #: index languages privacy licenses
 msgid "Home"
 msgstr "Start"
@@ -58,8 +62,8 @@ msgstr ""
 "<strong class=\"story\">Inspiriert von Swype. Geboren als Swajp.</strong> Eine Android-Tastatur, auf der du schreibst, indem du mit dem Finger über die Tasten gleitest. Sie errät Wörter aus dem Zusammenhang, lernt deinen Stil, und alle deine Daten bleiben auf deinem Handy."
 
 #: index
-msgid "Coming soon to Google Play"
-msgstr "Bald bei Google Play"
+msgid "Get it on Google Play"
+msgstr "Jetzt bei Google Play"
 
 #: index languages
 msgid "Language packs"

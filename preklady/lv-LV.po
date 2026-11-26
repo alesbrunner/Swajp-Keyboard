@@ -23,6 +23,10 @@ msgid ""
 msgstr ""
 "Swajp – vilkšanas tastatūra Android ierīcēm, bez piekļuves internetam, diktēšana bezsaistē."
 
+#: index (atribut / attribute) languages (atribut / attribute) privacy (atribut / attribute) licenses (atribut / attribute)
+msgid "Light / dark mode"
+msgstr "Gaišais / tumšais režīms"
+
 #: index languages privacy licenses
 msgid "Home"
 msgstr "Sākums"
@@ -58,8 +62,8 @@ msgstr ""
 "<strong class=\"story\">Swype iedvesmota. Dzimusi kā Swajp.</strong> Android tastatūra, kurā raksti, vienkārši velkot pirkstu. Tā min vārdus pēc konteksta, mācās tavu stilu, un visi tavi dati paliek tālrunī."
 
 #: index
-msgid "Coming soon to Google Play"
-msgstr "Drīzumā Google Play"
+msgid "Get it on Google Play"
+msgstr "Iegūt Google Play"
 
 #: index languages
 msgid "Language packs"

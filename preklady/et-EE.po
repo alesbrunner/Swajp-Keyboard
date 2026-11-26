@@ -23,6 +23,10 @@ msgid ""
 msgstr ""
 "Swajp – libistades kirjutamise klaviatuur Androidile, ilma internetiühenduseta, võrguühenduseta dikteerimisega."
 
+#: index (atribut / attribute) languages (atribut / attribute) privacy (atribut / attribute) licenses (atribut / attribute)
+msgid "Light / dark mode"
+msgstr "Hele / tume režiim"
+
 #: index languages privacy licenses
 msgid "Home"
 msgstr "Avaleht"
@@ -58,8 +62,8 @@ msgstr ""
 "<strong class=\"story\">Swype'ist inspireeritud. Sündinud Swajpina.</strong> Androidi klaviatuur, millel kirjutad sõrme libistades. See arvab sõnu konteksti järgi, õpib sinu stiili ja kõik sinu andmed jäävad telefoni."
 
 #: index
-msgid "Coming soon to Google Play"
-msgstr "Varsti Google Plays"
+msgid "Get it on Google Play"
+msgstr "Hangi see Google Playst"
 
 #: index languages
 msgid "Language packs"

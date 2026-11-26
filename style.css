@@ -1,16 +1,18 @@
-:root{--bg:#141517;--panel:#1d1f22;--panel2:#23262a;--line:#2f3337;--tx:#ececec;--mut:#a4a8ad;--g:#9ccc65;--g2:#7cb342;--gd:#9ccc6522}
+:root{--bg:#141517;--panel:#1d1f22;--panel2:#23262a;--line:#2f3337;--tx:#ececec;--mut:#a4a8ad;--g:#9ccc65;--g2:#7cb342;--gd:#9ccc6522;--hdr:#141517e6;--key:#3a3f44}
+[data-theme=light]{--bg:#f4f5f2;--panel:#ffffff;--panel2:#eceee9;--line:#d6d9d2;--tx:#1b1d1f;--mut:#585d62;--g:#4e8a12;--g2:#3f7310;--gd:#7cb3421f;--hdr:#f4f5f2e6;--key:#c9ccc5}
+[data-theme=light] .btn{color:#fff}[data-theme=light] .btn:hover{background:#3f7310}[data-theme=light] .btn.ghost{color:var(--tx)}[data-theme=light] nav a.on{color:#fff}[data-theme=light] .steps li::before{color:#fff}[data-theme=light] .lmenu{box-shadow:0 12px 32px #0003}
 *{box-sizing:border-box}
 html{scroll-behavior:smooth}
 body{margin:0;background:var(--bg);color:var(--tx);font:16px/1.6 system-ui,-apple-system,"Segoe UI",Roboto,sans-serif}
 a{color:var(--g);text-decoration:none}a:hover{text-decoration:underline}
-header{position:sticky;top:0;background:#141517e6;border-bottom:1px solid var(--line);backdrop-filter:blur(8px);z-index:5}
-.bar{max-width:980px;margin:auto;display:flex;align-items:center;gap:22px;padding:12px 18px;flex-wrap:wrap}
+header{position:sticky;top:0;background:var(--hdr);border-bottom:1px solid var(--line);backdrop-filter:blur(8px);z-index:5}
+.bar{max-width:max(980px,calc(50vw + 490px));margin:auto;display:flex;align-items:center;gap:22px;padding:12px 18px;flex-wrap:wrap}
 .logo{display:flex;align-items:center;gap:10px;font-weight:800;font-size:21px;color:var(--tx);letter-spacing:.2px}
 .logo:hover{text-decoration:none}.logo svg{width:30px;height:30px}
 nav{display:flex;gap:6px;flex-wrap:nowrap;overflow-x:auto;scrollbar-width:none;font-size:15px}nav::-webkit-scrollbar{display:none}nav a{white-space:nowrap}
 nav a{color:var(--mut);padding:5px 11px;border-radius:999px}nav a:hover{color:var(--tx);text-decoration:none;background:var(--panel2)}
 nav a.on{color:#111;background:var(--g);font-weight:600}
-main{max-width:980px;margin:auto;padding:30px 18px 70px}
+main{max-width:max(980px,calc(50vw + 490px));margin:auto;padding:30px 18px 70px}
 h1{font-size:40px;line-height:1.15;margin:8px 0 14px;letter-spacing:-.5px}
 h1 em{font-style:normal;color:var(--g)}
 h2{font-size:24px;margin:54px 0 16px;display:flex;align-items:center;gap:12px}
@@ -33,7 +35,7 @@ h3{margin:0 0 6px;font-size:17px}
 .row{display:flex;gap:12px;flex-wrap:wrap;margin:24px 0}
 .gest{display:grid;grid-template-columns:repeat(auto-fill,minmax(210px,1fr));gap:12px}
 .g{background:var(--panel);border:1px solid var(--line);border-radius:14px;padding:16px;display:flex;gap:14px;align-items:center}
-.key{min-width:54px;height:46px;padding:0 8px;border-radius:9px;background:var(--panel2);border:1px solid #3a3f44;border-bottom-width:3px;display:grid;place-items:center;font-weight:700;font-size:14px;color:var(--tx)}
+.key{min-width:54px;height:46px;padding:0 8px;border-radius:9px;background:var(--panel2);border:1px solid var(--key);border-bottom-width:3px;display:grid;place-items:center;font-weight:700;font-size:14px;color:var(--tx)}
 .key b{color:var(--g)}
 .g div:last-child{font-size:14px;color:var(--mut)}.g strong{display:block;color:var(--tx);font-size:15px}
 .chips{display:flex;flex-wrap:wrap;gap:8px}
@@ -134,3 +136,11 @@ a.card.ov{color:inherit;display:block}a.card.ov:hover{text-decoration:none}
   .feat.hd{display:flex;flex-direction:column}
   .feat.hd>.gdemo{float:none;order:99;width:auto;max-width:360px;margin:6px auto 4px;align-self:center}
 }
+
+/* přepínač světlý / tmavý režim (výchozí tmavý) */
+.thm{margin-left:auto;display:grid;place-items:center;width:32px;height:32px;border:1px solid var(--line);border-radius:50%;background:none;color:var(--tx);cursor:pointer;padding:0}
+.thm:hover{border-color:var(--g)}.thm svg{width:17px;height:17px;fill:none;stroke:currentColor;stroke-width:1.8;stroke-linecap:round;stroke-linejoin:round}
+.thm .sun{display:none}[data-theme=light] .thm .sun{display:block}[data-theme=light] .thm .moon{display:none}
+.thm+.lngs{margin-left:-12px}
+@media(min-width:601px){.thm{order:3;margin-left:0}.thm+.lngs{margin-left:-14px}}
+.btn.play svg{fill:currentColor;stroke:none}

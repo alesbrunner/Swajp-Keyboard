@@ -23,6 +23,10 @@ msgid ""
 msgstr ""
 "Swajp – svepskrivningstangentbord för Android, utan internetåtkomst, offlinediktering."
 
+#: index (atribut / attribute) languages (atribut / attribute) privacy (atribut / attribute) licenses (atribut / attribute)
+msgid "Light / dark mode"
+msgstr "Ljust / mörkt läge"
+
 #: index languages privacy licenses
 msgid "Home"
 msgstr "Start"
@@ -59,8 +63,8 @@ msgstr ""
 "<strong class=\"story\">Inspirerad av Swype. Född som Swajp.</strong> Ett tangentbord för Android som du skriver på genom att dra med fingret. Det gissar ord utifrån sammanhanget, lär sig din stil och all din data stannar i telefonen."
 
 #: index
-msgid "Coming soon to Google Play"
-msgstr "Snart på Google Play"
+msgid "Get it on Google Play"
+msgstr "Ladda ned på Google Play"
 
 #: index languages
 msgid "Language packs"

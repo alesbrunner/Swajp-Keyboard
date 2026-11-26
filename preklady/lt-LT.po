@@ -23,6 +23,10 @@ msgid ""
 msgstr ""
 "Swajp – braukiamoji klaviatūra Android įrenginiams, be prieigos prie interneto, diktavimas neprisijungus."
 
+#: index (atribut / attribute) languages (atribut / attribute) privacy (atribut / attribute) licenses (atribut / attribute)
+msgid "Light / dark mode"
+msgstr "Šviesus / tamsus režimas"
+
 #: index languages privacy licenses
 msgid "Home"
 msgstr "Pradžia"
@@ -59,8 +63,8 @@ msgstr ""
 "<strong class=\"story\">Įkvėpta Swype. Gimusi kaip Swajp.</strong> Android klaviatūra, kuria rašote tiesiog braukdami pirštu. Žodžius spėja pagal kontekstą, mokosi jūsų stiliaus, o visi jūsų duomenys lieka telefone."
 
 #: index
-msgid "Coming soon to Google Play"
-msgstr "Netrukus „Google Play“"
+msgid "Get it on Google Play"
+msgstr "Gaukite „Google Play“"
 
 #: index languages
 msgid "Language packs"

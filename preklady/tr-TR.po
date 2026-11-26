@@ -23,6 +23,10 @@ msgid ""
 msgstr ""
 "Swajp – Android için kaydırmalı klavye, internet erişimi yok, çevrimdışı dikte."
 
+#: index (atribut / attribute) languages (atribut / attribute) privacy (atribut / attribute) licenses (atribut / attribute)
+msgid "Light / dark mode"
+msgstr "Açık / koyu mod"
+
 #: index languages privacy licenses
 msgid "Home"
 msgstr "Ana sayfa"
@@ -58,8 +62,8 @@ msgstr ""
 "<strong class=\"story\">Swype'tan ilham aldı. Swajp olarak doğdu.</strong> Parmağını kaydırarak yazdığın bir Android klavyesi. Kelimeleri bağlamdan tahmin eder, tarzını öğrenir ve tüm verilerin telefonunda kalır."
 
 #: index
-msgid "Coming soon to Google Play"
-msgstr "Yakında Google Play'de"
+msgid "Get it on Google Play"
+msgstr "Google Play'den alın"
 
 #: index languages
 msgid "Language packs"

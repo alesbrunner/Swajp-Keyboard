@@ -23,6 +23,10 @@ msgid ""
 msgstr ""
 "Swajp – papan kekunci leret untuk Android, tanpa akses internet, imlak luar talian."
 
+#: index (atribut / attribute) languages (atribut / attribute) privacy (atribut / attribute) licenses (atribut / attribute)
+msgid "Light / dark mode"
+msgstr "Mod cerah / gelap"
+
 #: index languages privacy licenses
 msgid "Home"
 msgstr "Utama"
@@ -58,8 +62,8 @@ msgstr ""
 "<strong class=\"story\">Diilhamkan oleh Swype. Lahir sebagai Swajp.</strong> Papan kekunci Android yang membolehkan anda menaip dengan leretan jari. Ia meneka perkataan berdasarkan konteks, mempelajari gaya anda, dan semua data anda kekal dalam telefon anda."
 
 #: index
-msgid "Coming soon to Google Play"
-msgstr "Akan datang di Google Play"
+msgid "Get it on Google Play"
+msgstr "Dapatkannya di Google Play"
 
 #: index languages
 msgid "Language packs"

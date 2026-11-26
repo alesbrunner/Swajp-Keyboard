@@ -23,6 +23,10 @@ msgid ""
 msgstr ""
 "Swajp – Android के लिए स्वाइप कीबोर्ड, बिना इंटरनेट एक्सेस के, ऑफ़लाइन बोलकर लिखने की सुविधा के साथ।"
 
+#: index (atribut / attribute) languages (atribut / attribute) privacy (atribut / attribute) licenses (atribut / attribute)
+msgid "Light / dark mode"
+msgstr "लाइट / डार्क मोड"
+
 #: index languages privacy licenses
 msgid "Home"
 msgstr "होम"
@@ -58,8 +62,8 @@ msgstr ""
 "<strong class=\"story\">Swype से प्रेरित। Swajp के रूप में जन्मा।</strong> Android के लिए एक कीबोर्ड, जिस पर आप उंगली फिसलाकर लिखते हैं। यह संदर्भ से शब्दों का अनुमान लगाता है, आपका अंदाज़ सीखता है, और आपका सारा डेटा आपके फ़ोन में ही रहता है।"
 
 #: index
-msgid "Coming soon to Google Play"
-msgstr "जल्द ही Google Play पर"
+msgid "Get it on Google Play"
+msgstr "इसे Google Play पर पाएं"
 
 #: index languages
 msgid "Language packs"

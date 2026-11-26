@@ -23,6 +23,10 @@ msgid ""
 msgstr ""
 "Swajp – swipe keyboard para sa Android, walang access sa internet, offline na pagdidikta."
 
+#: index (atribut / attribute) languages (atribut / attribute) privacy (atribut / attribute) licenses (atribut / attribute)
+msgid "Light / dark mode"
+msgstr "Light / dark mode"
+
 #: index languages privacy licenses
 msgid "Home"
 msgstr "Home"
@@ -59,8 +63,8 @@ msgstr ""
 "<strong class=\"story\">Hango sa Swype. Isinilang bilang Swajp.</strong> Isang Android keyboard kung saan isang dausdos lang ng daliri ang kailangan para mag-type. Hinuhulaan nito ang mga salita mula sa konteksto, natututo sa istilo mo, at nananatili sa telepono mo ang lahat ng iyong data."
 
 #: index
-msgid "Coming soon to Google Play"
-msgstr "Malapit na sa Google Play"
+msgid "Get it on Google Play"
+msgstr "Kunin ito sa Google Play"
 
 #: index languages
 msgid "Language packs"

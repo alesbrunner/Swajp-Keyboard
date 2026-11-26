@@ -23,6 +23,10 @@ msgid ""
 msgstr ""
 "Swajp – tastiera a tratto per Android, senza accesso a internet, dettatura offline."
 
+#: index (atribut / attribute) languages (atribut / attribute) privacy (atribut / attribute) licenses (atribut / attribute)
+msgid "Light / dark mode"
+msgstr "Modalità chiara / scura"
+
 #: index languages privacy licenses
 msgid "Home"
 msgstr "Home"
@@ -59,8 +63,8 @@ msgstr ""
 "<strong class=\"story\">Ispirata a Swype. Nata come Swajp.</strong> Una tastiera Android su cui scrivi facendo scivolare il dito. Indovina le parole dal contesto, impara il tuo stile e tutti i tuoi dati restano sul telefono."
 
 #: index
-msgid "Coming soon to Google Play"
-msgstr "Presto su Google Play"
+msgid "Get it on Google Play"
+msgstr "Disponibile su Google Play"
 
 #: index languages
 msgid "Language packs"

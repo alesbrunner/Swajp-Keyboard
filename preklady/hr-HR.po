@@ -23,6 +23,10 @@ msgid ""
 msgstr ""
 "Swajp – tipkovnica za pisanje potezima za Android, bez pristupa internetu, izvanmrežno diktiranje."
 
+#: index (atribut / attribute) languages (atribut / attribute) privacy (atribut / attribute) licenses (atribut / attribute)
+msgid "Light / dark mode"
+msgstr "Svijetli / tamni način"
+
 #: index languages privacy licenses
 msgid "Home"
 msgstr "Početna"
@@ -58,8 +62,8 @@ msgstr ""
 "<strong class=\"story\">Nadahnuta Swypeom. Rođena kao Swajp.</strong> Tipkovnica za Android na kojoj pišeš klizanjem prsta. Riječi pogađa iz konteksta, uči tvoj stil, a svi tvoji podaci ostaju u telefonu."
 
 #: index
-msgid "Coming soon to Google Play"
-msgstr "Uskoro na Google Playu"
+msgid "Get it on Google Play"
+msgstr "Nabavite na Google Playu"
 
 #: index languages
 msgid "Language packs"

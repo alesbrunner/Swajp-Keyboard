@@ -23,6 +23,10 @@ msgid ""
 msgstr ""
 "Swajp – teclat per lliscament per a Android, sense accés a internet, dictat offline."
 
+#: index (atribut / attribute) languages (atribut / attribute) privacy (atribut / attribute) licenses (atribut / attribute)
+msgid "Light / dark mode"
+msgstr "Mode clar / fosc"
+
 #: index languages privacy licenses
 msgid "Home"
 msgstr "Inici"
@@ -58,8 +62,8 @@ msgstr ""
 "<strong class=\"story\">Inspirat en Swype. Nascut com a Swajp.</strong> Un teclat per a Android on escrius lliscant el dit. Endevina les paraules pel context, aprèn el teu estil i totes les teves dades es queden al telèfon."
 
 #: index
-msgid "Coming soon to Google Play"
-msgstr "Aviat a Google Play"
+msgid "Get it on Google Play"
+msgstr "Disponible a Google Play"
 
 #: index languages
 msgid "Language packs"

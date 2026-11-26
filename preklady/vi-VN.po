@@ -23,6 +23,10 @@ msgid ""
 msgstr ""
 "Swajp – bàn phím gõ bằng cách vuốt cho Android, không truy cập Internet, đọc chính tả ngoại tuyến."
 
+#: index (atribut / attribute) languages (atribut / attribute) privacy (atribut / attribute) licenses (atribut / attribute)
+msgid "Light / dark mode"
+msgstr "Chế độ sáng / tối"
+
 #: index languages privacy licenses
 msgid "Home"
 msgstr "Trang chủ"
@@ -59,8 +63,8 @@ msgstr ""
 "<strong class=\"story\">Cảm hứng từ Swype. Ra đời với tên Swajp.</strong> Bàn phím Android cho phép bạn gõ chỉ bằng một nét lướt ngón tay. Swajp đoán từ theo ngữ cảnh, học phong cách của bạn, và mọi dữ liệu của bạn đều nằm trong điện thoại."
 
 #: index
-msgid "Coming soon to Google Play"
-msgstr "Sắp có trên Google Play"
+msgid "Get it on Google Play"
+msgstr "Tải nội dung trên Google Play"
 
 #: index languages
 msgid "Language packs"

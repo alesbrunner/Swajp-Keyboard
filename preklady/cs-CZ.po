@@ -23,6 +23,10 @@ msgid ""
 msgstr ""
 "Swajp – klávesnice pro Android s psaním tahem, bez internetu, s offline diktováním."
 
+#: index (atribut / attribute) languages (atribut / attribute) privacy (atribut / attribute) licenses (atribut / attribute)
+msgid "Light / dark mode"
+msgstr "Světlý / tmavý režim"
+
 #: index languages privacy licenses
 msgid "Home"
 msgstr "Úvod"
@@ -58,8 +62,8 @@ msgstr ""
 "<strong class=\"story\">Inspirován Swypem. Zrozen jako Swajp.</strong> Klávesnice pro Android, na které píšeš tahem prstu. Slova hádá podle kontextu, učí se z tvého stylu a všechna data zůstávají jen v telefonu."
 
 #: index
-msgid "Coming soon to Google Play"
-msgstr "Brzy na Google Play"
+msgid "Get it on Google Play"
+msgstr "Stáhnout z Google Play"
 
 #: index languages
 msgid "Language packs"

@@ -23,6 +23,10 @@ msgid ""
 msgstr ""
 "Swajp – swipe-tastatur til Android uden internetadgang, med offline diktering."
 
+#: index (atribut / attribute) languages (atribut / attribute) privacy (atribut / attribute) licenses (atribut / attribute)
+msgid "Light / dark mode"
+msgstr "Lyst / mørkt tema"
+
 #: index languages privacy licenses
 msgid "Home"
 msgstr "Forside"
@@ -58,8 +62,8 @@ msgstr ""
 "<strong class=\"story\">Inspireret af Swype. Født som Swajp.</strong> Et Android-tastatur, du skriver på med et strøg af fingeren. Det gætter ord ud fra sammenhængen, lærer din stil, og alle dine data bliver på din telefon."
 
 #: index
-msgid "Coming soon to Google Play"
-msgstr "Snart på Google Play"
+msgid "Get it on Google Play"
+msgstr "Nu på Google Play"
 
 #: index languages
 msgid "Language packs"
