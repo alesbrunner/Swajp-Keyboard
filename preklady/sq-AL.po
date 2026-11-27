@@ -170,6 +170,18 @@ msgid "Next"
 msgstr "Tjetra"
 
 #: index
+msgid "Another word from the bar"
+msgstr "Fjalë tjetër nga shiriti"
+
+#: index
+msgid "Capital letter"
+msgstr "Shkronjë e madhe"
+
+#: index
+msgid "Character from the key corner"
+msgstr "Karakteri nga këndi i tastit"
+
+#: index
 msgid "Glide over the keys like a dragonfly."
 msgstr "Rrëshqit lehtë mbi tastet si një pilivesë."
 
@@ -178,6 +190,14 @@ msgid ""
 "No need to tap letter by letter – one stroke across the letters of a word is enough. Swajp recognises the swipe even when it is not perfect, and learns your style so it keeps getting more accurate. Words with a similar swipe wait in the suggestion bar – one tap swaps them. For a capital letter, slide from the first letter up above the keyboard and straight on to the next one. A swipe from a letter to the space bar types the character from its corner, such as ? or !"
 msgstr ""
 "Nuk ke pse të prekësh shkronjë pas shkronje – mjafton një rrëshqitje mbi shkronjat e fjalës. Swajp e njeh rrëshqitjen edhe kur nuk është e përsosur dhe mëson stilin tënd, ndaj bëhet gjithnjë më e saktë. Fjalët me rrëshqitje të ngjashme presin në shiritin e sugjerimeve – me një prekje i ndërron. Për shkronjë të madhe, nga shkronja e parë ngjitu sipër tastierës dhe prej andej drejt e te tjetra. Një rrëshqitje nga një shkronjë te tasti i hapësirës shkruan shenjën nga këndi i saj, si ? ose !"
+
+#: index
+msgid "Next word suggestion"
+msgstr "Sugjerimi i fjalës së radhës"
+
+#: index
+msgid "Fixing a typo"
+msgstr "Korrigjimi i një gabimi shtypi"
 
 #: index
 msgid "Predicts your next word like a dragonfly predicts its prey."
@@ -189,6 +209,42 @@ msgid ""
 "From the words before, it suggests what you are likely to type next – after a space, just tap it. It uses context to tell similar words apart and learns the words you actually use. When you tap out a word with a typo, the bar shows what you typed next to the fix, and the space bar inserts the highlighted fix."
 msgstr ""
 "Nga fjalët e mëparshme sugjeron atë që ka gjasa të shkruash më pas – pas hapësirës mjafton ta prekësh. Përdor kontekstin për të dalluar fjalët e ngjashme dhe mëson fjalët që përdor vërtet. Kur shtyp një fjalë me gabim, shiriti tregon atë që shkrove pranë korrigjimit, dhe tasti i hapësirës fut korrigjimin e theksuar."
+
+#: index
+msgid "Copy and paste"
+msgstr "Kopjo dhe ngjit"
+
+#: index
+msgid "Undo and redo"
+msgstr "Zhbëj dhe ribëj"
+
+#: index
+msgid "Select all and deselect"
+msgstr "Zgjidh të gjitha dhe anulo përzgjedhjen"
+
+#: index
+msgid "UPPER / lower case"
+msgstr "SHKRONJA TË MËDHA / të vogla"
+
+#: index
+msgid "Deleting words and lines"
+msgstr "Fshirja e fjalëve dhe rreshtave"
+
+#: index
+msgid "Moving the cursor"
+msgstr "Lëvizja e kursorit"
+
+#: index
+msgid "Text editing – the [I] key"
+msgstr "Modifikimi i tekstit – tasti [I]"
+
+#: index
+msgid "Selecting several lines"
+msgstr "Përzgjedhja e disa rreshtave"
+
+#: index
+msgid "Start and end"
+msgstr "Fillimi dhe fundi"
 
 #: index
 msgid "Rules the air. Now rules your text."
@@ -271,6 +327,22 @@ msgstr ""
 "Mbaj shtypur tastin Swajp dhe zgjidh Madhësinë: duke tërhequr dorezat ndryshon lartësinë, gjerësinë dhe pozicionin. Bëje më të lartë, ose më të vogël dhe të ngritur nga skaji i poshtëm, ndaje në dy gjysma për të dy gishtat e mëdhenj (Tablet), zhvendose te skaji për një dorë, ose lëre të pluskojë lirshëm mbi aplikacionet. Horizontalisht tastiera është më e ulët dhe e ndarë."
 
 #: index
+msgid "Number pad"
+msgstr "Tastiera numerike"
+
+#: index
+msgid "Calculator"
+msgstr "Makina llogaritëse"
+
+#: index
+msgid "Percent and brackets"
+msgstr "Përqindja dhe kllapat"
+
+#: index
+msgid "Scientific calculator"
+msgstr "Makinë llogaritëse shkencore"
+
+#: index
 msgid "Even sharp minds reach for a calculator."
 msgstr "Edhe mendjes së mprehtë i duhet një makinë llogaritëse."
 
@@ -281,6 +353,10 @@ msgstr ""
 "Mbaj shtypur tastin [I] për tastierën numerike: shifra të mëdha për futje të shpejtë të numrave të telefonit dhe shumave. Makina llogaritëse llogarit drejtpërdrejt në shiritin e sugjerimeve dhe e fut rezultatin në tekst. Përballon përqindjet (200 + 10% = 220) dhe kllapat, ndërsa modaliteti shkencor shton funksione, fuqi, gradë dhe radianë – pa ndërruar aplikacion."
 
 #: index
+msgid "Emoji from a word"
+msgstr "Emoji nga një fjalë"
+
+#: index
 msgid "Catch your emotion mid-air."
 msgstr "Kape emocionin në fluturim."
 
@@ -289,6 +365,18 @@ msgid ""
 "Swipe or type a word – like “heart”, “beer” or “sad” – and Swajp offers the emoji in the suggestion bar. The :) shortcut works too, or simply pick one from the list."
 msgstr ""
 "Shkruaj një fjalë me rrëshqitje ose me trokitje – si “heart”, “beer” ose “sad” – dhe Swajp të ofron emoji-n në shiritin e sugjerimeve. Funksionon edhe shkurtesa :), ose thjesht zgjidhe nga lista."
+
+#: index
+msgid "Two languages at once"
+msgstr "Dy gjuhë njëherësh"
+
+#: index
+msgid "A new word for the dictionary"
+msgstr "Një fjalë e re për fjalorin"
+
+#: index
+msgid "Hindi"
+msgstr "Hindisht"
 
 #: index
 msgid "Born to rule – in 35 languages."
@@ -305,6 +393,10 @@ msgid ""
 "<span style=\"color:var(--g)\">Green</span> languages are built in, the others can be <a href=\"languages.html\">downloaded as packs</a>."
 msgstr ""
 "Gjuhët me <span style=\"color:var(--g)\">të gjelbër</span> janë të integruara, të tjerat mund të <a href=\"languages.html\">shkarkohen si paketa</a>."
+
+#: index
+msgid "Dictation"
+msgstr "Diktimi"
 
 #: index
 msgid "Hears you. Tells no one."
@@ -397,204 +489,108 @@ msgid "Available languages"
 msgstr "Gjuhët në dispozicion"
 
 #: languages
-msgid "Catalan"
-msgstr "Katalanisht"
+msgid "Catalan · 89,809 words"
+msgstr "Katalanisht · 89 809 fjalë"
 
 #: languages
-msgid "89,809 words"
-msgstr "89 809 fjalë"
+msgid "Danish · 152,106 words"
+msgstr "Danisht · 152 106 fjalë"
 
 #: languages
-msgid "Danish"
-msgstr "Danisht"
+msgid "Esperanto · 11,343 words"
+msgstr "Esperanto · 11 343 fjalë"
 
 #: languages
-msgid "152,106 words"
-msgstr "152 106 fjalë"
+msgid "Estonian · 326,938 words"
+msgstr "Estonisht · 326 938 fjalë"
 
 #: languages
-msgid "11,343 words"
-msgstr "11 343 fjalë"
+msgid "Basque · 53,700 words"
+msgstr "Baskisht · 53 700 fjalë"
 
 #: languages
-msgid "Estonian"
-msgstr "Estonisht"
+msgid "Finnish · 197,333 words"
+msgstr "Finlandisht · 197 333 fjalë"
 
 #: languages
-msgid "326,938 words"
-msgstr "326 938 fjalë"
+msgid "Galician · 30,624 words"
+msgstr "Galicisht · 30 624 fjalë"
 
 #: languages
-msgid "Basque"
-msgstr "Baskisht"
+msgid "Hindi · 52,622 words"
+msgstr "Hindisht · 52 622 fjalë"
 
 #: languages
-msgid "53,700 words"
-msgstr "53 700 fjalë"
+msgid "Croatian · 191,499 words"
+msgstr "Kroatisht · 191 499 fjalë"
 
 #: languages
-msgid "Finnish"
-msgstr "Finlandisht"
+msgid "Hungarian · 380,920 words"
+msgstr "Hungarisht · 380 920 fjalë"
 
 #: languages
-msgid "197,333 words"
-msgstr "197 333 fjalë"
+msgid "Indonesian · 75,492 words"
+msgstr "Indonezisht · 75 492 fjalë"
 
 #: languages
-msgid "Galician"
-msgstr "Galicisht"
+msgid "Icelandic · 74,391 words"
+msgstr "Islandisht · 74 391 fjalë"
 
 #: languages
-msgid "30,624 words"
-msgstr "30 624 fjalë"
+msgid "Latin · 165,218 words"
+msgstr "Latinisht · 165 218 fjalë"
 
 #: languages
-msgid "Hindi"
-msgstr "Hindisht"
+msgid "Lithuanian · 100,175 words"
+msgstr "Lituanisht · 100 175 fjalë"
 
 #: languages
-msgid "52,622 words"
-msgstr "52 622 fjalë"
+msgid "Latvian · 51,479 words"
+msgstr "Letonisht · 51 479 fjalë"
 
 #: languages
-msgid "Croatian"
-msgstr "Kroatisht"
+msgid "Malay · 49,942 words"
+msgstr "Malajisht · 49 942 fjalë"
 
 #: languages
-msgid "191,499 words"
-msgstr "191 499 fjalë"
+msgid "Norwegian · 140,318 words"
+msgstr "Norvegjisht · 140 318 fjalë"
 
 #: languages
-msgid "Hungarian"
-msgstr "Hungarisht"
+msgid "Dutch · 140,383 words"
+msgstr "Holandisht · 140 383 fjalë"
 
 #: languages
-msgid "380,920 words"
-msgstr "380 920 fjalë"
+msgid "Romanian · 119,573 words"
+msgstr "Rumanisht · 119 573 fjalë"
 
 #: languages
-msgid "Indonesian"
-msgstr "Indonezisht"
+msgid "Slovenian · 182,841 words"
+msgstr "Sllovenisht · 182 841 fjalë"
 
 #: languages
-msgid "75,492 words"
-msgstr "75 492 fjalë"
+msgid "Albanian · 89,152 words"
+msgstr "Shqip · 89 152 fjalë"
 
 #: languages
-msgid "Icelandic"
-msgstr "Islandisht"
+msgid "Serbian · 330,967 words"
+msgstr "Serbisht · 330 967 fjalë"
 
 #: languages
-msgid "74,391 words"
-msgstr "74 391 fjalë"
+msgid "Swedish · 153,998 words"
+msgstr "Suedisht · 153 998 fjalë"
 
 #: languages
-msgid "Latin"
-msgstr "Latinisht"
+msgid "Tagalog · 30,099 words"
+msgstr "Tagalog · 30 099 fjalë"
 
 #: languages
-msgid "165,218 words"
-msgstr "165 218 fjalë"
+msgid "Turkish · 305,078 words"
+msgstr "Turqisht · 305 078 fjalë"
 
 #: languages
-msgid "Lithuanian"
-msgstr "Lituanisht"
-
-#: languages
-msgid "100,175 words"
-msgstr "100 175 fjalë"
-
-#: languages
-msgid "Latvian"
-msgstr "Letonisht"
-
-#: languages
-msgid "51,479 words"
-msgstr "51 479 fjalë"
-
-#: languages
-msgid "Malay"
-msgstr "Malajisht"
-
-#: languages
-msgid "49,942 words"
-msgstr "49 942 fjalë"
-
-#: languages
-msgid "Norwegian"
-msgstr "Norvegjisht"
-
-#: languages
-msgid "140,318 words"
-msgstr "140 318 fjalë"
-
-#: languages
-msgid "Dutch"
-msgstr "Holandisht"
-
-#: languages
-msgid "140,383 words"
-msgstr "140 383 fjalë"
-
-#: languages
-msgid "Romanian"
-msgstr "Rumanisht"
-
-#: languages
-msgid "119,573 words"
-msgstr "119 573 fjalë"
-
-#: languages
-msgid "Slovenian"
-msgstr "Sllovenisht"
-
-#: languages
-msgid "182,841 words"
-msgstr "182 841 fjalë"
-
-#: languages
-msgid "Albanian"
-msgstr "Shqip"
-
-#: languages
-msgid "89,152 words"
-msgstr "89 152 fjalë"
-
-#: languages
-msgid "Serbian"
-msgstr "Serbisht"
-
-#: languages
-msgid "330,967 words"
-msgstr "330 967 fjalë"
-
-#: languages
-msgid "Swedish"
-msgstr "Suedisht"
-
-#: languages
-msgid "153,998 words"
-msgstr "153 998 fjalë"
-
-#: languages
-msgid "30,099 words"
-msgstr "30 099 fjalë"
-
-#: languages
-msgid "Turkish"
-msgstr "Turqisht"
-
-#: languages
-msgid "305,078 words"
-msgstr "305 078 fjalë"
-
-#: languages
-msgid "Vietnamese"
-msgstr "Vietnamisht"
-
-#: languages
-msgid "35,303 words"
-msgstr "35 303 fjalë"
+msgid "Vietnamese · 35,303 words"
+msgstr "Vietnamisht · 35 303 fjalë"
 
 #: languages
 msgid ""

@@ -170,6 +170,18 @@ msgid "Next"
 msgstr "Sljedeće"
 
 #: index
+msgid "Another word from the bar"
+msgstr "Druga riječ iz trake"
+
+#: index
+msgid "Capital letter"
+msgstr "Veliko slovo"
+
+#: index
+msgid "Character from the key corner"
+msgstr "Znak iz kuta tipke"
+
+#: index
 msgid "Glide over the keys like a dragonfly."
 msgstr "Kliži po tipkama poput vilinog konjica."
 
@@ -178,6 +190,14 @@ msgid ""
 "No need to tap letter by letter – one stroke across the letters of a word is enough. Swajp recognises the swipe even when it is not perfect, and learns your style so it keeps getting more accurate. Words with a similar swipe wait in the suggestion bar – one tap swaps them. For a capital letter, slide from the first letter up above the keyboard and straight on to the next one. A swipe from a letter to the space bar types the character from its corner, such as ? or !"
 msgstr ""
 "Ne moraš tipkati slovo po slovo – dovoljan je jedan potez preko slova riječi. Swajp prepoznaje potez i kad nije savršen te uči tvoj stil, pa je sve precizniji. Riječi sa sličnim potezom čekaju na traci prijedloga – jednim dodirom ih zamijeniš. Za veliko slovo s prvog slova kreni gore iznad tipkovnice i odande ravno na sljedeće. Potez sa slova na razmaknicu upisuje znak iz njegova kuta, npr. ? ili !"
+
+#: index
+msgid "Next word suggestion"
+msgstr "Prijedlog sljedeće riječi"
+
+#: index
+msgid "Fixing a typo"
+msgstr "Ispravak tipfelera"
 
 #: index
 msgid "Predicts your next word like a dragonfly predicts its prey."
@@ -189,6 +209,42 @@ msgid ""
 "From the words before, it suggests what you are likely to type next – after a space, just tap it. It uses context to tell similar words apart and learns the words you actually use. When you tap out a word with a typo, the bar shows what you typed next to the fix, and the space bar inserts the highlighted fix."
 msgstr ""
 "Prema prethodnim riječima nudi ono što ćeš vjerojatno sljedeće napisati – nakon razmaka samo dodirni. Iz konteksta razlikuje slične riječi i uči riječi koje stvarno koristiš. Kad pri tipkanju pogriješiš, traka pokazuje napisano pored ispravka, a razmaknica umeće istaknuti ispravak."
+
+#: index
+msgid "Copy and paste"
+msgstr "Kopiraj i zalijepi"
+
+#: index
+msgid "Undo and redo"
+msgstr "Poništi i ponovi"
+
+#: index
+msgid "Select all and deselect"
+msgstr "Označi sve i ukloni oznaku"
+
+#: index
+msgid "UPPER / lower case"
+msgstr "VELIKA / mala slova"
+
+#: index
+msgid "Deleting words and lines"
+msgstr "Brisanje riječi i redaka"
+
+#: index
+msgid "Moving the cursor"
+msgstr "Pomak kursora"
+
+#: index
+msgid "Text editing – the [I] key"
+msgstr "Uređivanje teksta – tipka [I]"
+
+#: index
+msgid "Selecting several lines"
+msgstr "Označavanje više redaka"
+
+#: index
+msgid "Start and end"
+msgstr "Početak i kraj"
 
 #: index
 msgid "Rules the air. Now rules your text."
@@ -271,6 +327,22 @@ msgstr ""
 "Drži tipku Swajp i odaberi Veličinu: povlačenjem ručki mijenjaš visinu, širinu i položaj. Učini je višom ili manjom i podignutom od donjeg ruba, podijeli je na dvije polovice za oba palca (Tablet), pomakni je uz rub za jednu ruku ili je pusti da slobodno pluta iznad aplikacija. U vodoravnom položaju tipkovnica je niža i podijeljena."
 
 #: index
+msgid "Number pad"
+msgstr "Brojčanik"
+
+#: index
+msgid "Calculator"
+msgstr "Kalkulator"
+
+#: index
+msgid "Percent and brackets"
+msgstr "Postotak i zagrade"
+
+#: index
+msgid "Scientific calculator"
+msgstr "Znanstveni kalkulator"
+
+#: index
 msgid "Even sharp minds reach for a calculator."
 msgstr "I bistroj glavi dobro dođe kalkulator."
 
@@ -281,6 +353,10 @@ msgstr ""
 "Drži tipku [I] za brojčanik: velike znamenke za brz unos telefonskih brojeva i iznosa. Kalkulator računa izravno na traci prijedloga i umeće rezultat u tekst. Zna postotke (200 + 10 % = 220) i zagrade, a znanstveni način dodaje funkcije, potencije, stupnjeve i radijane – bez prebacivanja aplikacija."
 
 #: index
+msgid "Emoji from a word"
+msgstr "Emotikon iz riječi"
+
+#: index
 msgid "Catch your emotion mid-air."
 msgstr "Uhvati emociju u letu."
 
@@ -289,6 +365,18 @@ msgid ""
 "Swipe or type a word – like “heart”, “beer” or “sad” – and Swajp offers the emoji in the suggestion bar. The :) shortcut works too, or simply pick one from the list."
 msgstr ""
 "Napiši riječ potezom ili tipkanjem – npr. „srce“, „pivo“ ili „tužan“ – i Swajp ti u traci prijedloga ponudi emotikon. Radi i prečac :), a možeš ga i jednostavno odabrati s popisa."
+
+#: index
+msgid "Two languages at once"
+msgstr "Dva jezika odjednom"
+
+#: index
+msgid "A new word for the dictionary"
+msgstr "Nova riječ u rječniku"
+
+#: index
+msgid "Hindi"
+msgstr "Hindski"
 
 #: index
 msgid "Born to rule – in 35 languages."
@@ -305,6 +393,10 @@ msgid ""
 "<span style=\"color:var(--g)\">Green</span> languages are built in, the others can be <a href=\"languages.html\">downloaded as packs</a>."
 msgstr ""
 "<span style=\"color:var(--g)\">Zeleno</span> označeni jezici ugrađeni su u aplikaciju, ostale možeš <a href=\"languages.html\">preuzeti kao pakete</a>."
+
+#: index
+msgid "Dictation"
+msgstr "Diktiranje"
 
 #: index
 msgid "Hears you. Tells no one."
@@ -396,204 +488,108 @@ msgid "Available languages"
 msgstr "Dostupni jezici"
 
 #: languages
-msgid "Catalan"
-msgstr "Katalonski"
+msgid "Catalan · 89,809 words"
+msgstr "Katalonski · 89.809 riječi"
 
 #: languages
-msgid "89,809 words"
-msgstr "89.809 riječi"
+msgid "Danish · 152,106 words"
+msgstr "Danski · 152.106 riječi"
 
 #: languages
-msgid "Danish"
-msgstr "Danski"
+msgid "Esperanto · 11,343 words"
+msgstr "Esperanto · 11.343 riječi"
 
 #: languages
-msgid "152,106 words"
-msgstr "152.106 riječi"
+msgid "Estonian · 326,938 words"
+msgstr "Estonski · 326.938 riječi"
 
 #: languages
-msgid "11,343 words"
-msgstr "11.343 riječi"
+msgid "Basque · 53,700 words"
+msgstr "Baskijski · 53.700 riječi"
 
 #: languages
-msgid "Estonian"
-msgstr "Estonski"
+msgid "Finnish · 197,333 words"
+msgstr "Finski · 197.333 riječi"
 
 #: languages
-msgid "326,938 words"
-msgstr "326.938 riječi"
+msgid "Galician · 30,624 words"
+msgstr "Galicijski · 30.624 riječi"
 
 #: languages
-msgid "Basque"
-msgstr "Baskijski"
+msgid "Hindi · 52,622 words"
+msgstr "Hindski · 52.622 riječi"
 
 #: languages
-msgid "53,700 words"
-msgstr "53.700 riječi"
+msgid "Croatian · 191,499 words"
+msgstr "Hrvatski · 191.499 riječi"
 
 #: languages
-msgid "Finnish"
-msgstr "Finski"
+msgid "Hungarian · 380,920 words"
+msgstr "Mađarski · 380.920 riječi"
 
 #: languages
-msgid "197,333 words"
-msgstr "197.333 riječi"
+msgid "Indonesian · 75,492 words"
+msgstr "Indonezijski · 75.492 riječi"
 
 #: languages
-msgid "Galician"
-msgstr "Galicijski"
+msgid "Icelandic · 74,391 words"
+msgstr "Islandski · 74.391 riječi"
 
 #: languages
-msgid "30,624 words"
-msgstr "30.624 riječi"
+msgid "Latin · 165,218 words"
+msgstr "Latinski · 165.218 riječi"
 
 #: languages
-msgid "Hindi"
-msgstr "Hindski"
+msgid "Lithuanian · 100,175 words"
+msgstr "Litavski · 100.175 riječi"
 
 #: languages
-msgid "52,622 words"
-msgstr "52.622 riječi"
+msgid "Latvian · 51,479 words"
+msgstr "Latvijski · 51.479 riječi"
 
 #: languages
-msgid "Croatian"
-msgstr "Hrvatski"
+msgid "Malay · 49,942 words"
+msgstr "Malajski · 49.942 riječi"
 
 #: languages
-msgid "191,499 words"
-msgstr "191.499 riječi"
+msgid "Norwegian · 140,318 words"
+msgstr "Norveški · 140.318 riječi"
 
 #: languages
-msgid "Hungarian"
-msgstr "Mađarski"
+msgid "Dutch · 140,383 words"
+msgstr "Nizozemski · 140.383 riječi"
 
 #: languages
-msgid "380,920 words"
-msgstr "380.920 riječi"
+msgid "Romanian · 119,573 words"
+msgstr "Rumunjski · 119.573 riječi"
 
 #: languages
-msgid "Indonesian"
-msgstr "Indonezijski"
+msgid "Slovenian · 182,841 words"
+msgstr "Slovenski · 182.841 riječ"
 
 #: languages
-msgid "75,492 words"
-msgstr "75.492 riječi"
+msgid "Albanian · 89,152 words"
+msgstr "Albanski · 89.152 riječi"
 
 #: languages
-msgid "Icelandic"
-msgstr "Islandski"
+msgid "Serbian · 330,967 words"
+msgstr "Srpski · 330.967 riječi"
 
 #: languages
-msgid "74,391 words"
-msgstr "74.391 riječi"
+msgid "Swedish · 153,998 words"
+msgstr "Švedski · 153.998 riječi"
 
 #: languages
-msgid "Latin"
-msgstr "Latinski"
+msgid "Tagalog · 30,099 words"
+msgstr "Tagalog · 30.099 riječi"
 
 #: languages
-msgid "165,218 words"
-msgstr "165.218 riječi"
+msgid "Turkish · 305,078 words"
+msgstr "Turski · 305.078 riječi"
 
 #: languages
-msgid "Lithuanian"
-msgstr "Litavski"
-
-#: languages
-msgid "100,175 words"
-msgstr "100.175 riječi"
-
-#: languages
-msgid "Latvian"
-msgstr "Latvijski"
-
-#: languages
-msgid "51,479 words"
-msgstr "51.479 riječi"
-
-#: languages
-msgid "Malay"
-msgstr "Malajski"
-
-#: languages
-msgid "49,942 words"
-msgstr "49.942 riječi"
-
-#: languages
-msgid "Norwegian"
-msgstr "Norveški"
-
-#: languages
-msgid "140,318 words"
-msgstr "140.318 riječi"
-
-#: languages
-msgid "Dutch"
-msgstr "Nizozemski"
-
-#: languages
-msgid "140,383 words"
-msgstr "140.383 riječi"
-
-#: languages
-msgid "Romanian"
-msgstr "Rumunjski"
-
-#: languages
-msgid "119,573 words"
-msgstr "119.573 riječi"
-
-#: languages
-msgid "Slovenian"
-msgstr "Slovenski"
-
-#: languages
-msgid "182,841 words"
-msgstr "182.841 riječ"
-
-#: languages
-msgid "Albanian"
-msgstr "Albanski"
-
-#: languages
-msgid "89,152 words"
-msgstr "89.152 riječi"
-
-#: languages
-msgid "Serbian"
-msgstr "Srpski"
-
-#: languages
-msgid "330,967 words"
-msgstr "330.967 riječi"
-
-#: languages
-msgid "Swedish"
-msgstr "Švedski"
-
-#: languages
-msgid "153,998 words"
-msgstr "153.998 riječi"
-
-#: languages
-msgid "30,099 words"
-msgstr "30.099 riječi"
-
-#: languages
-msgid "Turkish"
-msgstr "Turski"
-
-#: languages
-msgid "305,078 words"
-msgstr "305.078 riječi"
-
-#: languages
-msgid "Vietnamese"
-msgstr "Vijetnamski"
-
-#: languages
-msgid "35,303 words"
-msgstr "35.303 riječi"
+msgid "Vietnamese · 35,303 words"
+msgstr "Vijetnamski · 35.303 riječi"
 
 #: languages
 msgid ""

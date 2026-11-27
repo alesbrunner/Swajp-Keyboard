@@ -170,6 +170,18 @@ msgid "Next"
 msgstr "Următor"
 
 #: index
+msgid "Another word from the bar"
+msgstr "Alt cuvânt din bară"
+
+#: index
+msgid "Capital letter"
+msgstr "Majusculă"
+
+#: index
+msgid "Character from the key corner"
+msgstr "Caracterul din colțul tastei"
+
+#: index
 msgid "Glide over the keys like a dragonfly."
 msgstr "Plutește peste taste ca o libelulă."
 
@@ -180,6 +192,14 @@ msgstr ""
 "Nu trebuie să atingi literă cu literă – ajunge o singură glisare peste literele cuvântului. Swajp recunoaște glisarea chiar dacă nu e perfectă și îți învață stilul, așa că devine tot mai precisă. Cuvintele cu o glisare asemănătoare așteaptă în bara de sugestii – le schimbi cu o atingere. Pentru o majusculă, glisează de la prima literă în sus, deasupra tastaturii, și de acolo direct la următoarea. O glisare de la o literă la bara de spațiu scrie caracterul din colțul ei, de exemplu ? sau !"
 
 #: index
+msgid "Next word suggestion"
+msgstr "Sugestia cuvântului următor"
+
+#: index
+msgid "Fixing a typo"
+msgstr "Corectarea unei greșeli de tastare"
+
+#: index
 msgid "Predicts your next word like a dragonfly predicts its prey."
 msgstr "Îți prevede următorul cuvânt cum prevede libelula zborul prăzii."
 
@@ -188,6 +208,42 @@ msgid ""
 "From the words before, it suggests what you are likely to type next – after a space, just tap it. It uses context to tell similar words apart and learns the words you actually use. When you tap out a word with a typo, the bar shows what you typed next to the fix, and the space bar inserts the highlighted fix."
 msgstr ""
 "Pe baza cuvintelor anterioare îți sugerează ce vei scrie probabil în continuare – după spațiu, doar atinge-l. Folosește contextul ca să deosebească cuvintele asemănătoare și învață cuvintele pe care le folosești cu adevărat. Când tastezi un cuvânt cu o greșeală, bara arată ce ai scris lângă corectură, iar bara de spațiu inserează corectura evidențiată."
+
+#: index
+msgid "Copy and paste"
+msgstr "Copiere și lipire"
+
+#: index
+msgid "Undo and redo"
+msgstr "Anulare și refacere"
+
+#: index
+msgid "Select all and deselect"
+msgstr "Selectare totală și deselectare"
+
+#: index
+msgid "UPPER / lower case"
+msgstr "MAJUSCULE / minuscule"
+
+#: index
+msgid "Deleting words and lines"
+msgstr "Ștergerea cuvintelor și a rândurilor"
+
+#: index
+msgid "Moving the cursor"
+msgstr "Mută cursorul"
+
+#: index
+msgid "Text editing – the [I] key"
+msgstr "Editare text – tasta [I]"
+
+#: index
+msgid "Selecting several lines"
+msgstr "Selectarea mai multor rânduri"
+
+#: index
+msgid "Start and end"
+msgstr "Început și sfârșit"
 
 #: index
 msgid "Rules the air. Now rules your text."
@@ -270,6 +326,22 @@ msgstr ""
 "Ține apăsată tasta Swajp și alege Mărime: trage de mânere pentru a schimba înălțimea, lățimea și poziția. Fă-o mai înaltă sau mai mică și ridicată de la marginea de jos, împarte-o în două jumătăți pentru ambele degete mari (Tabletă), mut-o la margine pentru o singură mână sau las-o să plutească liber deasupra aplicațiilor. În modul peisaj, tastatura este mai joasă și împărțită."
 
 #: index
+msgid "Number pad"
+msgstr "Tastatură numerică"
+
+#: index
+msgid "Calculator"
+msgstr "Calculator"
+
+#: index
+msgid "Percent and brackets"
+msgstr "Procent și paranteze"
+
+#: index
+msgid "Scientific calculator"
+msgstr "Calculator științific"
+
+#: index
 msgid "Even sharp minds reach for a calculator."
 msgstr "Și mințile ascuțite apelează la un calculator."
 
@@ -280,6 +352,10 @@ msgstr ""
 "Ține apăsată tasta [I] pentru tastatura numerică: cifre mari pentru introducerea rapidă a numerelor de telefon și a sumelor. Calculatorul socotește direct în bara de sugestii și inserează rezultatul în text. Știe procente (200 + 10% = 220) și paranteze, iar modul științific adaugă funcții, puteri, grade și radiani – fără să schimbi aplicația."
 
 #: index
+msgid "Emoji from a word"
+msgstr "Emoji dintr-un cuvânt"
+
+#: index
 msgid "Catch your emotion mid-air."
 msgstr "Prinde emoția din zbor."
 
@@ -288,6 +364,18 @@ msgid ""
 "Swipe or type a word – like “heart”, “beer” or “sad” – and Swajp offers the emoji in the suggestion bar. The :) shortcut works too, or simply pick one from the list."
 msgstr ""
 "Glisează sau scrie un cuvânt – de exemplu „inimă”, „bere” sau „trist” – și Swajp îți oferă emoji-ul în bara de sugestii. Merge și scurtătura :) sau îl alegi pur și simplu din listă."
+
+#: index
+msgid "Two languages at once"
+msgstr "Două limbi deodată"
+
+#: index
+msgid "A new word for the dictionary"
+msgstr "Un cuvânt nou în dicționar"
+
+#: index
+msgid "Hindi"
+msgstr "Hindi"
 
 #: index
 msgid "Born to rule – in 35 languages."
@@ -304,6 +392,10 @@ msgid ""
 "<span style=\"color:var(--g)\">Green</span> languages are built in, the others can be <a href=\"languages.html\">downloaded as packs</a>."
 msgstr ""
 "Limbile marcate cu <span style=\"color:var(--g)\">verde</span> sunt incluse, pe celelalte le poți <a href=\"languages.html\">descărca drept pachete</a>."
+
+#: index
+msgid "Dictation"
+msgstr "Dictare"
 
 #: index
 msgid "Hears you. Tells no one."
@@ -395,204 +487,108 @@ msgid "Available languages"
 msgstr "Limbi disponibile"
 
 #: languages
-msgid "Catalan"
-msgstr "Catalană"
+msgid "Catalan · 89,809 words"
+msgstr "Catalană · 89.809 cuvinte"
 
 #: languages
-msgid "89,809 words"
-msgstr "89.809 cuvinte"
+msgid "Danish · 152,106 words"
+msgstr "Daneză · 152.106 cuvinte"
 
 #: languages
-msgid "Danish"
-msgstr "Daneză"
+msgid "Esperanto · 11,343 words"
+msgstr "Esperanto · 11.343 cuvinte"
 
 #: languages
-msgid "152,106 words"
-msgstr "152.106 cuvinte"
+msgid "Estonian · 326,938 words"
+msgstr "Estonă · 326.938 de cuvinte"
 
 #: languages
-msgid "11,343 words"
-msgstr "11.343 de cuvinte"
+msgid "Basque · 53,700 words"
+msgstr "Bască · 53.700 de cuvinte"
 
 #: languages
-msgid "Estonian"
-msgstr "Estonă"
+msgid "Finnish · 197,333 words"
+msgstr "Finlandeză · 197.333 de cuvinte"
 
 #: languages
-msgid "326,938 words"
-msgstr "326.938 de cuvinte"
+msgid "Galician · 30,624 words"
+msgstr "Galiciană · 30.624 de cuvinte"
 
 #: languages
-msgid "Basque"
-msgstr "Bască"
+msgid "Hindi · 52,622 words"
+msgstr "Hindi · 52.622 de cuvinte"
 
 #: languages
-msgid "53,700 words"
-msgstr "53.700 de cuvinte"
+msgid "Croatian · 191,499 words"
+msgstr "Croată · 191.499 de cuvinte"
 
 #: languages
-msgid "Finnish"
-msgstr "Finlandeză"
+msgid "Hungarian · 380,920 words"
+msgstr "Maghiară · 380.920 de cuvinte"
 
 #: languages
-msgid "197,333 words"
-msgstr "197.333 de cuvinte"
+msgid "Indonesian · 75,492 words"
+msgstr "Indoneziană · 75.492 de cuvinte"
 
 #: languages
-msgid "Galician"
-msgstr "Galiciană"
+msgid "Icelandic · 74,391 words"
+msgstr "Islandeză · 74.391 de cuvinte"
 
 #: languages
-msgid "30,624 words"
-msgstr "30.624 de cuvinte"
+msgid "Latin · 165,218 words"
+msgstr "Latină · 165.218 cuvinte"
 
 #: languages
-msgid "Hindi"
-msgstr "Hindi"
+msgid "Lithuanian · 100,175 words"
+msgstr "Lituaniană · 100.175 de cuvinte"
 
 #: languages
-msgid "52,622 words"
-msgstr "52.622 de cuvinte"
+msgid "Latvian · 51,479 words"
+msgstr "Letonă · 51.479 de cuvinte"
 
 #: languages
-msgid "Croatian"
-msgstr "Croată"
+msgid "Malay · 49,942 words"
+msgstr "Malaieză · 49.942 de cuvinte"
 
 #: languages
-msgid "191,499 words"
-msgstr "191.499 de cuvinte"
+msgid "Norwegian · 140,318 words"
+msgstr "Norvegiană · 140.318 cuvinte"
 
 #: languages
-msgid "Hungarian"
-msgstr "Maghiară"
+msgid "Dutch · 140,383 words"
+msgstr "Neerlandeză · 140.383 de cuvinte"
 
 #: languages
-msgid "380,920 words"
-msgstr "380.920 de cuvinte"
+msgid "Romanian · 119,573 words"
+msgstr "Română · 119.573 de cuvinte"
 
 #: languages
-msgid "Indonesian"
-msgstr "Indoneziană"
+msgid "Slovenian · 182,841 words"
+msgstr "Slovenă · 182.841 de cuvinte"
 
 #: languages
-msgid "75,492 words"
-msgstr "75.492 de cuvinte"
+msgid "Albanian · 89,152 words"
+msgstr "Albaneză · 89.152 de cuvinte"
 
 #: languages
-msgid "Icelandic"
-msgstr "Islandeză"
+msgid "Serbian · 330,967 words"
+msgstr "Sârbă · 330.967 de cuvinte"
 
 #: languages
-msgid "74,391 words"
-msgstr "74.391 de cuvinte"
+msgid "Swedish · 153,998 words"
+msgstr "Suedeză · 153.998 de cuvinte"
 
 #: languages
-msgid "Latin"
-msgstr "Latină"
+msgid "Tagalog · 30,099 words"
+msgstr "Tagalog · 30.099 cuvinte"
 
 #: languages
-msgid "165,218 words"
-msgstr "165.218 cuvinte"
+msgid "Turkish · 305,078 words"
+msgstr "Turcă · 305.078 de cuvinte"
 
 #: languages
-msgid "Lithuanian"
-msgstr "Lituaniană"
-
-#: languages
-msgid "100,175 words"
-msgstr "100.175 de cuvinte"
-
-#: languages
-msgid "Latvian"
-msgstr "Letonă"
-
-#: languages
-msgid "51,479 words"
-msgstr "51.479 de cuvinte"
-
-#: languages
-msgid "Malay"
-msgstr "Malaieză"
-
-#: languages
-msgid "49,942 words"
-msgstr "49.942 de cuvinte"
-
-#: languages
-msgid "Norwegian"
-msgstr "Norvegiană"
-
-#: languages
-msgid "140,318 words"
-msgstr "140.318 cuvinte"
-
-#: languages
-msgid "Dutch"
-msgstr "Neerlandeză"
-
-#: languages
-msgid "140,383 words"
-msgstr "140.383 de cuvinte"
-
-#: languages
-msgid "Romanian"
-msgstr "Română"
-
-#: languages
-msgid "119,573 words"
-msgstr "119.573 de cuvinte"
-
-#: languages
-msgid "Slovenian"
-msgstr "Slovenă"
-
-#: languages
-msgid "182,841 words"
-msgstr "182.841 de cuvinte"
-
-#: languages
-msgid "Albanian"
-msgstr "Albaneză"
-
-#: languages
-msgid "89,152 words"
-msgstr "89.152 de cuvinte"
-
-#: languages
-msgid "Serbian"
-msgstr "Sârbă"
-
-#: languages
-msgid "330,967 words"
-msgstr "330.967 de cuvinte"
-
-#: languages
-msgid "Swedish"
-msgstr "Suedeză"
-
-#: languages
-msgid "153,998 words"
-msgstr "153.998 de cuvinte"
-
-#: languages
-msgid "30,099 words"
-msgstr "30.099 de cuvinte"
-
-#: languages
-msgid "Turkish"
-msgstr "Turcă"
-
-#: languages
-msgid "305,078 words"
-msgstr "305.078 de cuvinte"
-
-#: languages
-msgid "Vietnamese"
-msgstr "Vietnameză"
-
-#: languages
-msgid "35,303 words"
-msgstr "35.303 de cuvinte"
+msgid "Vietnamese · 35,303 words"
+msgstr "Vietnameză · 35.303 de cuvinte"
 
 #: languages
 msgid ""

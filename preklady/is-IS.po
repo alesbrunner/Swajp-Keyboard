@@ -171,6 +171,18 @@ msgid "Next"
 msgstr "Næsta"
 
 #: index
+msgid "Another word from the bar"
+msgstr "Annað orð úr stikunni"
+
+#: index
+msgid "Capital letter"
+msgstr "Hástafur"
+
+#: index
+msgid "Character from the key corner"
+msgstr "Stafur úr horni lykils"
+
+#: index
 msgid "Glide over the keys like a dragonfly."
 msgstr "Svífðu yfir lyklana eins og drekafluga."
 
@@ -181,6 +193,14 @@ msgstr ""
 "Þú þarft ekki að pikka staf fyrir staf – eitt strok yfir stafi orðsins nægir. Swajp þekkir strokið þótt það sé ekki fullkomið og lærir á stílinn þinn, svo það verður sífellt nákvæmara. Orð með svipuðu stroki bíða í tillögustikunni – eitt pikk skiptir þeim út. Fyrir hástaf rennirðu frá fyrsta stafnum upp fyrir lyklaborðið og beint áfram á þann næsta. Strok frá staf að bilslánni skrifar táknið í horni stafsins, til dæmis ? eða !"
 
 #: index
+msgid "Next word suggestion"
+msgstr "Tillaga að næsta orði"
+
+#: index
+msgid "Fixing a typo"
+msgstr "Leiðrétting á innsláttarvillu"
+
+#: index
 msgid "Predicts your next word like a dragonfly predicts its prey."
 msgstr "Sér næsta orð fyrir eins og drekafluga sér fyrir flug bráðarinnar."
 
@@ -189,6 +209,42 @@ msgid ""
 "From the words before, it suggests what you are likely to type next – after a space, just tap it. It uses context to tell similar words apart and learns the words you actually use. When you tap out a word with a typo, the bar shows what you typed next to the fix, and the space bar inserts the highlighted fix."
 msgstr ""
 "Út frá orðunum á undan stingur það upp á því sem þú skrifar líklega næst – eftir bil pikkarðu bara á tillöguna. Það notar samhengið til að greina á milli svipaðra orða og lærir orðin sem þú notar í raun. Þegar þú pikkar orð með innsláttarvillu sýnir stikan það sem þú skrifaðir við hlið leiðréttingarinnar og bilsláin setur inn auðkenndu leiðréttinguna."
+
+#: index
+msgid "Copy and paste"
+msgstr "Afrita og líma"
+
+#: index
+msgid "Undo and redo"
+msgstr "Afturkalla og endurtaka"
+
+#: index
+msgid "Select all and deselect"
+msgstr "Velja allt og afvelja"
+
+#: index
+msgid "UPPER / lower case"
+msgstr "HÁSTAFIR / lágstafir"
+
+#: index
+msgid "Deleting words and lines"
+msgstr "Eyða orðum og línum"
+
+#: index
+msgid "Moving the cursor"
+msgstr "Færa bendil"
+
+#: index
+msgid "Text editing – the [I] key"
+msgstr "Textavinnsla – lykillinn [I]"
+
+#: index
+msgid "Selecting several lines"
+msgstr "Velja nokkrar línur"
+
+#: index
+msgid "Start and end"
+msgstr "Upphaf og endir"
 
 #: index
 msgid "Rules the air. Now rules your text."
@@ -271,6 +327,22 @@ msgstr ""
 "Haltu Swajp-lyklinum inni og veldu Stærð: dragðu handföngin til að breyta hæð, breidd og staðsetningu. Gerðu það hærra, eða minna og lyft frá neðri brúninni, skiptu því í tvo helminga fyrir báða þumla (Spjaldtölva), færðu það út að brún fyrir aðra höndina eða láttu það fljóta frjálst yfir forritum. Á þverveginn er lyklaborðið lægra og skipt."
 
 #: index
+msgid "Number pad"
+msgstr "Talnaborð"
+
+#: index
+msgid "Calculator"
+msgstr "Reiknivél"
+
+#: index
+msgid "Percent and brackets"
+msgstr "Prósenta og svigar"
+
+#: index
+msgid "Scientific calculator"
+msgstr "Vísindareiknivél"
+
+#: index
 msgid "Even sharp minds reach for a calculator."
 msgstr "Jafnvel skarpir hugar grípa í reiknivél."
 
@@ -281,6 +353,10 @@ msgstr ""
 "Haltu [I]-lyklinum inni fyrir talnaborðið: stórir tölustafir til að slá hratt inn símanúmer og upphæðir. Reiknivélin reiknar beint í tillögustikunni og setur niðurstöðuna inn í textann. Hún ræður við prósentur (200 + 10% = 220) og sviga, og vísindahamurinn bætir við föllum, veldum, gráðum og radíönum – án þess að skipta um forrit."
 
 #: index
+msgid "Emoji from a word"
+msgstr "Tjákn úr orði"
+
+#: index
 msgid "Catch your emotion mid-air."
 msgstr "Gríptu tilfinninguna á flugi."
 
@@ -289,6 +365,18 @@ msgid ""
 "Swipe or type a word – like “heart”, “beer” or “sad” – and Swajp offers the emoji in the suggestion bar. The :) shortcut works too, or simply pick one from the list."
 msgstr ""
 "Strjúktu eða pikkaðu orð – eins og „heart“, „beer“ eða „sad“ – og Swajp býður upp á tjáknið í tillögustikunni. Styttingin :) virkar líka, eða veldu bara eitt af listanum."
+
+#: index
+msgid "Two languages at once"
+msgstr "Tvö tungumál í einu"
+
+#: index
+msgid "A new word for the dictionary"
+msgstr "Nýtt orð í orðabókina"
+
+#: index
+msgid "Hindi"
+msgstr "Hindí"
 
 #: index
 msgid "Born to rule – in 35 languages."
@@ -305,6 +393,10 @@ msgid ""
 "<span style=\"color:var(--g)\">Green</span> languages are built in, the others can be <a href=\"languages.html\">downloaded as packs</a>."
 msgstr ""
 "<span style=\"color:var(--g)\">Græn</span> tungumál eru innbyggð, hin er hægt að <a href=\"languages.html\">sækja sem pakka</a>."
+
+#: index
+msgid "Dictation"
+msgstr "Raddinnsláttur"
 
 #: index
 msgid "Hears you. Tells no one."
@@ -398,204 +490,108 @@ msgid "Available languages"
 msgstr "Tungumál í boði"
 
 #: languages
-msgid "Catalan"
-msgstr "Katalónska"
+msgid "Catalan · 89,809 words"
+msgstr "Katalónska · 89.809 orð"
 
 #: languages
-msgid "89,809 words"
-msgstr "89.809 orð"
+msgid "Danish · 152,106 words"
+msgstr "Danska · 152.106 orð"
 
 #: languages
-msgid "Danish"
-msgstr "Danska"
+msgid "Esperanto · 11,343 words"
+msgstr "Esperanto · 11.343 orð"
 
 #: languages
-msgid "152,106 words"
-msgstr "152.106 orð"
+msgid "Estonian · 326,938 words"
+msgstr "Eistneska · 326.938 orð"
 
 #: languages
-msgid "11,343 words"
-msgstr "11.343 orð"
+msgid "Basque · 53,700 words"
+msgstr "Baskneska · 53.700 orð"
 
 #: languages
-msgid "Estonian"
-msgstr "Eistneska"
+msgid "Finnish · 197,333 words"
+msgstr "Finnska · 197.333 orð"
 
 #: languages
-msgid "326,938 words"
-msgstr "326.938 orð"
+msgid "Galician · 30,624 words"
+msgstr "Galisíska · 30.624 orð"
 
 #: languages
-msgid "Basque"
-msgstr "Baskneska"
+msgid "Hindi · 52,622 words"
+msgstr "Hindí · 52.622 orð"
 
 #: languages
-msgid "53,700 words"
-msgstr "53.700 orð"
+msgid "Croatian · 191,499 words"
+msgstr "Króatíska · 191.499 orð"
 
 #: languages
-msgid "Finnish"
-msgstr "Finnska"
+msgid "Hungarian · 380,920 words"
+msgstr "Ungverska · 380.920 orð"
 
 #: languages
-msgid "197,333 words"
-msgstr "197.333 orð"
+msgid "Indonesian · 75,492 words"
+msgstr "Indónesíska · 75.492 orð"
 
 #: languages
-msgid "Galician"
-msgstr "Galisíska"
+msgid "Icelandic · 74,391 words"
+msgstr "Íslenska · 74.391 orð"
 
 #: languages
-msgid "30,624 words"
-msgstr "30.624 orð"
+msgid "Latin · 165,218 words"
+msgstr "Latína · 165.218 orð"
 
 #: languages
-msgid "Hindi"
-msgstr "Hindí"
+msgid "Lithuanian · 100,175 words"
+msgstr "Litháíska · 100.175 orð"
 
 #: languages
-msgid "52,622 words"
-msgstr "52.622 orð"
+msgid "Latvian · 51,479 words"
+msgstr "Lettneska · 51.479 orð"
 
 #: languages
-msgid "Croatian"
-msgstr "Króatíska"
+msgid "Malay · 49,942 words"
+msgstr "Malasíska · 49.942 orð"
 
 #: languages
-msgid "191,499 words"
-msgstr "191.499 orð"
+msgid "Norwegian · 140,318 words"
+msgstr "Norska · 140.318 orð"
 
 #: languages
-msgid "Hungarian"
-msgstr "Ungverska"
+msgid "Dutch · 140,383 words"
+msgstr "Hollenska · 140.383 orð"
 
 #: languages
-msgid "380,920 words"
-msgstr "380.920 orð"
+msgid "Romanian · 119,573 words"
+msgstr "Rúmenska · 119.573 orð"
 
 #: languages
-msgid "Indonesian"
-msgstr "Indónesíska"
+msgid "Slovenian · 182,841 words"
+msgstr "Slóvenska · 182.841 orð"
 
 #: languages
-msgid "75,492 words"
-msgstr "75.492 orð"
+msgid "Albanian · 89,152 words"
+msgstr "Albanska · 89.152 orð"
 
 #: languages
-msgid "Icelandic"
-msgstr "Íslenska"
+msgid "Serbian · 330,967 words"
+msgstr "Serbneska · 330.967 orð"
 
 #: languages
-msgid "74,391 words"
-msgstr "74.391 orð"
+msgid "Swedish · 153,998 words"
+msgstr "Sænska · 153.998 orð"
 
 #: languages
-msgid "Latin"
-msgstr "Latína"
+msgid "Tagalog · 30,099 words"
+msgstr "Tagalog · 30.099 orð"
 
 #: languages
-msgid "165,218 words"
-msgstr "165.218 orð"
+msgid "Turkish · 305,078 words"
+msgstr "Tyrkneska · 305.078 orð"
 
 #: languages
-msgid "Lithuanian"
-msgstr "Litháíska"
-
-#: languages
-msgid "100,175 words"
-msgstr "100.175 orð"
-
-#: languages
-msgid "Latvian"
-msgstr "Lettneska"
-
-#: languages
-msgid "51,479 words"
-msgstr "51.479 orð"
-
-#: languages
-msgid "Malay"
-msgstr "Malasíska"
-
-#: languages
-msgid "49,942 words"
-msgstr "49.942 orð"
-
-#: languages
-msgid "Norwegian"
-msgstr "Norska"
-
-#: languages
-msgid "140,318 words"
-msgstr "140.318 orð"
-
-#: languages
-msgid "Dutch"
-msgstr "Hollenska"
-
-#: languages
-msgid "140,383 words"
-msgstr "140.383 orð"
-
-#: languages
-msgid "Romanian"
-msgstr "Rúmenska"
-
-#: languages
-msgid "119,573 words"
-msgstr "119.573 orð"
-
-#: languages
-msgid "Slovenian"
-msgstr "Slóvenska"
-
-#: languages
-msgid "182,841 words"
-msgstr "182.841 orð"
-
-#: languages
-msgid "Albanian"
-msgstr "Albanska"
-
-#: languages
-msgid "89,152 words"
-msgstr "89.152 orð"
-
-#: languages
-msgid "Serbian"
-msgstr "Serbneska"
-
-#: languages
-msgid "330,967 words"
-msgstr "330.967 orð"
-
-#: languages
-msgid "Swedish"
-msgstr "Sænska"
-
-#: languages
-msgid "153,998 words"
-msgstr "153.998 orð"
-
-#: languages
-msgid "30,099 words"
-msgstr "30.099 orð"
-
-#: languages
-msgid "Turkish"
-msgstr "Tyrkneska"
-
-#: languages
-msgid "305,078 words"
-msgstr "305.078 orð"
-
-#: languages
-msgid "Vietnamese"
-msgstr "Víetnamska"
-
-#: languages
-msgid "35,303 words"
-msgstr "35.303 orð"
+msgid "Vietnamese · 35,303 words"
+msgstr "Víetnamska · 35.303 orð"
 
 #: languages
 msgid ""

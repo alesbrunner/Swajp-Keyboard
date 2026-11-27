@@ -171,6 +171,18 @@ msgid "Next"
 msgstr "Következő"
 
 #: index
+msgid "Another word from the bar"
+msgstr "Másik szó a sávból"
+
+#: index
+msgid "Capital letter"
+msgstr "Nagybetű"
+
+#: index
+msgid "Character from the key corner"
+msgstr "Jel a billentyű sarkából"
+
+#: index
 msgid "Glide over the keys like a dragonfly."
 msgstr "Suhanj a billentyűk fölött, mint egy szitakötő."
 
@@ -181,6 +193,14 @@ msgstr ""
 "Nem kell betűnként koppintgatnod – elég egyetlen húzás a szó betűin át. A Swajp akkor is felismeri a húzást, ha nem tökéletes, és megtanulja a stílusodat, így egyre pontosabb lesz. A hasonló húzású szavak a javaslatsávban várnak – egy koppintással cserélheted őket. Nagybetűhöz az első betűtől húzz fel a billentyűzet fölé, majd onnan egyenesen a következő betűre. Ha egy betűtől a szóközbillentyűig húzol, a betű sarkában lévő karakter íródik be, például ? vagy !"
 
 #: index
+msgid "Next word suggestion"
+msgstr "Következő szó javaslata"
+
+#: index
+msgid "Fixing a typo"
+msgstr "Elírás javítása"
+
+#: index
 msgid "Predicts your next word like a dragonfly predicts its prey."
 msgstr "Megjósolja a következő szavadat, ahogy a szitakötő a zsákmánya röptét."
 
@@ -189,6 +209,42 @@ msgid ""
 "From the words before, it suggests what you are likely to type next – after a space, just tap it. It uses context to tell similar words apart and learns the words you actually use. When you tap out a word with a typo, the bar shows what you typed next to the fix, and the space bar inserts the highlighted fix."
 msgstr ""
 "Az előző szavak alapján felkínálja, mit írsz valószínűleg ezután – szóköz után csak koppints rá. A szövegkörnyezetből megkülönbözteti a hasonló szavakat, és megtanulja azokat, amelyeket tényleg használsz. Ha koppintva elgépelsz egy szót, a sáv a beírt szót a javítás mellett mutatja, a szóközbillentyű pedig a kiemelt javítást illeszti be."
+
+#: index
+msgid "Copy and paste"
+msgstr "Másolás és beillesztés"
+
+#: index
+msgid "Undo and redo"
+msgstr "Visszavonás és újra"
+
+#: index
+msgid "Select all and deselect"
+msgstr "Mind kijelölése és a kijelölés megszüntetése"
+
+#: index
+msgid "UPPER / lower case"
+msgstr "NAGY / kis betűk"
+
+#: index
+msgid "Deleting words and lines"
+msgstr "Szavak és sorok törlése"
+
+#: index
+msgid "Moving the cursor"
+msgstr "Kurzormozgatás"
+
+#: index
+msgid "Text editing – the [I] key"
+msgstr "Szövegszerkesztés – az [I] billentyű"
+
+#: index
+msgid "Selecting several lines"
+msgstr "Több sor kijelölése"
+
+#: index
+msgid "Start and end"
+msgstr "Eleje és vége"
 
 #: index
 msgid "Rules the air. Now rules your text."
@@ -271,6 +327,22 @@ msgstr ""
 "Tartsd lenyomva a Swajp billentyűt, és válaszd a Méret lehetőséget: a fogantyúkat húzva módosítod a magasságot, a szélességet és a helyzetet. Tedd magasabbá, vagy kisebbé és az alsó széltől megemeltté, oszd két félre a két hüvelykujjadhoz (Tablet), told a szélére egykezes használathoz, vagy hagyd szabadon lebegni az alkalmazások fölött. Fekvő módban a billentyűzet alacsonyabb és osztott."
 
 #: index
+msgid "Number pad"
+msgstr "Számbillentyűzet"
+
+#: index
+msgid "Calculator"
+msgstr "Számológép"
+
+#: index
+msgid "Percent and brackets"
+msgstr "Százalék és zárójelek"
+
+#: index
+msgid "Scientific calculator"
+msgstr "Tudományos számológép"
+
+#: index
 msgid "Even sharp minds reach for a calculator."
 msgstr "Az éles elmének is jól jön egy számológép."
 
@@ -281,6 +353,10 @@ msgstr ""
 "Tartsd lenyomva az [I] billentyűt a számbillentyűzethez: nagy számjegyek telefonszámok és összegek gyors beírásához. A számológép közvetlenül a javaslatsávban számol, és az eredményt beilleszti a szövegbe. Kezeli a százalékot (200 + 10% = 220) és a zárójeleket, a tudományos mód pedig függvényeket, hatványokat, fokokat és radiánokat is kínál – alkalmazásváltás nélkül."
 
 #: index
+msgid "Emoji from a word"
+msgstr "Emodzsi egy szóból"
+
+#: index
 msgid "Catch your emotion mid-air."
 msgstr "Kapd el az érzelmet röptében."
 
@@ -289,6 +365,18 @@ msgid ""
 "Swipe or type a word – like “heart”, “beer” or “sad” – and Swajp offers the emoji in the suggestion bar. The :) shortcut works too, or simply pick one from the list."
 msgstr ""
 "Írj be húzással vagy koppintással egy szót – például „szív”, „sör” vagy „szomorú” –, és a Swajp felajánlja az emodzsit a javaslatsávban. A :) rövidítés is működik (J → H húzással), vagy egyszerűen válassz a listából."
+
+#: index
+msgid "Two languages at once"
+msgstr "Egyszerre két nyelv"
+
+#: index
+msgid "A new word for the dictionary"
+msgstr "Új szó a szótárba"
+
+#: index
+msgid "Hindi"
+msgstr "Hindi"
 
 #: index
 msgid "Born to rule – in 35 languages."
@@ -305,6 +393,10 @@ msgid ""
 "<span style=\"color:var(--g)\">Green</span> languages are built in, the others can be <a href=\"languages.html\">downloaded as packs</a>."
 msgstr ""
 "A <span style=\"color:var(--g)\">zölddel</span> jelölt nyelvek beépítettek, a többi <a href=\"languages.html\">csomagként tölthető le</a>."
+
+#: index
+msgid "Dictation"
+msgstr "Diktálás"
 
 #: index
 msgid "Hears you. Tells no one."
@@ -397,204 +489,108 @@ msgid "Available languages"
 msgstr "Elérhető nyelvek"
 
 #: languages
-msgid "Catalan"
-msgstr "Katalán"
+msgid "Catalan · 89,809 words"
+msgstr "Katalán · 89 809 szó"
 
 #: languages
-msgid "89,809 words"
-msgstr "89 809 szó"
+msgid "Danish · 152,106 words"
+msgstr "Dán · 152 106 szó"
 
 #: languages
-msgid "Danish"
-msgstr "Dán"
+msgid "Esperanto · 11,343 words"
+msgstr "Esperanto · 11 343 szó"
 
 #: languages
-msgid "152,106 words"
-msgstr "152 106 szó"
+msgid "Estonian · 326,938 words"
+msgstr "Észt · 326 938 szó"
 
 #: languages
-msgid "11,343 words"
-msgstr "11 343 szó"
+msgid "Basque · 53,700 words"
+msgstr "Baszk · 53 700 szó"
 
 #: languages
-msgid "Estonian"
-msgstr "Észt"
+msgid "Finnish · 197,333 words"
+msgstr "Finn · 197 333 szó"
 
 #: languages
-msgid "326,938 words"
-msgstr "326 938 szó"
+msgid "Galician · 30,624 words"
+msgstr "Galiciai · 30 624 szó"
 
 #: languages
-msgid "Basque"
-msgstr "Baszk"
+msgid "Hindi · 52,622 words"
+msgstr "Hindi · 52 622 szó"
 
 #: languages
-msgid "53,700 words"
-msgstr "53 700 szó"
+msgid "Croatian · 191,499 words"
+msgstr "Horvát · 191 499 szó"
 
 #: languages
-msgid "Finnish"
-msgstr "Finn"
+msgid "Hungarian · 380,920 words"
+msgstr "Magyar · 380 920 szó"
 
 #: languages
-msgid "197,333 words"
-msgstr "197 333 szó"
+msgid "Indonesian · 75,492 words"
+msgstr "Indonéz · 75 492 szó"
 
 #: languages
-msgid "Galician"
-msgstr "Galiciai"
+msgid "Icelandic · 74,391 words"
+msgstr "Izlandi · 74 391 szó"
 
 #: languages
-msgid "30,624 words"
-msgstr "30 624 szó"
+msgid "Latin · 165,218 words"
+msgstr "Latin · 165 218 szó"
 
 #: languages
-msgid "Hindi"
-msgstr "Hindi"
+msgid "Lithuanian · 100,175 words"
+msgstr "Litván · 100 175 szó"
 
 #: languages
-msgid "52,622 words"
-msgstr "52 622 szó"
+msgid "Latvian · 51,479 words"
+msgstr "Lett · 51 479 szó"
 
 #: languages
-msgid "Croatian"
-msgstr "Horvát"
+msgid "Malay · 49,942 words"
+msgstr "Maláj · 49 942 szó"
 
 #: languages
-msgid "191,499 words"
-msgstr "191 499 szó"
+msgid "Norwegian · 140,318 words"
+msgstr "Norvég · 140 318 szó"
 
 #: languages
-msgid "Hungarian"
-msgstr "Magyar"
+msgid "Dutch · 140,383 words"
+msgstr "Holland · 140 383 szó"
 
 #: languages
-msgid "380,920 words"
-msgstr "380 920 szó"
+msgid "Romanian · 119,573 words"
+msgstr "Román · 119 573 szó"
 
 #: languages
-msgid "Indonesian"
-msgstr "Indonéz"
+msgid "Slovenian · 182,841 words"
+msgstr "Szlovén · 182 841 szó"
 
 #: languages
-msgid "75,492 words"
-msgstr "75 492 szó"
+msgid "Albanian · 89,152 words"
+msgstr "Albán · 89 152 szó"
 
 #: languages
-msgid "Icelandic"
-msgstr "Izlandi"
+msgid "Serbian · 330,967 words"
+msgstr "Szerb · 330 967 szó"
 
 #: languages
-msgid "74,391 words"
-msgstr "74 391 szó"
+msgid "Swedish · 153,998 words"
+msgstr "Svéd · 153 998 szó"
 
 #: languages
-msgid "Latin"
-msgstr "Latin"
+msgid "Tagalog · 30,099 words"
+msgstr "Tagalog · 30 099 szó"
 
 #: languages
-msgid "165,218 words"
-msgstr "165 218 szó"
+msgid "Turkish · 305,078 words"
+msgstr "Török · 305 078 szó"
 
 #: languages
-msgid "Lithuanian"
-msgstr "Litván"
-
-#: languages
-msgid "100,175 words"
-msgstr "100 175 szó"
-
-#: languages
-msgid "Latvian"
-msgstr "Lett"
-
-#: languages
-msgid "51,479 words"
-msgstr "51 479 szó"
-
-#: languages
-msgid "Malay"
-msgstr "Maláj"
-
-#: languages
-msgid "49,942 words"
-msgstr "49 942 szó"
-
-#: languages
-msgid "Norwegian"
-msgstr "Norvég"
-
-#: languages
-msgid "140,318 words"
-msgstr "140 318 szó"
-
-#: languages
-msgid "Dutch"
-msgstr "Holland"
-
-#: languages
-msgid "140,383 words"
-msgstr "140 383 szó"
-
-#: languages
-msgid "Romanian"
-msgstr "Román"
-
-#: languages
-msgid "119,573 words"
-msgstr "119 573 szó"
-
-#: languages
-msgid "Slovenian"
-msgstr "Szlovén"
-
-#: languages
-msgid "182,841 words"
-msgstr "182 841 szó"
-
-#: languages
-msgid "Albanian"
-msgstr "Albán"
-
-#: languages
-msgid "89,152 words"
-msgstr "89 152 szó"
-
-#: languages
-msgid "Serbian"
-msgstr "Szerb"
-
-#: languages
-msgid "330,967 words"
-msgstr "330 967 szó"
-
-#: languages
-msgid "Swedish"
-msgstr "Svéd"
-
-#: languages
-msgid "153,998 words"
-msgstr "153 998 szó"
-
-#: languages
-msgid "30,099 words"
-msgstr "30 099 szó"
-
-#: languages
-msgid "Turkish"
-msgstr "Török"
-
-#: languages
-msgid "305,078 words"
-msgstr "305 078 szó"
-
-#: languages
-msgid "Vietnamese"
-msgstr "Vietnámi"
-
-#: languages
-msgid "35,303 words"
-msgstr "35 303 szó"
+msgid "Vietnamese · 35,303 words"
+msgstr "Vietnámi · 35 303 szó"
 
 #: languages
 msgid ""

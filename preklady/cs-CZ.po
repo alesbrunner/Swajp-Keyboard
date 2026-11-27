@@ -170,6 +170,18 @@ msgid "Next"
 msgstr "Další"
 
 #: index
+msgid "Another word from the bar"
+msgstr "Jiné slovo z lišty"
+
+#: index
+msgid "Capital letter"
+msgstr "Velké písmeno"
+
+#: index
+msgid "Character from the key corner"
+msgstr "Znak z rohu klávesy"
+
+#: index
 msgid "Glide over the keys like a dragonfly."
 msgstr "Plachti po klávesách jako šídlo."
 
@@ -180,6 +192,14 @@ msgstr ""
 "Nemusíš ťukat písmeno po písmenu – stačí jeden tah přes písmena slova. Swajp tah pozná, i když není dokonalý, a učí se tvůj styl, takže je čím dál přesnější. Slova s podobným tahem čekají v liště návrhů – jedním klepnutím je vyměníš. Velké písmeno napíšeš tak, že z prvního písmene vyjedeš nad klávesnici a odtud rovnou na další. Tah z písmene na mezerník napíše znak z jeho rohu, třeba ? nebo !"
 
 #: index
+msgid "Next word suggestion"
+msgstr "Návrh dalšího slova"
+
+#: index
+msgid "Fixing a typo"
+msgstr "Oprava překlepu"
+
+#: index
 msgid "Predicts your next word like a dragonfly predicts its prey."
 msgstr "Předvídá tvé další slovo, jako šídlo předvídá let kořisti."
 
@@ -188,6 +208,42 @@ msgid ""
 "From the words before, it suggests what you are likely to type next – after a space, just tap it. It uses context to tell similar words apart and learns the words you actually use. When you tap out a word with a typo, the bar shows what you typed next to the fix, and the space bar inserts the highlighted fix."
 msgstr ""
 "Podle předchozích slov nabízí, co asi napíšeš dál – po mezeře stačí klepnout. Z kontextu rozliší podobná slova a učí se slova, která opravdu používáš. Když při ťukání uděláš překlep, lišta ukáže napsané slovo vedle opravy a mezerník vloží zvýrazněnou opravu."
+
+#: index
+msgid "Copy and paste"
+msgstr "Kopírovat a vložit"
+
+#: index
+msgid "Undo and redo"
+msgstr "Zpět a znovu"
+
+#: index
+msgid "Select all and deselect"
+msgstr "Označit vše a zrušit označení"
+
+#: index
+msgid "UPPER / lower case"
+msgstr "VELKÁ / malá písmena"
+
+#: index
+msgid "Deleting words and lines"
+msgstr "Mazání slov a řádků"
+
+#: index
+msgid "Moving the cursor"
+msgstr "Posun kurzoru"
+
+#: index
+msgid "Text editing – the [I] key"
+msgstr "Úpravy textu – klávesa [I]"
+
+#: index
+msgid "Selecting several lines"
+msgstr "Označení víc řádků"
+
+#: index
+msgid "Start and end"
+msgstr "Začátek a konec"
 
 #: index
 msgid "Rules the air. Now rules your text."
@@ -270,6 +326,22 @@ msgstr ""
 "Podrž klávesu Swajp a vyber Velikost: tahem za úchyty změníš výšku, šířku i polohu. Udělej ji vyšší, nebo menší a zvednutou od spodního okraje, rozděl ji na dvě poloviny pro oba palce (Tablet), posuň ji k okraji pro jednu ruku, nebo ji nech volně plout nad aplikacemi. Naležato je klávesnice nižší a rozdělená."
 
 #: index
+msgid "Number pad"
+msgstr "Číselník"
+
+#: index
+msgid "Calculator"
+msgstr "Kalkulačka"
+
+#: index
+msgid "Percent and brackets"
+msgstr "Procenta a závorky"
+
+#: index
+msgid "Scientific calculator"
+msgstr "Vědecká kalkulačka"
+
+#: index
 msgid "Even sharp minds reach for a calculator."
 msgstr "I bystré hlavě se kalkulačka hodí."
 
@@ -280,6 +352,10 @@ msgstr ""
 "Podrž klávesu [I] a máš číselník: velká čísla pro rychlé zadání telefonních čísel a částek. Kalkulačka počítá rovnou v liště návrhů a výsledek vloží do textu. Zvládne procenta (200 + 10 % = 220) i závorky a vědecký režim přidá funkce, mocniny, stupně a radiány – bez přepínání aplikací."
 
 #: index
+msgid "Emoji from a word"
+msgstr "Smajlík ze slova"
+
+#: index
 msgid "Catch your emotion mid-air."
 msgstr "Zachyť emoci v letu."
 
@@ -288,6 +364,18 @@ msgid ""
 "Swipe or type a word – like “heart”, “beer” or “sad” – and Swajp offers the emoji in the suggestion bar. The :) shortcut works too, or simply pick one from the list."
 msgstr ""
 "Napiš tahem nebo ťukáním slovo – třeba „srdce“, „pivo“ nebo „smutný“ – a Swajp ti v liště nabídne smajlíka. Funguje i zkratka :) tahem J → H, nebo si ho vyber ze seznamu."
+
+#: index
+msgid "Two languages at once"
+msgstr "Dva jazyky najednou"
+
+#: index
+msgid "A new word for the dictionary"
+msgstr "Nové slovo do slovníku"
+
+#: index
+msgid "Hindi"
+msgstr "Hindština"
 
 #: index
 msgid "Born to rule – in 35 languages."
@@ -304,6 +392,10 @@ msgid ""
 "<span style=\"color:var(--g)\">Green</span> languages are built in, the others can be <a href=\"languages.html\">downloaded as packs</a>."
 msgstr ""
 "<span style=\"color:var(--g)\">Zeleně</span> jazyky přímo v aplikaci, ostatní si <a href=\"languages.html\">stáhneš jako balíček</a>."
+
+#: index
+msgid "Dictation"
+msgstr "Diktování"
 
 #: index
 msgid "Hears you. Tells no one."
@@ -395,204 +487,108 @@ msgid "Available languages"
 msgstr "Seznam jazyků"
 
 #: languages
-msgid "Catalan"
-msgstr "Katalánština"
+msgid "Catalan · 89,809 words"
+msgstr "Katalánština · 89 809 slov"
 
 #: languages
-msgid "89,809 words"
-msgstr "89 809 slov"
+msgid "Danish · 152,106 words"
+msgstr "Dánština · 152 106 slov"
 
 #: languages
-msgid "Danish"
-msgstr "Dánština"
+msgid "Esperanto · 11,343 words"
+msgstr "Esperanto · 11 343 slov"
 
 #: languages
-msgid "152,106 words"
-msgstr "152 106 slov"
+msgid "Estonian · 326,938 words"
+msgstr "Estonština · 326 938 slov"
 
 #: languages
-msgid "11,343 words"
-msgstr "11 343 slov"
+msgid "Basque · 53,700 words"
+msgstr "Baskičtina · 53 700 slov"
 
 #: languages
-msgid "Estonian"
-msgstr "Estonština"
+msgid "Finnish · 197,333 words"
+msgstr "Finština · 197 333 slov"
 
 #: languages
-msgid "326,938 words"
-msgstr "326 938 slov"
+msgid "Galician · 30,624 words"
+msgstr "Galicijština · 30 624 slov"
 
 #: languages
-msgid "Basque"
-msgstr "Baskičtina"
+msgid "Hindi · 52,622 words"
+msgstr "Hindština · 52 622 slov"
 
 #: languages
-msgid "53,700 words"
-msgstr "53 700 slov"
+msgid "Croatian · 191,499 words"
+msgstr "Chorvatština · 191 499 slov"
 
 #: languages
-msgid "Finnish"
-msgstr "Finština"
+msgid "Hungarian · 380,920 words"
+msgstr "Maďarština · 380 920 slov"
 
 #: languages
-msgid "197,333 words"
-msgstr "197 333 slov"
+msgid "Indonesian · 75,492 words"
+msgstr "Indonéština · 75 492 slov"
 
 #: languages
-msgid "Galician"
-msgstr "Galicijština"
+msgid "Icelandic · 74,391 words"
+msgstr "Islandština · 74 391 slov"
 
 #: languages
-msgid "30,624 words"
-msgstr "30 624 slov"
+msgid "Latin · 165,218 words"
+msgstr "Latina · 165 218 slov"
 
 #: languages
-msgid "Hindi"
-msgstr "Hindština"
+msgid "Lithuanian · 100,175 words"
+msgstr "Litevština · 100 175 slov"
 
 #: languages
-msgid "52,622 words"
-msgstr "52 622 slov"
+msgid "Latvian · 51,479 words"
+msgstr "Lotyština · 51 479 slov"
 
 #: languages
-msgid "Croatian"
-msgstr "Chorvatština"
+msgid "Malay · 49,942 words"
+msgstr "Malajština · 49 942 slov"
 
 #: languages
-msgid "191,499 words"
-msgstr "191 499 slov"
+msgid "Norwegian · 140,318 words"
+msgstr "Norština · 140 318 slov"
 
 #: languages
-msgid "Hungarian"
-msgstr "Maďarština"
+msgid "Dutch · 140,383 words"
+msgstr "Nizozemština · 140 383 slov"
 
 #: languages
-msgid "380,920 words"
-msgstr "380 920 slov"
+msgid "Romanian · 119,573 words"
+msgstr "Rumunština · 119 573 slov"
 
 #: languages
-msgid "Indonesian"
-msgstr "Indonéština"
+msgid "Slovenian · 182,841 words"
+msgstr "Slovinština · 182 841 slov"
 
 #: languages
-msgid "75,492 words"
-msgstr "75 492 slov"
+msgid "Albanian · 89,152 words"
+msgstr "Albánština · 89 152 slov"
 
 #: languages
-msgid "Icelandic"
-msgstr "Islandština"
+msgid "Serbian · 330,967 words"
+msgstr "Srbština · 330 967 slov"
 
 #: languages
-msgid "74,391 words"
-msgstr "74 391 slov"
+msgid "Swedish · 153,998 words"
+msgstr "Švédština · 153 998 slov"
 
 #: languages
-msgid "Latin"
-msgstr "Latina"
+msgid "Tagalog · 30,099 words"
+msgstr "Tagalog · 30 099 slov"
 
 #: languages
-msgid "165,218 words"
-msgstr "165 218 slov"
+msgid "Turkish · 305,078 words"
+msgstr "Turečtina · 305 078 slov"
 
 #: languages
-msgid "Lithuanian"
-msgstr "Litevština"
-
-#: languages
-msgid "100,175 words"
-msgstr "100 175 slov"
-
-#: languages
-msgid "Latvian"
-msgstr "Lotyština"
-
-#: languages
-msgid "51,479 words"
-msgstr "51 479 slov"
-
-#: languages
-msgid "Malay"
-msgstr "Malajština"
-
-#: languages
-msgid "49,942 words"
-msgstr "49 942 slov"
-
-#: languages
-msgid "Norwegian"
-msgstr "Norština"
-
-#: languages
-msgid "140,318 words"
-msgstr "140 318 slov"
-
-#: languages
-msgid "Dutch"
-msgstr "Nizozemština"
-
-#: languages
-msgid "140,383 words"
-msgstr "140 383 slov"
-
-#: languages
-msgid "Romanian"
-msgstr "Rumunština"
-
-#: languages
-msgid "119,573 words"
-msgstr "119 573 slov"
-
-#: languages
-msgid "Slovenian"
-msgstr "Slovinština"
-
-#: languages
-msgid "182,841 words"
-msgstr "182 841 slov"
-
-#: languages
-msgid "Albanian"
-msgstr "Albánština"
-
-#: languages
-msgid "89,152 words"
-msgstr "89 152 slov"
-
-#: languages
-msgid "Serbian"
-msgstr "Srbština"
-
-#: languages
-msgid "330,967 words"
-msgstr "330 967 slov"
-
-#: languages
-msgid "Swedish"
-msgstr "Švédština"
-
-#: languages
-msgid "153,998 words"
-msgstr "153 998 slov"
-
-#: languages
-msgid "30,099 words"
-msgstr "30 099 slov"
-
-#: languages
-msgid "Turkish"
-msgstr "Turečtina"
-
-#: languages
-msgid "305,078 words"
-msgstr "305 078 slov"
-
-#: languages
-msgid "Vietnamese"
-msgstr "Vietnamština"
-
-#: languages
-msgid "35,303 words"
-msgstr "35 303 slov"
+msgid "Vietnamese · 35,303 words"
+msgstr "Vietnamština · 35 303 slov"
 
 #: languages
 msgid ""

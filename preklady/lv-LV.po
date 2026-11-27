@@ -170,6 +170,18 @@ msgid "Next"
 msgstr "Nākamais"
 
 #: index
+msgid "Another word from the bar"
+msgstr "Cits vārds no joslas"
+
+#: index
+msgid "Capital letter"
+msgstr "Lielais burts"
+
+#: index
+msgid "Character from the key corner"
+msgstr "Rakstzīme no taustiņa stūra"
+
+#: index
 msgid "Glide over the keys like a dragonfly."
 msgstr "Slīdi pār taustiņiem kā spāre."
 
@@ -180,6 +192,14 @@ msgstr ""
 "Nav jāpieskaras burtam pēc burta – pietiek ar vienu vilkumu pāri vārda burtiem. Swajp atpazīst vilkumu arī tad, ja tas nav perfekts, un mācās tavu stilu, tāpēc precizitāte arvien uzlabojas. Vārdi ar līdzīgu vilkumu gaida ieteikumu joslā – viens pieskāriens tos samaina. Lai uzrakstītu lielo burtu, velc no pirmā burta uz augšu virs tastatūras un tad uzreiz uz nākamo. Vilkums no burta uz atstarpes taustiņu ieraksta rakstzīmi no burta stūra, piemēram, ? vai !"
 
 #: index
+msgid "Next word suggestion"
+msgstr "Nākamā vārda ieteikums"
+
+#: index
+msgid "Fixing a typo"
+msgstr "Drukas kļūdas labošana"
+
+#: index
 msgid "Predicts your next word like a dragonfly predicts its prey."
 msgstr "Paredz tavu nākamo vārdu, kā spāre paredz medījuma lidojumu."
 
@@ -188,6 +208,42 @@ msgid ""
 "From the words before, it suggests what you are likely to type next – after a space, just tap it. It uses context to tell similar words apart and learns the words you actually use. When you tap out a word with a typo, the bar shows what you typed next to the fix, and the space bar inserts the highlighted fix."
 msgstr ""
 "Pēc iepriekšējiem vārdiem tastatūra iesaka, ko tu, visticamāk, rakstīsi tālāk – pēc atstarpes tikai pieskaries. Pēc konteksta tā atšķir līdzīgus vārdus un mācās vārdus, ko tu patiešām lieto. Ja, rakstot ar pieskārieniem, vārdā ielaižas drukas kļūda, josla parāda uzrakstīto blakus labojumam, un atstarpes taustiņš ievieto iezīmēto labojumu."
+
+#: index
+msgid "Copy and paste"
+msgstr "Kopēt un ielīmēt"
+
+#: index
+msgid "Undo and redo"
+msgstr "Atsaukt un atkārtot"
+
+#: index
+msgid "Select all and deselect"
+msgstr "Atlasīt visu un noņemt atlasi"
+
+#: index
+msgid "UPPER / lower case"
+msgstr "LIELIE / mazie burti"
+
+#: index
+msgid "Deleting words and lines"
+msgstr "Vārdu un rindu dzēšana"
+
+#: index
+msgid "Moving the cursor"
+msgstr "Kursora pārvietošana"
+
+#: index
+msgid "Text editing – the [I] key"
+msgstr "Teksta rediģēšana – taustiņš [I]"
+
+#: index
+msgid "Selecting several lines"
+msgstr "Vairāku rindu atlasīšana"
+
+#: index
+msgid "Start and end"
+msgstr "Sākums un beigas"
 
 #: index
 msgid "Rules the air. Now rules your text."
@@ -270,6 +326,22 @@ msgstr ""
 "Turi nospiestu Swajp taustiņu un izvēlies Izmērs: velkot aiz rokturiem, maini augstumu, platumu un novietojumu. Padari to augstāku vai mazāku un paceltu no apakšējās malas, sadali to divās pusēs abiem īkšķiem (Planšete), pārvieto pie malas vienai rokai vai ļauj tai brīvi peldēt virs lietotnēm. Horizontāli tastatūra ir zemāka un sadalīta."
 
 #: index
+msgid "Number pad"
+msgstr "Ciparu tastatūra"
+
+#: index
+msgid "Calculator"
+msgstr "Kalkulators"
+
+#: index
+msgid "Percent and brackets"
+msgstr "Procenti un iekavas"
+
+#: index
+msgid "Scientific calculator"
+msgstr "Zinātniskais kalkulators"
+
+#: index
 msgid "Even sharp minds reach for a calculator."
 msgstr "Pat asam prātam noder kalkulators."
 
@@ -280,6 +352,10 @@ msgstr ""
 "Turi nospiestu taustiņu [I], lai atvērtu ciparu tastatūru: lieli cipari ātrai tālruņa numuru un summu ievadei. Kalkulators rēķina tieši ieteikumu joslā un ievieto rezultātu tekstā. Tas prot procentus (200 + 10% = 220) un iekavas, un zinātniskais režīms pievieno funkcijas, pakāpes, grādus un radiānus – bez lietotņu pārslēgšanas."
 
 #: index
+msgid "Emoji from a word"
+msgstr "Emocijzīme no vārda"
+
+#: index
 msgid "Catch your emotion mid-air."
 msgstr "Noķer emociju lidojumā."
 
@@ -288,6 +364,18 @@ msgid ""
 "Swipe or type a word – like “heart”, “beer” or “sad” – and Swajp offers the emoji in the suggestion bar. The :) shortcut works too, or simply pick one from the list."
 msgstr ""
 "Uzraksti ar vilkšanu vai pieskārieniem vārdu – piemēram, „sirds“, „alus“ vai „skumjš“ –, un Swajp ieteikumu joslā piedāvās emocijzīmi. Darbojas arī saīsne :), vai vienkārši izvēlies to no saraksta."
+
+#: index
+msgid "Two languages at once"
+msgstr "Divas valodas vienlaikus"
+
+#: index
+msgid "A new word for the dictionary"
+msgstr "Jauns vārds vārdnīcai"
+
+#: index
+msgid "Hindi"
+msgstr "Hindi"
 
 #: index
 msgid "Born to rule – in 35 languages."
@@ -304,6 +392,10 @@ msgid ""
 "<span style=\"color:var(--g)\">Green</span> languages are built in, the others can be <a href=\"languages.html\">downloaded as packs</a>."
 msgstr ""
 "<span style=\"color:var(--g)\">Zaļās</span> valodas ir iebūvētas, pārējās var <a href=\"languages.html\">lejupielādēt kā pakotnes</a>."
+
+#: index
+msgid "Dictation"
+msgstr "Diktēšana"
 
 #: index
 msgid "Hears you. Tells no one."
@@ -396,204 +488,108 @@ msgid "Available languages"
 msgstr "Pieejamās valodas"
 
 #: languages
-msgid "Catalan"
-msgstr "Katalāņu"
+msgid "Catalan · 89,809 words"
+msgstr "Katalāņu · 89 809 vārdi"
 
 #: languages
-msgid "89,809 words"
-msgstr "89 809 vārdi"
+msgid "Danish · 152,106 words"
+msgstr "Dāņu · 152 106 vārdi"
 
 #: languages
-msgid "Danish"
-msgstr "Dāņu"
+msgid "Esperanto · 11,343 words"
+msgstr "Esperanto · 11 343 vārdi"
 
 #: languages
-msgid "152,106 words"
-msgstr "152 106 vārdi"
+msgid "Estonian · 326,938 words"
+msgstr "Igauņu · 326 938 vārdi"
 
 #: languages
-msgid "11,343 words"
-msgstr "11 343 vārdi"
+msgid "Basque · 53,700 words"
+msgstr "Basku · 53 700 vārdi"
 
 #: languages
-msgid "Estonian"
-msgstr "Igauņu"
+msgid "Finnish · 197,333 words"
+msgstr "Somu · 197 333 vārdi"
 
 #: languages
-msgid "326,938 words"
-msgstr "326 938 vārdi"
+msgid "Galician · 30,624 words"
+msgstr "Galisiešu · 30 624 vārdi"
 
 #: languages
-msgid "Basque"
-msgstr "Basku"
+msgid "Hindi · 52,622 words"
+msgstr "Hindi · 52 622 vārdi"
 
 #: languages
-msgid "53,700 words"
-msgstr "53 700 vārdi"
+msgid "Croatian · 191,499 words"
+msgstr "Horvātu · 191 499 vārdi"
 
 #: languages
-msgid "Finnish"
-msgstr "Somu"
+msgid "Hungarian · 380,920 words"
+msgstr "Ungāru · 380 920 vārdi"
 
 #: languages
-msgid "197,333 words"
-msgstr "197 333 vārdi"
+msgid "Indonesian · 75,492 words"
+msgstr "Indonēziešu · 75 492 vārdi"
 
 #: languages
-msgid "Galician"
-msgstr "Galisiešu"
+msgid "Icelandic · 74,391 words"
+msgstr "Islandiešu · 74 391 vārdi"
 
 #: languages
-msgid "30,624 words"
-msgstr "30 624 vārdi"
+msgid "Latin · 165,218 words"
+msgstr "Latīņu · 165 218 vārdi"
 
 #: languages
-msgid "Hindi"
-msgstr "Hindi"
+msgid "Lithuanian · 100,175 words"
+msgstr "Lietuviešu · 100 175 vārdi"
 
 #: languages
-msgid "52,622 words"
-msgstr "52 622 vārdi"
+msgid "Latvian · 51,479 words"
+msgstr "Latviešu · 51 479 vārdi"
 
 #: languages
-msgid "Croatian"
-msgstr "Horvātu"
+msgid "Malay · 49,942 words"
+msgstr "Malajiešu · 49 942 vārdi"
 
 #: languages
-msgid "191,499 words"
-msgstr "191 499 vārdi"
+msgid "Norwegian · 140,318 words"
+msgstr "Norvēģu · 140 318 vārdi"
 
 #: languages
-msgid "Hungarian"
-msgstr "Ungāru"
+msgid "Dutch · 140,383 words"
+msgstr "Nīderlandiešu · 140 383 vārdi"
 
 #: languages
-msgid "380,920 words"
-msgstr "380 920 vārdi"
+msgid "Romanian · 119,573 words"
+msgstr "Rumāņu · 119 573 vārdi"
 
 #: languages
-msgid "Indonesian"
-msgstr "Indonēziešu"
+msgid "Slovenian · 182,841 words"
+msgstr "Slovēņu · 182 841 vārds"
 
 #: languages
-msgid "75,492 words"
-msgstr "75 492 vārdi"
+msgid "Albanian · 89,152 words"
+msgstr "Albāņu · 89 152 vārdi"
 
 #: languages
-msgid "Icelandic"
-msgstr "Islandiešu"
+msgid "Serbian · 330,967 words"
+msgstr "Serbu · 330 967 vārdi"
 
 #: languages
-msgid "74,391 words"
-msgstr "74 391 vārdi"
+msgid "Swedish · 153,998 words"
+msgstr "Zviedru · 153 998 vārdi"
 
 #: languages
-msgid "Latin"
-msgstr "Latīņu"
+msgid "Tagalog · 30,099 words"
+msgstr "Tagalog · 30 099 vārdi"
 
 #: languages
-msgid "165,218 words"
-msgstr "165 218 vārdi"
+msgid "Turkish · 305,078 words"
+msgstr "Turku · 305 078 vārdi"
 
 #: languages
-msgid "Lithuanian"
-msgstr "Lietuviešu"
-
-#: languages
-msgid "100,175 words"
-msgstr "100 175 vārdi"
-
-#: languages
-msgid "Latvian"
-msgstr "Latviešu"
-
-#: languages
-msgid "51,479 words"
-msgstr "51 479 vārdi"
-
-#: languages
-msgid "Malay"
-msgstr "Malajiešu"
-
-#: languages
-msgid "49,942 words"
-msgstr "49 942 vārdi"
-
-#: languages
-msgid "Norwegian"
-msgstr "Norvēģu"
-
-#: languages
-msgid "140,318 words"
-msgstr "140 318 vārdi"
-
-#: languages
-msgid "Dutch"
-msgstr "Nīderlandiešu"
-
-#: languages
-msgid "140,383 words"
-msgstr "140 383 vārdi"
-
-#: languages
-msgid "Romanian"
-msgstr "Rumāņu"
-
-#: languages
-msgid "119,573 words"
-msgstr "119 573 vārdi"
-
-#: languages
-msgid "Slovenian"
-msgstr "Slovēņu"
-
-#: languages
-msgid "182,841 words"
-msgstr "182 841 vārds"
-
-#: languages
-msgid "Albanian"
-msgstr "Albāņu"
-
-#: languages
-msgid "89,152 words"
-msgstr "89 152 vārdi"
-
-#: languages
-msgid "Serbian"
-msgstr "Serbu"
-
-#: languages
-msgid "330,967 words"
-msgstr "330 967 vārdi"
-
-#: languages
-msgid "Swedish"
-msgstr "Zviedru"
-
-#: languages
-msgid "153,998 words"
-msgstr "153 998 vārdi"
-
-#: languages
-msgid "30,099 words"
-msgstr "30 099 vārdi"
-
-#: languages
-msgid "Turkish"
-msgstr "Turku"
-
-#: languages
-msgid "305,078 words"
-msgstr "305 078 vārdi"
-
-#: languages
-msgid "Vietnamese"
-msgstr "Vjetnamiešu"
-
-#: languages
-msgid "35,303 words"
-msgstr "35 303 vārdi"
+msgid "Vietnamese · 35,303 words"
+msgstr "Vjetnamiešu · 35 303 vārdi"
 
 #: languages
 msgid ""

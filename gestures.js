@@ -91,7 +91,7 @@
           var w = q.w * 10;
           if (q.id !== '_pad') {
             K[q.id] = {x: x, y: y, w: w, h: RH - 1};
-            var fill = q.kind === 2 ? '#7cb342' : q.kind === 4 ? OP : q.kind ? SPEC : KEY;
+            var fill = q.kind === 2 ? G : q.kind === 4 ? OP : q.kind ? SPEC : KEY;
             rects[q.id] = el('rect', {x: x + 0.6, y: y + 0.6, width: w - 1.2, height: RH - 2.2, rx: 1.8, fill: fill}, kbG);
             if (q.kind === 3) dragonfly(x, y, w);
             var two = name === 'edit' && q.sub;
@@ -131,7 +131,7 @@
             fieldG.insertBefore(r, t);
           }
         } else if (cur >= off && cur <= off + ln.length && Math.floor(performance.now() / 450) % 2 === 0) {
-          el('rect', {x: xAt(cur - off) + 0.2, y: y - 5, width: 0.7, height: 6.4, fill: G}, fieldG);
+          el('rect', {x: xAt(cur - off) + 0.2, y: y - 5, width: 0.7, height: 6.4, fill: TX}, fieldG);
         }
         off += ln.length + 1;
       });
@@ -543,7 +543,7 @@
         var w = q.w * 10;
         if (q.id !== '_pad') {
           var p = x + w / 2 < 50 ? gL : gR;
-          var fill = q.kind === 2 ? '#7cb342' : q.kind ? SPEC : KEY;
+          var fill = q.kind === 2 ? G : q.kind ? SPEC : KEY;
           if (q.id === 'space') { // mezerník přes střed: v rozdělené klávesnici půlka vlevo, půlka vpravo
             el('rect', {x: x + 0.6, y: y + 0.6, width: 50 - x - 0.9, height: RH - 2.2, rx: 1.8, fill: fill}, gL);
             el('rect', {x: 50.3, y: y + 0.6, width: x + w - 50.9, height: RH - 2.2, rx: 1.8, fill: fill}, gR);
@@ -609,6 +609,6 @@
     var g = GROUPS[b.getAttribute('data-demo')];
     var d = b.getAttribute('data-demo');
     if (d === 'size') { new SizeDemo(b); return; }
-    if (g) new Demo(b, g, d === 'calc' ? 5 : 4, d === 'themes');
+    if (g) new Demo(b, g, d === 'calc' ? 5 : 4, true);
   });
 })();

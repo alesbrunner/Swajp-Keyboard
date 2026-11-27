@@ -170,6 +170,18 @@ msgid "Next"
 msgstr "Berikutnya"
 
 #: index
+msgid "Another word from the bar"
+msgstr "Kata lain dari bilah"
+
+#: index
+msgid "Capital letter"
+msgstr "Huruf kapital"
+
+#: index
+msgid "Character from the key corner"
+msgstr "Karakter dari sudut tombol"
+
+#: index
 msgid "Glide over the keys like a dragonfly."
 msgstr "Meluncur di atas tombol bagai capung."
 
@@ -180,6 +192,14 @@ msgstr ""
 "Tak perlu mengetuk huruf demi huruf – cukup satu goresan melewati huruf-huruf sebuah kata. Swajp mengenali geseranmu meski tidak sempurna, dan mempelajari gayamu sehingga makin lama makin akurat. Kata dengan geseran serupa menunggu di bilah saran – sekali ketuk untuk menukarnya. Untuk huruf kapital, geser dari huruf pertama ke atas melewati keyboard, lalu langsung ke huruf berikutnya. Geseran dari sebuah huruf ke tombol spasi mengetikkan karakter di sudut tombol huruf itu, seperti ? atau !"
 
 #: index
+msgid "Next word suggestion"
+msgstr "Saran kata berikutnya"
+
+#: index
+msgid "Fixing a typo"
+msgstr "Memperbaiki salah ketik"
+
+#: index
 msgid "Predicts your next word like a dragonfly predicts its prey."
 msgstr "Menebak kata berikutnya seperti capung menebak gerak mangsanya."
 
@@ -188,6 +208,42 @@ msgid ""
 "From the words before, it suggests what you are likely to type next – after a space, just tap it. It uses context to tell similar words apart and learns the words you actually use. When you tap out a word with a typo, the bar shows what you typed next to the fix, and the space bar inserts the highlighted fix."
 msgstr ""
 "Dari kata-kata sebelumnya, Swajp menebak apa yang kemungkinan akan kamu ketik berikutnya – setelah spasi, cukup ketuk. Konteks dipakai untuk membedakan kata yang mirip, dan Swajp mempelajari kata yang benar-benar kamu gunakan. Saat kamu salah ketik, bilah menampilkan apa yang kamu ketik di samping koreksinya, dan tombol spasi menyisipkan koreksi yang disorot."
+
+#: index
+msgid "Copy and paste"
+msgstr "Salin dan tempel"
+
+#: index
+msgid "Undo and redo"
+msgstr "Urungkan dan ulangi"
+
+#: index
+msgid "Select all and deselect"
+msgstr "Pilih semua dan batal pilih"
+
+#: index
+msgid "UPPER / lower case"
+msgstr "HURUF BESAR / huruf kecil"
+
+#: index
+msgid "Deleting words and lines"
+msgstr "Menghapus kata dan baris"
+
+#: index
+msgid "Moving the cursor"
+msgstr "Geser kursor"
+
+#: index
+msgid "Text editing – the [I] key"
+msgstr "Edit teks – tombol [I]"
+
+#: index
+msgid "Selecting several lines"
+msgstr "Memilih beberapa baris"
+
+#: index
+msgid "Start and end"
+msgstr "Awal dan akhir"
 
 #: index
 msgid "Rules the air. Now rules your text."
@@ -270,6 +326,22 @@ msgstr ""
 "Tahan tombol Swajp dan pilih Ukuran: seret pegangan untuk mengubah tinggi, lebar, dan posisi. Buat lebih tinggi, atau lebih kecil dan terangkat dari tepi bawah, bagi menjadi dua bagian untuk kedua ibu jari (Tablet), geser ke tepi untuk satu tangan, atau biarkan mengambang bebas di atas aplikasi. Dalam mode lanskap, keyboard lebih rendah dan terbelah."
 
 #: index
+msgid "Number pad"
+msgstr "Papan angka"
+
+#: index
+msgid "Calculator"
+msgstr "Kalkulator"
+
+#: index
+msgid "Percent and brackets"
+msgstr "Persen dan tanda kurung"
+
+#: index
+msgid "Scientific calculator"
+msgstr "Kalkulator ilmiah"
+
+#: index
 msgid "Even sharp minds reach for a calculator."
 msgstr "Otak encer pun butuh kalkulator."
 
@@ -280,6 +352,10 @@ msgstr ""
 "Tahan tombol [I] untuk papan angka: angka besar untuk memasukkan nomor telepon dan nominal dengan cepat. Kalkulator menghitung langsung di bilah saran dan menyisipkan hasilnya ke teks. Ia bisa menghitung persen (200 + 10% = 220) dan tanda kurung, dan mode ilmiah menambahkan fungsi, pangkat, derajat, dan radian – tanpa berganti aplikasi."
 
 #: index
+msgid "Emoji from a word"
+msgstr "Emoji dari kata"
+
+#: index
 msgid "Catch your emotion mid-air."
 msgstr "Tangkap emosimu di udara."
 
@@ -288,6 +364,18 @@ msgid ""
 "Swipe or type a word – like “heart”, “beer” or “sad” – and Swajp offers the emoji in the suggestion bar. The :) shortcut works too, or simply pick one from the list."
 msgstr ""
 "Geser atau ketik sebuah kata – misalnya “hati”, “bir”, atau “sedih” – dan Swajp menawarkan emojinya di bilah saran. Pintasan :) juga bisa, atau pilih saja dari daftar."
+
+#: index
+msgid "Two languages at once"
+msgstr "Dua bahasa sekaligus"
+
+#: index
+msgid "A new word for the dictionary"
+msgstr "Kata baru untuk kamus"
+
+#: index
+msgid "Hindi"
+msgstr "Hindi"
 
 #: index
 msgid "Born to rule – in 35 languages."
@@ -304,6 +392,10 @@ msgid ""
 "<span style=\"color:var(--g)\">Green</span> languages are built in, the others can be <a href=\"languages.html\">downloaded as packs</a>."
 msgstr ""
 "Bahasa bertanda <span style=\"color:var(--g)\">hijau</span> sudah tersedia di aplikasi, sisanya bisa <a href=\"languages.html\">diunduh sebagai paket</a>."
+
+#: index
+msgid "Dictation"
+msgstr "Dikte"
 
 #: index
 msgid "Hears you. Tells no one."
@@ -395,204 +487,108 @@ msgid "Available languages"
 msgstr "Bahasa yang tersedia"
 
 #: languages
-msgid "Catalan"
-msgstr "Bahasa Katala"
+msgid "Catalan · 89,809 words"
+msgstr "Bahasa Katala · 89.809 kata"
 
 #: languages
-msgid "89,809 words"
-msgstr "89.809 kata"
+msgid "Danish · 152,106 words"
+msgstr "Bahasa Denmark · 152.106 kata"
 
 #: languages
-msgid "Danish"
-msgstr "Bahasa Denmark"
+msgid "Esperanto · 11,343 words"
+msgstr "Esperanto · 11.343 kata"
 
 #: languages
-msgid "152,106 words"
-msgstr "152.106 kata"
+msgid "Estonian · 326,938 words"
+msgstr "Estonia · 326.938 kata"
 
 #: languages
-msgid "11,343 words"
-msgstr "11.343 kata"
+msgid "Basque · 53,700 words"
+msgstr "Basque · 53.700 kata"
 
 #: languages
-msgid "Estonian"
-msgstr "Estonia"
+msgid "Finnish · 197,333 words"
+msgstr "Bahasa Finlandia · 197.333 kata"
 
 #: languages
-msgid "326,938 words"
-msgstr "326.938 kata"
+msgid "Galician · 30,624 words"
+msgstr "Galisia · 30.624 kata"
 
 #: languages
-msgid "Basque"
-msgstr "Basque"
+msgid "Hindi · 52,622 words"
+msgstr "Hindi · 52.622 kata"
 
 #: languages
-msgid "53,700 words"
-msgstr "53.700 kata"
+msgid "Croatian · 191,499 words"
+msgstr "Bahasa Kroasia · 191.499 kata"
 
 #: languages
-msgid "Finnish"
-msgstr "Bahasa Finlandia"
+msgid "Hungarian · 380,920 words"
+msgstr "Bahasa Hungaria · 380.920 kata"
 
 #: languages
-msgid "197,333 words"
-msgstr "197.333 kata"
+msgid "Indonesian · 75,492 words"
+msgstr "Bahasa Indonesia · 75.492 kata"
 
 #: languages
-msgid "Galician"
-msgstr "Galisia"
+msgid "Icelandic · 74,391 words"
+msgstr "Islandia · 74.391 kata"
 
 #: languages
-msgid "30,624 words"
-msgstr "30.624 kata"
+msgid "Latin · 165,218 words"
+msgstr "Bahasa Latin · 165.218 kata"
 
 #: languages
-msgid "Hindi"
-msgstr "Hindi"
+msgid "Lithuanian · 100,175 words"
+msgstr "Bahasa Lituania · 100.175 kata"
 
 #: languages
-msgid "52,622 words"
-msgstr "52.622 kata"
+msgid "Latvian · 51,479 words"
+msgstr "Bahasa Latvia · 51.479 kata"
 
 #: languages
-msgid "Croatian"
-msgstr "Bahasa Kroasia"
+msgid "Malay · 49,942 words"
+msgstr "Bahasa Melayu · 49.942 kata"
 
 #: languages
-msgid "191,499 words"
-msgstr "191.499 kata"
+msgid "Norwegian · 140,318 words"
+msgstr "Bahasa Norwegia · 140.318 kata"
 
 #: languages
-msgid "Hungarian"
-msgstr "Bahasa Hungaria"
+msgid "Dutch · 140,383 words"
+msgstr "Bahasa Belanda · 140.383 kata"
 
 #: languages
-msgid "380,920 words"
-msgstr "380.920 kata"
+msgid "Romanian · 119,573 words"
+msgstr "Bahasa Rumania · 119.573 kata"
 
 #: languages
-msgid "Indonesian"
-msgstr "Bahasa Indonesia"
+msgid "Slovenian · 182,841 words"
+msgstr "Bahasa Slovenia · 182.841 kata"
 
 #: languages
-msgid "75,492 words"
-msgstr "75.492 kata"
+msgid "Albanian · 89,152 words"
+msgstr "Albania · 89.152 kata"
 
 #: languages
-msgid "Icelandic"
-msgstr "Islandia"
+msgid "Serbian · 330,967 words"
+msgstr "Serbia · 330.967 kata"
 
 #: languages
-msgid "74,391 words"
-msgstr "74.391 kata"
+msgid "Swedish · 153,998 words"
+msgstr "Bahasa Swedia · 153.998 kata"
 
 #: languages
-msgid "Latin"
-msgstr "Bahasa Latin"
+msgid "Tagalog · 30,099 words"
+msgstr "Tagalog · 30.099 kata"
 
 #: languages
-msgid "165,218 words"
-msgstr "165.218 kata"
+msgid "Turkish · 305,078 words"
+msgstr "Bahasa Turki · 305.078 kata"
 
 #: languages
-msgid "Lithuanian"
-msgstr "Bahasa Lituania"
-
-#: languages
-msgid "100,175 words"
-msgstr "100.175 kata"
-
-#: languages
-msgid "Latvian"
-msgstr "Bahasa Latvia"
-
-#: languages
-msgid "51,479 words"
-msgstr "51.479 kata"
-
-#: languages
-msgid "Malay"
-msgstr "Bahasa Melayu"
-
-#: languages
-msgid "49,942 words"
-msgstr "49.942 kata"
-
-#: languages
-msgid "Norwegian"
-msgstr "Bahasa Norwegia"
-
-#: languages
-msgid "140,318 words"
-msgstr "140.318 kata"
-
-#: languages
-msgid "Dutch"
-msgstr "Bahasa Belanda"
-
-#: languages
-msgid "140,383 words"
-msgstr "140.383 kata"
-
-#: languages
-msgid "Romanian"
-msgstr "Bahasa Rumania"
-
-#: languages
-msgid "119,573 words"
-msgstr "119.573 kata"
-
-#: languages
-msgid "Slovenian"
-msgstr "Bahasa Slovenia"
-
-#: languages
-msgid "182,841 words"
-msgstr "182.841 kata"
-
-#: languages
-msgid "Albanian"
-msgstr "Albania"
-
-#: languages
-msgid "89,152 words"
-msgstr "89.152 kata"
-
-#: languages
-msgid "Serbian"
-msgstr "Serbia"
-
-#: languages
-msgid "330,967 words"
-msgstr "330.967 kata"
-
-#: languages
-msgid "Swedish"
-msgstr "Bahasa Swedia"
-
-#: languages
-msgid "153,998 words"
-msgstr "153.998 kata"
-
-#: languages
-msgid "30,099 words"
-msgstr "30.099 kata"
-
-#: languages
-msgid "Turkish"
-msgstr "Bahasa Turki"
-
-#: languages
-msgid "305,078 words"
-msgstr "305.078 kata"
-
-#: languages
-msgid "Vietnamese"
-msgstr "Vietnam"
-
-#: languages
-msgid "35,303 words"
-msgstr "35.303 kata"
+msgid "Vietnamese · 35,303 words"
+msgstr "Vietnam · 35.303 kata"
 
 #: languages
 msgid ""

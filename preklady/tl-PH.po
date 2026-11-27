@@ -171,6 +171,18 @@ msgid "Next"
 msgstr "Susunod"
 
 #: index
+msgid "Another word from the bar"
+msgstr "Ibang salita mula sa bar"
+
+#: index
+msgid "Capital letter"
+msgstr "Malaking titik"
+
+#: index
+msgid "Character from the key corner"
+msgstr "Character sa sulok ng key"
+
+#: index
 msgid "Glide over the keys like a dragonfly."
 msgstr "Dumausdos sa mga key na parang tutubi."
 
@@ -179,6 +191,14 @@ msgid ""
 "No need to tap letter by letter – one stroke across the letters of a word is enough. Swajp recognises the swipe even when it is not perfect, and learns your style so it keeps getting more accurate. Words with a similar swipe wait in the suggestion bar – one tap swaps them. For a capital letter, slide from the first letter up above the keyboard and straight on to the next one. A swipe from a letter to the space bar types the character from its corner, such as ? or !"
 msgstr ""
 "Hindi mo kailangang mag-tap nang isa-isang titik – sapat na ang isang guhit sa mga titik ng salita. Nakikilala ng Swajp ang swipe kahit hindi ito perpekto, at natututunan nito ang istilo mo kaya lalo itong tumutumpak. Naghihintay sa bar ng mungkahi ang mga salitang may kahawig na swipe – isang tap lang para palitan. Para sa malaking titik, mag-slide mula sa unang titik pataas sa ibabaw ng keyboard at diretso sa susunod na titik. Ang swipe mula sa isang titik papunta sa space bar ay nagta-type ng character na nasa sulok nito, gaya ng ? o !"
+
+#: index
+msgid "Next word suggestion"
+msgstr "Mungkahi ng susunod na salita"
+
+#: index
+msgid "Fixing a typo"
+msgstr "Pagwawasto ng typo"
 
 #: index
 msgid "Predicts your next word like a dragonfly predicts its prey."
@@ -190,6 +210,42 @@ msgid ""
 "From the words before, it suggests what you are likely to type next – after a space, just tap it. It uses context to tell similar words apart and learns the words you actually use. When you tap out a word with a typo, the bar shows what you typed next to the fix, and the space bar inserts the highlighted fix."
 msgstr ""
 "Batay sa mga naunang salita, iminumungkahi nito ang malamang na susunod mong ita-type – pagkatapos ng space, i-tap lang. Ginagamit nito ang konteksto para makilala ang magkakahawig na salita at natututunan ang mga salitang talagang ginagamit mo. Kapag nagkamali ka sa pag-tap ng isang salita, ipinapakita ng bar ang tinype mo katabi ng pagwawasto, at ilalagay ng space bar ang naka-highlight na pagwawasto."
+
+#: index
+msgid "Copy and paste"
+msgstr "Kopyahin at i-paste"
+
+#: index
+msgid "Undo and redo"
+msgstr "I-undo at i-redo"
+
+#: index
+msgid "Select all and deselect"
+msgstr "Piliin lahat at alisin ang pagpili"
+
+#: index
+msgid "UPPER / lower case"
+msgstr "MALAKI / maliit na titik"
+
+#: index
+msgid "Deleting words and lines"
+msgstr "Pagbura ng mga salita at linya"
+
+#: index
+msgid "Moving the cursor"
+msgstr "Galawin ang cursor"
+
+#: index
+msgid "Text editing – the [I] key"
+msgstr "Pag-edit ng teksto – ang [I] key"
+
+#: index
+msgid "Selecting several lines"
+msgstr "Pagpili ng ilang linya"
+
+#: index
+msgid "Start and end"
+msgstr "Simula at dulo"
 
 #: index
 msgid "Rules the air. Now rules your text."
@@ -272,6 +328,22 @@ msgstr ""
 "Pindutin nang matagal ang Swajp key at piliin ang Laki: i-drag ang mga hawakan para baguhin ang taas, lapad at posisyon. Gawin itong mas mataas, o mas maliit at nakaangat mula sa ibabang gilid, hatiin sa dalawa para sa dalawang hinlalaki (Tablet), ilipat sa gilid para sa isang kamay, o hayaang lumutang nang malaya sa ibabaw ng mga app. Kapag naka-landscape, mas mababa at hati ang keyboard."
 
 #: index
+msgid "Number pad"
+msgstr "Number pad"
+
+#: index
+msgid "Calculator"
+msgstr "Calculator"
+
+#: index
+msgid "Percent and brackets"
+msgstr "Porsiyento at panaklong"
+
+#: index
+msgid "Scientific calculator"
+msgstr "Scientific calculator"
+
+#: index
 msgid "Even sharp minds reach for a calculator."
 msgstr "Kahit matalas ang isip, may silbi pa rin ang calculator."
 
@@ -282,6 +354,10 @@ msgstr ""
 "Pindutin nang matagal ang [I] key para sa number pad: malalaking numero para mabilis na mailagay ang mga numero ng telepono at halaga. Nagkukuwenta ang calculator mismo sa bar ng mungkahi at inilalagay ang resulta sa teksto. Kaya nito ang porsiyento (200 + 10% = 220) at mga panaklong, at nagdaragdag ang scientific mode ng mga function, power, degree at radian – nang hindi nagpapalit ng app."
 
 #: index
+msgid "Emoji from a word"
+msgstr "Emoji mula sa salita"
+
+#: index
 msgid "Catch your emotion mid-air."
 msgstr "Saluhin sa ere ang iyong emosyon."
 
@@ -290,6 +366,18 @@ msgid ""
 "Swipe or type a word – like “heart”, “beer” or “sad” – and Swajp offers the emoji in the suggestion bar. The :) shortcut works too, or simply pick one from the list."
 msgstr ""
 "Mag-swipe o mag-type ng salita – gaya ng “heart”, “beer” o “sad” – at iaalok ng Swajp ang emoji sa bar ng mungkahi. Gumagana rin ang shortcut na :), o pumili lang mula sa listahan."
+
+#: index
+msgid "Two languages at once"
+msgstr "Dalawang wika nang sabay"
+
+#: index
+msgid "A new word for the dictionary"
+msgstr "Bagong salita para sa diksiyonaryo"
+
+#: index
+msgid "Hindi"
+msgstr "Hindi"
 
 #: index
 msgid "Born to rule – in 35 languages."
@@ -306,6 +394,10 @@ msgid ""
 "<span style=\"color:var(--g)\">Green</span> languages are built in, the others can be <a href=\"languages.html\">downloaded as packs</a>."
 msgstr ""
 "Kasama na sa app ang mga wikang <span style=\"color:var(--g)\">berde</span>; ang iba ay puwedeng <a href=\"languages.html\">i-download bilang pack</a>."
+
+#: index
+msgid "Dictation"
+msgstr "Pagdidikta"
 
 #: index
 msgid "Hears you. Tells no one."
@@ -399,204 +491,108 @@ msgid "Available languages"
 msgstr "Mga available na wika"
 
 #: languages
-msgid "Catalan"
-msgstr "Catalan"
+msgid "Catalan · 89,809 words"
+msgstr "Catalan · 89,809 salita"
 
 #: languages
-msgid "89,809 words"
-msgstr "89,809 salita"
+msgid "Danish · 152,106 words"
+msgstr "Danish · 152,106 salita"
 
 #: languages
-msgid "Danish"
-msgstr "Danish"
+msgid "Esperanto · 11,343 words"
+msgstr "Esperanto · 11,343 salita"
 
 #: languages
-msgid "152,106 words"
-msgstr "152,106 salita"
+msgid "Estonian · 326,938 words"
+msgstr "Estonian · 326,938 salita"
 
 #: languages
-msgid "11,343 words"
-msgstr "11,343 salita"
+msgid "Basque · 53,700 words"
+msgstr "Basque · 53,700 salita"
 
 #: languages
-msgid "Estonian"
-msgstr "Estonian"
+msgid "Finnish · 197,333 words"
+msgstr "Finnish · 197,333 salita"
 
 #: languages
-msgid "326,938 words"
-msgstr "326,938 salita"
+msgid "Galician · 30,624 words"
+msgstr "Galician · 30,624 salita"
 
 #: languages
-msgid "Basque"
-msgstr "Basque"
+msgid "Hindi · 52,622 words"
+msgstr "Hindi · 52,622 salita"
 
 #: languages
-msgid "53,700 words"
-msgstr "53,700 salita"
+msgid "Croatian · 191,499 words"
+msgstr "Croatian · 191,499 salita"
 
 #: languages
-msgid "Finnish"
-msgstr "Finnish"
+msgid "Hungarian · 380,920 words"
+msgstr "Hungarian · 380,920 salita"
 
 #: languages
-msgid "197,333 words"
-msgstr "197,333 salita"
+msgid "Indonesian · 75,492 words"
+msgstr "Indonesian · 75,492 salita"
 
 #: languages
-msgid "Galician"
-msgstr "Galician"
+msgid "Icelandic · 74,391 words"
+msgstr "Icelandic · 74,391 salita"
 
 #: languages
-msgid "30,624 words"
-msgstr "30,624 salita"
+msgid "Latin · 165,218 words"
+msgstr "Latin · 165,218 salita"
 
 #: languages
-msgid "Hindi"
-msgstr "Hindi"
+msgid "Lithuanian · 100,175 words"
+msgstr "Lithuanian · 100,175 salita"
 
 #: languages
-msgid "52,622 words"
-msgstr "52,622 salita"
+msgid "Latvian · 51,479 words"
+msgstr "Latvian · 51,479 salita"
 
 #: languages
-msgid "Croatian"
-msgstr "Croatian"
+msgid "Malay · 49,942 words"
+msgstr "Malay · 49,942 salita"
 
 #: languages
-msgid "191,499 words"
-msgstr "191,499 salita"
+msgid "Norwegian · 140,318 words"
+msgstr "Norwegian · 140,318 salita"
 
 #: languages
-msgid "Hungarian"
-msgstr "Hungarian"
+msgid "Dutch · 140,383 words"
+msgstr "Dutch · 140,383 salita"
 
 #: languages
-msgid "380,920 words"
-msgstr "380,920 salita"
+msgid "Romanian · 119,573 words"
+msgstr "Romanian · 119,573 salita"
 
 #: languages
-msgid "Indonesian"
-msgstr "Indonesian"
+msgid "Slovenian · 182,841 words"
+msgstr "Slovenian · 182,841 salita"
 
 #: languages
-msgid "75,492 words"
-msgstr "75,492 salita"
+msgid "Albanian · 89,152 words"
+msgstr "Albanian · 89,152 salita"
 
 #: languages
-msgid "Icelandic"
-msgstr "Icelandic"
+msgid "Serbian · 330,967 words"
+msgstr "Serbian · 330,967 salita"
 
 #: languages
-msgid "74,391 words"
-msgstr "74,391 salita"
+msgid "Swedish · 153,998 words"
+msgstr "Swedish · 153,998 salita"
 
 #: languages
-msgid "Latin"
-msgstr "Latin"
+msgid "Tagalog · 30,099 words"
+msgstr "Tagalog · 30,099 salita"
 
 #: languages
-msgid "165,218 words"
-msgstr "165,218 salita"
+msgid "Turkish · 305,078 words"
+msgstr "Turkish · 305,078 salita"
 
 #: languages
-msgid "Lithuanian"
-msgstr "Lithuanian"
-
-#: languages
-msgid "100,175 words"
-msgstr "100,175 salita"
-
-#: languages
-msgid "Latvian"
-msgstr "Latvian"
-
-#: languages
-msgid "51,479 words"
-msgstr "51,479 salita"
-
-#: languages
-msgid "Malay"
-msgstr "Malay"
-
-#: languages
-msgid "49,942 words"
-msgstr "49,942 salita"
-
-#: languages
-msgid "Norwegian"
-msgstr "Norwegian"
-
-#: languages
-msgid "140,318 words"
-msgstr "140,318 salita"
-
-#: languages
-msgid "Dutch"
-msgstr "Dutch"
-
-#: languages
-msgid "140,383 words"
-msgstr "140,383 salita"
-
-#: languages
-msgid "Romanian"
-msgstr "Romanian"
-
-#: languages
-msgid "119,573 words"
-msgstr "119,573 salita"
-
-#: languages
-msgid "Slovenian"
-msgstr "Slovenian"
-
-#: languages
-msgid "182,841 words"
-msgstr "182,841 salita"
-
-#: languages
-msgid "Albanian"
-msgstr "Albanian"
-
-#: languages
-msgid "89,152 words"
-msgstr "89,152 salita"
-
-#: languages
-msgid "Serbian"
-msgstr "Serbian"
-
-#: languages
-msgid "330,967 words"
-msgstr "330,967 salita"
-
-#: languages
-msgid "Swedish"
-msgstr "Swedish"
-
-#: languages
-msgid "153,998 words"
-msgstr "153,998 salita"
-
-#: languages
-msgid "30,099 words"
-msgstr "30,099 salita"
-
-#: languages
-msgid "Turkish"
-msgstr "Turkish"
-
-#: languages
-msgid "305,078 words"
-msgstr "305,078 salita"
-
-#: languages
-msgid "Vietnamese"
-msgstr "Vietnamese"
-
-#: languages
-msgid "35,303 words"
-msgstr "35,303 salita"
+msgid "Vietnamese · 35,303 words"
+msgstr "Vietnamese · 35,303 salita"
 
 #: languages
 msgid ""

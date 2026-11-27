@@ -170,6 +170,18 @@ msgid "Next"
 msgstr "Seuraava"
 
 #: index
+msgid "Another word from the bar"
+msgstr "Toinen sana palkista"
+
+#: index
+msgid "Capital letter"
+msgstr "Iso kirjain"
+
+#: index
+msgid "Character from the key corner"
+msgstr "Merkki näppäimen kulmasta"
+
+#: index
 msgid "Glide over the keys like a dragonfly."
 msgstr "Liu’u näppäinten yli kuin sudenkorento."
 
@@ -180,6 +192,14 @@ msgstr ""
 "Kirjaimia ei tarvitse napauttaa yksitellen – yksi veto sanan kirjainten yli riittää. Swajp tunnistaa pyyhkäisyn, vaikka se ei olisi täydellinen, ja oppii tyylisi, joten se tarkentuu jatkuvasti. Samankaltaisella pyyhkäisyllä syntyvät sanat odottavat ehdotuspalkissa – yksi napautus vaihtaa ne. Ison kirjaimen saat, kun liu’ut ensimmäisestä kirjaimesta ylös näppäimistön yläpuolelle ja siitä suoraan seuraavaan. Pyyhkäisy kirjaimesta välilyöntinäppäimeen kirjoittaa kirjaimen kulmassa olevan merkin, kuten ? tai !"
 
 #: index
+msgid "Next word suggestion"
+msgstr "Seuraavan sanan ehdotus"
+
+#: index
+msgid "Fixing a typo"
+msgstr "Kirjoitusvirheen korjaus"
+
+#: index
 msgid "Predicts your next word like a dragonfly predicts its prey."
 msgstr "Ennakoi seuraavan sanasi kuin sudenkorento saaliinsa lennon."
 
@@ -188,6 +208,42 @@ msgid ""
 "From the words before, it suggests what you are likely to type next – after a space, just tap it. It uses context to tell similar words apart and learns the words you actually use. When you tap out a word with a typo, the bar shows what you typed next to the fix, and the space bar inserts the highlighted fix."
 msgstr ""
 "Edellisten sanojen perusteella se ehdottaa, mitä todennäköisesti kirjoitat seuraavaksi – välilyönnin jälkeen napauta vain ehdotusta. Se erottaa samankaltaiset sanat asiayhteyden avulla ja oppii sanat, joita oikeasti käytät. Kun näppäilet sanaan kirjoitusvirheen, palkki näyttää kirjoittamasi sanan korjauksen vieressä, ja välilyöntinäppäin lisää korostetun korjauksen."
+
+#: index
+msgid "Copy and paste"
+msgstr "Kopioi ja liitä"
+
+#: index
+msgid "Undo and redo"
+msgstr "Kumoa ja toista"
+
+#: index
+msgid "Select all and deselect"
+msgstr "Valitse kaikki ja poista valinta"
+
+#: index
+msgid "UPPER / lower case"
+msgstr "ISOT / pienet kirjaimet"
+
+#: index
+msgid "Deleting words and lines"
+msgstr "Sanojen ja rivien poisto"
+
+#: index
+msgid "Moving the cursor"
+msgstr "Kohdistimen siirto"
+
+#: index
+msgid "Text editing – the [I] key"
+msgstr "Tekstin muokkaus – [I]-näppäin"
+
+#: index
+msgid "Selecting several lines"
+msgstr "Useiden rivien valinta"
+
+#: index
+msgid "Start and end"
+msgstr "Alku ja loppu"
 
 #: index
 msgid "Rules the air. Now rules your text."
@@ -270,6 +326,22 @@ msgstr ""
 "Pidä Swajp-näppäintä painettuna ja valitse Koko: kahvoista vetämällä muutat korkeutta, leveyttä ja sijaintia. Tee siitä korkeampi tai pienempi ja nosta se irti alareunasta, jaa se kahteen puolikkaaseen molemmille peukaloille (Tabletti), siirrä se reunaan yhdelle kädelle tai anna sen kellua vapaasti sovellusten päällä. Vaakatilassa näppäimistö on matalampi ja jaettu."
 
 #: index
+msgid "Number pad"
+msgstr "Numeronäppäimistö"
+
+#: index
+msgid "Calculator"
+msgstr "Laskin"
+
+#: index
+msgid "Percent and brackets"
+msgstr "Prosentti ja sulkeet"
+
+#: index
+msgid "Scientific calculator"
+msgstr "Tieteellinen laskin"
+
+#: index
 msgid "Even sharp minds reach for a calculator."
 msgstr "Terävätkin päät tarttuvat laskimeen."
 
@@ -280,6 +352,10 @@ msgstr ""
 "Pidä [I]-näppäintä painettuna, niin saat numeronäppäimistön: isot numerot puhelinnumeroiden ja summien nopeaan syöttämiseen. Laskin laskee suoraan ehdotuspalkissa ja lisää tuloksen tekstiin. Se osaa prosentit (200 + 10 % = 220) ja sulkeet, ja tieteellinen tila tuo mukaan funktiot, potenssit, asteet ja radiaanit – ilman sovelluksen vaihtamista."
 
 #: index
+msgid "Emoji from a word"
+msgstr "Emoji sanasta"
+
+#: index
 msgid "Catch your emotion mid-air."
 msgstr "Nappaa tunne lennosta."
 
@@ -288,6 +364,18 @@ msgid ""
 "Swipe or type a word – like “heart”, “beer” or “sad” – and Swajp offers the emoji in the suggestion bar. The :) shortcut works too, or simply pick one from the list."
 msgstr ""
 "Pyyhkäise tai kirjoita sana – esimerkiksi ”sydän”, ”olut” tai ”surullinen” – ja Swajp tarjoaa emojin ehdotuspalkissa. Myös lyhenne :) toimii, tai valitse emoji luettelosta."
+
+#: index
+msgid "Two languages at once"
+msgstr "Kaksi kieltä yhtä aikaa"
+
+#: index
+msgid "A new word for the dictionary"
+msgstr "Uusi sana sanastoon"
+
+#: index
+msgid "Hindi"
+msgstr "Hindi"
 
 #: index
 msgid "Born to rule – in 35 languages."
@@ -304,6 +392,10 @@ msgid ""
 "<span style=\"color:var(--g)\">Green</span> languages are built in, the others can be <a href=\"languages.html\">downloaded as packs</a>."
 msgstr ""
 "<span style=\"color:var(--g)\">Vihreällä</span> merkityt kielet ovat sovelluksessa valmiina, muut voi <a href=\"languages.html\">ladata paketteina</a>."
+
+#: index
+msgid "Dictation"
+msgstr "Sanelu"
 
 #: index
 msgid "Hears you. Tells no one."
@@ -395,204 +487,108 @@ msgid "Available languages"
 msgstr "Saatavilla olevat kielet"
 
 #: languages
-msgid "Catalan"
-msgstr "Katalaani"
+msgid "Catalan · 89,809 words"
+msgstr "Katalaani · 89 809 sanaa"
 
 #: languages
-msgid "89,809 words"
-msgstr "89 809 sanaa"
+msgid "Danish · 152,106 words"
+msgstr "Tanska · 152 106 sanaa"
 
 #: languages
-msgid "Danish"
-msgstr "Tanska"
+msgid "Esperanto · 11,343 words"
+msgstr "Esperanto · 11 343 sanaa"
 
 #: languages
-msgid "152,106 words"
-msgstr "152 106 sanaa"
+msgid "Estonian · 326,938 words"
+msgstr "Viro · 326 938 sanaa"
 
 #: languages
-msgid "11,343 words"
-msgstr "11 343 sanaa"
+msgid "Basque · 53,700 words"
+msgstr "Baski · 53 700 sanaa"
 
 #: languages
-msgid "Estonian"
-msgstr "Viro"
+msgid "Finnish · 197,333 words"
+msgstr "Suomi · 197 333 sanaa"
 
 #: languages
-msgid "326,938 words"
-msgstr "326 938 sanaa"
+msgid "Galician · 30,624 words"
+msgstr "Galicia · 30 624 sanaa"
 
 #: languages
-msgid "Basque"
-msgstr "Baski"
+msgid "Hindi · 52,622 words"
+msgstr "Hindi · 52 622 sanaa"
 
 #: languages
-msgid "53,700 words"
-msgstr "53 700 sanaa"
+msgid "Croatian · 191,499 words"
+msgstr "Kroatia · 191 499 sanaa"
 
 #: languages
-msgid "Finnish"
-msgstr "Suomi"
+msgid "Hungarian · 380,920 words"
+msgstr "Unkari · 380 920 sanaa"
 
 #: languages
-msgid "197,333 words"
-msgstr "197 333 sanaa"
+msgid "Indonesian · 75,492 words"
+msgstr "Indonesia · 75 492 sanaa"
 
 #: languages
-msgid "Galician"
-msgstr "Galicia"
+msgid "Icelandic · 74,391 words"
+msgstr "Islanti · 74 391 sanaa"
 
 #: languages
-msgid "30,624 words"
-msgstr "30 624 sanaa"
+msgid "Latin · 165,218 words"
+msgstr "Latina · 165 218 sanaa"
 
 #: languages
-msgid "Hindi"
-msgstr "Hindi"
+msgid "Lithuanian · 100,175 words"
+msgstr "Liettua · 100 175 sanaa"
 
 #: languages
-msgid "52,622 words"
-msgstr "52 622 sanaa"
+msgid "Latvian · 51,479 words"
+msgstr "Latvia · 51 479 sanaa"
 
 #: languages
-msgid "Croatian"
-msgstr "Kroatia"
+msgid "Malay · 49,942 words"
+msgstr "Malaiji · 49 942 sanaa"
 
 #: languages
-msgid "191,499 words"
-msgstr "191 499 sanaa"
+msgid "Norwegian · 140,318 words"
+msgstr "Norja · 140 318 sanaa"
 
 #: languages
-msgid "Hungarian"
-msgstr "Unkari"
+msgid "Dutch · 140,383 words"
+msgstr "Hollanti · 140 383 sanaa"
 
 #: languages
-msgid "380,920 words"
-msgstr "380 920 sanaa"
+msgid "Romanian · 119,573 words"
+msgstr "Romania · 119 573 sanaa"
 
 #: languages
-msgid "Indonesian"
-msgstr "Indonesia"
+msgid "Slovenian · 182,841 words"
+msgstr "Sloveeni · 182 841 sanaa"
 
 #: languages
-msgid "75,492 words"
-msgstr "75 492 sanaa"
+msgid "Albanian · 89,152 words"
+msgstr "Albania · 89 152 sanaa"
 
 #: languages
-msgid "Icelandic"
-msgstr "Islanti"
+msgid "Serbian · 330,967 words"
+msgstr "Serbia · 330 967 sanaa"
 
 #: languages
-msgid "74,391 words"
-msgstr "74 391 sanaa"
+msgid "Swedish · 153,998 words"
+msgstr "Ruotsi · 153 998 sanaa"
 
 #: languages
-msgid "Latin"
-msgstr "Latina"
+msgid "Tagalog · 30,099 words"
+msgstr "Tagalog · 30 099 sanaa"
 
 #: languages
-msgid "165,218 words"
-msgstr "165 218 sanaa"
+msgid "Turkish · 305,078 words"
+msgstr "Turkki · 305 078 sanaa"
 
 #: languages
-msgid "Lithuanian"
-msgstr "Liettua"
-
-#: languages
-msgid "100,175 words"
-msgstr "100 175 sanaa"
-
-#: languages
-msgid "Latvian"
-msgstr "Latvia"
-
-#: languages
-msgid "51,479 words"
-msgstr "51 479 sanaa"
-
-#: languages
-msgid "Malay"
-msgstr "Malaiji"
-
-#: languages
-msgid "49,942 words"
-msgstr "49 942 sanaa"
-
-#: languages
-msgid "Norwegian"
-msgstr "Norja"
-
-#: languages
-msgid "140,318 words"
-msgstr "140 318 sanaa"
-
-#: languages
-msgid "Dutch"
-msgstr "Hollanti"
-
-#: languages
-msgid "140,383 words"
-msgstr "140 383 sanaa"
-
-#: languages
-msgid "Romanian"
-msgstr "Romania"
-
-#: languages
-msgid "119,573 words"
-msgstr "119 573 sanaa"
-
-#: languages
-msgid "Slovenian"
-msgstr "Sloveeni"
-
-#: languages
-msgid "182,841 words"
-msgstr "182 841 sanaa"
-
-#: languages
-msgid "Albanian"
-msgstr "Albania"
-
-#: languages
-msgid "89,152 words"
-msgstr "89 152 sanaa"
-
-#: languages
-msgid "Serbian"
-msgstr "Serbia"
-
-#: languages
-msgid "330,967 words"
-msgstr "330 967 sanaa"
-
-#: languages
-msgid "Swedish"
-msgstr "Ruotsi"
-
-#: languages
-msgid "153,998 words"
-msgstr "153 998 sanaa"
-
-#: languages
-msgid "30,099 words"
-msgstr "30 099 sanaa"
-
-#: languages
-msgid "Turkish"
-msgstr "Turkki"
-
-#: languages
-msgid "305,078 words"
-msgstr "305 078 sanaa"
-
-#: languages
-msgid "Vietnamese"
-msgstr "Vietnam"
-
-#: languages
-msgid "35,303 words"
-msgstr "35 303 sanaa"
+msgid "Vietnamese · 35,303 words"
+msgstr "Vietnam · 35 303 sanaa"
 
 #: languages
 msgid ""

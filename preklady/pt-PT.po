@@ -170,6 +170,18 @@ msgid "Next"
 msgstr "Seguinte"
 
 #: index
+msgid "Another word from the bar"
+msgstr "Outra palavra da barra"
+
+#: index
+msgid "Capital letter"
+msgstr "Maiúscula"
+
+#: index
+msgid "Character from the key corner"
+msgstr "Carácter do canto da tecla"
+
+#: index
 msgid "Glide over the keys like a dragonfly."
 msgstr "Plane sobre as teclas como uma libélula."
 
@@ -180,6 +192,14 @@ msgstr ""
 "Não precisa de tocar letra a letra – basta um traço pelas letras de uma palavra. O Swajp reconhece o traço mesmo quando não é perfeito e aprende o seu estilo, ficando cada vez mais preciso. As palavras com um traço semelhante esperam na barra de sugestões – um toque troca-as. Para uma maiúscula, deslize da primeira letra para cima, acima do teclado, e siga diretamente para a seguinte. Um traço de uma letra até à barra de espaço escreve o carácter do seu canto, como ? ou !"
 
 #: index
+msgid "Next word suggestion"
+msgstr "Sugestão da palavra seguinte"
+
+#: index
+msgid "Fixing a typo"
+msgstr "Corrigir uma gralha"
+
+#: index
 msgid "Predicts your next word like a dragonfly predicts its prey."
 msgstr "Prevê a sua próxima palavra como a libélula prevê a presa."
 
@@ -188,6 +208,42 @@ msgid ""
 "From the words before, it suggests what you are likely to type next – after a space, just tap it. It uses context to tell similar words apart and learns the words you actually use. When you tap out a word with a typo, the bar shows what you typed next to the fix, and the space bar inserts the highlighted fix."
 msgstr ""
 "Com base nas palavras anteriores, sugere o que provavelmente vai escrever a seguir – depois de um espaço, basta tocar. Pelo contexto distingue palavras semelhantes e aprende as palavras que realmente usa. Quando comete um erro ao teclar, a barra mostra o que escreveu ao lado da correção, e a barra de espaço insere a correção destacada."
+
+#: index
+msgid "Copy and paste"
+msgstr "Copiar e colar"
+
+#: index
+msgid "Undo and redo"
+msgstr "Desfazer e refazer"
+
+#: index
+msgid "Select all and deselect"
+msgstr "Selecionar tudo e anular a seleção"
+
+#: index
+msgid "UPPER / lower case"
+msgstr "MAIÚSCULAS / minúsculas"
+
+#: index
+msgid "Deleting words and lines"
+msgstr "Apagar palavras e linhas"
+
+#: index
+msgid "Moving the cursor"
+msgstr "Mover cursor"
+
+#: index
+msgid "Text editing – the [I] key"
+msgstr "Edição de texto – a tecla [I]"
+
+#: index
+msgid "Selecting several lines"
+msgstr "Selecionar várias linhas"
+
+#: index
+msgid "Start and end"
+msgstr "Início e fim"
 
 #: index
 msgid "Rules the air. Now rules your text."
@@ -270,6 +326,22 @@ msgstr ""
 "Mantenha premida a tecla Swajp e escolha Tamanho: arraste as pegas para alterar a altura, a largura e a posição. Torne-o mais alto, ou mais pequeno e afastado do rebordo inferior, divida-o em duas metades para ambos os polegares (Tablet), desloque-o para a margem para o usar com uma mão, ou deixe-o flutuar livremente sobre as aplicações. Na horizontal, o teclado fica mais baixo e dividido."
 
 #: index
+msgid "Number pad"
+msgstr "Teclado numérico"
+
+#: index
+msgid "Calculator"
+msgstr "Calculadora"
+
+#: index
+msgid "Percent and brackets"
+msgstr "Percentagem e parênteses"
+
+#: index
+msgid "Scientific calculator"
+msgstr "Calculadora científica"
+
+#: index
 msgid "Even sharp minds reach for a calculator."
 msgstr "Até as mentes mais afiadas recorrem à calculadora."
 
@@ -280,6 +352,10 @@ msgstr ""
 "Mantenha premida a tecla [I] para o teclado numérico: algarismos grandes para introduzir rapidamente números de telefone e montantes. A calculadora calcula diretamente na barra de sugestões e insere o resultado no texto. Trata percentagens (200 + 10% = 220) e parênteses, e o modo científico acrescenta funções, potências, graus e radianos – sem mudar de aplicação."
 
 #: index
+msgid "Emoji from a word"
+msgstr "Emoji a partir de uma palavra"
+
+#: index
 msgid "Catch your emotion mid-air."
 msgstr "Apanhe a emoção em pleno voo."
 
@@ -288,6 +364,18 @@ msgid ""
 "Swipe or type a word – like “heart”, “beer” or “sad” – and Swajp offers the emoji in the suggestion bar. The :) shortcut works too, or simply pick one from the list."
 msgstr ""
 "Deslize ou escreva uma palavra – como «coração», «cerveja» ou «triste» – e o Swajp sugere o emoji na barra de sugestões. O atalho :) também funciona, ou escolha simplesmente um da lista."
+
+#: index
+msgid "Two languages at once"
+msgstr "Dois idiomas ao mesmo tempo"
+
+#: index
+msgid "A new word for the dictionary"
+msgstr "Uma palavra nova para o dicionário"
+
+#: index
+msgid "Hindi"
+msgstr "Hindi"
 
 #: index
 msgid "Born to rule – in 35 languages."
@@ -304,6 +392,10 @@ msgid ""
 "<span style=\"color:var(--g)\">Green</span> languages are built in, the others can be <a href=\"languages.html\">downloaded as packs</a>."
 msgstr ""
 "Os idiomas <span style=\"color:var(--g)\">a verde</span> estão incluídos; os restantes podem ser <a href=\"languages.html\">transferidos como pacotes</a>."
+
+#: index
+msgid "Dictation"
+msgstr "Ditado"
 
 #: index
 msgid "Hears you. Tells no one."
@@ -396,204 +488,108 @@ msgid "Available languages"
 msgstr "Idiomas disponíveis"
 
 #: languages
-msgid "Catalan"
-msgstr "Catalão"
+msgid "Catalan · 89,809 words"
+msgstr "Catalão · 89 809 palavras"
 
 #: languages
-msgid "89,809 words"
-msgstr "89 809 palavras"
+msgid "Danish · 152,106 words"
+msgstr "Dinamarquês · 152 106 palavras"
 
 #: languages
-msgid "Danish"
-msgstr "Dinamarquês"
+msgid "Esperanto · 11,343 words"
+msgstr "Esperanto · 11 343 palavras"
 
 #: languages
-msgid "152,106 words"
-msgstr "152 106 palavras"
+msgid "Estonian · 326,938 words"
+msgstr "Estónio · 326 938 palavras"
 
 #: languages
-msgid "11,343 words"
-msgstr "11 343 palavras"
+msgid "Basque · 53,700 words"
+msgstr "Basco · 53 700 palavras"
 
 #: languages
-msgid "Estonian"
-msgstr "Estónio"
+msgid "Finnish · 197,333 words"
+msgstr "Finlandês · 197 333 palavras"
 
 #: languages
-msgid "326,938 words"
-msgstr "326 938 palavras"
+msgid "Galician · 30,624 words"
+msgstr "Galego · 30 624 palavras"
 
 #: languages
-msgid "Basque"
-msgstr "Basco"
+msgid "Hindi · 52,622 words"
+msgstr "Hindi · 52 622 palavras"
 
 #: languages
-msgid "53,700 words"
-msgstr "53 700 palavras"
+msgid "Croatian · 191,499 words"
+msgstr "Croata · 191 499 palavras"
 
 #: languages
-msgid "Finnish"
-msgstr "Finlandês"
+msgid "Hungarian · 380,920 words"
+msgstr "Húngaro · 380 920 palavras"
 
 #: languages
-msgid "197,333 words"
-msgstr "197 333 palavras"
+msgid "Indonesian · 75,492 words"
+msgstr "Indonésio · 75 492 palavras"
 
 #: languages
-msgid "Galician"
-msgstr "Galego"
+msgid "Icelandic · 74,391 words"
+msgstr "Islandês · 74 391 palavras"
 
 #: languages
-msgid "30,624 words"
-msgstr "30 624 palavras"
+msgid "Latin · 165,218 words"
+msgstr "Latim · 165 218 palavras"
 
 #: languages
-msgid "Hindi"
-msgstr "Hindi"
+msgid "Lithuanian · 100,175 words"
+msgstr "Lituano · 100 175 palavras"
 
 #: languages
-msgid "52,622 words"
-msgstr "52 622 palavras"
+msgid "Latvian · 51,479 words"
+msgstr "Letão · 51 479 palavras"
 
 #: languages
-msgid "Croatian"
-msgstr "Croata"
+msgid "Malay · 49,942 words"
+msgstr "Malaio · 49 942 palavras"
 
 #: languages
-msgid "191,499 words"
-msgstr "191 499 palavras"
+msgid "Norwegian · 140,318 words"
+msgstr "Norueguês · 140 318 palavras"
 
 #: languages
-msgid "Hungarian"
-msgstr "Húngaro"
+msgid "Dutch · 140,383 words"
+msgstr "Neerlandês · 140 383 palavras"
 
 #: languages
-msgid "380,920 words"
-msgstr "380 920 palavras"
+msgid "Romanian · 119,573 words"
+msgstr "Romeno · 119 573 palavras"
 
 #: languages
-msgid "Indonesian"
-msgstr "Indonésio"
+msgid "Slovenian · 182,841 words"
+msgstr "Esloveno · 182 841 palavras"
 
 #: languages
-msgid "75,492 words"
-msgstr "75 492 palavras"
+msgid "Albanian · 89,152 words"
+msgstr "Albanês · 89 152 palavras"
 
 #: languages
-msgid "Icelandic"
-msgstr "Islandês"
+msgid "Serbian · 330,967 words"
+msgstr "Sérvio · 330 967 palavras"
 
 #: languages
-msgid "74,391 words"
-msgstr "74 391 palavras"
+msgid "Swedish · 153,998 words"
+msgstr "Sueco · 153 998 palavras"
 
 #: languages
-msgid "Latin"
-msgstr "Latim"
+msgid "Tagalog · 30,099 words"
+msgstr "Tagalog · 30 099 palavras"
 
 #: languages
-msgid "165,218 words"
-msgstr "165 218 palavras"
+msgid "Turkish · 305,078 words"
+msgstr "Turco · 305 078 palavras"
 
 #: languages
-msgid "Lithuanian"
-msgstr "Lituano"
-
-#: languages
-msgid "100,175 words"
-msgstr "100 175 palavras"
-
-#: languages
-msgid "Latvian"
-msgstr "Letão"
-
-#: languages
-msgid "51,479 words"
-msgstr "51 479 palavras"
-
-#: languages
-msgid "Malay"
-msgstr "Malaio"
-
-#: languages
-msgid "49,942 words"
-msgstr "49 942 palavras"
-
-#: languages
-msgid "Norwegian"
-msgstr "Norueguês"
-
-#: languages
-msgid "140,318 words"
-msgstr "140 318 palavras"
-
-#: languages
-msgid "Dutch"
-msgstr "Neerlandês"
-
-#: languages
-msgid "140,383 words"
-msgstr "140 383 palavras"
-
-#: languages
-msgid "Romanian"
-msgstr "Romeno"
-
-#: languages
-msgid "119,573 words"
-msgstr "119 573 palavras"
-
-#: languages
-msgid "Slovenian"
-msgstr "Esloveno"
-
-#: languages
-msgid "182,841 words"
-msgstr "182 841 palavras"
-
-#: languages
-msgid "Albanian"
-msgstr "Albanês"
-
-#: languages
-msgid "89,152 words"
-msgstr "89 152 palavras"
-
-#: languages
-msgid "Serbian"
-msgstr "Sérvio"
-
-#: languages
-msgid "330,967 words"
-msgstr "330 967 palavras"
-
-#: languages
-msgid "Swedish"
-msgstr "Sueco"
-
-#: languages
-msgid "153,998 words"
-msgstr "153 998 palavras"
-
-#: languages
-msgid "30,099 words"
-msgstr "30 099 palavras"
-
-#: languages
-msgid "Turkish"
-msgstr "Turco"
-
-#: languages
-msgid "305,078 words"
-msgstr "305 078 palavras"
-
-#: languages
-msgid "Vietnamese"
-msgstr "Vietnamita"
-
-#: languages
-msgid "35,303 words"
-msgstr "35 303 palavras"
+msgid "Vietnamese · 35,303 words"
+msgstr "Vietnamita · 35 303 palavras"
 
 #: languages
 msgid ""

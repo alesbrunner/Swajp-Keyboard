@@ -171,6 +171,18 @@ msgid "Next"
 msgstr "Neste"
 
 #: index
+msgid "Another word from the bar"
+msgstr "Et annet ord fra linjen"
+
+#: index
+msgid "Capital letter"
+msgstr "Stor bokstav"
+
+#: index
+msgid "Character from the key corner"
+msgstr "Tegn fra hjørnet av tasten"
+
+#: index
 msgid "Glide over the keys like a dragonfly."
 msgstr "Gli over tastene som en øyenstikker."
 
@@ -181,6 +193,14 @@ msgstr ""
 "Du trenger ikke trykke bokstav for bokstav – ett strøk over bokstavene i ordet er nok. Swajp kjenner igjen sveipet selv når det ikke er perfekt, og lærer stilen din, så det blir stadig mer treffsikkert. Ord med lignende sveip venter i forslagslinjen – ett trykk bytter dem. For stor bokstav drar du fra den første bokstaven opp over tastaturet og rett videre til den neste. Et sveip fra en bokstav til mellomromstasten skriver tegnet i bokstavens hjørne, for eksempel ? eller !"
 
 #: index
+msgid "Next word suggestion"
+msgstr "Forslag til neste ord"
+
+#: index
+msgid "Fixing a typo"
+msgstr "Rette en skrivefeil"
+
+#: index
 msgid "Predicts your next word like a dragonfly predicts its prey."
 msgstr "Forutser ditt neste ord slik en øyenstikker forutser byttet sitt."
 
@@ -189,6 +209,42 @@ msgid ""
 "From the words before, it suggests what you are likely to type next – after a space, just tap it. It uses context to tell similar words apart and learns the words you actually use. When you tap out a word with a typo, the bar shows what you typed next to the fix, and the space bar inserts the highlighted fix."
 msgstr ""
 "Ut fra ordene foran foreslår det hva du sannsynligvis skriver nå – etter et mellomrom trykker du bare på forslaget. Det bruker sammenhengen til å skille like ord fra hverandre og lærer ordene du faktisk bruker. Når du taster et ord med skrivefeil, viser linjen det du skrev, ved siden av rettelsen, og mellomromstasten setter inn den uthevede rettelsen."
+
+#: index
+msgid "Copy and paste"
+msgstr "Kopier og lim inn"
+
+#: index
+msgid "Undo and redo"
+msgstr "Angre og gjør om"
+
+#: index
+msgid "Select all and deselect"
+msgstr "Merk alt og fjern merking"
+
+#: index
+msgid "UPPER / lower case"
+msgstr "STORE / små bokstaver"
+
+#: index
+msgid "Deleting words and lines"
+msgstr "Slette ord og linjer"
+
+#: index
+msgid "Moving the cursor"
+msgstr "Flytt markøren"
+
+#: index
+msgid "Text editing – the [I] key"
+msgstr "Tekstredigering – tasten [I]"
+
+#: index
+msgid "Selecting several lines"
+msgstr "Merke flere linjer"
+
+#: index
+msgid "Start and end"
+msgstr "Start og slutt"
 
 #: index
 msgid "Rules the air. Now rules your text."
@@ -271,6 +327,22 @@ msgstr ""
 "Hold inne Swajp-tasten og velg Størrelse: dra i håndtakene for å endre høyde, bredde og plassering. Gjør det høyere, eller mindre og løftet fra nederkanten, del det i to halvdeler for begge tomlene (Nettbrett), flytt det til kanten for én hånd, eller la det sveve fritt over apper. Liggende er tastaturet lavere og delt."
 
 #: index
+msgid "Number pad"
+msgstr "Talltastatur"
+
+#: index
+msgid "Calculator"
+msgstr "Kalkulator"
+
+#: index
+msgid "Percent and brackets"
+msgstr "Prosent og parenteser"
+
+#: index
+msgid "Scientific calculator"
+msgstr "Vitenskapelig kalkulator"
+
+#: index
 msgid "Even sharp minds reach for a calculator."
 msgstr "Selv skarpe hoder trenger en kalkulator."
 
@@ -281,6 +353,10 @@ msgstr ""
 "Hold inne tasten [I] for talltastaturet: store sifre for rask inntasting av telefonnumre og beløp. Kalkulatoren regner rett i forslagslinjen og setter inn resultatet i teksten. Den håndterer prosent (200 + 10 % = 220) og parenteser, og den vitenskapelige modusen legger til funksjoner, potenser, grader og radianer – uten å bytte app."
 
 #: index
+msgid "Emoji from a word"
+msgstr "Emoji fra et ord"
+
+#: index
 msgid "Catch your emotion mid-air."
 msgstr "Fang følelsen i flukt."
 
@@ -289,6 +365,18 @@ msgid ""
 "Swipe or type a word – like “heart”, “beer” or “sad” – and Swajp offers the emoji in the suggestion bar. The :) shortcut works too, or simply pick one from the list."
 msgstr ""
 "Sveip eller skriv et ord – som «hjerte», «øl» eller «trist» – så foreslår Swajp emojien i forslagslinjen. Snarveien :) virker også, eller du kan bare velge en fra listen."
+
+#: index
+msgid "Two languages at once"
+msgstr "To språk samtidig"
+
+#: index
+msgid "A new word for the dictionary"
+msgstr "Et nytt ord i ordboken"
+
+#: index
+msgid "Hindi"
+msgstr "Hindi"
 
 #: index
 msgid "Born to rule – in 35 languages."
@@ -305,6 +393,10 @@ msgid ""
 "<span style=\"color:var(--g)\">Green</span> languages are built in, the others can be <a href=\"languages.html\">downloaded as packs</a>."
 msgstr ""
 "<span style=\"color:var(--g)\">Grønne</span> språk er innebygd, de andre kan <a href=\"languages.html\">lastes ned som pakker</a>."
+
+#: index
+msgid "Dictation"
+msgstr "Diktering"
 
 #: index
 msgid "Hears you. Tells no one."
@@ -397,204 +489,108 @@ msgid "Available languages"
 msgstr "Tilgjengelige språk"
 
 #: languages
-msgid "Catalan"
-msgstr "Katalansk"
+msgid "Catalan · 89,809 words"
+msgstr "Katalansk · 89 809 ord"
 
 #: languages
-msgid "89,809 words"
-msgstr "89 809 ord"
+msgid "Danish · 152,106 words"
+msgstr "Dansk · 152 106 ord"
 
 #: languages
-msgid "Danish"
-msgstr "Dansk"
+msgid "Esperanto · 11,343 words"
+msgstr "Esperanto · 11 343 ord"
 
 #: languages
-msgid "152,106 words"
-msgstr "152 106 ord"
+msgid "Estonian · 326,938 words"
+msgstr "Estisk · 326 938 ord"
 
 #: languages
-msgid "11,343 words"
-msgstr "11 343 ord"
+msgid "Basque · 53,700 words"
+msgstr "Baskisk · 53 700 ord"
 
 #: languages
-msgid "Estonian"
-msgstr "Estisk"
+msgid "Finnish · 197,333 words"
+msgstr "Finsk · 197 333 ord"
 
 #: languages
-msgid "326,938 words"
-msgstr "326 938 ord"
+msgid "Galician · 30,624 words"
+msgstr "Galisisk · 30 624 ord"
 
 #: languages
-msgid "Basque"
-msgstr "Baskisk"
+msgid "Hindi · 52,622 words"
+msgstr "Hindi · 52 622 ord"
 
 #: languages
-msgid "53,700 words"
-msgstr "53 700 ord"
+msgid "Croatian · 191,499 words"
+msgstr "Kroatisk · 191 499 ord"
 
 #: languages
-msgid "Finnish"
-msgstr "Finsk"
+msgid "Hungarian · 380,920 words"
+msgstr "Ungarsk · 380 920 ord"
 
 #: languages
-msgid "197,333 words"
-msgstr "197 333 ord"
+msgid "Indonesian · 75,492 words"
+msgstr "Indonesisk · 75 492 ord"
 
 #: languages
-msgid "Galician"
-msgstr "Galisisk"
+msgid "Icelandic · 74,391 words"
+msgstr "Islandsk · 74 391 ord"
 
 #: languages
-msgid "30,624 words"
-msgstr "30 624 ord"
+msgid "Latin · 165,218 words"
+msgstr "Latin · 165 218 ord"
 
 #: languages
-msgid "Hindi"
-msgstr "Hindi"
+msgid "Lithuanian · 100,175 words"
+msgstr "Litauisk · 100 175 ord"
 
 #: languages
-msgid "52,622 words"
-msgstr "52 622 ord"
+msgid "Latvian · 51,479 words"
+msgstr "Latvisk · 51 479 ord"
 
 #: languages
-msgid "Croatian"
-msgstr "Kroatisk"
+msgid "Malay · 49,942 words"
+msgstr "Malayisk · 49 942 ord"
 
 #: languages
-msgid "191,499 words"
-msgstr "191 499 ord"
+msgid "Norwegian · 140,318 words"
+msgstr "Norsk · 140 318 ord"
 
 #: languages
-msgid "Hungarian"
-msgstr "Ungarsk"
+msgid "Dutch · 140,383 words"
+msgstr "Nederlandsk · 140 383 ord"
 
 #: languages
-msgid "380,920 words"
-msgstr "380 920 ord"
+msgid "Romanian · 119,573 words"
+msgstr "Rumensk · 119 573 ord"
 
 #: languages
-msgid "Indonesian"
-msgstr "Indonesisk"
+msgid "Slovenian · 182,841 words"
+msgstr "Slovensk · 182 841 ord"
 
 #: languages
-msgid "75,492 words"
-msgstr "75 492 ord"
+msgid "Albanian · 89,152 words"
+msgstr "Albansk · 89 152 ord"
 
 #: languages
-msgid "Icelandic"
-msgstr "Islandsk"
+msgid "Serbian · 330,967 words"
+msgstr "Serbisk · 330 967 ord"
 
 #: languages
-msgid "74,391 words"
-msgstr "74 391 ord"
+msgid "Swedish · 153,998 words"
+msgstr "Svensk · 153 998 ord"
 
 #: languages
-msgid "Latin"
-msgstr "Latin"
+msgid "Tagalog · 30,099 words"
+msgstr "Tagalog · 30 099 ord"
 
 #: languages
-msgid "165,218 words"
-msgstr "165 218 ord"
+msgid "Turkish · 305,078 words"
+msgstr "Tyrkisk · 305 078 ord"
 
 #: languages
-msgid "Lithuanian"
-msgstr "Litauisk"
-
-#: languages
-msgid "100,175 words"
-msgstr "100 175 ord"
-
-#: languages
-msgid "Latvian"
-msgstr "Latvisk"
-
-#: languages
-msgid "51,479 words"
-msgstr "51 479 ord"
-
-#: languages
-msgid "Malay"
-msgstr "Malayisk"
-
-#: languages
-msgid "49,942 words"
-msgstr "49 942 ord"
-
-#: languages
-msgid "Norwegian"
-msgstr "Norsk"
-
-#: languages
-msgid "140,318 words"
-msgstr "140 318 ord"
-
-#: languages
-msgid "Dutch"
-msgstr "Nederlandsk"
-
-#: languages
-msgid "140,383 words"
-msgstr "140 383 ord"
-
-#: languages
-msgid "Romanian"
-msgstr "Rumensk"
-
-#: languages
-msgid "119,573 words"
-msgstr "119 573 ord"
-
-#: languages
-msgid "Slovenian"
-msgstr "Slovensk"
-
-#: languages
-msgid "182,841 words"
-msgstr "182 841 ord"
-
-#: languages
-msgid "Albanian"
-msgstr "Albansk"
-
-#: languages
-msgid "89,152 words"
-msgstr "89 152 ord"
-
-#: languages
-msgid "Serbian"
-msgstr "Serbisk"
-
-#: languages
-msgid "330,967 words"
-msgstr "330 967 ord"
-
-#: languages
-msgid "Swedish"
-msgstr "Svensk"
-
-#: languages
-msgid "153,998 words"
-msgstr "153 998 ord"
-
-#: languages
-msgid "30,099 words"
-msgstr "30 099 ord"
-
-#: languages
-msgid "Turkish"
-msgstr "Tyrkisk"
-
-#: languages
-msgid "305,078 words"
-msgstr "305 078 ord"
-
-#: languages
-msgid "Vietnamese"
-msgstr "Vietnamesisk"
-
-#: languages
-msgid "35,303 words"
-msgstr "35 303 ord"
+msgid "Vietnamese · 35,303 words"
+msgstr "Vietnamesisk · 35 303 ord"
 
 #: languages
 msgid ""

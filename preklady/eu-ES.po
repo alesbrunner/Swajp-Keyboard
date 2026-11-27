@@ -171,6 +171,18 @@ msgid "Next"
 msgstr "Hurrengoa"
 
 #: index
+msgid "Another word from the bar"
+msgstr "Beste hitz bat barratik"
+
+#: index
+msgid "Capital letter"
+msgstr "Letra larria"
+
+#: index
+msgid "Character from the key corner"
+msgstr "Teklaren izkinako karakterea"
+
+#: index
 msgid "Glide over the keys like a dragonfly."
 msgstr "Irristatu teklen gainetik, burruntzi bat bezala."
 
@@ -179,6 +191,14 @@ msgid ""
 "No need to tap letter by letter – one stroke across the letters of a word is enough. Swajp recognises the swipe even when it is not perfect, and learns your style so it keeps getting more accurate. Words with a similar swipe wait in the suggestion bar – one tap swaps them. For a capital letter, slide from the first letter up above the keyboard and straight on to the next one. A swipe from a letter to the space bar types the character from its corner, such as ? or !"
 msgstr ""
 "Ez duzu letraz letra sakatu beharrik – nahikoa da trazu bakar bat hitzaren letren gainetik. Swajpek irristatzea ezagutzen du perfektua ez denean ere, eta zure estiloa ikasten du, gero eta zehatzagoa izan dadin. Antzeko irristatzea duten hitzak iradokizun-barran zain daude – ukitu batez trukatzen dituzu. Letra larri baterako, irristatu lehen letratik gora, teklatuaren gainetik, eta handik zuzenean hurrengo letrara. Letra batetik zuriune-barrara irristatuz gero, haren izkinako karakterea idazten da, adibidez ? edo !"
+
+#: index
+msgid "Next word suggestion"
+msgstr "Hurrengo hitzaren iradokizuna"
+
+#: index
+msgid "Fixing a typo"
+msgstr "Akats tipografikoa zuzentzea"
 
 #: index
 msgid "Predicts your next word like a dragonfly predicts its prey."
@@ -190,6 +210,42 @@ msgid ""
 "From the words before, it suggests what you are likely to type next – after a space, just tap it. It uses context to tell similar words apart and learns the words you actually use. When you tap out a word with a typo, the bar shows what you typed next to the fix, and the space bar inserts the highlighted fix."
 msgstr ""
 "Aurreko hitzetan oinarrituta, ziurrenik hurrengo idatziko duzuna iradokitzen du – zuriunearen ondoren, ukitu besterik ez. Testuingurua erabiltzen du antzeko hitzak bereizteko, eta benetan erabiltzen dituzun hitzak ikasten ditu. Hitz bat tekleatzean akatsen bat egiten baduzu, barrak idatzi duzuna zuzenketaren ondoan erakusten du, eta zuriune-barrak nabarmendutako zuzenketa txertatzen du."
+
+#: index
+msgid "Copy and paste"
+msgstr "Kopiatu eta itsatsi"
+
+#: index
+msgid "Undo and redo"
+msgstr "Desegin eta berregin"
+
+#: index
+msgid "Select all and deselect"
+msgstr "Hautatu guztia eta kendu hautapena"
+
+#: index
+msgid "UPPER / lower case"
+msgstr "LARRIAK / xeheak"
+
+#: index
+msgid "Deleting words and lines"
+msgstr "Hitzak eta lerroak ezabatzea"
+
+#: index
+msgid "Moving the cursor"
+msgstr "Mugitu kurtsorea"
+
+#: index
+msgid "Text editing – the [I] key"
+msgstr "Testu-edizioa – [I] tekla"
+
+#: index
+msgid "Selecting several lines"
+msgstr "Hainbat lerro hautatzea"
+
+#: index
+msgid "Start and end"
+msgstr "Hasiera eta amaiera"
 
 #: index
 msgid "Rules the air. Now rules your text."
@@ -272,6 +328,22 @@ msgstr ""
 "Eutsi sakatuta Swajp tekla eta aukeratu Tamaina: heldulekuak arrastatuz, altuera, zabalera eta posizioa aldatzen dituzu. Egin altuagoa, edo txikiagoa eta beheko ertzetik altxatua, zatitu bi erditan bi erpuruentzat (Tableta), eraman ertzera esku bakarrarekin erabiltzeko, edo utzi aplikazioen gainean libre flotatzen. Horizontalean, teklatua baxuagoa eta zatitua da."
 
 #: index
+msgid "Number pad"
+msgstr "Zenbaki-teklatua"
+
+#: index
+msgid "Calculator"
+msgstr "Kalkulagailua"
+
+#: index
+msgid "Percent and brackets"
+msgstr "Ehunekoa eta parentesiak"
+
+#: index
+msgid "Scientific calculator"
+msgstr "Kalkulagailu zientifikoa"
+
+#: index
 msgid "Even sharp minds reach for a calculator."
 msgstr "Buru argienek ere kalkulagailua hartzen dute."
 
@@ -282,6 +354,10 @@ msgstr ""
 "Eutsi sakatuta [I] tekla zenbaki-teklatua irekitzeko: zenbaki handiak, telefono-zenbakiak eta zenbatekoak azkar idazteko. Kalkulagailuak iradokizun-barran bertan kalkulatzen du eta emaitza testuan txertatzen du. Ehunekoak (200 + % 10 = 220) eta parentesiak maneiatzen ditu, eta modu zientifikoak funtzioak, berreturak, graduak eta radianak gehitzen ditu – aplikazioz aldatu gabe."
 
 #: index
+msgid "Emoji from a word"
+msgstr "Emojia hitz batetik"
+
+#: index
 msgid "Catch your emotion mid-air."
 msgstr "Harrapatu zure emozioa airean."
 
@@ -290,6 +366,18 @@ msgid ""
 "Swipe or type a word – like “heart”, “beer” or “sad” – and Swajp offers the emoji in the suggestion bar. The :) shortcut works too, or simply pick one from the list."
 msgstr ""
 "Idatzi hitz bat irristatuz edo tekleatuz – adibidez, «heart», «beer» edo «sad» –, eta Swajpek emojia eskainiko dizu iradokizun-barran. :) lasterbideak ere funtzionatzen du, edo, besterik gabe, aukeratu bat zerrendatik."
+
+#: index
+msgid "Two languages at once"
+msgstr "Bi hizkuntza aldi berean"
+
+#: index
+msgid "A new word for the dictionary"
+msgstr "Hitz berri bat hiztegirako"
+
+#: index
+msgid "Hindi"
+msgstr "Hindia"
 
 #: index
 msgid "Born to rule – in 35 languages."
@@ -306,6 +394,10 @@ msgid ""
 "<span style=\"color:var(--g)\">Green</span> languages are built in, the others can be <a href=\"languages.html\">downloaded as packs</a>."
 msgstr ""
 "<span style=\"color:var(--g)\">Berdez</span> nabarmendutako hizkuntzak integratuta daude; gainerakoak <a href=\"languages.html\">pakete gisa deskarga daitezke</a>."
+
+#: index
+msgid "Dictation"
+msgstr "Diktatzea"
 
 #: index
 msgid "Hears you. Tells no one."
@@ -400,204 +492,108 @@ msgid "Available languages"
 msgstr "Hizkuntza erabilgarriak"
 
 #: languages
-msgid "Catalan"
-msgstr "Katalana"
+msgid "Catalan · 89,809 words"
+msgstr "Katalana · 89.809 hitz"
 
 #: languages
-msgid "89,809 words"
-msgstr "89.809 hitz"
+msgid "Danish · 152,106 words"
+msgstr "Daniera · 152.106 hitz"
 
 #: languages
-msgid "Danish"
-msgstr "Daniera"
+msgid "Esperanto · 11,343 words"
+msgstr "Esperanto · 11.343 hitz"
 
 #: languages
-msgid "152,106 words"
-msgstr "152.106 hitz"
+msgid "Estonian · 326,938 words"
+msgstr "Estoniera · 326.938 hitz"
 
 #: languages
-msgid "11,343 words"
-msgstr "11.343 hitz"
+msgid "Basque · 53,700 words"
+msgstr "Euskara · 53.700 hitz"
 
 #: languages
-msgid "Estonian"
-msgstr "Estoniera"
+msgid "Finnish · 197,333 words"
+msgstr "Finlandiera · 197.333 hitz"
 
 #: languages
-msgid "326,938 words"
-msgstr "326.938 hitz"
+msgid "Galician · 30,624 words"
+msgstr "Galiziera · 30.624 hitz"
 
 #: languages
-msgid "Basque"
-msgstr "Euskara"
+msgid "Hindi · 52,622 words"
+msgstr "Hindia · 52.622 hitz"
 
 #: languages
-msgid "53,700 words"
-msgstr "53.700 hitz"
+msgid "Croatian · 191,499 words"
+msgstr "Kroaziera · 191.499 hitz"
 
 #: languages
-msgid "Finnish"
-msgstr "Finlandiera"
+msgid "Hungarian · 380,920 words"
+msgstr "Hungariera · 380.920 hitz"
 
 #: languages
-msgid "197,333 words"
-msgstr "197.333 hitz"
+msgid "Indonesian · 75,492 words"
+msgstr "Indonesiera · 75.492 hitz"
 
 #: languages
-msgid "Galician"
-msgstr "Galiziera"
+msgid "Icelandic · 74,391 words"
+msgstr "Islandiera · 74.391 hitz"
 
 #: languages
-msgid "30,624 words"
-msgstr "30.624 hitz"
+msgid "Latin · 165,218 words"
+msgstr "Latina · 165.218 hitz"
 
 #: languages
-msgid "Hindi"
-msgstr "Hindia"
+msgid "Lithuanian · 100,175 words"
+msgstr "Lituaniera · 100.175 hitz"
 
 #: languages
-msgid "52,622 words"
-msgstr "52.622 hitz"
+msgid "Latvian · 51,479 words"
+msgstr "Letoniera · 51.479 hitz"
 
 #: languages
-msgid "Croatian"
-msgstr "Kroaziera"
+msgid "Malay · 49,942 words"
+msgstr "Malaiera · 49.942 hitz"
 
 #: languages
-msgid "191,499 words"
-msgstr "191.499 hitz"
+msgid "Norwegian · 140,318 words"
+msgstr "Norvegiera · 140.318 hitz"
 
 #: languages
-msgid "Hungarian"
-msgstr "Hungariera"
+msgid "Dutch · 140,383 words"
+msgstr "Nederlandera · 140.383 hitz"
 
 #: languages
-msgid "380,920 words"
-msgstr "380.920 hitz"
+msgid "Romanian · 119,573 words"
+msgstr "Errumaniera · 119.573 hitz"
 
 #: languages
-msgid "Indonesian"
-msgstr "Indonesiera"
+msgid "Slovenian · 182,841 words"
+msgstr "Esloveniera · 182.841 hitz"
 
 #: languages
-msgid "75,492 words"
-msgstr "75.492 hitz"
+msgid "Albanian · 89,152 words"
+msgstr "Albaniera · 89.152 hitz"
 
 #: languages
-msgid "Icelandic"
-msgstr "Islandiera"
+msgid "Serbian · 330,967 words"
+msgstr "Serbiera · 330.967 hitz"
 
 #: languages
-msgid "74,391 words"
-msgstr "74.391 hitz"
+msgid "Swedish · 153,998 words"
+msgstr "Suediera · 153.998 hitz"
 
 #: languages
-msgid "Latin"
-msgstr "Latina"
+msgid "Tagalog · 30,099 words"
+msgstr "Tagalog · 30.099 hitz"
 
 #: languages
-msgid "165,218 words"
-msgstr "165.218 hitz"
+msgid "Turkish · 305,078 words"
+msgstr "Turkiera · 305.078 hitz"
 
 #: languages
-msgid "Lithuanian"
-msgstr "Lituaniera"
-
-#: languages
-msgid "100,175 words"
-msgstr "100.175 hitz"
-
-#: languages
-msgid "Latvian"
-msgstr "Letoniera"
-
-#: languages
-msgid "51,479 words"
-msgstr "51.479 hitz"
-
-#: languages
-msgid "Malay"
-msgstr "Malaiera"
-
-#: languages
-msgid "49,942 words"
-msgstr "49.942 hitz"
-
-#: languages
-msgid "Norwegian"
-msgstr "Norvegiera"
-
-#: languages
-msgid "140,318 words"
-msgstr "140.318 hitz"
-
-#: languages
-msgid "Dutch"
-msgstr "Nederlandera"
-
-#: languages
-msgid "140,383 words"
-msgstr "140.383 hitz"
-
-#: languages
-msgid "Romanian"
-msgstr "Errumaniera"
-
-#: languages
-msgid "119,573 words"
-msgstr "119.573 hitz"
-
-#: languages
-msgid "Slovenian"
-msgstr "Esloveniera"
-
-#: languages
-msgid "182,841 words"
-msgstr "182.841 hitz"
-
-#: languages
-msgid "Albanian"
-msgstr "Albaniera"
-
-#: languages
-msgid "89,152 words"
-msgstr "89.152 hitz"
-
-#: languages
-msgid "Serbian"
-msgstr "Serbiera"
-
-#: languages
-msgid "330,967 words"
-msgstr "330.967 hitz"
-
-#: languages
-msgid "Swedish"
-msgstr "Suediera"
-
-#: languages
-msgid "153,998 words"
-msgstr "153.998 hitz"
-
-#: languages
-msgid "30,099 words"
-msgstr "30.099 hitz"
-
-#: languages
-msgid "Turkish"
-msgstr "Turkiera"
-
-#: languages
-msgid "305,078 words"
-msgstr "305.078 hitz"
-
-#: languages
-msgid "Vietnamese"
-msgstr "Vietnamera"
-
-#: languages
-msgid "35,303 words"
-msgstr "35.303 hitz"
+msgid "Vietnamese · 35,303 words"
+msgstr "Vietnamera · 35.303 hitz"
 
 #: languages
 msgid ""

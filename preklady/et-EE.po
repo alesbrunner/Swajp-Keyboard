@@ -170,6 +170,18 @@ msgid "Next"
 msgstr "Järgmine"
 
 #: index
+msgid "Another word from the bar"
+msgstr "Teine sõna ribalt"
+
+#: index
+msgid "Capital letter"
+msgstr "Suur täht"
+
+#: index
+msgid "Character from the key corner"
+msgstr "Märk klahvi nurgast"
+
+#: index
 msgid "Glide over the keys like a dragonfly."
 msgstr "Libise üle klahvide nagu kiil."
 
@@ -180,6 +192,14 @@ msgstr ""
 "Pole vaja toksata täht-tähe haaval – piisab ühest tõmbest üle sõna tähtede. Swajp tunneb libistuse ära ka siis, kui see pole täiuslik, ja õpib sinu stiili, nii et muutub aina täpsemaks. Sarnase libistusega sõnad ootavad soovitusribal – üks puudutus vahetab need. Suure tähe jaoks libista esimeselt tähelt üles klaviatuuri kohale ja sealt otse järgmisele. Libistus tähelt tühikuklahvile kirjutab selle tähe nurgas oleva märgi, näiteks ? või !"
 
 #: index
+msgid "Next word suggestion"
+msgstr "Järgmise sõna soovitus"
+
+#: index
+msgid "Fixing a typo"
+msgstr "Trükivea parandamine"
+
+#: index
 msgid "Predicts your next word like a dragonfly predicts its prey."
 msgstr "Ennustab sinu järgmist sõna nagu kiil ennustab saaklooma lendu."
 
@@ -188,6 +208,42 @@ msgid ""
 "From the words before, it suggests what you are likely to type next – after a space, just tap it. It uses context to tell similar words apart and learns the words you actually use. When you tap out a word with a typo, the bar shows what you typed next to the fix, and the space bar inserts the highlighted fix."
 msgstr ""
 "Eelnevate sõnade põhjal pakub see, mida sa tõenäoliselt järgmisena kirjutad – pärast tühikut lihtsalt puuduta. Konteksti järgi eristab see sarnaseid sõnu ja õpib sõnu, mida sa päriselt kasutad. Kui toksid sõna kirjaveaga, näitab riba sinu kirjutatut paranduse kõrval ja tühikuklahv sisestab esiletõstetud paranduse."
+
+#: index
+msgid "Copy and paste"
+msgstr "Kopeerimine ja kleepimine"
+
+#: index
+msgid "Undo and redo"
+msgstr "Tagasivõtmine ja uuesti tegemine"
+
+#: index
+msgid "Select all and deselect"
+msgstr "Kõik valimine ja valiku tühistamine"
+
+#: index
+msgid "UPPER / lower case"
+msgstr "SUURED / väikesed tähed"
+
+#: index
+msgid "Deleting words and lines"
+msgstr "Sõnade ja ridade kustutamine"
+
+#: index
+msgid "Moving the cursor"
+msgstr "Kursori liigutamine"
+
+#: index
+msgid "Text editing – the [I] key"
+msgstr "Teksti muutmine – klahv [I]"
+
+#: index
+msgid "Selecting several lines"
+msgstr "Mitme rea valimine"
+
+#: index
+msgid "Start and end"
+msgstr "Algus ja lõpp"
 
 #: index
 msgid "Rules the air. Now rules your text."
@@ -270,6 +326,22 @@ msgstr ""
 "Hoia Swajpi klahvi all ja vali Suurus: pidemeid lohistades muudad kõrgust, laiust ja asukohta. Tee see kõrgemaks või väiksemaks ja alumisest servast kõrgemale, jaga see kaheks pooleks mõlema pöidla jaoks (Tahvel), nihuta see ühe käe jaoks serva või lase sel vabalt rakenduste kohal hõljuda. Rõhtpaigutuses on klaviatuur madalam ja poolitatud."
 
 #: index
+msgid "Number pad"
+msgstr "Numbriklahvistik"
+
+#: index
+msgid "Calculator"
+msgstr "Kalkulaator"
+
+#: index
+msgid "Percent and brackets"
+msgstr "Protsent ja sulud"
+
+#: index
+msgid "Scientific calculator"
+msgstr "Teaduslik kalkulaator"
+
+#: index
 msgid "Even sharp minds reach for a calculator."
 msgstr "Ka terav mõistus haarab vahel kalkulaatori järele."
 
@@ -280,6 +352,10 @@ msgstr ""
 "Hoia klahvi [I] all ja saad numbriklahvistiku: suured numbrid telefoninumbrite ja summade kiireks sisestamiseks. Kalkulaator arvutab otse soovitusribal ja sisestab tulemuse teksti. See tuleb toime protsentide (200 + 10% = 220) ja sulgudega ning teadusrežiim lisab funktsioonid, astmed, kraadid ja radiaanid – ilma rakendust vahetamata."
 
 #: index
+msgid "Emoji from a word"
+msgstr "Emoji sõnast"
+
+#: index
 msgid "Catch your emotion mid-air."
 msgstr "Püüa emotsioon lennult."
 
@@ -288,6 +364,18 @@ msgid ""
 "Swipe or type a word – like “heart”, “beer” or “sad” – and Swajp offers the emoji in the suggestion bar. The :) shortcut works too, or simply pick one from the list."
 msgstr ""
 "Kirjuta libistades või toksates sõna – näiteks „heart“, „beer“ või „sad“ – ja Swajp pakub soovitusribal emojit. Töötab ka lühend :), või vali emoji lihtsalt loendist."
+
+#: index
+msgid "Two languages at once"
+msgstr "Kaks keelt korraga"
+
+#: index
+msgid "A new word for the dictionary"
+msgstr "Uus sõna sõnastikku"
+
+#: index
+msgid "Hindi"
+msgstr "Hindi"
 
 #: index
 msgid "Born to rule – in 35 languages."
@@ -304,6 +392,10 @@ msgid ""
 "<span style=\"color:var(--g)\">Green</span> languages are built in, the others can be <a href=\"languages.html\">downloaded as packs</a>."
 msgstr ""
 "<span style=\"color:var(--g)\">Rohelised</span> keeled on rakenduses sees, ülejäänud saad <a href=\"languages.html\">alla laadida pakettidena</a>."
+
+#: index
+msgid "Dictation"
+msgstr "Dikteerimine"
 
 #: index
 msgid "Hears you. Tells no one."
@@ -396,204 +488,108 @@ msgid "Available languages"
 msgstr "Saadaolevad keeled"
 
 #: languages
-msgid "Catalan"
-msgstr "Katalaani"
+msgid "Catalan · 89,809 words"
+msgstr "Katalaani · 89 809 sõna"
 
 #: languages
-msgid "89,809 words"
-msgstr "89 809 sõna"
+msgid "Danish · 152,106 words"
+msgstr "Taani · 152 106 sõna"
 
 #: languages
-msgid "Danish"
-msgstr "Taani"
+msgid "Esperanto · 11,343 words"
+msgstr "Esperanto · 11 343 sõna"
 
 #: languages
-msgid "152,106 words"
-msgstr "152 106 sõna"
+msgid "Estonian · 326,938 words"
+msgstr "Eesti · 326 938 sõna"
 
 #: languages
-msgid "11,343 words"
-msgstr "11 343 sõna"
+msgid "Basque · 53,700 words"
+msgstr "Baski · 53 700 sõna"
 
 #: languages
-msgid "Estonian"
-msgstr "Eesti"
+msgid "Finnish · 197,333 words"
+msgstr "Soome · 197 333 sõna"
 
 #: languages
-msgid "326,938 words"
-msgstr "326 938 sõna"
+msgid "Galician · 30,624 words"
+msgstr "Galeegi · 30 624 sõna"
 
 #: languages
-msgid "Basque"
-msgstr "Baski"
+msgid "Hindi · 52,622 words"
+msgstr "Hindi · 52 622 sõna"
 
 #: languages
-msgid "53,700 words"
-msgstr "53 700 sõna"
+msgid "Croatian · 191,499 words"
+msgstr "Horvaadi · 191 499 sõna"
 
 #: languages
-msgid "Finnish"
-msgstr "Soome"
+msgid "Hungarian · 380,920 words"
+msgstr "Ungari · 380 920 sõna"
 
 #: languages
-msgid "197,333 words"
-msgstr "197 333 sõna"
+msgid "Indonesian · 75,492 words"
+msgstr "Indoneesia · 75 492 sõna"
 
 #: languages
-msgid "Galician"
-msgstr "Galeegi"
+msgid "Icelandic · 74,391 words"
+msgstr "Islandi · 74 391 sõna"
 
 #: languages
-msgid "30,624 words"
-msgstr "30 624 sõna"
+msgid "Latin · 165,218 words"
+msgstr "Ladina · 165 218 sõna"
 
 #: languages
-msgid "Hindi"
-msgstr "Hindi"
+msgid "Lithuanian · 100,175 words"
+msgstr "Leedu · 100 175 sõna"
 
 #: languages
-msgid "52,622 words"
-msgstr "52 622 sõna"
+msgid "Latvian · 51,479 words"
+msgstr "Läti · 51 479 sõna"
 
 #: languages
-msgid "Croatian"
-msgstr "Horvaadi"
+msgid "Malay · 49,942 words"
+msgstr "Malai · 49 942 sõna"
 
 #: languages
-msgid "191,499 words"
-msgstr "191 499 sõna"
+msgid "Norwegian · 140,318 words"
+msgstr "Norra · 140 318 sõna"
 
 #: languages
-msgid "Hungarian"
-msgstr "Ungari"
+msgid "Dutch · 140,383 words"
+msgstr "Hollandi · 140 383 sõna"
 
 #: languages
-msgid "380,920 words"
-msgstr "380 920 sõna"
+msgid "Romanian · 119,573 words"
+msgstr "Rumeenia · 119 573 sõna"
 
 #: languages
-msgid "Indonesian"
-msgstr "Indoneesia"
+msgid "Slovenian · 182,841 words"
+msgstr "Sloveeni · 182 841 sõna"
 
 #: languages
-msgid "75,492 words"
-msgstr "75 492 sõna"
+msgid "Albanian · 89,152 words"
+msgstr "Albaania · 89 152 sõna"
 
 #: languages
-msgid "Icelandic"
-msgstr "Islandi"
+msgid "Serbian · 330,967 words"
+msgstr "Serbia · 330 967 sõna"
 
 #: languages
-msgid "74,391 words"
-msgstr "74 391 sõna"
+msgid "Swedish · 153,998 words"
+msgstr "Rootsi · 153 998 sõna"
 
 #: languages
-msgid "Latin"
-msgstr "Ladina"
+msgid "Tagalog · 30,099 words"
+msgstr "Tagalog · 30 099 sõna"
 
 #: languages
-msgid "165,218 words"
-msgstr "165 218 sõna"
+msgid "Turkish · 305,078 words"
+msgstr "Türgi · 305 078 sõna"
 
 #: languages
-msgid "Lithuanian"
-msgstr "Leedu"
-
-#: languages
-msgid "100,175 words"
-msgstr "100 175 sõna"
-
-#: languages
-msgid "Latvian"
-msgstr "Läti"
-
-#: languages
-msgid "51,479 words"
-msgstr "51 479 sõna"
-
-#: languages
-msgid "Malay"
-msgstr "Malai"
-
-#: languages
-msgid "49,942 words"
-msgstr "49 942 sõna"
-
-#: languages
-msgid "Norwegian"
-msgstr "Norra"
-
-#: languages
-msgid "140,318 words"
-msgstr "140 318 sõna"
-
-#: languages
-msgid "Dutch"
-msgstr "Hollandi"
-
-#: languages
-msgid "140,383 words"
-msgstr "140 383 sõna"
-
-#: languages
-msgid "Romanian"
-msgstr "Rumeenia"
-
-#: languages
-msgid "119,573 words"
-msgstr "119 573 sõna"
-
-#: languages
-msgid "Slovenian"
-msgstr "Sloveeni"
-
-#: languages
-msgid "182,841 words"
-msgstr "182 841 sõna"
-
-#: languages
-msgid "Albanian"
-msgstr "Albaania"
-
-#: languages
-msgid "89,152 words"
-msgstr "89 152 sõna"
-
-#: languages
-msgid "Serbian"
-msgstr "Serbia"
-
-#: languages
-msgid "330,967 words"
-msgstr "330 967 sõna"
-
-#: languages
-msgid "Swedish"
-msgstr "Rootsi"
-
-#: languages
-msgid "153,998 words"
-msgstr "153 998 sõna"
-
-#: languages
-msgid "30,099 words"
-msgstr "30 099 sõna"
-
-#: languages
-msgid "Turkish"
-msgstr "Türgi"
-
-#: languages
-msgid "305,078 words"
-msgstr "305 078 sõna"
-
-#: languages
-msgid "Vietnamese"
-msgstr "Vietnami"
-
-#: languages
-msgid "35,303 words"
-msgstr "35 303 sõna"
+msgid "Vietnamese · 35,303 words"
+msgstr "Vietnami · 35 303 sõna"
 
 #: languages
 msgid ""

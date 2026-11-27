@@ -170,6 +170,18 @@ msgid "Next"
 msgstr "Seterusnya"
 
 #: index
+msgid "Another word from the bar"
+msgstr "Perkataan lain daripada bar"
+
+#: index
+msgid "Capital letter"
+msgstr "Huruf besar"
+
+#: index
+msgid "Character from the key corner"
+msgstr "Aksara dari penjuru kekunci"
+
+#: index
 msgid "Glide over the keys like a dragonfly."
 msgstr "Meluncur di atas kekunci seperti pepatung."
 
@@ -180,6 +192,14 @@ msgstr ""
 "Tidak perlu mengetik huruf demi huruf – satu leretan merentasi huruf-huruf perkataan sudah memadai. Swajp mengenal pasti leretan walaupun tidak sempurna, dan mempelajari gaya anda supaya semakin tepat. Perkataan dengan leretan yang serupa menunggu dalam bar cadangan – satu ketikan untuk menukarnya. Untuk huruf besar, leret dari huruf pertama ke atas melepasi papan kekunci, kemudian terus ke huruf seterusnya. Leretan dari huruf ke bar ruang menaip aksara di penjuru kekunci itu, seperti ? atau !"
 
 #: index
+msgid "Next word suggestion"
+msgstr "Cadangan perkataan seterusnya"
+
+#: index
+msgid "Fixing a typo"
+msgstr "Membetulkan salah taip"
+
+#: index
 msgid "Predicts your next word like a dragonfly predicts its prey."
 msgstr "Meramal perkataan seterusnya seperti pepatung meramal mangsanya."
 
@@ -188,6 +208,42 @@ msgid ""
 "From the words before, it suggests what you are likely to type next – after a space, just tap it. It uses context to tell similar words apart and learns the words you actually use. When you tap out a word with a typo, the bar shows what you typed next to the fix, and the space bar inserts the highlighted fix."
 msgstr ""
 "Berdasarkan perkataan sebelumnya, ia mencadangkan perkataan yang mungkin anda taip seterusnya – selepas ruang, ketik sahaja. Ia menggunakan konteks untuk membezakan perkataan yang serupa dan mempelajari perkataan yang benar-benar anda gunakan. Apabila anda tersalah taip, bar menunjukkan apa yang anda taip di sebelah pembetulan, dan bar ruang memasukkan pembetulan yang diserlahkan."
+
+#: index
+msgid "Copy and paste"
+msgstr "Salin dan tampal"
+
+#: index
+msgid "Undo and redo"
+msgstr "Buat asal dan buat semula"
+
+#: index
+msgid "Select all and deselect"
+msgstr "Pilih semua dan nyahpilih"
+
+#: index
+msgid "UPPER / lower case"
+msgstr "HURUF BESAR / huruf kecil"
+
+#: index
+msgid "Deleting words and lines"
+msgstr "Memadam perkataan dan baris"
+
+#: index
+msgid "Moving the cursor"
+msgstr "Gerakkan kursor"
+
+#: index
+msgid "Text editing – the [I] key"
+msgstr "Suntingan teks – kekunci [I]"
+
+#: index
+msgid "Selecting several lines"
+msgstr "Memilih beberapa baris"
+
+#: index
+msgid "Start and end"
+msgstr "Permulaan dan penghujung"
 
 #: index
 msgid "Rules the air. Now rules your text."
@@ -270,6 +326,22 @@ msgstr ""
 "Tekan lama kekunci Swajp dan pilih Saiz: seret pemegang untuk menukar tinggi, lebar dan kedudukan. Jadikannya lebih tinggi, atau lebih kecil dan terangkat dari tepi bawah, bahagikannya kepada dua bahagian untuk kedua-dua ibu jari (Tablet), alihkannya ke tepi untuk sebelah tangan, atau biarkannya terapung bebas di atas apl. Dalam mod landskap, papan kekunci lebih rendah dan terbelah."
 
 #: index
+msgid "Number pad"
+msgstr "Pad nombor"
+
+#: index
+msgid "Calculator"
+msgstr "Kalkulator"
+
+#: index
+msgid "Percent and brackets"
+msgstr "Peratus dan kurungan"
+
+#: index
+msgid "Scientific calculator"
+msgstr "Kalkulator saintifik"
+
+#: index
 msgid "Even sharp minds reach for a calculator."
 msgstr "Minda yang tajam pun perlukan kalkulator."
 
@@ -280,6 +352,10 @@ msgstr ""
 "Tekan lama kekunci [I] untuk pad nombor: digit besar untuk memasukkan nombor telefon dan jumlah wang dengan pantas. Kalkulator mengira terus dalam bar cadangan dan memasukkan hasilnya ke dalam teks. Ia boleh mengira peratus (200 + 10% = 220) dan kurungan, manakala mod saintifik menambah fungsi, kuasa, darjah dan radian – tanpa bertukar aplikasi."
 
 #: index
+msgid "Emoji from a word"
+msgstr "Emoji daripada perkataan"
+
+#: index
 msgid "Catch your emotion mid-air."
 msgstr "Tangkap emosi anda di udara."
 
@@ -288,6 +364,18 @@ msgid ""
 "Swipe or type a word – like “heart”, “beer” or “sad” – and Swajp offers the emoji in the suggestion bar. The :) shortcut works too, or simply pick one from the list."
 msgstr ""
 "Leret atau taip perkataan – seperti “hati”, “bir” atau “sedih” – dan Swajp akan menawarkan emoji dalam bar cadangan. Pintasan :) juga berfungsi, atau pilih sahaja daripada senarai."
+
+#: index
+msgid "Two languages at once"
+msgstr "Dua bahasa serentak"
+
+#: index
+msgid "A new word for the dictionary"
+msgstr "Perkataan baharu untuk kamus"
+
+#: index
+msgid "Hindi"
+msgstr "Hindi"
 
 #: index
 msgid "Born to rule – in 35 languages."
@@ -304,6 +392,10 @@ msgid ""
 "<span style=\"color:var(--g)\">Green</span> languages are built in, the others can be <a href=\"languages.html\">downloaded as packs</a>."
 msgstr ""
 "Bahasa bertanda <span style=\"color:var(--g)\">hijau</span> terbina dalam aplikasi, yang lain boleh <a href=\"languages.html\">dimuat turun sebagai pakej</a>."
+
+#: index
+msgid "Dictation"
+msgstr "Imlak"
 
 #: index
 msgid "Hears you. Tells no one."
@@ -396,204 +488,108 @@ msgid "Available languages"
 msgstr "Bahasa yang tersedia"
 
 #: languages
-msgid "Catalan"
-msgstr "Bahasa Catalonia"
+msgid "Catalan · 89,809 words"
+msgstr "Bahasa Catalonia · 89,809 perkataan"
 
 #: languages
-msgid "89,809 words"
-msgstr "89,809 perkataan"
+msgid "Danish · 152,106 words"
+msgstr "Bahasa Denmark · 152,106 perkataan"
 
 #: languages
-msgid "Danish"
-msgstr "Bahasa Denmark"
+msgid "Esperanto · 11,343 words"
+msgstr "Esperanto · 11,343 perkataan"
 
 #: languages
-msgid "152,106 words"
-msgstr "152,106 perkataan"
+msgid "Estonian · 326,938 words"
+msgstr "Estonia · 326,938 perkataan"
 
 #: languages
-msgid "11,343 words"
-msgstr "11,343 perkataan"
+msgid "Basque · 53,700 words"
+msgstr "Basque · 53,700 perkataan"
 
 #: languages
-msgid "Estonian"
-msgstr "Estonia"
+msgid "Finnish · 197,333 words"
+msgstr "Bahasa Finland · 197,333 perkataan"
 
 #: languages
-msgid "326,938 words"
-msgstr "326,938 perkataan"
+msgid "Galician · 30,624 words"
+msgstr "Galicia · 30,624 perkataan"
 
 #: languages
-msgid "Basque"
-msgstr "Basque"
+msgid "Hindi · 52,622 words"
+msgstr "Hindi · 52,622 perkataan"
 
 #: languages
-msgid "53,700 words"
-msgstr "53,700 perkataan"
+msgid "Croatian · 191,499 words"
+msgstr "Bahasa Croatia · 191,499 perkataan"
 
 #: languages
-msgid "Finnish"
-msgstr "Bahasa Finland"
+msgid "Hungarian · 380,920 words"
+msgstr "Bahasa Hungary · 380,920 perkataan"
 
 #: languages
-msgid "197,333 words"
-msgstr "197,333 perkataan"
+msgid "Indonesian · 75,492 words"
+msgstr "Bahasa Indonesia · 75,492 perkataan"
 
 #: languages
-msgid "Galician"
-msgstr "Galicia"
+msgid "Icelandic · 74,391 words"
+msgstr "Iceland · 74,391 perkataan"
 
 #: languages
-msgid "30,624 words"
-msgstr "30,624 perkataan"
+msgid "Latin · 165,218 words"
+msgstr "Bahasa Latin · 165,218 perkataan"
 
 #: languages
-msgid "Hindi"
-msgstr "Hindi"
+msgid "Lithuanian · 100,175 words"
+msgstr "Bahasa Lithuania · 100,175 perkataan"
 
 #: languages
-msgid "52,622 words"
-msgstr "52,622 perkataan"
+msgid "Latvian · 51,479 words"
+msgstr "Bahasa Latvia · 51,479 perkataan"
 
 #: languages
-msgid "Croatian"
-msgstr "Bahasa Croatia"
+msgid "Malay · 49,942 words"
+msgstr "Bahasa Melayu · 49,942 perkataan"
 
 #: languages
-msgid "191,499 words"
-msgstr "191,499 perkataan"
+msgid "Norwegian · 140,318 words"
+msgstr "Bahasa Norway · 140,318 perkataan"
 
 #: languages
-msgid "Hungarian"
-msgstr "Bahasa Hungary"
+msgid "Dutch · 140,383 words"
+msgstr "Bahasa Belanda · 140,383 perkataan"
 
 #: languages
-msgid "380,920 words"
-msgstr "380,920 perkataan"
+msgid "Romanian · 119,573 words"
+msgstr "Bahasa Romania · 119,573 perkataan"
 
 #: languages
-msgid "Indonesian"
-msgstr "Bahasa Indonesia"
+msgid "Slovenian · 182,841 words"
+msgstr "Bahasa Slovenia · 182,841 perkataan"
 
 #: languages
-msgid "75,492 words"
-msgstr "75,492 perkataan"
+msgid "Albanian · 89,152 words"
+msgstr "Albania · 89,152 perkataan"
 
 #: languages
-msgid "Icelandic"
-msgstr "Iceland"
+msgid "Serbian · 330,967 words"
+msgstr "Serbia · 330,967 perkataan"
 
 #: languages
-msgid "74,391 words"
-msgstr "74,391 perkataan"
+msgid "Swedish · 153,998 words"
+msgstr "Bahasa Sweden · 153,998 perkataan"
 
 #: languages
-msgid "Latin"
-msgstr "Bahasa Latin"
+msgid "Tagalog · 30,099 words"
+msgstr "Tagalog · 30,099 perkataan"
 
 #: languages
-msgid "165,218 words"
-msgstr "165,218 perkataan"
+msgid "Turkish · 305,078 words"
+msgstr "Bahasa Turki · 305,078 perkataan"
 
 #: languages
-msgid "Lithuanian"
-msgstr "Bahasa Lithuania"
-
-#: languages
-msgid "100,175 words"
-msgstr "100,175 perkataan"
-
-#: languages
-msgid "Latvian"
-msgstr "Bahasa Latvia"
-
-#: languages
-msgid "51,479 words"
-msgstr "51,479 perkataan"
-
-#: languages
-msgid "Malay"
-msgstr "Bahasa Melayu"
-
-#: languages
-msgid "49,942 words"
-msgstr "49,942 perkataan"
-
-#: languages
-msgid "Norwegian"
-msgstr "Bahasa Norway"
-
-#: languages
-msgid "140,318 words"
-msgstr "140,318 perkataan"
-
-#: languages
-msgid "Dutch"
-msgstr "Bahasa Belanda"
-
-#: languages
-msgid "140,383 words"
-msgstr "140,383 perkataan"
-
-#: languages
-msgid "Romanian"
-msgstr "Bahasa Romania"
-
-#: languages
-msgid "119,573 words"
-msgstr "119,573 perkataan"
-
-#: languages
-msgid "Slovenian"
-msgstr "Bahasa Slovenia"
-
-#: languages
-msgid "182,841 words"
-msgstr "182,841 perkataan"
-
-#: languages
-msgid "Albanian"
-msgstr "Albania"
-
-#: languages
-msgid "89,152 words"
-msgstr "89,152 perkataan"
-
-#: languages
-msgid "Serbian"
-msgstr "Serbia"
-
-#: languages
-msgid "330,967 words"
-msgstr "330,967 perkataan"
-
-#: languages
-msgid "Swedish"
-msgstr "Bahasa Sweden"
-
-#: languages
-msgid "153,998 words"
-msgstr "153,998 perkataan"
-
-#: languages
-msgid "30,099 words"
-msgstr "30,099 perkataan"
-
-#: languages
-msgid "Turkish"
-msgstr "Bahasa Turki"
-
-#: languages
-msgid "305,078 words"
-msgstr "305,078 perkataan"
-
-#: languages
-msgid "Vietnamese"
-msgstr "Vietnam"
-
-#: languages
-msgid "35,303 words"
-msgstr "35,303 perkataan"
+msgid "Vietnamese · 35,303 words"
+msgstr "Vietnam · 35,303 perkataan"
 
 #: languages
 msgid ""

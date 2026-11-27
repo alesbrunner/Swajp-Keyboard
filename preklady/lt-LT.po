@@ -171,6 +171,18 @@ msgid "Next"
 msgstr "Kitas"
 
 #: index
+msgid "Another word from the bar"
+msgstr "Kitas žodis iš juostos"
+
+#: index
+msgid "Capital letter"
+msgstr "Didžioji raidė"
+
+#: index
+msgid "Character from the key corner"
+msgstr "Simbolis iš klavišo kampo"
+
+#: index
 msgid "Glide over the keys like a dragonfly."
 msgstr "Sklandykite klavišais kaip laumžirgis."
 
@@ -181,6 +193,14 @@ msgstr ""
 "Nereikia spausti raidės po raidės – užtenka vieno brūkšnio per žodžio raides. Swajp atpažįsta braukimą net tada, kai jis nėra tobulas, ir mokosi jūsų stiliaus, todėl veikia vis tiksliau. Žodžiai su panašiu braukimu laukia pasiūlymų juostoje – vienu bakstelėjimu juos sukeisite. Didžiąją raidę parašysite braukdami nuo pirmosios raidės aukštyn virš klaviatūros ir iškart toliau į kitą raidę. Braukimas nuo raidės į tarpo klavišą įrašo ženklą iš raidės kampo, pavyzdžiui, ? arba !"
 
 #: index
+msgid "Next word suggestion"
+msgstr "Kito žodžio pasiūlymas"
+
+#: index
+msgid "Fixing a typo"
+msgstr "Rašybos klaidos taisymas"
+
+#: index
 msgid "Predicts your next word like a dragonfly predicts its prey."
 msgstr "Nuspėja kitą jūsų žodį, kaip laumžirgis nuspėja grobį."
 
@@ -189,6 +209,42 @@ msgid ""
 "From the words before, it suggests what you are likely to type next – after a space, just tap it. It uses context to tell similar words apart and learns the words you actually use. When you tap out a word with a typo, the bar shows what you typed next to the fix, and the space bar inserts the highlighted fix."
 msgstr ""
 "Pagal ankstesnius žodžius klaviatūra siūlo, ką greičiausiai rašysite toliau – po tarpo tiesiog bakstelėkite. Iš konteksto ji atskiria panašius žodžius ir mokosi tų žodžių, kuriuos iš tikrųjų vartojate. Kai spausdami raides padarote rašybos klaidą, juosta parodo, ką parašėte, šalia pataisymo, o tarpo klavišas įterpia paryškintą pataisymą."
+
+#: index
+msgid "Copy and paste"
+msgstr "Kopijuoti ir įklijuoti"
+
+#: index
+msgid "Undo and redo"
+msgstr "Anuliuoti ir grąžinti"
+
+#: index
+msgid "Select all and deselect"
+msgstr "Žymėti viską ir atžymėti"
+
+#: index
+msgid "UPPER / lower case"
+msgstr "DIDŽIOSIOS / mažosios raidės"
+
+#: index
+msgid "Deleting words and lines"
+msgstr "Žodžių ir eilučių trynimas"
+
+#: index
+msgid "Moving the cursor"
+msgstr "Žymeklio perkėlimas"
+
+#: index
+msgid "Text editing – the [I] key"
+msgstr "Teksto redagavimas – klavišas [I]"
+
+#: index
+msgid "Selecting several lines"
+msgstr "Kelių eilučių žymėjimas"
+
+#: index
+msgid "Start and end"
+msgstr "Pradžia ir pabaiga"
 
 #: index
 msgid "Rules the air. Now rules your text."
@@ -271,6 +327,22 @@ msgstr ""
 "Palaikykite Swajp klavišą ir pasirinkite Dydis: tempdami rankenėles keičiate aukštį, plotį ir padėtį. Padarykite ją aukštesnę arba mažesnę ir pakeltą nuo apatinio krašto, padalykite į dvi puses abiem nykščiams (Planšetė), perkelkite prie krašto vienai rankai arba leiskite jai laisvai plaukioti virš programų. Gulsčiai klaviatūra yra žemesnė ir padalyta."
 
 #: index
+msgid "Number pad"
+msgstr "Skaičių klaviatūra"
+
+#: index
+msgid "Calculator"
+msgstr "Skaičiuotuvas"
+
+#: index
+msgid "Percent and brackets"
+msgstr "Procentai ir skliaustai"
+
+#: index
+msgid "Scientific calculator"
+msgstr "Mokslinis skaičiuotuvas"
+
+#: index
 msgid "Even sharp minds reach for a calculator."
 msgstr "Net ir gudrioms galvoms praverčia skaičiuotuvas."
 
@@ -281,6 +353,10 @@ msgstr ""
 "Palaikykite klavišą [I] ir gausite skaičių klaviatūrą: dideli skaitmenys greitam telefono numerių ir sumų įvedimui. Skaičiuotuvas skaičiuoja tiesiog pasiūlymų juostoje ir įterpia rezultatą į tekstą. Jis moka procentus (200 + 10 % = 220) ir skliaustus, o mokslinis režimas prideda funkcijas, kėlimą laipsniu, kampų laipsnius ir radianus – nereikia perjungti programų."
 
 #: index
+msgid "Emoji from a word"
+msgstr "Jaustukas iš žodžio"
+
+#: index
 msgid "Catch your emotion mid-air."
 msgstr "Pagaukite emociją skrydžio metu."
 
@@ -289,6 +365,18 @@ msgid ""
 "Swipe or type a word – like “heart”, “beer” or “sad” – and Swajp offers the emoji in the suggestion bar. The :) shortcut works too, or simply pick one from the list."
 msgstr ""
 "Perbraukite ar parašykite žodį – pavyzdžiui, „širdis“, „alus“ ar „liūdnas“ – ir Swajp pasiūlys jaustuką pasiūlymų juostoje. Veikia ir santrumpa :), arba tiesiog išsirinkite iš sąrašo."
+
+#: index
+msgid "Two languages at once"
+msgstr "Dvi kalbos vienu metu"
+
+#: index
+msgid "A new word for the dictionary"
+msgstr "Naujas žodis žodynui"
+
+#: index
+msgid "Hindi"
+msgstr "Hindi"
 
 #: index
 msgid "Born to rule – in 35 languages."
@@ -305,6 +393,10 @@ msgid ""
 "<span style=\"color:var(--g)\">Green</span> languages are built in, the others can be <a href=\"languages.html\">downloaded as packs</a>."
 msgstr ""
 "<span style=\"color:var(--g)\">Žaliai</span> pažymėtos kalbos įdiegtos programoje, kitas galima <a href=\"languages.html\">atsisiųsti kaip paketus</a>."
+
+#: index
+msgid "Dictation"
+msgstr "Diktavimas"
 
 #: index
 msgid "Hears you. Tells no one."
@@ -398,204 +490,108 @@ msgid "Available languages"
 msgstr "Galimos kalbos"
 
 #: languages
-msgid "Catalan"
-msgstr "Katalonų"
+msgid "Catalan · 89,809 words"
+msgstr "Katalonų · 89 809 žodžiai"
 
 #: languages
-msgid "89,809 words"
-msgstr "89 809 žodžiai"
+msgid "Danish · 152,106 words"
+msgstr "Danų · 152 106 žodžiai"
 
 #: languages
-msgid "Danish"
-msgstr "Danų"
+msgid "Esperanto · 11,343 words"
+msgstr "Esperanto · 11 343 žodžiai"
 
 #: languages
-msgid "152,106 words"
-msgstr "152 106 žodžiai"
+msgid "Estonian · 326,938 words"
+msgstr "Estų · 326 938 žodžiai"
 
 #: languages
-msgid "11,343 words"
-msgstr "11 343 žodžiai"
+msgid "Basque · 53,700 words"
+msgstr "Baskų · 53 700 žodžiai"
 
 #: languages
-msgid "Estonian"
-msgstr "Estų"
+msgid "Finnish · 197,333 words"
+msgstr "Suomių · 197 333 žodžiai"
 
 #: languages
-msgid "326,938 words"
-msgstr "326 938 žodžiai"
+msgid "Galician · 30,624 words"
+msgstr "Galisų · 30 624 žodžiai"
 
 #: languages
-msgid "Basque"
-msgstr "Baskų"
+msgid "Hindi · 52,622 words"
+msgstr "Hindi · 52 622 žodžiai"
 
 #: languages
-msgid "53,700 words"
-msgstr "53 700 žodžiai"
+msgid "Croatian · 191,499 words"
+msgstr "Kroatų · 191 499 žodžiai"
 
 #: languages
-msgid "Finnish"
-msgstr "Suomių"
+msgid "Hungarian · 380,920 words"
+msgstr "Vengrų · 380 920 žodžių"
 
 #: languages
-msgid "197,333 words"
-msgstr "197 333 žodžiai"
+msgid "Indonesian · 75,492 words"
+msgstr "Indoneziečių · 75 492 žodžiai"
 
 #: languages
-msgid "Galician"
-msgstr "Galisų"
+msgid "Icelandic · 74,391 words"
+msgstr "Islandų · 74 391 žodžiai"
 
 #: languages
-msgid "30,624 words"
-msgstr "30 624 žodžiai"
+msgid "Latin · 165,218 words"
+msgstr "Lotynų · 165 218 žodžių"
 
 #: languages
-msgid "Hindi"
-msgstr "Hindi"
+msgid "Lithuanian · 100,175 words"
+msgstr "Lietuvių · 100 175 žodžiai"
 
 #: languages
-msgid "52,622 words"
-msgstr "52 622 žodžiai"
+msgid "Latvian · 51,479 words"
+msgstr "Latvių · 51 479 žodžiai"
 
 #: languages
-msgid "Croatian"
-msgstr "Kroatų"
+msgid "Malay · 49,942 words"
+msgstr "Malajų · 49 942 žodžiai"
 
 #: languages
-msgid "191,499 words"
-msgstr "191 499 žodžiai"
+msgid "Norwegian · 140,318 words"
+msgstr "Norvegų · 140 318 žodžių"
 
 #: languages
-msgid "Hungarian"
-msgstr "Vengrų"
+msgid "Dutch · 140,383 words"
+msgstr "Nyderlandų · 140 383 žodžiai"
 
 #: languages
-msgid "380,920 words"
-msgstr "380 920 žodžių"
+msgid "Romanian · 119,573 words"
+msgstr "Rumunų · 119 573 žodžiai"
 
 #: languages
-msgid "Indonesian"
-msgstr "Indoneziečių"
+msgid "Slovenian · 182,841 words"
+msgstr "Slovėnų · 182 841 žodis"
 
 #: languages
-msgid "75,492 words"
-msgstr "75 492 žodžiai"
+msgid "Albanian · 89,152 words"
+msgstr "Albanų · 89 152 žodžiai"
 
 #: languages
-msgid "Icelandic"
-msgstr "Islandų"
+msgid "Serbian · 330,967 words"
+msgstr "Serbų · 330 967 žodžiai"
 
 #: languages
-msgid "74,391 words"
-msgstr "74 391 žodžiai"
+msgid "Swedish · 153,998 words"
+msgstr "Švedų · 153 998 žodžiai"
 
 #: languages
-msgid "Latin"
-msgstr "Lotynų"
+msgid "Tagalog · 30,099 words"
+msgstr "Tagalog · 30 099 žodžiai"
 
 #: languages
-msgid "165,218 words"
-msgstr "165 218 žodžių"
+msgid "Turkish · 305,078 words"
+msgstr "Turkų · 305 078 žodžiai"
 
 #: languages
-msgid "Lithuanian"
-msgstr "Lietuvių"
-
-#: languages
-msgid "100,175 words"
-msgstr "100 175 žodžiai"
-
-#: languages
-msgid "Latvian"
-msgstr "Latvių"
-
-#: languages
-msgid "51,479 words"
-msgstr "51 479 žodžiai"
-
-#: languages
-msgid "Malay"
-msgstr "Malajų"
-
-#: languages
-msgid "49,942 words"
-msgstr "49 942 žodžiai"
-
-#: languages
-msgid "Norwegian"
-msgstr "Norvegų"
-
-#: languages
-msgid "140,318 words"
-msgstr "140 318 žodžių"
-
-#: languages
-msgid "Dutch"
-msgstr "Nyderlandų"
-
-#: languages
-msgid "140,383 words"
-msgstr "140 383 žodžiai"
-
-#: languages
-msgid "Romanian"
-msgstr "Rumunų"
-
-#: languages
-msgid "119,573 words"
-msgstr "119 573 žodžiai"
-
-#: languages
-msgid "Slovenian"
-msgstr "Slovėnų"
-
-#: languages
-msgid "182,841 words"
-msgstr "182 841 žodis"
-
-#: languages
-msgid "Albanian"
-msgstr "Albanų"
-
-#: languages
-msgid "89,152 words"
-msgstr "89 152 žodžiai"
-
-#: languages
-msgid "Serbian"
-msgstr "Serbų"
-
-#: languages
-msgid "330,967 words"
-msgstr "330 967 žodžiai"
-
-#: languages
-msgid "Swedish"
-msgstr "Švedų"
-
-#: languages
-msgid "153,998 words"
-msgstr "153 998 žodžiai"
-
-#: languages
-msgid "30,099 words"
-msgstr "30 099 žodžiai"
-
-#: languages
-msgid "Turkish"
-msgstr "Turkų"
-
-#: languages
-msgid "305,078 words"
-msgstr "305 078 žodžiai"
-
-#: languages
-msgid "Vietnamese"
-msgstr "Vietnamiečių"
-
-#: languages
-msgid "35,303 words"
-msgstr "35 303 žodžiai"
+msgid "Vietnamese · 35,303 words"
+msgstr "Vietnamiečių · 35 303 žodžiai"
 
 #: languages
 msgid ""

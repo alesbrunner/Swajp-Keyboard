@@ -171,6 +171,18 @@ msgid "Next"
 msgstr "Tiếp"
 
 #: index
+msgid "Another word from the bar"
+msgstr "Chọn từ khác trên thanh"
+
+#: index
+msgid "Capital letter"
+msgstr "Chữ hoa"
+
+#: index
+msgid "Character from the key corner"
+msgstr "Ký tự ở góc phím"
+
+#: index
 msgid "Glide over the keys like a dragonfly."
 msgstr "Lướt trên phím nhẹ như cánh chuồn chuồn."
 
@@ -179,6 +191,14 @@ msgid ""
 "No need to tap letter by letter – one stroke across the letters of a word is enough. Swajp recognises the swipe even when it is not perfect, and learns your style so it keeps getting more accurate. Words with a similar swipe wait in the suggestion bar – one tap swaps them. For a capital letter, slide from the first letter up above the keyboard and straight on to the next one. A swipe from a letter to the space bar types the character from its corner, such as ? or !"
 msgstr ""
 "Không cần chạm từng chữ cái – chỉ một nét vuốt qua các chữ cái của từ là đủ. Swajp nhận ra nét vuốt ngay cả khi chưa hoàn hảo và học phong cách của bạn để ngày càng chính xác hơn. Các từ có nét vuốt tương tự chờ sẵn trên thanh gợi ý – chạm một lần để đổi. Để viết hoa, vuốt từ chữ cái đầu tiên lên phía trên bàn phím rồi đi thẳng sang chữ tiếp theo. Vuốt từ một chữ cái tới phím cách sẽ gõ ký tự ở góc của phím đó, chẳng hạn ? hoặc !"
+
+#: index
+msgid "Next word suggestion"
+msgstr "Gợi ý từ tiếp theo"
+
+#: index
+msgid "Fixing a typo"
+msgstr "Sửa lỗi gõ sai"
 
 #: index
 msgid "Predicts your next word like a dragonfly predicts its prey."
@@ -190,6 +210,42 @@ msgid ""
 "From the words before, it suggests what you are likely to type next – after a space, just tap it. It uses context to tell similar words apart and learns the words you actually use. When you tap out a word with a typo, the bar shows what you typed next to the fix, and the space bar inserts the highlighted fix."
 msgstr ""
 "Dựa vào các từ phía trước, bàn phím gợi ý từ bạn có thể sẽ gõ tiếp – sau dấu cách, chỉ cần chạm vào. Nó dựa vào ngữ cảnh để phân biệt các từ giống nhau và học những từ bạn thực sự dùng. Khi bạn gõ nhầm một từ, thanh gợi ý hiển thị từ bạn đã gõ bên cạnh từ sửa, và phím cách sẽ chèn từ sửa được tô sáng."
+
+#: index
+msgid "Copy and paste"
+msgstr "Sao chép và dán"
+
+#: index
+msgid "Undo and redo"
+msgstr "Hoàn tác và làm lại"
+
+#: index
+msgid "Select all and deselect"
+msgstr "Chọn tất cả và bỏ chọn"
+
+#: index
+msgid "UPPER / lower case"
+msgstr "CHỮ HOA / chữ thường"
+
+#: index
+msgid "Deleting words and lines"
+msgstr "Xóa từ và dòng"
+
+#: index
+msgid "Moving the cursor"
+msgstr "Di chuyển con trỏ"
+
+#: index
+msgid "Text editing – the [I] key"
+msgstr "Chỉnh sửa văn bản – phím [I]"
+
+#: index
+msgid "Selecting several lines"
+msgstr "Chọn nhiều dòng"
+
+#: index
+msgid "Start and end"
+msgstr "Đầu và cuối"
 
 #: index
 msgid "Rules the air. Now rules your text."
@@ -272,6 +328,22 @@ msgstr ""
 "Nhấn giữ phím Swajp và chọn Kích thước: kéo các tay nắm để đổi chiều cao, chiều rộng và vị trí. Làm bàn phím cao hơn, hoặc nhỏ hơn và nâng lên khỏi cạnh dưới, tách đôi cho cả hai ngón cái (Máy tính bảng), dời sát cạnh để dùng một tay, hoặc để nó nổi tự do phía trên các ứng dụng. Khi xoay ngang, bàn phím thấp hơn và được tách đôi."
 
 #: index
+msgid "Number pad"
+msgstr "Bàn phím số"
+
+#: index
+msgid "Calculator"
+msgstr "Máy tính"
+
+#: index
+msgid "Percent and brackets"
+msgstr "Phần trăm và dấu ngoặc"
+
+#: index
+msgid "Scientific calculator"
+msgstr "Máy tính khoa học"
+
+#: index
 msgid "Even sharp minds reach for a calculator."
 msgstr "Đầu óc nhanh nhạy đến mấy cũng cần đến máy tính."
 
@@ -282,6 +354,10 @@ msgstr ""
 "Nhấn giữ phím [I] để mở bàn phím số: chữ số lớn giúp nhập nhanh số điện thoại và số tiền. Máy tính tính toán ngay trên thanh gợi ý và chèn kết quả vào văn bản. Máy tính xử lý được phần trăm (200 + 10% = 220) và dấu ngoặc, còn chế độ khoa học bổ sung hàm số, lũy thừa, độ và radian – không cần chuyển ứng dụng."
 
 #: index
+msgid "Emoji from a word"
+msgstr "Emoji từ một từ"
+
+#: index
 msgid "Catch your emotion mid-air."
 msgstr "Bắt lấy cảm xúc ngay giữa không trung."
 
@@ -290,6 +366,18 @@ msgid ""
 "Swipe or type a word – like “heart”, “beer” or “sad” – and Swajp offers the emoji in the suggestion bar. The :) shortcut works too, or simply pick one from the list."
 msgstr ""
 "Vuốt hoặc gõ một từ – như “heart”, “beer” hay “sad” – và Swajp sẽ đề xuất emoji ngay trên thanh gợi ý. Ký hiệu tắt :) cũng dùng được, hoặc bạn chỉ cần chọn từ danh sách."
+
+#: index
+msgid "Two languages at once"
+msgstr "Hai ngôn ngữ cùng lúc"
+
+#: index
+msgid "A new word for the dictionary"
+msgstr "Từ mới cho từ điển"
+
+#: index
+msgid "Hindi"
+msgstr "Tiếng Hindi"
 
 #: index
 msgid "Born to rule – in 35 languages."
@@ -306,6 +394,10 @@ msgid ""
 "<span style=\"color:var(--g)\">Green</span> languages are built in, the others can be <a href=\"languages.html\">downloaded as packs</a>."
 msgstr ""
 "Các ngôn ngữ màu <span style=\"color:var(--g)\">xanh lá</span> có sẵn trong ứng dụng, các ngôn ngữ khác có thể <a href=\"languages.html\">tải về dưới dạng gói</a>."
+
+#: index
+msgid "Dictation"
+msgstr "Đọc chính tả"
 
 #: index
 msgid "Hears you. Tells no one."
@@ -397,204 +489,108 @@ msgid "Available languages"
 msgstr "Ngôn ngữ có sẵn"
 
 #: languages
-msgid "Catalan"
-msgstr "Tiếng Catalan"
+msgid "Catalan · 89,809 words"
+msgstr "Tiếng Catalan · 89.809 từ"
 
 #: languages
-msgid "89,809 words"
-msgstr "89.809 từ"
+msgid "Danish · 152,106 words"
+msgstr "Tiếng Đan Mạch · 152.106 từ"
 
 #: languages
-msgid "Danish"
-msgstr "Tiếng Đan Mạch"
+msgid "Esperanto · 11,343 words"
+msgstr "Esperanto · 11.343 từ"
 
 #: languages
-msgid "152,106 words"
-msgstr "152.106 từ"
+msgid "Estonian · 326,938 words"
+msgstr "Tiếng Estonia · 326.938 từ"
 
 #: languages
-msgid "11,343 words"
-msgstr "11.343 từ"
+msgid "Basque · 53,700 words"
+msgstr "Tiếng Basque · 53.700 từ"
 
 #: languages
-msgid "Estonian"
-msgstr "Tiếng Estonia"
+msgid "Finnish · 197,333 words"
+msgstr "Tiếng Phần Lan · 197.333 từ"
 
 #: languages
-msgid "326,938 words"
-msgstr "326.938 từ"
+msgid "Galician · 30,624 words"
+msgstr "Tiếng Galicia · 30.624 từ"
 
 #: languages
-msgid "Basque"
-msgstr "Tiếng Basque"
+msgid "Hindi · 52,622 words"
+msgstr "Tiếng Hindi · 52.622 từ"
 
 #: languages
-msgid "53,700 words"
-msgstr "53.700 từ"
+msgid "Croatian · 191,499 words"
+msgstr "Tiếng Croatia · 191.499 từ"
 
 #: languages
-msgid "Finnish"
-msgstr "Tiếng Phần Lan"
+msgid "Hungarian · 380,920 words"
+msgstr "Tiếng Hungary · 380.920 từ"
 
 #: languages
-msgid "197,333 words"
-msgstr "197.333 từ"
+msgid "Indonesian · 75,492 words"
+msgstr "Tiếng Indonesia · 75.492 từ"
 
 #: languages
-msgid "Galician"
-msgstr "Tiếng Galicia"
+msgid "Icelandic · 74,391 words"
+msgstr "Tiếng Iceland · 74.391 từ"
 
 #: languages
-msgid "30,624 words"
-msgstr "30.624 từ"
+msgid "Latin · 165,218 words"
+msgstr "Tiếng Latinh · 165.218 từ"
 
 #: languages
-msgid "Hindi"
-msgstr "Tiếng Hindi"
+msgid "Lithuanian · 100,175 words"
+msgstr "Tiếng Litva · 100.175 từ"
 
 #: languages
-msgid "52,622 words"
-msgstr "52.622 từ"
+msgid "Latvian · 51,479 words"
+msgstr "Tiếng Latvia · 51.479 từ"
 
 #: languages
-msgid "Croatian"
-msgstr "Tiếng Croatia"
+msgid "Malay · 49,942 words"
+msgstr "Tiếng Mã Lai · 49.942 từ"
 
 #: languages
-msgid "191,499 words"
-msgstr "191.499 từ"
+msgid "Norwegian · 140,318 words"
+msgstr "Tiếng Na Uy · 140.318 từ"
 
 #: languages
-msgid "Hungarian"
-msgstr "Tiếng Hungary"
+msgid "Dutch · 140,383 words"
+msgstr "Tiếng Hà Lan · 140.383 từ"
 
 #: languages
-msgid "380,920 words"
-msgstr "380.920 từ"
+msgid "Romanian · 119,573 words"
+msgstr "Tiếng Romania · 119.573 từ"
 
 #: languages
-msgid "Indonesian"
-msgstr "Tiếng Indonesia"
+msgid "Slovenian · 182,841 words"
+msgstr "Tiếng Slovenia · 182.841 từ"
 
 #: languages
-msgid "75,492 words"
-msgstr "75.492 từ"
+msgid "Albanian · 89,152 words"
+msgstr "Tiếng Albania · 89.152 từ"
 
 #: languages
-msgid "Icelandic"
-msgstr "Tiếng Iceland"
+msgid "Serbian · 330,967 words"
+msgstr "Tiếng Serbia · 330.967 từ"
 
 #: languages
-msgid "74,391 words"
-msgstr "74.391 từ"
+msgid "Swedish · 153,998 words"
+msgstr "Tiếng Thụy Điển · 153.998 từ"
 
 #: languages
-msgid "Latin"
-msgstr "Tiếng Latinh"
+msgid "Tagalog · 30,099 words"
+msgstr "Tagalog · 30.099 từ"
 
 #: languages
-msgid "165,218 words"
-msgstr "165.218 từ"
+msgid "Turkish · 305,078 words"
+msgstr "Tiếng Thổ Nhĩ Kỳ · 305.078 từ"
 
 #: languages
-msgid "Lithuanian"
-msgstr "Tiếng Litva"
-
-#: languages
-msgid "100,175 words"
-msgstr "100.175 từ"
-
-#: languages
-msgid "Latvian"
-msgstr "Tiếng Latvia"
-
-#: languages
-msgid "51,479 words"
-msgstr "51.479 từ"
-
-#: languages
-msgid "Malay"
-msgstr "Tiếng Mã Lai"
-
-#: languages
-msgid "49,942 words"
-msgstr "49.942 từ"
-
-#: languages
-msgid "Norwegian"
-msgstr "Tiếng Na Uy"
-
-#: languages
-msgid "140,318 words"
-msgstr "140.318 từ"
-
-#: languages
-msgid "Dutch"
-msgstr "Tiếng Hà Lan"
-
-#: languages
-msgid "140,383 words"
-msgstr "140.383 từ"
-
-#: languages
-msgid "Romanian"
-msgstr "Tiếng Romania"
-
-#: languages
-msgid "119,573 words"
-msgstr "119.573 từ"
-
-#: languages
-msgid "Slovenian"
-msgstr "Tiếng Slovenia"
-
-#: languages
-msgid "182,841 words"
-msgstr "182.841 từ"
-
-#: languages
-msgid "Albanian"
-msgstr "Tiếng Albania"
-
-#: languages
-msgid "89,152 words"
-msgstr "89.152 từ"
-
-#: languages
-msgid "Serbian"
-msgstr "Tiếng Serbia"
-
-#: languages
-msgid "330,967 words"
-msgstr "330.967 từ"
-
-#: languages
-msgid "Swedish"
-msgstr "Tiếng Thụy Điển"
-
-#: languages
-msgid "153,998 words"
-msgstr "153.998 từ"
-
-#: languages
-msgid "30,099 words"
-msgstr "30.099 từ"
-
-#: languages
-msgid "Turkish"
-msgstr "Tiếng Thổ Nhĩ Kỳ"
-
-#: languages
-msgid "305,078 words"
-msgstr "305.078 từ"
-
-#: languages
-msgid "Vietnamese"
-msgstr "Tiếng Việt"
-
-#: languages
-msgid "35,303 words"
-msgstr "35.303 từ"
+msgid "Vietnamese · 35,303 words"
+msgstr "Tiếng Việt · 35.303 từ"
 
 #: languages
 msgid ""

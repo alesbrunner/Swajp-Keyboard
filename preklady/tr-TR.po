@@ -170,6 +170,18 @@ msgid "Next"
 msgstr "Sonraki"
 
 #: index
+msgid "Another word from the bar"
+msgstr "Çubuktan başka kelime"
+
+#: index
+msgid "Capital letter"
+msgstr "Büyük harf"
+
+#: index
+msgid "Character from the key corner"
+msgstr "Tuş köşesindeki karakter"
+
+#: index
 msgid "Glide over the keys like a dragonfly."
 msgstr "Tuşların üzerinde bir yusufçuk gibi süzül."
 
@@ -180,6 +192,14 @@ msgstr ""
 "Harf harf dokunmana gerek yok – kelimenin harfleri üzerinden tek bir kaydırma yeter. Swajp, kaydırma kusursuz olmasa bile onu tanır ve tarzını öğrenir; böylece giderek daha isabetli olur. Benzer kaydırmalı kelimeler öneri çubuğunda bekler – tek dokunuşla değiştirirsin. Büyük harf için ilk harften klavyenin üstüne kaydır ve oradan doğrudan sonraki harfe geç. Bir harften boşluk tuşuna kaydırmak, o harfin köşesindeki karakteri yazar; örneğin ? veya !"
 
 #: index
+msgid "Next word suggestion"
+msgstr "Sonraki kelime önerisi"
+
+#: index
+msgid "Fixing a typo"
+msgstr "Yazım hatasını düzeltme"
+
+#: index
 msgid "Predicts your next word like a dragonfly predicts its prey."
 msgstr "Sonraki kelimeni, yusufçuğun avını sezdiği gibi sezer."
 
@@ -188,6 +208,42 @@ msgid ""
 "From the words before, it suggests what you are likely to type next – after a space, just tap it. It uses context to tell similar words apart and learns the words you actually use. When you tap out a word with a typo, the bar shows what you typed next to the fix, and the space bar inserts the highlighted fix."
 msgstr ""
 "Önceki kelimelere bakarak büyük olasılıkla ne yazacağını önerir – boşluktan sonra dokunman yeter. Benzer kelimeleri bağlamdan ayırt eder ve gerçekten kullandığın kelimeleri öğrenir. Dokunarak yazarken yazım hatası yaparsan çubuk, yazdığını düzeltmenin yanında gösterir; boşluk tuşu da vurgulanan düzeltmeyi ekler."
+
+#: index
+msgid "Copy and paste"
+msgstr "Kopyala ve yapıştır"
+
+#: index
+msgid "Undo and redo"
+msgstr "Geri al ve yinele"
+
+#: index
+msgid "Select all and deselect"
+msgstr "Tümünü seç ve seçimi kaldır"
+
+#: index
+msgid "UPPER / lower case"
+msgstr "BÜYÜK / küçük harf"
+
+#: index
+msgid "Deleting words and lines"
+msgstr "Kelime ve satır silme"
+
+#: index
+msgid "Moving the cursor"
+msgstr "İmleci taşı"
+
+#: index
+msgid "Text editing – the [I] key"
+msgstr "Metin düzenleme – [I] tuşu"
+
+#: index
+msgid "Selecting several lines"
+msgstr "Birkaç satır seçme"
+
+#: index
+msgid "Start and end"
+msgstr "Başlangıç ve son"
 
 #: index
 msgid "Rules the air. Now rules your text."
@@ -270,6 +326,22 @@ msgstr ""
 "Swajp tuşunu basılı tut ve Boyut'u seç: tutamaçları sürükleyerek yüksekliği, genişliği ve konumu değiştirirsin. Klavyeyi daha yüksek yap ya da küçültüp alt kenardan yukarı kaldır, iki başparmak için iki yarıya böl (Tablet), tek el için kenara kaydır veya uygulamaların üzerinde serbestçe yüzmesine izin ver. Yatay modda klavye daha alçak ve bölünmüştür."
 
 #: index
+msgid "Number pad"
+msgstr "Sayı tuşları"
+
+#: index
+msgid "Calculator"
+msgstr "Hesap makinesi"
+
+#: index
+msgid "Percent and brackets"
+msgstr "Yüzde ve parantezler"
+
+#: index
+msgid "Scientific calculator"
+msgstr "Bilimsel hesap makinesi"
+
+#: index
 msgid "Even sharp minds reach for a calculator."
 msgstr "Keskin zekâlar da hesap makinesine uzanır."
 
@@ -280,6 +352,10 @@ msgstr ""
 "Sayı tuşları için [I] tuşunu basılı tut: telefon numaralarını ve tutarları hızlıca girmek için büyük rakamlar. Hesap makinesi doğrudan öneri çubuğunda hesaplar ve sonucu metne ekler. Yüzdeyi (200 + %10 = 220) ve parantezleri destekler; bilimsel mod ise fonksiyonlar, üsler, dereceler ve radyanlar ekler – uygulama değiştirmeden."
 
 #: index
+msgid "Emoji from a word"
+msgstr "Kelimeden emoji"
+
+#: index
 msgid "Catch your emotion mid-air."
 msgstr "Duygunu havada yakala."
 
@@ -288,6 +364,18 @@ msgid ""
 "Swipe or type a word – like “heart”, “beer” or “sad” – and Swajp offers the emoji in the suggestion bar. The :) shortcut works too, or simply pick one from the list."
 msgstr ""
 "Bir kelimeyi kaydırarak ya da dokunarak yaz – örneğin “kalp”, “bira” ya da “üzgün” – Swajp öneri çubuğunda emojiyi sunar. :) kısaltması da çalışır, ya da listeden birini seçiver."
+
+#: index
+msgid "Two languages at once"
+msgstr "Aynı anda iki dil"
+
+#: index
+msgid "A new word for the dictionary"
+msgstr "Sözlüğe yeni kelime"
+
+#: index
+msgid "Hindi"
+msgstr "Hintçe"
 
 #: index
 msgid "Born to rule – in 35 languages."
@@ -304,6 +392,10 @@ msgid ""
 "<span style=\"color:var(--g)\">Green</span> languages are built in, the others can be <a href=\"languages.html\">downloaded as packs</a>."
 msgstr ""
 "<span style=\"color:var(--g)\">Yeşil</span> renkli diller yerleşiktir, diğerlerini <a href=\"languages.html\">paket olarak indirebilirsin</a>."
+
+#: index
+msgid "Dictation"
+msgstr "Dikte"
 
 #: index
 msgid "Hears you. Tells no one."
@@ -396,204 +488,108 @@ msgid "Available languages"
 msgstr "Mevcut diller"
 
 #: languages
-msgid "Catalan"
-msgstr "Katalanca"
+msgid "Catalan · 89,809 words"
+msgstr "Katalanca · 89.809 kelime"
 
 #: languages
-msgid "89,809 words"
-msgstr "89.809 kelime"
+msgid "Danish · 152,106 words"
+msgstr "Danca · 152.106 kelime"
 
 #: languages
-msgid "Danish"
-msgstr "Danca"
+msgid "Esperanto · 11,343 words"
+msgstr "Esperanto · 11.343 kelime"
 
 #: languages
-msgid "152,106 words"
-msgstr "152.106 kelime"
+msgid "Estonian · 326,938 words"
+msgstr "Estonca · 326.938 kelime"
 
 #: languages
-msgid "11,343 words"
-msgstr "11.343 kelime"
+msgid "Basque · 53,700 words"
+msgstr "Baskça · 53.700 kelime"
 
 #: languages
-msgid "Estonian"
-msgstr "Estonca"
+msgid "Finnish · 197,333 words"
+msgstr "Fince · 197.333 kelime"
 
 #: languages
-msgid "326,938 words"
-msgstr "326.938 kelime"
+msgid "Galician · 30,624 words"
+msgstr "Galiçyaca · 30.624 kelime"
 
 #: languages
-msgid "Basque"
-msgstr "Baskça"
+msgid "Hindi · 52,622 words"
+msgstr "Hintçe · 52.622 kelime"
 
 #: languages
-msgid "53,700 words"
-msgstr "53.700 kelime"
+msgid "Croatian · 191,499 words"
+msgstr "Hırvatça · 191.499 kelime"
 
 #: languages
-msgid "Finnish"
-msgstr "Fince"
+msgid "Hungarian · 380,920 words"
+msgstr "Macarca · 380.920 kelime"
 
 #: languages
-msgid "197,333 words"
-msgstr "197.333 kelime"
+msgid "Indonesian · 75,492 words"
+msgstr "Endonezce · 75.492 kelime"
 
 #: languages
-msgid "Galician"
-msgstr "Galiçyaca"
+msgid "Icelandic · 74,391 words"
+msgstr "İzlandaca · 74.391 kelime"
 
 #: languages
-msgid "30,624 words"
-msgstr "30.624 kelime"
+msgid "Latin · 165,218 words"
+msgstr "Latince · 165.218 kelime"
 
 #: languages
-msgid "Hindi"
-msgstr "Hintçe"
+msgid "Lithuanian · 100,175 words"
+msgstr "Litvanca · 100.175 kelime"
 
 #: languages
-msgid "52,622 words"
-msgstr "52.622 kelime"
+msgid "Latvian · 51,479 words"
+msgstr "Letonca · 51.479 kelime"
 
 #: languages
-msgid "Croatian"
-msgstr "Hırvatça"
+msgid "Malay · 49,942 words"
+msgstr "Malayca · 49.942 kelime"
 
 #: languages
-msgid "191,499 words"
-msgstr "191.499 kelime"
+msgid "Norwegian · 140,318 words"
+msgstr "Norveççe · 140.318 kelime"
 
 #: languages
-msgid "Hungarian"
-msgstr "Macarca"
+msgid "Dutch · 140,383 words"
+msgstr "Felemenkçe · 140.383 kelime"
 
 #: languages
-msgid "380,920 words"
-msgstr "380.920 kelime"
+msgid "Romanian · 119,573 words"
+msgstr "Rumence · 119.573 kelime"
 
 #: languages
-msgid "Indonesian"
-msgstr "Endonezce"
+msgid "Slovenian · 182,841 words"
+msgstr "Slovence · 182.841 kelime"
 
 #: languages
-msgid "75,492 words"
-msgstr "75.492 kelime"
+msgid "Albanian · 89,152 words"
+msgstr "Arnavutça · 89.152 kelime"
 
 #: languages
-msgid "Icelandic"
-msgstr "İzlandaca"
+msgid "Serbian · 330,967 words"
+msgstr "Sırpça · 330.967 kelime"
 
 #: languages
-msgid "74,391 words"
-msgstr "74.391 kelime"
+msgid "Swedish · 153,998 words"
+msgstr "İsveççe · 153.998 kelime"
 
 #: languages
-msgid "Latin"
-msgstr "Latince"
+msgid "Tagalog · 30,099 words"
+msgstr "Tagalog · 30.099 kelime"
 
 #: languages
-msgid "165,218 words"
-msgstr "165.218 kelime"
+msgid "Turkish · 305,078 words"
+msgstr "Türkçe · 305.078 kelime"
 
 #: languages
-msgid "Lithuanian"
-msgstr "Litvanca"
-
-#: languages
-msgid "100,175 words"
-msgstr "100.175 kelime"
-
-#: languages
-msgid "Latvian"
-msgstr "Letonca"
-
-#: languages
-msgid "51,479 words"
-msgstr "51.479 kelime"
-
-#: languages
-msgid "Malay"
-msgstr "Malayca"
-
-#: languages
-msgid "49,942 words"
-msgstr "49.942 kelime"
-
-#: languages
-msgid "Norwegian"
-msgstr "Norveççe"
-
-#: languages
-msgid "140,318 words"
-msgstr "140.318 kelime"
-
-#: languages
-msgid "Dutch"
-msgstr "Felemenkçe"
-
-#: languages
-msgid "140,383 words"
-msgstr "140.383 kelime"
-
-#: languages
-msgid "Romanian"
-msgstr "Rumence"
-
-#: languages
-msgid "119,573 words"
-msgstr "119.573 kelime"
-
-#: languages
-msgid "Slovenian"
-msgstr "Slovence"
-
-#: languages
-msgid "182,841 words"
-msgstr "182.841 kelime"
-
-#: languages
-msgid "Albanian"
-msgstr "Arnavutça"
-
-#: languages
-msgid "89,152 words"
-msgstr "89.152 kelime"
-
-#: languages
-msgid "Serbian"
-msgstr "Sırpça"
-
-#: languages
-msgid "330,967 words"
-msgstr "330.967 kelime"
-
-#: languages
-msgid "Swedish"
-msgstr "İsveççe"
-
-#: languages
-msgid "153,998 words"
-msgstr "153.998 kelime"
-
-#: languages
-msgid "30,099 words"
-msgstr "30.099 kelime"
-
-#: languages
-msgid "Turkish"
-msgstr "Türkçe"
-
-#: languages
-msgid "305,078 words"
-msgstr "305.078 kelime"
-
-#: languages
-msgid "Vietnamese"
-msgstr "Vietnamca"
-
-#: languages
-msgid "35,303 words"
-msgstr "35.303 kelime"
+msgid "Vietnamese · 35,303 words"
+msgstr "Vietnamca · 35.303 kelime"
 
 #: languages
 msgid ""
