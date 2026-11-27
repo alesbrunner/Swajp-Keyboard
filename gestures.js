@@ -514,53 +514,80 @@
     return {vars: themeVars.apply(null, c), s: cat([['T', ''], ['B', null], ['W', 300]], swipe(w[1], 280), [['T', w[0] + ' '], ['B', w[2]], ['W', 1300]])};
   });
 
-  // ------------------------------------------------------------ velikost a rozložení: telefon s náčrtem klávesnice, velikosti se samy střídají
+  // ------------------------------------------------------------ velikost a rozložení: skutečná klávesnice ve výřezu obrazovky, velikosti se samy střídají
   function SizeDemo(box) {
     var svg = document.createElementNS(NS, 'svg');
-    svg.setAttribute('viewBox', '17 0 66 64'); svg.setAttribute('class', 'gsvg gsize');
+    var KH = 8.6 + 4 * RH, HF = Math.round(KH * 1.42);             // výška klávesnice, výška výřezu
+    svg.setAttribute('viewBox', '-2 -2 104 ' + (HF + 4)); svg.setAttribute('class', 'gsvg');
     box.querySelector('.gview').appendChild(svg);
     function el(n, a, p) { var e = document.createElementNS(NS, n); for (var q in a) setA(e, q, a[q]); (p || svg).appendChild(e); return e; }
-    var PX = 33, PY = 1, PW = 34, PH = 62, SX = PX + 1.6, SY = PY + 4, SW = PW - 3.2, SH = PH - 7;
-    el('rect', {x: PX, y: PY, width: PW, height: PH, rx: 4.5, fill: 'none', stroke: 'var(--dk-mut)', 'stroke-width': 0.6});
-    el('rect', {x: SX, y: SY, width: SW, height: SH, rx: 1.5, fill: 'var(--dk-field)'});
-    el('rect', {x: 46, y: PY + 1.6, width: 8, height: 1, rx: 0.5, fill: 'var(--dk-mut)'});
-    [[3, 20], [7, 26], [11, 16], [15, 23]].forEach(function (l) { el('rect', {x: SX + 2.5, y: SY + l[0], width: l[1], height: 1.2, rx: 0.6, fill: 'var(--dk-mut)', opacity: 0.45}); });
-    var g = el('g', {});
-    // rozložení: x, y, šířka, výška (vůči obrazovce 0–1), mezera uprostřed, úchyt nahoře
-    var L5 = [{x: 0, y: 0.56, w: 1, h: 0.44, gap: 0, hd: 0}, {x: 0, y: 0.4, w: 1, h: 0.6, gap: 0, hd: 1}, {x: 0.12, y: 0.5, w: 0.76, h: 0.36, gap: 0, hd: 1},
-      {x: 0, y: 0.56, w: 1, h: 0.44, gap: 0.22, hd: 0}, {x: 0.08, y: 0.22, w: 0.84, h: 0.36, gap: 0, hd: 2}];
-    var cur = 0, from = L5[0], t0 = performance.now(), MOVE = 700, HOLD = 1900, raf;
-    function lerp(a, b, f) { var o = {}; for (var q in a) o[q] = a[q] + (b[q] - a[q]) * f; return o; }
-    function draw(l, hd) {
-      while (g.firstChild) g.removeChild(g.firstChild);
-      var x = SX + l.x * SW, y = SY + l.y * SH, w = l.w * SW, h = l.h * SH;
-      el('rect', {x: x, y: y, width: w, height: h, rx: 1, fill: 'var(--dk-kbg)'}, g);
-      var bar = h * 0.14, rh = (h - bar - 0.6) / 4, gw = l.gap * w, pad = 0.35;
-      el('rect', {x: x + w * 0.08, y: y + bar * 0.4, width: w * 0.18, height: bar * 0.3, rx: 0.3, fill: 'var(--dk-g)', opacity: 0.8}, g);
-      function row(r, n, off, fills) {
-        var ky = y + bar + r * rh + pad, half = (w - gw) / 2, kw = (w - gw - off * 2) / n;
-        for (var i = 0; i < n; i++) {
-          var kx = x + off + i * kw + (gw && x + off + i * kw + kw / 2 > x + half ? gw : 0);
-          el('rect', {x: kx + pad, y: ky, width: Math.max(0.3, kw - pad * 2), height: rh - pad * 2, rx: 0.5, fill: (fills && fills[i]) || 'var(--dk-key)'}, g);
+    // výřez obrazovky (aplikace nad klávesnicí)
+    el('rect', {x: 0, y: 0, width: 100, height: HF, rx: 3, fill: 'var(--dk-field)'});
+    [[8, 46], [15, 64], [22, 38]].forEach(function (l) { el('rect', {x: 6, y: l[0], width: l[1], height: 2.4, rx: 1.2, fill: 'var(--dk-mut)', opacity: 0.35}); });
+    var shadow = el('rect', {rx: 3, fill: '#000', opacity: 0});
+    var bg = el('rect', {rx: 2, fill: 'var(--dk-kbg)'});
+    var handle = el('rect', {width: 14, height: 1.8, rx: 0.9, fill: 'var(--dk-mut)', opacity: 0});
+    var grips = [el('rect', {width: 12, height: 1.8, rx: 0.9, fill: G, opacity: 0})];
+    var gBar = el('g', {}), gL = el('g', {}), gR = el('g', {});
+    // lišta návrhů
+    var words = en ? ['wings', 'wide', 'fold'] : ['křídla', 'široká', 'složit'];
+    words.forEach(function (w, i) {
+      var t = el('text', {x: 16.7 + i * 33.3, y: 5.4, fill: i ? 'var(--dk-tx)' : G, 'font-size': 4, 'text-anchor': 'middle', 'font-weight': i ? 400 : 700}, gBar); t.textContent = w;
+      if (i) el('rect', {x: i * 33.3, y: 1.6, width: 0.3, height: 4.2, fill: 'var(--dk-bar)'}, gBar);
+    });
+    var spA, spB, spF;
+    // klávesy písmen; podle středu klávesy do levé nebo pravé poloviny (rozdělená klávesnice)
+    LAYERS.letters.forEach(function (row, ri) {
+      var x = 0, y = 8.6 + ri * RH;
+      row.forEach(function (q) {
+        var w = q.w * 10;
+        if (q.id !== '_pad') {
+          var p = x + w / 2 < 50 ? gL : gR;
+          var fill = q.kind === 2 ? '#7cb342' : q.kind ? SPEC : KEY;
+          if (q.id === 'space') { // mezerník přes střed: v rozdělené klávesnici půlka vlevo, půlka vpravo
+            el('rect', {x: x + 0.6, y: y + 0.6, width: 50 - x - 0.9, height: RH - 2.2, rx: 1.8, fill: fill}, gL);
+            el('rect', {x: 50.3, y: y + 0.6, width: x + w - 50.9, height: RH - 2.2, rx: 1.8, fill: fill}, gR);
+            spF = el('rect', {x: 49, y: y + 0.6, width: 2, height: RH - 2.2, fill: fill}, gL);
+          } else
+          el('rect', {x: x + 0.6, y: y + 0.6, width: w - 1.2, height: RH - 2.2, rx: 1.8, fill: fill}, p);
+          if (q.kind === 3) { var sv = el('svg', {x: x + 1.5, y: y + 1, width: w - 3, height: RH - 4, viewBox: '12 18 84 72'}, p); sv.innerHTML = DRAGON; }
+          else {
+            var t = el('text', {x: x + w / 2, y: y + 8.4, fill: q.kind === 2 ? '#10140c' : TX, 'text-anchor': 'middle', 'font-size': q.lab.length > 4 ? 3.4 : 5.2}, p);
+            t.textContent = q.lab;
+            if (q.id === 'space') { spA = t; spB = el('text', {x: (50 + x + w) / 2, y: y + 8.4, fill: TX, 'text-anchor': 'middle', 'font-size': 3.4, opacity: 0}, gR); spB.textContent = q.lab; }
+            if (HINT[q.id]) { var h = el('text', {x: x + w - 2.3, y: y + 3.9, fill: MUT, 'font-size': 2.8, 'text-anchor': 'middle'}, p); h.textContent = HINT[q.id]; }
+          }
         }
-      }
-      row(0, 10, 0); row(1, 9, (w - gw) / 20); row(2, 9, 0, {0: 'var(--dk-spec)', 8: 'var(--dk-spec)'});
-      row(3, 5, 0, {0: 'var(--dk-spec)', 1: 'var(--dk-spec)', 4: 'var(--dk-g)'});
-      if (hd === 1) [x + w / 2].forEach(function (hx2) { el('rect', {x: hx2 - 3, y: y - 0.6, width: 6, height: 1.2, rx: 0.6, fill: 'var(--dk-g)'}, g); });
-      if (hd === 2) el('rect', {x: x + w / 2 - 4, y: y - 2.2, width: 8, height: 1.3, rx: 0.65, fill: 'var(--dk-mut)'}, g);
+        x += w;
+      });
+    });
+    // rozložení: x, y (spodní okraj od spodu výřezu), šířka, výška (násobek), mezera uprostřed, plovoucí
+    var L5 = [{x: 0, b: 0, w: 100, h: 1, gap: 0, fl: 0, gr: 0}, {x: 0, b: 0, w: 100, h: 1.3, gap: 0, fl: 0, gr: 1},
+      {x: 11, b: 9, w: 78, h: 0.82, gap: 0, fl: 0, gr: 1}, {x: 0, b: 0, w: 100, h: 0.9, gap: 30, fl: 0, gr: 0},
+      {x: 13, b: 26, w: 74, h: 0.8, gap: 0, fl: 1, gr: 0}];
+    var cur = 0, from = L5[0], t0 = performance.now(), MOVE = 750, HOLD = 2000, raf;
+    function lerp(a, b, f) { var o = {}; for (var q in a) o[q] = a[q] + (b[q] - a[q]) * f; return o; }
+    function tf(e, x, y, sx, sy) { e.setAttribute('transform', 'translate(' + x + ',' + y + ') scale(' + sx + ',' + sy + ')'); }
+    function draw(l) {
+      var H = KH * l.h, Y = HF - l.b - H, sx = (l.w - l.gap) / 100, sy = l.h;
+      setA(bg, 'x', l.x); setA(bg, 'y', Y); setA(bg, 'width', l.w); setA(bg, 'height', H);
+      setA(shadow, 'x', l.x + 0.6); setA(shadow, 'y', Y + 1.4); setA(shadow, 'width', l.w); setA(shadow, 'height', H); setA(shadow, 'opacity', 0.25 * l.fl);
+      setA(handle, 'x', l.x + l.w / 2 - 7); setA(handle, 'y', Y - 3.2); setA(handle, 'opacity', l.fl);
+      setA(grips[0], 'x', l.x + l.w / 2 - 6); setA(grips[0], 'y', Y - 0.9); setA(grips[0], 'opacity', l.gr);
+      var sp = Math.min(1, l.gap / 30); setA(spA, 'opacity', 1 - sp); setA(spF, 'opacity', 1 - sp); setA(spB, 'opacity', sp);
+      tf(gBar, l.x, Y, l.w / 100, sy); tf(gL, l.x, Y, sx, sy); tf(gR, l.x + l.gap, Y, sx, sy);
     }
     function frame(now) {
-      var e = now - t0, f = Math.min(1, e / MOVE), k = f * f * (3 - 2 * f), to = L5[cur];
-      draw(lerp(from, to, k), f >= 1 ? to.hd : 0);
+      var e = now - t0, f = Math.min(1, e / MOVE), k2 = f * f * (3 - 2 * f);
+      draw(lerp(from, L5[cur], k2));
       if (e > MOVE + HOLD) go(cur + 1, true);
       raf = requestAnimationFrame(frame);
     }
     var dots = box.querySelector('.gdots');
     L5.forEach(function (_, i) { var b = document.createElement('button'); b.setAttribute('aria-label', (i + 1) + ''); b.onclick = function () { go(i); }; dots.appendChild(b); });
     function go(i, keep) {
-      var nl = (i + L5.length) % L5.length;
       from = keep ? L5[cur] : lerp(from, L5[cur], Math.min(1, (performance.now() - t0) / MOVE));
-      cur = nl; t0 = performance.now();
+      cur = (i + L5.length) % L5.length; t0 = performance.now();
       [].forEach.call(dots.children, function (b, j) { b.className = j === cur ? 'on' : ''; });
       caption(box, cur);
     }
