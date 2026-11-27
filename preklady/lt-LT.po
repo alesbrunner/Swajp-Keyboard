@@ -99,6 +99,30 @@ msgid "Copy, paste, undo and select with one swipe."
 msgstr "Kopijuokite, įklijuokite, anuliuokite ir žymėkite vienu braukimu."
 
 #: index
+msgid "Themes &amp; colours"
+msgstr "Temos ir spalvos"
+
+#: index
+msgid "Six themes or colours of your own."
+msgstr "Šešios temos arba jūsų pačių spalvos."
+
+#: index
+msgid "Size &amp; layout"
+msgstr "Dydis ir išdėstymas"
+
+#: index
+msgid "Split, one-handed or floating."
+msgstr "Padalyta, vienai rankai arba plaukiojanti."
+
+#: index
+msgid "Number pad & calculator"
+msgstr "Skaičių klaviatūra ir skaičiuotuvas"
+
+#: index
+msgid "Big digits, a calculator and a scientific one."
+msgstr "Dideli skaitmenys, skaičiuotuvas ir mokslinis skaičiuotuvas."
+
+#: index
 msgid "Emoji"
 msgstr "Jaustukai"
 
@@ -127,30 +151,6 @@ msgid "Your last 30 copied texts at hand."
 msgstr "Paskutiniai 30 nukopijuotų tekstų po ranka."
 
 #: index
-msgid "Number pad & calculator"
-msgstr "Skaičių klaviatūra ir skaičiuotuvas"
-
-#: index
-msgid "Big digits, a calculator and a scientific one."
-msgstr "Dideli skaitmenys, skaičiuotuvas ir mokslinis skaičiuotuvas."
-
-#: index
-msgid "Themes &amp; colours"
-msgstr "Temos ir spalvos"
-
-#: index
-msgid "Six themes or colours of your own."
-msgstr "Šešios temos arba jūsų pačių spalvos."
-
-#: index
-msgid "Size &amp; layout"
-msgstr "Dydis ir išdėstymas"
-
-#: index
-msgid "Split, one-handed or floating."
-msgstr "Padalyta, vienai rankai arba plaukiojanti."
-
-#: index
 msgid "Backup"
 msgstr "Atsarginė kopija"
 
@@ -162,10 +162,6 @@ msgstr "Išmoktus žodžius persikelkite į naują telefoną."
 msgid "No internet, no ads, no tracking."
 msgstr "Be interneto, be reklamų, be sekimo."
 
-#: index
-msgid "Glide over the keys like a dragonfly."
-msgstr "Sklandykite klavišais kaip laumžirgis."
-
 #: index (atribut / attribute)
 msgid "Previous"
 msgstr "Ankstesnis"
@@ -173,6 +169,10 @@ msgstr "Ankstesnis"
 #: index (atribut / attribute)
 msgid "Next"
 msgstr "Kitas"
+
+#: index
+msgid "Glide over the keys like a dragonfly."
+msgstr "Sklandykite klavišais kaip laumžirgis."
 
 #: index
 msgid ""
@@ -205,6 +205,80 @@ msgid ""
 "All gestures with demos and practice are in the app: Settings → Gestures and guide."
 msgstr ""
 "Visus gestus su demonstracijomis ir išbandymu rasite programoje: Nustatymai → Gestai ir vadovas."
+
+#: index
+msgid "Light green"
+msgstr "Šviesiai žalia"
+
+#: index
+msgid "Light"
+msgstr "Šviesi"
+
+#: index
+msgid "AMOLED black"
+msgstr "AMOLED juoda"
+
+#: index
+msgid "Blue"
+msgstr "Mėlyna"
+
+#: index
+msgid "Orange"
+msgstr "Oranžinė"
+
+#: index
+msgid "Purple"
+msgstr "Violetinė"
+
+#: index
+msgid "Admire its many shimmering colours."
+msgstr "Grožėkitės daugybe jos mirguliuojančių spalvų."
+
+#: index
+msgid ""
+"Pick a ready-made theme or set your own colours for the highlight, keys, special keys, background and text. You can also adjust the font size in the suggestion bar, vibration and key sounds."
+msgstr ""
+"Pasirinkite paruoštą temą arba nustatykite savas paryškinimo, klavišų, specialiųjų klavišų, fono ir teksto spalvas. Taip pat galite koreguoti šrifto dydį pasiūlymų juostoje, vibraciją ir klavišų garsus."
+
+#: index
+msgid "Full"
+msgstr "Visa"
+
+#: index
+msgid "Taller"
+msgstr "Aukštesnė"
+
+#: index
+msgid "Smaller and lifted"
+msgstr "Mažesnė ir pakelta"
+
+#: index
+msgid "Tablet"
+msgstr "Planšetė"
+
+#: index
+msgid "Floating"
+msgstr "Plaukiojanti"
+
+#: index
+msgid "Spread your wings, or fold them out of the way."
+msgstr "Išskleiskite sparnus arba suglauskite juos, kad netrukdytų."
+
+#: index
+msgid ""
+"Hold the Swajp key and pick Size: drag the handles to change the height, width and position. Make it taller, or smaller and lifted off the bottom edge, split it into two halves for both thumbs (Tablet), move it to the edge for one hand, or let it float freely above apps. In landscape the keyboard is lower and split."
+msgstr ""
+"Palaikykite Swajp klavišą ir pasirinkite Dydis: tempdami rankenėles keičiate aukštį, plotį ir padėtį. Padarykite ją aukštesnę arba mažesnę ir pakeltą nuo apatinio krašto, padalykite į dvi puses abiem nykščiams (Planšetė), perkelkite prie krašto vienai rankai arba leiskite jai laisvai plaukioti virš programų. Gulsčiai klaviatūra yra žemesnė ir padalyta."
+
+#: index
+msgid "Even sharp minds reach for a calculator."
+msgstr "Net ir gudrioms galvoms praverčia skaičiuotuvas."
+
+#: index
+msgid ""
+"Hold the [I] key for the number pad: big digits for quick entry of phone numbers and amounts. The calculator counts right in the suggestion bar and inserts the result into the text. It handles percent (200 + 10 % = 220) and brackets, and the scientific mode adds functions, powers, degrees and radians – no switching apps."
+msgstr ""
+"Palaikykite klavišą [I] ir gausite skaičių klaviatūrą: dideli skaitmenys greitam telefono numerių ir sumų įvedimui. Skaičiuotuvas skaičiuoja tiesiog pasiūlymų juostoje ir įterpia rezultatą į tekstą. Jis moka procentus (200 + 10 % = 220) ir skliaustus, o mokslinis režimas prideda funkcijas, kėlimą laipsniu, kampų laipsnius ir radianus – nereikia perjungti programų."
 
 #: index
 msgid "Catch your emotion mid-air."
@@ -251,80 +325,6 @@ msgid ""
 "Hold Enter and pick the clipboard: your last 30 copied texts are always at hand – tap to paste, pin the ones you want to keep. Passwords, codes and text marked as sensitive are never stored, and the history clears itself after the time you choose."
 msgstr ""
 "Palaikykite Enter ir pasirinkite iškarpinę: paskutiniai 30 nukopijuotų tekstų visada po ranka – bakstelėkite, kad įklijuotumėte, prisekite tuos, kuriuos norite išsaugoti. Slaptažodžiai, kodai ir tekstas, pažymėtas kaip konfidencialus, niekada nesaugomi, o istorija išsivalo pati po jūsų pasirinkto laiko."
-
-#: index
-msgid "Even sharp minds reach for a calculator."
-msgstr "Net ir gudrioms galvoms praverčia skaičiuotuvas."
-
-#: index
-msgid ""
-"Hold the [I] key for the number pad: big digits for quick entry of phone numbers and amounts. The calculator counts right in the suggestion bar and inserts the result into the text. It handles percent (200 + 10 % = 220) and brackets, and the scientific mode adds functions, powers, degrees and radians – no switching apps."
-msgstr ""
-"Palaikykite klavišą [I] ir gausite skaičių klaviatūrą: dideli skaitmenys greitam telefono numerių ir sumų įvedimui. Skaičiuotuvas skaičiuoja tiesiog pasiūlymų juostoje ir įterpia rezultatą į tekstą. Jis moka procentus (200 + 10 % = 220) ir skliaustus, o mokslinis režimas prideda funkcijas, kėlimą laipsniu, kampų laipsnius ir radianus – nereikia perjungti programų."
-
-#: index
-msgid "Shimmering colours, like a dragonfly’s wings."
-msgstr "Mirguliuojančios spalvos – tarsi laumžirgio sparnai."
-
-#: index
-msgid ""
-"Pick a ready-made theme or set your own colours for the highlight, keys, special keys, background and text. You can also adjust the font size in the suggestion bar, vibration and key sounds."
-msgstr ""
-"Pasirinkite paruoštą temą arba nustatykite savas paryškinimo, klavišų, specialiųjų klavišų, fono ir teksto spalvas. Taip pat galite koreguoti šrifto dydį pasiūlymų juostoje, vibraciją ir klavišų garsus."
-
-#: index
-msgid "Light green"
-msgstr "Šviesiai žalia"
-
-#: index
-msgid "Light"
-msgstr "Šviesi"
-
-#: index
-msgid "AMOLED black"
-msgstr "AMOLED juoda"
-
-#: index
-msgid "Blue"
-msgstr "Mėlyna"
-
-#: index
-msgid "Orange"
-msgstr "Oranžinė"
-
-#: index
-msgid "Purple"
-msgstr "Violetinė"
-
-#: index
-msgid "Wide wings or narrow – it fits your hand."
-msgstr "Platūs sparnai ar siauri – ji prisitaiko prie jūsų rankos."
-
-#: index
-msgid ""
-"Hold the Swajp key and pick Size: drag the handles to change the height, width and position. Tablet splits the letters into two halves for both thumbs, Left and Right make it narrower at the edge for one hand, and Floating lets it hover freely above apps. In landscape the keyboard is lower and split."
-msgstr ""
-"Palaikykite Swajp klavišą ir pasirinkite Dydis: tempdami rankenėles keiskite aukštį, plotį ir padėtį. Planšetė padalija raides į dvi puses abiem nykščiams, Kairėje ir Dešinėje ją susiaurina prie krašto vienai rankai, o Plaukiojanti leidžia jai laisvai sklandyti virš programų. Gulsčiai klaviatūra žemesnė ir padalyta."
-
-#: index
-msgid "Full"
-msgstr "Visa"
-
-#: index
-msgid "Tablet"
-msgstr "Planšetė"
-
-#: index
-msgid "Left"
-msgstr "Kairėje"
-
-#: index
-msgid "Right"
-msgstr "Dešinėje"
-
-#: index
-msgid "Floating"
-msgstr "Plaukiojanti"
 
 #: index
 msgid ""
@@ -398,108 +398,204 @@ msgid "Available languages"
 msgstr "Galimos kalbos"
 
 #: languages
-msgid "Catalan · 89,809 words"
-msgstr "Katalonų · 89 809 žodžiai"
+msgid "Catalan"
+msgstr "Katalonų"
 
 #: languages
-msgid "Danish · 152,106 words"
-msgstr "Danų · 152 106 žodžiai"
+msgid "89,809 words"
+msgstr "89 809 žodžiai"
 
 #: languages
-msgid "Esperanto · 11,343 words"
-msgstr "Esperanto · 11 343 žodžiai"
+msgid "Danish"
+msgstr "Danų"
 
 #: languages
-msgid "Estonian · 326,938 words"
-msgstr "Estų · 326 938 žodžiai"
+msgid "152,106 words"
+msgstr "152 106 žodžiai"
 
 #: languages
-msgid "Basque · 53,700 words"
-msgstr "Baskų · 53 700 žodžiai"
+msgid "11,343 words"
+msgstr "11 343 žodžiai"
 
 #: languages
-msgid "Finnish · 197,333 words"
-msgstr "Suomių · 197 333 žodžiai"
+msgid "Estonian"
+msgstr "Estų"
 
 #: languages
-msgid "Galician · 30,624 words"
-msgstr "Galisų · 30 624 žodžiai"
+msgid "326,938 words"
+msgstr "326 938 žodžiai"
 
 #: languages
-msgid "Hindi (Latin letters or Devanagari) · 52,622 words"
-msgstr "Hindi (lotyniškos raidės arba devanagaris) · 52 622 žodžiai"
+msgid "Basque"
+msgstr "Baskų"
 
 #: languages
-msgid "Croatian · 191,499 words"
-msgstr "Kroatų · 191 499 žodžiai"
+msgid "53,700 words"
+msgstr "53 700 žodžiai"
 
 #: languages
-msgid "Hungarian · 380,920 words"
-msgstr "Vengrų · 380 920 žodžių"
+msgid "Finnish"
+msgstr "Suomių"
 
 #: languages
-msgid "Indonesian · 75,492 words"
-msgstr "Indoneziečių · 75 492 žodžiai"
+msgid "197,333 words"
+msgstr "197 333 žodžiai"
 
 #: languages
-msgid "Icelandic · 74,391 words"
-msgstr "Islandų · 74 391 žodžiai"
+msgid "Galician"
+msgstr "Galisų"
 
 #: languages
-msgid "Latin · 165,218 words"
-msgstr "Lotynų · 165 218 žodžių"
+msgid "30,624 words"
+msgstr "30 624 žodžiai"
 
 #: languages
-msgid "Lithuanian · 100,175 words"
-msgstr "Lietuvių · 100 175 žodžiai"
+msgid "Hindi"
+msgstr "Hindi"
 
 #: languages
-msgid "Latvian · 51,479 words"
-msgstr "Latvių · 51 479 žodžiai"
+msgid "52,622 words"
+msgstr "52 622 žodžiai"
 
 #: languages
-msgid "Malay · 49,942 words"
-msgstr "Malajų · 49 942 žodžiai"
+msgid "Croatian"
+msgstr "Kroatų"
 
 #: languages
-msgid "Norwegian · 140,318 words"
-msgstr "Norvegų · 140 318 žodžių"
+msgid "191,499 words"
+msgstr "191 499 žodžiai"
 
 #: languages
-msgid "Dutch · 140,383 words"
-msgstr "Nyderlandų · 140 383 žodžiai"
+msgid "Hungarian"
+msgstr "Vengrų"
 
 #: languages
-msgid "Romanian · 119,573 words"
-msgstr "Rumunų · 119 573 žodžiai"
+msgid "380,920 words"
+msgstr "380 920 žodžių"
 
 #: languages
-msgid "Slovenian · 182,841 words"
-msgstr "Slovėnų · 182 841 žodis"
+msgid "Indonesian"
+msgstr "Indoneziečių"
 
 #: languages
-msgid "Albanian · 89,152 words"
-msgstr "Albanų · 89 152 žodžiai"
+msgid "75,492 words"
+msgstr "75 492 žodžiai"
 
 #: languages
-msgid "Serbian · 330,967 words"
-msgstr "Serbų · 330 967 žodžiai"
+msgid "Icelandic"
+msgstr "Islandų"
 
 #: languages
-msgid "Swedish · 153,998 words"
-msgstr "Švedų · 153 998 žodžiai"
+msgid "74,391 words"
+msgstr "74 391 žodžiai"
 
 #: languages
-msgid "Tagalog · 30,099 words"
-msgstr "Tagalų · 30 099 žodžiai"
+msgid "Latin"
+msgstr "Lotynų"
 
 #: languages
-msgid "Turkish · 305,078 words"
-msgstr "Turkų · 305 078 žodžiai"
+msgid "165,218 words"
+msgstr "165 218 žodžių"
 
 #: languages
-msgid "Vietnamese · 35,303 words"
-msgstr "Vietnamiečių · 35 303 žodžiai"
+msgid "Lithuanian"
+msgstr "Lietuvių"
+
+#: languages
+msgid "100,175 words"
+msgstr "100 175 žodžiai"
+
+#: languages
+msgid "Latvian"
+msgstr "Latvių"
+
+#: languages
+msgid "51,479 words"
+msgstr "51 479 žodžiai"
+
+#: languages
+msgid "Malay"
+msgstr "Malajų"
+
+#: languages
+msgid "49,942 words"
+msgstr "49 942 žodžiai"
+
+#: languages
+msgid "Norwegian"
+msgstr "Norvegų"
+
+#: languages
+msgid "140,318 words"
+msgstr "140 318 žodžių"
+
+#: languages
+msgid "Dutch"
+msgstr "Nyderlandų"
+
+#: languages
+msgid "140,383 words"
+msgstr "140 383 žodžiai"
+
+#: languages
+msgid "Romanian"
+msgstr "Rumunų"
+
+#: languages
+msgid "119,573 words"
+msgstr "119 573 žodžiai"
+
+#: languages
+msgid "Slovenian"
+msgstr "Slovėnų"
+
+#: languages
+msgid "182,841 words"
+msgstr "182 841 žodis"
+
+#: languages
+msgid "Albanian"
+msgstr "Albanų"
+
+#: languages
+msgid "89,152 words"
+msgstr "89 152 žodžiai"
+
+#: languages
+msgid "Serbian"
+msgstr "Serbų"
+
+#: languages
+msgid "330,967 words"
+msgstr "330 967 žodžiai"
+
+#: languages
+msgid "Swedish"
+msgstr "Švedų"
+
+#: languages
+msgid "153,998 words"
+msgstr "153 998 žodžiai"
+
+#: languages
+msgid "30,099 words"
+msgstr "30 099 žodžiai"
+
+#: languages
+msgid "Turkish"
+msgstr "Turkų"
+
+#: languages
+msgid "305,078 words"
+msgstr "305 078 žodžiai"
+
+#: languages
+msgid "Vietnamese"
+msgstr "Vietnamiečių"
+
+#: languages
+msgid "35,303 words"
+msgstr "35 303 žodžiai"
 
 #: languages
 msgid ""

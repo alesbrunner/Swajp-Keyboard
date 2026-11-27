@@ -99,6 +99,30 @@ msgid "Copy, paste, undo and select with one swipe."
 msgstr "Afritaðu, límdu, afturkallaðu og veldu með einu stroki."
 
 #: index
+msgid "Themes &amp; colours"
+msgstr "Þemu og litir"
+
+#: index
+msgid "Six themes or colours of your own."
+msgstr "Sex þemu eða þínir eigin litir."
+
+#: index
+msgid "Size &amp; layout"
+msgstr "Stærð og útlit"
+
+#: index
+msgid "Split, one-handed or floating."
+msgstr "Skipt, einhent eða fljótandi."
+
+#: index
+msgid "Number pad & calculator"
+msgstr "Talnaborð og reiknivél"
+
+#: index
+msgid "Big digits, a calculator and a scientific one."
+msgstr "Stórir tölustafir, reiknivél og vísindareiknivél."
+
+#: index
 msgid "Emoji"
 msgstr "Tjákn"
 
@@ -127,30 +151,6 @@ msgid "Your last 30 copied texts at hand."
 msgstr "Síðustu 30 afrituðu textarnir alltaf við höndina."
 
 #: index
-msgid "Number pad & calculator"
-msgstr "Talnaborð og reiknivél"
-
-#: index
-msgid "Big digits, a calculator and a scientific one."
-msgstr "Stórir tölustafir, reiknivél og vísindareiknivél."
-
-#: index
-msgid "Themes &amp; colours"
-msgstr "Þemu og litir"
-
-#: index
-msgid "Six themes or colours of your own."
-msgstr "Sex þemu eða þínir eigin litir."
-
-#: index
-msgid "Size &amp; layout"
-msgstr "Stærð og útlit"
-
-#: index
-msgid "Split, one-handed or floating."
-msgstr "Skipt, einhent eða fljótandi."
-
-#: index
 msgid "Backup"
 msgstr "Öryggisafrit"
 
@@ -162,10 +162,6 @@ msgstr "Taktu lærðu orðin með þér í nýja símann."
 msgid "No internet, no ads, no tracking."
 msgstr "Ekkert net, engar auglýsingar, engin rakning."
 
-#: index
-msgid "Glide over the keys like a dragonfly."
-msgstr "Svífðu yfir lyklana eins og drekafluga."
-
 #: index (atribut / attribute)
 msgid "Previous"
 msgstr "Fyrra"
@@ -173,6 +169,10 @@ msgstr "Fyrra"
 #: index (atribut / attribute)
 msgid "Next"
 msgstr "Næsta"
+
+#: index
+msgid "Glide over the keys like a dragonfly."
+msgstr "Svífðu yfir lyklana eins og drekafluga."
 
 #: index
 msgid ""
@@ -205,6 +205,80 @@ msgid ""
 "All gestures with demos and practice are in the app: Settings → Gestures and guide."
 msgstr ""
 "Allar bendingar með sýnidæmum og æfingum eru í forritinu: Stillingar → Bendingar og leiðarvísir."
+
+#: index
+msgid "Light green"
+msgstr "Ljósgrænt"
+
+#: index
+msgid "Light"
+msgstr "Ljóst"
+
+#: index
+msgid "AMOLED black"
+msgstr "AMOLED-svart"
+
+#: index
+msgid "Blue"
+msgstr "Blátt"
+
+#: index
+msgid "Orange"
+msgstr "Appelsínugult"
+
+#: index
+msgid "Purple"
+msgstr "Fjólublátt"
+
+#: index
+msgid "Admire its many shimmering colours."
+msgstr "Dástu að mörgum glitrandi litum þess."
+
+#: index
+msgid ""
+"Pick a ready-made theme or set your own colours for the highlight, keys, special keys, background and text. You can also adjust the font size in the suggestion bar, vibration and key sounds."
+msgstr ""
+"Veldu tilbúið þema eða stilltu eigin liti fyrir áherslu, lykla, sérlykla, bakgrunn og texta. Þú getur líka stillt leturstærð í tillögustikunni, titring og lyklahljóð."
+
+#: index
+msgid "Full"
+msgstr "Fullt"
+
+#: index
+msgid "Taller"
+msgstr "Hærra"
+
+#: index
+msgid "Smaller and lifted"
+msgstr "Minna og lyft"
+
+#: index
+msgid "Tablet"
+msgstr "Spjaldtölva"
+
+#: index
+msgid "Floating"
+msgstr "Fljótandi"
+
+#: index
+msgid "Spread your wings, or fold them out of the way."
+msgstr "Breiddu út vængina, eða brjóttu þá saman svo þeir þvælist ekki fyrir."
+
+#: index
+msgid ""
+"Hold the Swajp key and pick Size: drag the handles to change the height, width and position. Make it taller, or smaller and lifted off the bottom edge, split it into two halves for both thumbs (Tablet), move it to the edge for one hand, or let it float freely above apps. In landscape the keyboard is lower and split."
+msgstr ""
+"Haltu Swajp-lyklinum inni og veldu Stærð: dragðu handföngin til að breyta hæð, breidd og staðsetningu. Gerðu það hærra, eða minna og lyft frá neðri brúninni, skiptu því í tvo helminga fyrir báða þumla (Spjaldtölva), færðu það út að brún fyrir aðra höndina eða láttu það fljóta frjálst yfir forritum. Á þverveginn er lyklaborðið lægra og skipt."
+
+#: index
+msgid "Even sharp minds reach for a calculator."
+msgstr "Jafnvel skarpir hugar grípa í reiknivél."
+
+#: index
+msgid ""
+"Hold the [I] key for the number pad: big digits for quick entry of phone numbers and amounts. The calculator counts right in the suggestion bar and inserts the result into the text. It handles percent (200 + 10 % = 220) and brackets, and the scientific mode adds functions, powers, degrees and radians – no switching apps."
+msgstr ""
+"Haltu [I]-lyklinum inni fyrir talnaborðið: stórir tölustafir til að slá hratt inn símanúmer og upphæðir. Reiknivélin reiknar beint í tillögustikunni og setur niðurstöðuna inn í textann. Hún ræður við prósentur (200 + 10% = 220) og sviga, og vísindahamurinn bætir við föllum, veldum, gráðum og radíönum – án þess að skipta um forrit."
 
 #: index
 msgid "Catch your emotion mid-air."
@@ -251,80 +325,6 @@ msgid ""
 "Hold Enter and pick the clipboard: your last 30 copied texts are always at hand – tap to paste, pin the ones you want to keep. Passwords, codes and text marked as sensitive are never stored, and the history clears itself after the time you choose."
 msgstr ""
 "Haltu Enter inni og veldu klippiborðið: síðustu 30 textarnir sem þú afritaðir eru alltaf við höndina – pikkaðu til að líma, festu þá sem þú vilt halda. Lykilorð, kóðar og texti merktur sem viðkvæmur eru aldrei vistuð og sagan hreinsast sjálfkrafa eftir þann tíma sem þú velur."
-
-#: index
-msgid "Even sharp minds reach for a calculator."
-msgstr "Jafnvel skarpir hugar grípa í reiknivél."
-
-#: index
-msgid ""
-"Hold the [I] key for the number pad: big digits for quick entry of phone numbers and amounts. The calculator counts right in the suggestion bar and inserts the result into the text. It handles percent (200 + 10 % = 220) and brackets, and the scientific mode adds functions, powers, degrees and radians – no switching apps."
-msgstr ""
-"Haltu [I]-lyklinum inni fyrir talnaborðið: stórir tölustafir til að slá hratt inn símanúmer og upphæðir. Reiknivélin reiknar beint í tillögustikunni og setur niðurstöðuna inn í textann. Hún ræður við prósentur (200 + 10% = 220) og sviga, og vísindahamurinn bætir við föllum, veldum, gráðum og radíönum – án þess að skipta um forrit."
-
-#: index
-msgid "Shimmering colours, like a dragonfly’s wings."
-msgstr "Glitrandi litir, eins og vængir drekaflugu."
-
-#: index
-msgid ""
-"Pick a ready-made theme or set your own colours for the highlight, keys, special keys, background and text. You can also adjust the font size in the suggestion bar, vibration and key sounds."
-msgstr ""
-"Veldu tilbúið þema eða stilltu eigin liti fyrir áherslu, lykla, sérlykla, bakgrunn og texta. Þú getur líka stillt leturstærð í tillögustikunni, titring og lyklahljóð."
-
-#: index
-msgid "Light green"
-msgstr "Ljósgrænt"
-
-#: index
-msgid "Light"
-msgstr "Ljóst"
-
-#: index
-msgid "AMOLED black"
-msgstr "AMOLED-svart"
-
-#: index
-msgid "Blue"
-msgstr "Blátt"
-
-#: index
-msgid "Orange"
-msgstr "Appelsínugult"
-
-#: index
-msgid "Purple"
-msgstr "Fjólublátt"
-
-#: index
-msgid "Wide wings or narrow – it fits your hand."
-msgstr "Breiðir vængir eða mjóir – það lagar sig að hendinni þinni."
-
-#: index
-msgid ""
-"Hold the Swajp key and pick Size: drag the handles to change the height, width and position. Tablet splits the letters into two halves for both thumbs, Left and Right make it narrower at the edge for one hand, and Floating lets it hover freely above apps. In landscape the keyboard is lower and split."
-msgstr ""
-"Haltu Swajp-lyklinum inni og veldu Stærð: dragðu handföngin til að breyta hæð, breidd og staðsetningu. Spjaldtölva skiptir stöfunum í tvo helminga fyrir báða þumla, Vinstri og Hægri gera það mjórra við brúnina fyrir aðra höndina og Fljótandi lætur það svífa frjálst yfir forritum. Í láréttri stöðu er lyklaborðið lægra og skipt."
-
-#: index
-msgid "Full"
-msgstr "Fullt"
-
-#: index
-msgid "Tablet"
-msgstr "Spjaldtölva"
-
-#: index
-msgid "Left"
-msgstr "Vinstri"
-
-#: index
-msgid "Right"
-msgstr "Hægri"
-
-#: index
-msgid "Floating"
-msgstr "Fljótandi"
 
 #: index
 msgid ""
@@ -398,108 +398,204 @@ msgid "Available languages"
 msgstr "Tungumál í boði"
 
 #: languages
-msgid "Catalan · 89,809 words"
-msgstr "Katalónska · 89.809 orð"
+msgid "Catalan"
+msgstr "Katalónska"
 
 #: languages
-msgid "Danish · 152,106 words"
-msgstr "Danska · 152.106 orð"
+msgid "89,809 words"
+msgstr "89.809 orð"
 
 #: languages
-msgid "Esperanto · 11,343 words"
-msgstr "Esperantó · 11.343 orð"
+msgid "Danish"
+msgstr "Danska"
 
 #: languages
-msgid "Estonian · 326,938 words"
-msgstr "Eistneska · 326.938 orð"
+msgid "152,106 words"
+msgstr "152.106 orð"
 
 #: languages
-msgid "Basque · 53,700 words"
-msgstr "Baskneska · 53.700 orð"
+msgid "11,343 words"
+msgstr "11.343 orð"
 
 #: languages
-msgid "Finnish · 197,333 words"
-msgstr "Finnska · 197.333 orð"
+msgid "Estonian"
+msgstr "Eistneska"
 
 #: languages
-msgid "Galician · 30,624 words"
-msgstr "Galisíska · 30.624 orð"
+msgid "326,938 words"
+msgstr "326.938 orð"
 
 #: languages
-msgid "Hindi (Latin letters or Devanagari) · 52,622 words"
-msgstr "Hindí (latneskt letur eða devanagari) · 52.622 orð"
+msgid "Basque"
+msgstr "Baskneska"
 
 #: languages
-msgid "Croatian · 191,499 words"
-msgstr "Króatíska · 191.499 orð"
+msgid "53,700 words"
+msgstr "53.700 orð"
 
 #: languages
-msgid "Hungarian · 380,920 words"
-msgstr "Ungverska · 380.920 orð"
+msgid "Finnish"
+msgstr "Finnska"
 
 #: languages
-msgid "Indonesian · 75,492 words"
-msgstr "Indónesíska · 75.492 orð"
+msgid "197,333 words"
+msgstr "197.333 orð"
 
 #: languages
-msgid "Icelandic · 74,391 words"
-msgstr "Íslenska · 74.391 orð"
+msgid "Galician"
+msgstr "Galisíska"
 
 #: languages
-msgid "Latin · 165,218 words"
-msgstr "Latína · 165.218 orð"
+msgid "30,624 words"
+msgstr "30.624 orð"
 
 #: languages
-msgid "Lithuanian · 100,175 words"
-msgstr "Litháíska · 100.175 orð"
+msgid "Hindi"
+msgstr "Hindí"
 
 #: languages
-msgid "Latvian · 51,479 words"
-msgstr "Lettneska · 51.479 orð"
+msgid "52,622 words"
+msgstr "52.622 orð"
 
 #: languages
-msgid "Malay · 49,942 words"
-msgstr "Malasíska · 49.942 orð"
+msgid "Croatian"
+msgstr "Króatíska"
 
 #: languages
-msgid "Norwegian · 140,318 words"
-msgstr "Norska · 140.318 orð"
+msgid "191,499 words"
+msgstr "191.499 orð"
 
 #: languages
-msgid "Dutch · 140,383 words"
-msgstr "Hollenska · 140.383 orð"
+msgid "Hungarian"
+msgstr "Ungverska"
 
 #: languages
-msgid "Romanian · 119,573 words"
-msgstr "Rúmenska · 119.573 orð"
+msgid "380,920 words"
+msgstr "380.920 orð"
 
 #: languages
-msgid "Slovenian · 182,841 words"
-msgstr "Slóvenska · 182.841 orð"
+msgid "Indonesian"
+msgstr "Indónesíska"
 
 #: languages
-msgid "Albanian · 89,152 words"
-msgstr "Albanska · 89.152 orð"
+msgid "75,492 words"
+msgstr "75.492 orð"
 
 #: languages
-msgid "Serbian · 330,967 words"
-msgstr "Serbneska · 330.967 orð"
+msgid "Icelandic"
+msgstr "Íslenska"
 
 #: languages
-msgid "Swedish · 153,998 words"
-msgstr "Sænska · 153.998 orð"
+msgid "74,391 words"
+msgstr "74.391 orð"
 
 #: languages
-msgid "Tagalog · 30,099 words"
-msgstr "Tagalog · 30.099 orð"
+msgid "Latin"
+msgstr "Latína"
 
 #: languages
-msgid "Turkish · 305,078 words"
-msgstr "Tyrkneska · 305.078 orð"
+msgid "165,218 words"
+msgstr "165.218 orð"
 
 #: languages
-msgid "Vietnamese · 35,303 words"
-msgstr "Víetnamska · 35.303 orð"
+msgid "Lithuanian"
+msgstr "Litháíska"
+
+#: languages
+msgid "100,175 words"
+msgstr "100.175 orð"
+
+#: languages
+msgid "Latvian"
+msgstr "Lettneska"
+
+#: languages
+msgid "51,479 words"
+msgstr "51.479 orð"
+
+#: languages
+msgid "Malay"
+msgstr "Malasíska"
+
+#: languages
+msgid "49,942 words"
+msgstr "49.942 orð"
+
+#: languages
+msgid "Norwegian"
+msgstr "Norska"
+
+#: languages
+msgid "140,318 words"
+msgstr "140.318 orð"
+
+#: languages
+msgid "Dutch"
+msgstr "Hollenska"
+
+#: languages
+msgid "140,383 words"
+msgstr "140.383 orð"
+
+#: languages
+msgid "Romanian"
+msgstr "Rúmenska"
+
+#: languages
+msgid "119,573 words"
+msgstr "119.573 orð"
+
+#: languages
+msgid "Slovenian"
+msgstr "Slóvenska"
+
+#: languages
+msgid "182,841 words"
+msgstr "182.841 orð"
+
+#: languages
+msgid "Albanian"
+msgstr "Albanska"
+
+#: languages
+msgid "89,152 words"
+msgstr "89.152 orð"
+
+#: languages
+msgid "Serbian"
+msgstr "Serbneska"
+
+#: languages
+msgid "330,967 words"
+msgstr "330.967 orð"
+
+#: languages
+msgid "Swedish"
+msgstr "Sænska"
+
+#: languages
+msgid "153,998 words"
+msgstr "153.998 orð"
+
+#: languages
+msgid "30,099 words"
+msgstr "30.099 orð"
+
+#: languages
+msgid "Turkish"
+msgstr "Tyrkneska"
+
+#: languages
+msgid "305,078 words"
+msgstr "305.078 orð"
+
+#: languages
+msgid "Vietnamese"
+msgstr "Víetnamska"
+
+#: languages
+msgid "35,303 words"
+msgstr "35.303 orð"
 
 #: languages
 msgid ""

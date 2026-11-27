@@ -98,6 +98,30 @@ msgid "Copy, paste, undo and select with one swipe."
 msgstr "Kopiraj, nalepi, opozovi i izaberi jednim prevlačenjem."
 
 #: index
+msgid "Themes &amp; colours"
+msgstr "Teme i boje"
+
+#: index
+msgid "Six themes or colours of your own."
+msgstr "Šest tema ili sopstvene boje."
+
+#: index
+msgid "Size &amp; layout"
+msgstr "Veličina i raspored"
+
+#: index
+msgid "Split, one-handed or floating."
+msgstr "Podeljena, za jednu ruku ili plutajuća."
+
+#: index
+msgid "Number pad & calculator"
+msgstr "Numerička tastatura i kalkulator"
+
+#: index
+msgid "Big digits, a calculator and a scientific one."
+msgstr "Velike cifre, kalkulator i naučni kalkulator."
+
+#: index
 msgid "Emoji"
 msgstr "Emodžiji"
 
@@ -126,30 +150,6 @@ msgid "Your last 30 copied texts at hand."
 msgstr "Poslednjih 30 kopiranih tekstova uvek pri ruci."
 
 #: index
-msgid "Number pad & calculator"
-msgstr "Numerička tastatura i kalkulator"
-
-#: index
-msgid "Big digits, a calculator and a scientific one."
-msgstr "Velike cifre, kalkulator i naučni kalkulator."
-
-#: index
-msgid "Themes &amp; colours"
-msgstr "Teme i boje"
-
-#: index
-msgid "Six themes or colours of your own."
-msgstr "Šest tema ili sopstvene boje."
-
-#: index
-msgid "Size &amp; layout"
-msgstr "Veličina i raspored"
-
-#: index
-msgid "Split, one-handed or floating."
-msgstr "Podeljena, za jednu ruku ili plutajuća."
-
-#: index
 msgid "Backup"
 msgstr "Rezervna kopija"
 
@@ -161,10 +161,6 @@ msgstr "Prenesi naučene reči na novi telefon."
 msgid "No internet, no ads, no tracking."
 msgstr "Bez interneta, bez reklama, bez praćenja."
 
-#: index
-msgid "Glide over the keys like a dragonfly."
-msgstr "Jedri po tasterima kao vilin konjic."
-
 #: index (atribut / attribute)
 msgid "Previous"
 msgstr "Prethodno"
@@ -172,6 +168,10 @@ msgstr "Prethodno"
 #: index (atribut / attribute)
 msgid "Next"
 msgstr "Sledeće"
+
+#: index
+msgid "Glide over the keys like a dragonfly."
+msgstr "Jedri po tasterima kao vilin konjic."
 
 #: index
 msgid ""
@@ -205,6 +205,80 @@ msgid ""
 "All gestures with demos and practice are in the app: Settings → Gestures and guide."
 msgstr ""
 "Svi pokreti s prikazima i vežbanjem nalaze se u aplikaciji: Podešavanja → Pokreti i vodič."
+
+#: index
+msgid "Light green"
+msgstr "Svetlozelena"
+
+#: index
+msgid "Light"
+msgstr "Svetla"
+
+#: index
+msgid "AMOLED black"
+msgstr "AMOLED crna"
+
+#: index
+msgid "Blue"
+msgstr "Plava"
+
+#: index
+msgid "Orange"
+msgstr "Narandžasta"
+
+#: index
+msgid "Purple"
+msgstr "Ljubičasta"
+
+#: index
+msgid "Admire its many shimmering colours."
+msgstr "Divi se njenim brojnim svetlucavim bojama."
+
+#: index
+msgid ""
+"Pick a ready-made theme or set your own colours for the highlight, keys, special keys, background and text. You can also adjust the font size in the suggestion bar, vibration and key sounds."
+msgstr ""
+"Izaberi gotovu temu ili podesi sopstvene boje za isticanje, tastere, posebne tastere, pozadinu i tekst. Možeš da podesiš i veličinu slova na traci predloga, vibraciju i zvuke tastera."
+
+#: index
+msgid "Full"
+msgstr "Cela"
+
+#: index
+msgid "Taller"
+msgstr "Viša"
+
+#: index
+msgid "Smaller and lifted"
+msgstr "Manja i podignuta"
+
+#: index
+msgid "Tablet"
+msgstr "Tablet"
+
+#: index
+msgid "Floating"
+msgstr "Plutajuća"
+
+#: index
+msgid "Spread your wings, or fold them out of the way."
+msgstr "Raširi krila ili ih sklopi da ne smetaju."
+
+#: index
+msgid ""
+"Hold the Swajp key and pick Size: drag the handles to change the height, width and position. Make it taller, or smaller and lifted off the bottom edge, split it into two halves for both thumbs (Tablet), move it to the edge for one hand, or let it float freely above apps. In landscape the keyboard is lower and split."
+msgstr ""
+"Drži taster Swajp i izaberi Veličinu: prevlačenjem ručica menjaš visinu, širinu i položaj. Učini je višom ili manjom i podignutom od donje ivice, podeli je na dve polovine za oba palca (Tablet), pomeri je uz ivicu za jednu ruku ili je pusti da slobodno pluta iznad aplikacija. U horizontalnom položaju tastatura je niža i podeljena."
+
+#: index
+msgid "Even sharp minds reach for a calculator."
+msgstr "I bistroj glavi dobro dođe kalkulator."
+
+#: index
+msgid ""
+"Hold the [I] key for the number pad: big digits for quick entry of phone numbers and amounts. The calculator counts right in the suggestion bar and inserts the result into the text. It handles percent (200 + 10 % = 220) and brackets, and the scientific mode adds functions, powers, degrees and radians – no switching apps."
+msgstr ""
+"Drži taster [I] za numeričku tastaturu: velike cifre za brz unos brojeva telefona i iznosa. Kalkulator računa direktno na traci predloga i umeće rezultat u tekst. Zna procente (200 + 10% = 220) i zagrade, a naučni režim dodaje funkcije, potencije, stepene i radijane – bez prebacivanja aplikacija."
 
 #: index
 msgid "Catch your emotion mid-air."
@@ -251,80 +325,6 @@ msgid ""
 "Hold Enter and pick the clipboard: your last 30 copied texts are always at hand – tap to paste, pin the ones you want to keep. Passwords, codes and text marked as sensitive are never stored, and the history clears itself after the time you choose."
 msgstr ""
 "Drži Enter i izaberi privremenu memoriju: poslednjih 30 kopiranih tekstova uvek ti je pri ruci – dodirom ih nalepiš, a one koje želiš da zadržiš zakačiš. Lozinke, kodovi i tekst označen kao osetljiv nikad se ne čuvaju, a istorija se sama briše posle vremena koje izabereš."
-
-#: index
-msgid "Even sharp minds reach for a calculator."
-msgstr "I bistroj glavi dobro dođe kalkulator."
-
-#: index
-msgid ""
-"Hold the [I] key for the number pad: big digits for quick entry of phone numbers and amounts. The calculator counts right in the suggestion bar and inserts the result into the text. It handles percent (200 + 10 % = 220) and brackets, and the scientific mode adds functions, powers, degrees and radians – no switching apps."
-msgstr ""
-"Drži taster [I] za numeričku tastaturu: velike cifre za brz unos brojeva telefona i iznosa. Kalkulator računa direktno na traci predloga i umeće rezultat u tekst. Zna procente (200 + 10% = 220) i zagrade, a naučni režim dodaje funkcije, potencije, stepene i radijane – bez prebacivanja aplikacija."
-
-#: index
-msgid "Shimmering colours, like a dragonfly’s wings."
-msgstr "Svetlucave boje, poput krila vilinog konjica."
-
-#: index
-msgid ""
-"Pick a ready-made theme or set your own colours for the highlight, keys, special keys, background and text. You can also adjust the font size in the suggestion bar, vibration and key sounds."
-msgstr ""
-"Izaberi gotovu temu ili podesi sopstvene boje za isticanje, tastere, posebne tastere, pozadinu i tekst. Možeš da podesiš i veličinu slova na traci predloga, vibraciju i zvuke tastera."
-
-#: index
-msgid "Light green"
-msgstr "Svetlozelena"
-
-#: index
-msgid "Light"
-msgstr "Svetla"
-
-#: index
-msgid "AMOLED black"
-msgstr "AMOLED crna"
-
-#: index
-msgid "Blue"
-msgstr "Plava"
-
-#: index
-msgid "Orange"
-msgstr "Narandžasta"
-
-#: index
-msgid "Purple"
-msgstr "Ljubičasta"
-
-#: index
-msgid "Wide wings or narrow – it fits your hand."
-msgstr "Široka krila ili uska – prilagođava se tvojoj ruci."
-
-#: index
-msgid ""
-"Hold the Swajp key and pick Size: drag the handles to change the height, width and position. Tablet splits the letters into two halves for both thumbs, Left and Right make it narrower at the edge for one hand, and Floating lets it hover freely above apps. In landscape the keyboard is lower and split."
-msgstr ""
-"Drži taster Swajp i izaberi Veličinu: prevlačenjem ručica menjaš visinu, širinu i položaj. Tablet deli slova na dve polovine za oba palca, Levo i Desno je sužavaju ka ivici za jednu ruku, a Plutajuća slobodno lebdi iznad aplikacija. U horizontalnom položaju tastatura je niža i podeljena."
-
-#: index
-msgid "Full"
-msgstr "Cela"
-
-#: index
-msgid "Tablet"
-msgstr "Tablet"
-
-#: index
-msgid "Left"
-msgstr "Levo"
-
-#: index
-msgid "Right"
-msgstr "Desno"
-
-#: index
-msgid "Floating"
-msgstr "Plutajuća"
 
 #: index
 msgid ""
@@ -396,108 +396,204 @@ msgid "Available languages"
 msgstr "Dostupni jezici"
 
 #: languages
-msgid "Catalan · 89,809 words"
-msgstr "Katalonski · 89.809 reči"
+msgid "Catalan"
+msgstr "Katalonski"
 
 #: languages
-msgid "Danish · 152,106 words"
-msgstr "Danski · 152.106 reči"
+msgid "89,809 words"
+msgstr "89.809 reči"
 
 #: languages
-msgid "Esperanto · 11,343 words"
-msgstr "Esperanto · 11.343 reči"
+msgid "Danish"
+msgstr "Danski"
 
 #: languages
-msgid "Estonian · 326,938 words"
-msgstr "Estonski · 326.938 reči"
+msgid "152,106 words"
+msgstr "152.106 reči"
 
 #: languages
-msgid "Basque · 53,700 words"
-msgstr "Baskijski · 53.700 reči"
+msgid "11,343 words"
+msgstr "11.343 reči"
 
 #: languages
-msgid "Finnish · 197,333 words"
-msgstr "Finski · 197.333 reči"
+msgid "Estonian"
+msgstr "Estonski"
 
 #: languages
-msgid "Galician · 30,624 words"
-msgstr "Galicijski · 30.624 reči"
+msgid "326,938 words"
+msgstr "326.938 reči"
 
 #: languages
-msgid "Hindi (Latin letters or Devanagari) · 52,622 words"
-msgstr "Hindi (latinica ili devanagari) · 52.622 reči"
+msgid "Basque"
+msgstr "Baskijski"
 
 #: languages
-msgid "Croatian · 191,499 words"
-msgstr "Hrvatski · 191.499 reči"
+msgid "53,700 words"
+msgstr "53.700 reči"
 
 #: languages
-msgid "Hungarian · 380,920 words"
-msgstr "Mađarski · 380.920 reči"
+msgid "Finnish"
+msgstr "Finski"
 
 #: languages
-msgid "Indonesian · 75,492 words"
-msgstr "Indonežanski · 75.492 reči"
+msgid "197,333 words"
+msgstr "197.333 reči"
 
 #: languages
-msgid "Icelandic · 74,391 words"
-msgstr "Islandski · 74.391 reč"
+msgid "Galician"
+msgstr "Galicijski"
 
 #: languages
-msgid "Latin · 165,218 words"
-msgstr "Latinski · 165.218 reči"
+msgid "30,624 words"
+msgstr "30.624 reči"
 
 #: languages
-msgid "Lithuanian · 100,175 words"
-msgstr "Litvanski · 100.175 reči"
+msgid "Hindi"
+msgstr "Hindi"
 
 #: languages
-msgid "Latvian · 51,479 words"
-msgstr "Letonski · 51.479 reči"
+msgid "52,622 words"
+msgstr "52.622 reči"
 
 #: languages
-msgid "Malay · 49,942 words"
-msgstr "Malajski · 49.942 reči"
+msgid "Croatian"
+msgstr "Hrvatski"
 
 #: languages
-msgid "Norwegian · 140,318 words"
-msgstr "Norveški · 140.318 reči"
+msgid "191,499 words"
+msgstr "191.499 reči"
 
 #: languages
-msgid "Dutch · 140,383 words"
-msgstr "Holandski · 140.383 reči"
+msgid "Hungarian"
+msgstr "Mađarski"
 
 #: languages
-msgid "Romanian · 119,573 words"
-msgstr "Rumunski · 119.573 reči"
+msgid "380,920 words"
+msgstr "380.920 reči"
 
 #: languages
-msgid "Slovenian · 182,841 words"
-msgstr "Slovenački · 182.841 reč"
+msgid "Indonesian"
+msgstr "Indonežanski"
 
 #: languages
-msgid "Albanian · 89,152 words"
-msgstr "Albanski · 89.152 reči"
+msgid "75,492 words"
+msgstr "75.492 reči"
 
 #: languages
-msgid "Serbian · 330,967 words"
-msgstr "Srpski · 330.967 reči"
+msgid "Icelandic"
+msgstr "Islandski"
 
 #: languages
-msgid "Swedish · 153,998 words"
-msgstr "Švedski · 153.998 reči"
+msgid "74,391 words"
+msgstr "74.391 reč"
 
 #: languages
-msgid "Tagalog · 30,099 words"
-msgstr "Tagalog · 30.099 reči"
+msgid "Latin"
+msgstr "Latinski"
 
 #: languages
-msgid "Turkish · 305,078 words"
-msgstr "Turski · 305.078 reči"
+msgid "165,218 words"
+msgstr "165.218 reči"
 
 #: languages
-msgid "Vietnamese · 35,303 words"
-msgstr "Vijetnamski · 35.303 reči"
+msgid "Lithuanian"
+msgstr "Litvanski"
+
+#: languages
+msgid "100,175 words"
+msgstr "100.175 reči"
+
+#: languages
+msgid "Latvian"
+msgstr "Letonski"
+
+#: languages
+msgid "51,479 words"
+msgstr "51.479 reči"
+
+#: languages
+msgid "Malay"
+msgstr "Malajski"
+
+#: languages
+msgid "49,942 words"
+msgstr "49.942 reči"
+
+#: languages
+msgid "Norwegian"
+msgstr "Norveški"
+
+#: languages
+msgid "140,318 words"
+msgstr "140.318 reči"
+
+#: languages
+msgid "Dutch"
+msgstr "Holandski"
+
+#: languages
+msgid "140,383 words"
+msgstr "140.383 reči"
+
+#: languages
+msgid "Romanian"
+msgstr "Rumunski"
+
+#: languages
+msgid "119,573 words"
+msgstr "119.573 reči"
+
+#: languages
+msgid "Slovenian"
+msgstr "Slovenački"
+
+#: languages
+msgid "182,841 words"
+msgstr "182.841 reč"
+
+#: languages
+msgid "Albanian"
+msgstr "Albanski"
+
+#: languages
+msgid "89,152 words"
+msgstr "89.152 reči"
+
+#: languages
+msgid "Serbian"
+msgstr "Srpski"
+
+#: languages
+msgid "330,967 words"
+msgstr "330.967 reči"
+
+#: languages
+msgid "Swedish"
+msgstr "Švedski"
+
+#: languages
+msgid "153,998 words"
+msgstr "153.998 reči"
+
+#: languages
+msgid "30,099 words"
+msgstr "30.099 reči"
+
+#: languages
+msgid "Turkish"
+msgstr "Turski"
+
+#: languages
+msgid "305,078 words"
+msgstr "305.078 reči"
+
+#: languages
+msgid "Vietnamese"
+msgstr "Vijetnamski"
+
+#: languages
+msgid "35,303 words"
+msgstr "35.303 reči"
 
 #: languages
 msgid ""

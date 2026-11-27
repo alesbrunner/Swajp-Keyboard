@@ -99,6 +99,30 @@ msgid "Copy, paste, undo and select with one swipe."
 msgstr "Sao chép, dán, hoàn tác và chọn chỉ với một nét vuốt."
 
 #: index
+msgid "Themes &amp; colours"
+msgstr "Chủ đề &amp; màu sắc"
+
+#: index
+msgid "Six themes or colours of your own."
+msgstr "Sáu chủ đề hoặc màu sắc của riêng bạn."
+
+#: index
+msgid "Size &amp; layout"
+msgstr "Kích thước &amp; bố cục"
+
+#: index
+msgid "Split, one-handed or floating."
+msgstr "Tách đôi, một tay hoặc nổi."
+
+#: index
+msgid "Number pad & calculator"
+msgstr "Bàn phím số và máy tính"
+
+#: index
+msgid "Big digits, a calculator and a scientific one."
+msgstr "Chữ số lớn, máy tính thường và máy tính khoa học."
+
+#: index
 msgid "Emoji"
 msgstr "Emoji"
 
@@ -127,30 +151,6 @@ msgid "Your last 30 copied texts at hand."
 msgstr "30 văn bản sao chép gần nhất luôn trong tầm tay."
 
 #: index
-msgid "Number pad & calculator"
-msgstr "Bàn phím số và máy tính"
-
-#: index
-msgid "Big digits, a calculator and a scientific one."
-msgstr "Chữ số lớn, máy tính thường và máy tính khoa học."
-
-#: index
-msgid "Themes &amp; colours"
-msgstr "Chủ đề &amp; màu sắc"
-
-#: index
-msgid "Six themes or colours of your own."
-msgstr "Sáu chủ đề hoặc màu sắc của riêng bạn."
-
-#: index
-msgid "Size &amp; layout"
-msgstr "Kích thước &amp; bố cục"
-
-#: index
-msgid "Split, one-handed or floating."
-msgstr "Tách đôi, một tay hoặc nổi."
-
-#: index
 msgid "Backup"
 msgstr "Sao lưu"
 
@@ -162,10 +162,6 @@ msgstr "Mang các từ đã học sang điện thoại mới."
 msgid "No internet, no ads, no tracking."
 msgstr "Không Internet, không quảng cáo, không theo dõi."
 
-#: index
-msgid "Glide over the keys like a dragonfly."
-msgstr "Lướt trên phím nhẹ như cánh chuồn chuồn."
-
 #: index (atribut / attribute)
 msgid "Previous"
 msgstr "Trước"
@@ -173,6 +169,10 @@ msgstr "Trước"
 #: index (atribut / attribute)
 msgid "Next"
 msgstr "Tiếp"
+
+#: index
+msgid "Glide over the keys like a dragonfly."
+msgstr "Lướt trên phím nhẹ như cánh chuồn chuồn."
 
 #: index
 msgid ""
@@ -206,6 +206,80 @@ msgid ""
 "All gestures with demos and practice are in the app: Settings → Gestures and guide."
 msgstr ""
 "Tất cả cử chỉ kèm minh họa và phần thực hành đều có trong ứng dụng: Cài đặt → Cử chỉ và hướng dẫn."
+
+#: index
+msgid "Light green"
+msgstr "Xanh lá nhạt"
+
+#: index
+msgid "Light"
+msgstr "Sáng"
+
+#: index
+msgid "AMOLED black"
+msgstr "Đen AMOLED"
+
+#: index
+msgid "Blue"
+msgstr "Xanh dương"
+
+#: index
+msgid "Orange"
+msgstr "Cam"
+
+#: index
+msgid "Purple"
+msgstr "Tím"
+
+#: index
+msgid "Admire its many shimmering colours."
+msgstr "Ngắm nhìn muôn sắc màu lấp lánh của nó."
+
+#: index
+msgid ""
+"Pick a ready-made theme or set your own colours for the highlight, keys, special keys, background and text. You can also adjust the font size in the suggestion bar, vibration and key sounds."
+msgstr ""
+"Chọn một chủ đề có sẵn hoặc tự đặt màu cho phần tô sáng, phím, phím đặc biệt, nền và chữ. Bạn cũng có thể điều chỉnh cỡ chữ trên thanh gợi ý, độ rung và âm thanh phím."
+
+#: index
+msgid "Full"
+msgstr "Đầy đủ"
+
+#: index
+msgid "Taller"
+msgstr "Cao hơn"
+
+#: index
+msgid "Smaller and lifted"
+msgstr "Nhỏ hơn và nâng lên"
+
+#: index
+msgid "Tablet"
+msgstr "Máy tính bảng"
+
+#: index
+msgid "Floating"
+msgstr "Nổi"
+
+#: index
+msgid "Spread your wings, or fold them out of the way."
+msgstr "Dang rộng đôi cánh, hoặc khép lại cho gọn."
+
+#: index
+msgid ""
+"Hold the Swajp key and pick Size: drag the handles to change the height, width and position. Make it taller, or smaller and lifted off the bottom edge, split it into two halves for both thumbs (Tablet), move it to the edge for one hand, or let it float freely above apps. In landscape the keyboard is lower and split."
+msgstr ""
+"Nhấn giữ phím Swajp và chọn Kích thước: kéo các tay nắm để đổi chiều cao, chiều rộng và vị trí. Làm bàn phím cao hơn, hoặc nhỏ hơn và nâng lên khỏi cạnh dưới, tách đôi cho cả hai ngón cái (Máy tính bảng), dời sát cạnh để dùng một tay, hoặc để nó nổi tự do phía trên các ứng dụng. Khi xoay ngang, bàn phím thấp hơn và được tách đôi."
+
+#: index
+msgid "Even sharp minds reach for a calculator."
+msgstr "Đầu óc nhanh nhạy đến mấy cũng cần đến máy tính."
+
+#: index
+msgid ""
+"Hold the [I] key for the number pad: big digits for quick entry of phone numbers and amounts. The calculator counts right in the suggestion bar and inserts the result into the text. It handles percent (200 + 10 % = 220) and brackets, and the scientific mode adds functions, powers, degrees and radians – no switching apps."
+msgstr ""
+"Nhấn giữ phím [I] để mở bàn phím số: chữ số lớn giúp nhập nhanh số điện thoại và số tiền. Máy tính tính toán ngay trên thanh gợi ý và chèn kết quả vào văn bản. Máy tính xử lý được phần trăm (200 + 10% = 220) và dấu ngoặc, còn chế độ khoa học bổ sung hàm số, lũy thừa, độ và radian – không cần chuyển ứng dụng."
 
 #: index
 msgid "Catch your emotion mid-air."
@@ -252,80 +326,6 @@ msgid ""
 "Hold Enter and pick the clipboard: your last 30 copied texts are always at hand – tap to paste, pin the ones you want to keep. Passwords, codes and text marked as sensitive are never stored, and the history clears itself after the time you choose."
 msgstr ""
 "Nhấn giữ Enter và chọn bảng nhớ tạm: 30 văn bản sao chép gần nhất luôn trong tầm tay – chạm để dán, ghim những mục bạn muốn giữ lại. Mật khẩu, mã và văn bản được đánh dấu là nhạy cảm không bao giờ được lưu, và lịch sử sẽ tự xóa sau khoảng thời gian bạn chọn."
-
-#: index
-msgid "Even sharp minds reach for a calculator."
-msgstr "Đầu óc nhanh nhạy đến mấy cũng cần đến máy tính."
-
-#: index
-msgid ""
-"Hold the [I] key for the number pad: big digits for quick entry of phone numbers and amounts. The calculator counts right in the suggestion bar and inserts the result into the text. It handles percent (200 + 10 % = 220) and brackets, and the scientific mode adds functions, powers, degrees and radians – no switching apps."
-msgstr ""
-"Nhấn giữ phím [I] để mở bàn phím số: chữ số lớn giúp nhập nhanh số điện thoại và số tiền. Máy tính tính toán ngay trên thanh gợi ý và chèn kết quả vào văn bản. Máy tính xử lý được phần trăm (200 + 10% = 220) và dấu ngoặc, còn chế độ khoa học bổ sung hàm số, lũy thừa, độ và radian – không cần chuyển ứng dụng."
-
-#: index
-msgid "Shimmering colours, like a dragonfly’s wings."
-msgstr "Sắc màu lấp lánh như đôi cánh chuồn chuồn."
-
-#: index
-msgid ""
-"Pick a ready-made theme or set your own colours for the highlight, keys, special keys, background and text. You can also adjust the font size in the suggestion bar, vibration and key sounds."
-msgstr ""
-"Chọn một chủ đề có sẵn hoặc tự đặt màu cho phần tô sáng, phím, phím đặc biệt, nền và chữ. Bạn cũng có thể điều chỉnh cỡ chữ trên thanh gợi ý, độ rung và âm thanh phím."
-
-#: index
-msgid "Light green"
-msgstr "Xanh lá nhạt"
-
-#: index
-msgid "Light"
-msgstr "Sáng"
-
-#: index
-msgid "AMOLED black"
-msgstr "Đen AMOLED"
-
-#: index
-msgid "Blue"
-msgstr "Xanh dương"
-
-#: index
-msgid "Orange"
-msgstr "Cam"
-
-#: index
-msgid "Purple"
-msgstr "Tím"
-
-#: index
-msgid "Wide wings or narrow – it fits your hand."
-msgstr "Cánh rộng hay hẹp – vừa vặn với bàn tay bạn."
-
-#: index
-msgid ""
-"Hold the Swajp key and pick Size: drag the handles to change the height, width and position. Tablet splits the letters into two halves for both thumbs, Left and Right make it narrower at the edge for one hand, and Floating lets it hover freely above apps. In landscape the keyboard is lower and split."
-msgstr ""
-"Nhấn giữ phím Swajp và chọn Kích thước: kéo các tay nắm để thay đổi chiều cao, chiều rộng và vị trí. Máy tính bảng chia chữ cái thành hai nửa cho cả hai ngón cái, Trái và Phải thu hẹp bàn phím về phía mép để dùng một tay, còn Nổi cho phép bàn phím lơ lửng tự do trên các ứng dụng. Khi xoay ngang, bàn phím thấp hơn và được tách đôi."
-
-#: index
-msgid "Full"
-msgstr "Đầy đủ"
-
-#: index
-msgid "Tablet"
-msgstr "Máy tính bảng"
-
-#: index
-msgid "Left"
-msgstr "Trái"
-
-#: index
-msgid "Right"
-msgstr "Phải"
-
-#: index
-msgid "Floating"
-msgstr "Nổi"
 
 #: index
 msgid ""
@@ -397,108 +397,204 @@ msgid "Available languages"
 msgstr "Ngôn ngữ có sẵn"
 
 #: languages
-msgid "Catalan · 89,809 words"
-msgstr "Tiếng Catalan · 89.809 từ"
+msgid "Catalan"
+msgstr "Tiếng Catalan"
 
 #: languages
-msgid "Danish · 152,106 words"
-msgstr "Tiếng Đan Mạch · 152.106 từ"
+msgid "89,809 words"
+msgstr "89.809 từ"
 
 #: languages
-msgid "Esperanto · 11,343 words"
-msgstr "Tiếng Esperanto · 11.343 từ"
+msgid "Danish"
+msgstr "Tiếng Đan Mạch"
 
 #: languages
-msgid "Estonian · 326,938 words"
-msgstr "Tiếng Estonia · 326.938 từ"
+msgid "152,106 words"
+msgstr "152.106 từ"
 
 #: languages
-msgid "Basque · 53,700 words"
-msgstr "Tiếng Basque · 53.700 từ"
+msgid "11,343 words"
+msgstr "11.343 từ"
 
 #: languages
-msgid "Finnish · 197,333 words"
-msgstr "Tiếng Phần Lan · 197.333 từ"
+msgid "Estonian"
+msgstr "Tiếng Estonia"
 
 #: languages
-msgid "Galician · 30,624 words"
-msgstr "Tiếng Galicia · 30.624 từ"
+msgid "326,938 words"
+msgstr "326.938 từ"
 
 #: languages
-msgid "Hindi (Latin letters or Devanagari) · 52,622 words"
-msgstr "Tiếng Hindi (chữ Latinh hoặc Devanagari) · 52.622 từ"
+msgid "Basque"
+msgstr "Tiếng Basque"
 
 #: languages
-msgid "Croatian · 191,499 words"
-msgstr "Tiếng Croatia · 191.499 từ"
+msgid "53,700 words"
+msgstr "53.700 từ"
 
 #: languages
-msgid "Hungarian · 380,920 words"
-msgstr "Tiếng Hungary · 380.920 từ"
+msgid "Finnish"
+msgstr "Tiếng Phần Lan"
 
 #: languages
-msgid "Indonesian · 75,492 words"
-msgstr "Tiếng Indonesia · 75.492 từ"
+msgid "197,333 words"
+msgstr "197.333 từ"
 
 #: languages
-msgid "Icelandic · 74,391 words"
-msgstr "Tiếng Iceland · 74.391 từ"
+msgid "Galician"
+msgstr "Tiếng Galicia"
 
 #: languages
-msgid "Latin · 165,218 words"
-msgstr "Tiếng Latinh · 165.218 từ"
+msgid "30,624 words"
+msgstr "30.624 từ"
 
 #: languages
-msgid "Lithuanian · 100,175 words"
-msgstr "Tiếng Litva · 100.175 từ"
+msgid "Hindi"
+msgstr "Tiếng Hindi"
 
 #: languages
-msgid "Latvian · 51,479 words"
-msgstr "Tiếng Latvia · 51.479 từ"
+msgid "52,622 words"
+msgstr "52.622 từ"
 
 #: languages
-msgid "Malay · 49,942 words"
-msgstr "Tiếng Mã Lai · 49.942 từ"
+msgid "Croatian"
+msgstr "Tiếng Croatia"
 
 #: languages
-msgid "Norwegian · 140,318 words"
-msgstr "Tiếng Na Uy · 140.318 từ"
+msgid "191,499 words"
+msgstr "191.499 từ"
 
 #: languages
-msgid "Dutch · 140,383 words"
-msgstr "Tiếng Hà Lan · 140.383 từ"
+msgid "Hungarian"
+msgstr "Tiếng Hungary"
 
 #: languages
-msgid "Romanian · 119,573 words"
-msgstr "Tiếng Romania · 119.573 từ"
+msgid "380,920 words"
+msgstr "380.920 từ"
 
 #: languages
-msgid "Slovenian · 182,841 words"
-msgstr "Tiếng Slovenia · 182.841 từ"
+msgid "Indonesian"
+msgstr "Tiếng Indonesia"
 
 #: languages
-msgid "Albanian · 89,152 words"
-msgstr "Tiếng Albania · 89.152 từ"
+msgid "75,492 words"
+msgstr "75.492 từ"
 
 #: languages
-msgid "Serbian · 330,967 words"
-msgstr "Tiếng Serbia · 330.967 từ"
+msgid "Icelandic"
+msgstr "Tiếng Iceland"
 
 #: languages
-msgid "Swedish · 153,998 words"
-msgstr "Tiếng Thụy Điển · 153.998 từ"
+msgid "74,391 words"
+msgstr "74.391 từ"
 
 #: languages
-msgid "Tagalog · 30,099 words"
-msgstr "Tiếng Tagalog · 30.099 từ"
+msgid "Latin"
+msgstr "Tiếng Latinh"
 
 #: languages
-msgid "Turkish · 305,078 words"
-msgstr "Tiếng Thổ Nhĩ Kỳ · 305.078 từ"
+msgid "165,218 words"
+msgstr "165.218 từ"
 
 #: languages
-msgid "Vietnamese · 35,303 words"
-msgstr "Tiếng Việt · 35.303 từ"
+msgid "Lithuanian"
+msgstr "Tiếng Litva"
+
+#: languages
+msgid "100,175 words"
+msgstr "100.175 từ"
+
+#: languages
+msgid "Latvian"
+msgstr "Tiếng Latvia"
+
+#: languages
+msgid "51,479 words"
+msgstr "51.479 từ"
+
+#: languages
+msgid "Malay"
+msgstr "Tiếng Mã Lai"
+
+#: languages
+msgid "49,942 words"
+msgstr "49.942 từ"
+
+#: languages
+msgid "Norwegian"
+msgstr "Tiếng Na Uy"
+
+#: languages
+msgid "140,318 words"
+msgstr "140.318 từ"
+
+#: languages
+msgid "Dutch"
+msgstr "Tiếng Hà Lan"
+
+#: languages
+msgid "140,383 words"
+msgstr "140.383 từ"
+
+#: languages
+msgid "Romanian"
+msgstr "Tiếng Romania"
+
+#: languages
+msgid "119,573 words"
+msgstr "119.573 từ"
+
+#: languages
+msgid "Slovenian"
+msgstr "Tiếng Slovenia"
+
+#: languages
+msgid "182,841 words"
+msgstr "182.841 từ"
+
+#: languages
+msgid "Albanian"
+msgstr "Tiếng Albania"
+
+#: languages
+msgid "89,152 words"
+msgstr "89.152 từ"
+
+#: languages
+msgid "Serbian"
+msgstr "Tiếng Serbia"
+
+#: languages
+msgid "330,967 words"
+msgstr "330.967 từ"
+
+#: languages
+msgid "Swedish"
+msgstr "Tiếng Thụy Điển"
+
+#: languages
+msgid "153,998 words"
+msgstr "153.998 từ"
+
+#: languages
+msgid "30,099 words"
+msgstr "30.099 từ"
+
+#: languages
+msgid "Turkish"
+msgstr "Tiếng Thổ Nhĩ Kỳ"
+
+#: languages
+msgid "305,078 words"
+msgstr "305.078 từ"
+
+#: languages
+msgid "Vietnamese"
+msgstr "Tiếng Việt"
+
+#: languages
+msgid "35,303 words"
+msgstr "35.303 từ"
 
 #: languages
 msgid ""

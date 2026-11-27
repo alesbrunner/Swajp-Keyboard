@@ -98,6 +98,30 @@ msgid "Copy, paste, undo and select with one swipe."
 msgstr "Kopjo, ngjit, zhbëj dhe zgjidh me një rrëshqitje."
 
 #: index
+msgid "Themes &amp; colours"
+msgstr "Tema dhe ngjyra"
+
+#: index
+msgid "Six themes or colours of your own."
+msgstr "Gjashtë tema ose ngjyrat e tua."
+
+#: index
+msgid "Size &amp; layout"
+msgstr "Madhësia dhe paraqitja"
+
+#: index
+msgid "Split, one-handed or floating."
+msgstr "E ndarë, për një dorë ose pluskuese."
+
+#: index
+msgid "Number pad & calculator"
+msgstr "Tastiera numerike dhe makina llogaritëse"
+
+#: index
+msgid "Big digits, a calculator and a scientific one."
+msgstr "Shifra të mëdha, makinë llogaritëse dhe një shkencore."
+
+#: index
 msgid "Emoji"
 msgstr "Emoji"
 
@@ -126,30 +150,6 @@ msgid "Your last 30 copied texts at hand."
 msgstr "30 tekstet e fundit të kopjuara gjithmonë pranë."
 
 #: index
-msgid "Number pad & calculator"
-msgstr "Tastiera numerike dhe makina llogaritëse"
-
-#: index
-msgid "Big digits, a calculator and a scientific one."
-msgstr "Shifra të mëdha, makinë llogaritëse dhe një shkencore."
-
-#: index
-msgid "Themes &amp; colours"
-msgstr "Tema dhe ngjyra"
-
-#: index
-msgid "Six themes or colours of your own."
-msgstr "Gjashtë tema ose ngjyrat e tua."
-
-#: index
-msgid "Size &amp; layout"
-msgstr "Madhësia dhe paraqitja"
-
-#: index
-msgid "Split, one-handed or floating."
-msgstr "E ndarë, për një dorë ose pluskuese."
-
-#: index
 msgid "Backup"
 msgstr "Rezervimi"
 
@@ -161,10 +161,6 @@ msgstr "Merri fjalët e mësuara me vete në telefonin e ri."
 msgid "No internet, no ads, no tracking."
 msgstr "Pa internet, pa reklama, pa gjurmim."
 
-#: index
-msgid "Glide over the keys like a dragonfly."
-msgstr "Rrëshqit lehtë mbi tastet si një pilivesë."
-
 #: index (atribut / attribute)
 msgid "Previous"
 msgstr "E mëparshmja"
@@ -172,6 +168,10 @@ msgstr "E mëparshmja"
 #: index (atribut / attribute)
 msgid "Next"
 msgstr "Tjetra"
+
+#: index
+msgid "Glide over the keys like a dragonfly."
+msgstr "Rrëshqit lehtë mbi tastet si një pilivesë."
 
 #: index
 msgid ""
@@ -205,6 +205,80 @@ msgid ""
 "All gestures with demos and practice are in the app: Settings → Gestures and guide."
 msgstr ""
 "Të gjitha gjestet me demonstrime dhe ushtrime i gjen në aplikacion: Cilësimet → Gjestet dhe udhëzuesi."
+
+#: index
+msgid "Light green"
+msgstr "Jeshile e çelët"
+
+#: index
+msgid "Light"
+msgstr "E çelët"
+
+#: index
+msgid "AMOLED black"
+msgstr "E zezë AMOLED"
+
+#: index
+msgid "Blue"
+msgstr "Blu"
+
+#: index
+msgid "Orange"
+msgstr "Portokalli"
+
+#: index
+msgid "Purple"
+msgstr "Vjollcë"
+
+#: index
+msgid "Admire its many shimmering colours."
+msgstr "Admiro ngjyrat e saj të shumta që vezullojnë."
+
+#: index
+msgid ""
+"Pick a ready-made theme or set your own colours for the highlight, keys, special keys, background and text. You can also adjust the font size in the suggestion bar, vibration and key sounds."
+msgstr ""
+"Zgjidh një temë të gatshme ose cakto ngjyrat e tua për theksimin, tastet, tastet speciale, sfondin dhe tekstin. Mund të rregullosh edhe madhësinë e shkronjave në shiritin e sugjerimeve, dridhjen dhe tingujt e tasteve."
+
+#: index
+msgid "Full"
+msgstr "E plotë"
+
+#: index
+msgid "Taller"
+msgstr "Më e lartë"
+
+#: index
+msgid "Smaller and lifted"
+msgstr "Më e vogël dhe e ngritur"
+
+#: index
+msgid "Tablet"
+msgstr "Tablet"
+
+#: index
+msgid "Floating"
+msgstr "Pluskuese"
+
+#: index
+msgid "Spread your wings, or fold them out of the way."
+msgstr "Hap krahët, ose palosi që të mos pengojnë."
+
+#: index
+msgid ""
+"Hold the Swajp key and pick Size: drag the handles to change the height, width and position. Make it taller, or smaller and lifted off the bottom edge, split it into two halves for both thumbs (Tablet), move it to the edge for one hand, or let it float freely above apps. In landscape the keyboard is lower and split."
+msgstr ""
+"Mbaj shtypur tastin Swajp dhe zgjidh Madhësinë: duke tërhequr dorezat ndryshon lartësinë, gjerësinë dhe pozicionin. Bëje më të lartë, ose më të vogël dhe të ngritur nga skaji i poshtëm, ndaje në dy gjysma për të dy gishtat e mëdhenj (Tablet), zhvendose te skaji për një dorë, ose lëre të pluskojë lirshëm mbi aplikacionet. Horizontalisht tastiera është më e ulët dhe e ndarë."
+
+#: index
+msgid "Even sharp minds reach for a calculator."
+msgstr "Edhe mendjes së mprehtë i duhet një makinë llogaritëse."
+
+#: index
+msgid ""
+"Hold the [I] key for the number pad: big digits for quick entry of phone numbers and amounts. The calculator counts right in the suggestion bar and inserts the result into the text. It handles percent (200 + 10 % = 220) and brackets, and the scientific mode adds functions, powers, degrees and radians – no switching apps."
+msgstr ""
+"Mbaj shtypur tastin [I] për tastierën numerike: shifra të mëdha për futje të shpejtë të numrave të telefonit dhe shumave. Makina llogaritëse llogarit drejtpërdrejt në shiritin e sugjerimeve dhe e fut rezultatin në tekst. Përballon përqindjet (200 + 10% = 220) dhe kllapat, ndërsa modaliteti shkencor shton funksione, fuqi, gradë dhe radianë – pa ndërruar aplikacion."
 
 #: index
 msgid "Catch your emotion mid-air."
@@ -251,80 +325,6 @@ msgid ""
 "Hold Enter and pick the clipboard: your last 30 copied texts are always at hand – tap to paste, pin the ones you want to keep. Passwords, codes and text marked as sensitive are never stored, and the history clears itself after the time you choose."
 msgstr ""
 "Mbaj shtypur Enter dhe zgjidh kujtesën e fragmenteve: 30 tekstet e fundit të kopjuara i ke gjithmonë pranë – prek për t'i ngjitur, fiksoji ato që do t'i mbash. Fjalëkalimet, kodet dhe teksti i shënuar si i ndjeshëm nuk ruhen kurrë, dhe historiku fshihet vetë pas kohës që zgjedh."
-
-#: index
-msgid "Even sharp minds reach for a calculator."
-msgstr "Edhe mendjes së mprehtë i duhet një makinë llogaritëse."
-
-#: index
-msgid ""
-"Hold the [I] key for the number pad: big digits for quick entry of phone numbers and amounts. The calculator counts right in the suggestion bar and inserts the result into the text. It handles percent (200 + 10 % = 220) and brackets, and the scientific mode adds functions, powers, degrees and radians – no switching apps."
-msgstr ""
-"Mbaj shtypur tastin [I] për tastierën numerike: shifra të mëdha për futje të shpejtë të numrave të telefonit dhe shumave. Makina llogaritëse llogarit drejtpërdrejt në shiritin e sugjerimeve dhe e fut rezultatin në tekst. Përballon përqindjet (200 + 10% = 220) dhe kllapat, ndërsa modaliteti shkencor shton funksione, fuqi, gradë dhe radianë – pa ndërruar aplikacion."
-
-#: index
-msgid "Shimmering colours, like a dragonfly’s wings."
-msgstr "Ngjyra që vezullojnë si krahët e pilivesës."
-
-#: index
-msgid ""
-"Pick a ready-made theme or set your own colours for the highlight, keys, special keys, background and text. You can also adjust the font size in the suggestion bar, vibration and key sounds."
-msgstr ""
-"Zgjidh një temë të gatshme ose cakto ngjyrat e tua për theksimin, tastet, tastet speciale, sfondin dhe tekstin. Mund të rregullosh edhe madhësinë e shkronjave në shiritin e sugjerimeve, dridhjen dhe tingujt e tasteve."
-
-#: index
-msgid "Light green"
-msgstr "Jeshile e çelët"
-
-#: index
-msgid "Light"
-msgstr "E çelët"
-
-#: index
-msgid "AMOLED black"
-msgstr "E zezë AMOLED"
-
-#: index
-msgid "Blue"
-msgstr "Blu"
-
-#: index
-msgid "Orange"
-msgstr "Portokalli"
-
-#: index
-msgid "Purple"
-msgstr "Vjollcë"
-
-#: index
-msgid "Wide wings or narrow – it fits your hand."
-msgstr "Krahë të gjerë apo të ngushtë – i përshtatet dorës sate."
-
-#: index
-msgid ""
-"Hold the Swajp key and pick Size: drag the handles to change the height, width and position. Tablet splits the letters into two halves for both thumbs, Left and Right make it narrower at the edge for one hand, and Floating lets it hover freely above apps. In landscape the keyboard is lower and split."
-msgstr ""
-"Mbaj shtypur tastin Swajp dhe zgjidh Madhësia: tërhiq dorezat për të ndryshuar lartësinë, gjerësinë dhe pozicionin. Tablet i ndan shkronjat në dy gjysma për të dy gishtat e mëdhenj, Majtas dhe Djathtas e ngushtojnë drejt skajit për një dorë, dhe Pluskuese e lë të qëndrojë lirshëm mbi aplikacionet. Në pozicion horizontal tastiera është më e ulët dhe e ndarë."
-
-#: index
-msgid "Full"
-msgstr "E plotë"
-
-#: index
-msgid "Tablet"
-msgstr "Tablet"
-
-#: index
-msgid "Left"
-msgstr "Majtas"
-
-#: index
-msgid "Right"
-msgstr "Djathtas"
-
-#: index
-msgid "Floating"
-msgstr "Pluskuese"
 
 #: index
 msgid ""
@@ -397,108 +397,204 @@ msgid "Available languages"
 msgstr "Gjuhët në dispozicion"
 
 #: languages
-msgid "Catalan · 89,809 words"
-msgstr "Katalanisht · 89 809 fjalë"
+msgid "Catalan"
+msgstr "Katalanisht"
 
 #: languages
-msgid "Danish · 152,106 words"
-msgstr "Danisht · 152 106 fjalë"
+msgid "89,809 words"
+msgstr "89 809 fjalë"
 
 #: languages
-msgid "Esperanto · 11,343 words"
-msgstr "Esperanto · 11 343 fjalë"
+msgid "Danish"
+msgstr "Danisht"
 
 #: languages
-msgid "Estonian · 326,938 words"
-msgstr "Estonisht · 326 938 fjalë"
+msgid "152,106 words"
+msgstr "152 106 fjalë"
 
 #: languages
-msgid "Basque · 53,700 words"
-msgstr "Baskisht · 53 700 fjalë"
+msgid "11,343 words"
+msgstr "11 343 fjalë"
 
 #: languages
-msgid "Finnish · 197,333 words"
-msgstr "Finlandisht · 197 333 fjalë"
+msgid "Estonian"
+msgstr "Estonisht"
 
 #: languages
-msgid "Galician · 30,624 words"
-msgstr "Galicisht · 30 624 fjalë"
+msgid "326,938 words"
+msgstr "326 938 fjalë"
 
 #: languages
-msgid "Hindi (Latin letters or Devanagari) · 52,622 words"
-msgstr "Hindisht (me shkronja latine ose devanagari) · 52 622 fjalë"
+msgid "Basque"
+msgstr "Baskisht"
 
 #: languages
-msgid "Croatian · 191,499 words"
-msgstr "Kroatisht · 191 499 fjalë"
+msgid "53,700 words"
+msgstr "53 700 fjalë"
 
 #: languages
-msgid "Hungarian · 380,920 words"
-msgstr "Hungarisht · 380 920 fjalë"
+msgid "Finnish"
+msgstr "Finlandisht"
 
 #: languages
-msgid "Indonesian · 75,492 words"
-msgstr "Indonezisht · 75 492 fjalë"
+msgid "197,333 words"
+msgstr "197 333 fjalë"
 
 #: languages
-msgid "Icelandic · 74,391 words"
-msgstr "Islandisht · 74 391 fjalë"
+msgid "Galician"
+msgstr "Galicisht"
 
 #: languages
-msgid "Latin · 165,218 words"
-msgstr "Latinisht · 165 218 fjalë"
+msgid "30,624 words"
+msgstr "30 624 fjalë"
 
 #: languages
-msgid "Lithuanian · 100,175 words"
-msgstr "Lituanisht · 100 175 fjalë"
+msgid "Hindi"
+msgstr "Hindisht"
 
 #: languages
-msgid "Latvian · 51,479 words"
-msgstr "Letonisht · 51 479 fjalë"
+msgid "52,622 words"
+msgstr "52 622 fjalë"
 
 #: languages
-msgid "Malay · 49,942 words"
-msgstr "Malajisht · 49 942 fjalë"
+msgid "Croatian"
+msgstr "Kroatisht"
 
 #: languages
-msgid "Norwegian · 140,318 words"
-msgstr "Norvegjisht · 140 318 fjalë"
+msgid "191,499 words"
+msgstr "191 499 fjalë"
 
 #: languages
-msgid "Dutch · 140,383 words"
-msgstr "Holandisht · 140 383 fjalë"
+msgid "Hungarian"
+msgstr "Hungarisht"
 
 #: languages
-msgid "Romanian · 119,573 words"
-msgstr "Rumanisht · 119 573 fjalë"
+msgid "380,920 words"
+msgstr "380 920 fjalë"
 
 #: languages
-msgid "Slovenian · 182,841 words"
-msgstr "Sllovenisht · 182 841 fjalë"
+msgid "Indonesian"
+msgstr "Indonezisht"
 
 #: languages
-msgid "Albanian · 89,152 words"
-msgstr "Shqip · 89 152 fjalë"
+msgid "75,492 words"
+msgstr "75 492 fjalë"
 
 #: languages
-msgid "Serbian · 330,967 words"
-msgstr "Serbisht · 330 967 fjalë"
+msgid "Icelandic"
+msgstr "Islandisht"
 
 #: languages
-msgid "Swedish · 153,998 words"
-msgstr "Suedisht · 153 998 fjalë"
+msgid "74,391 words"
+msgstr "74 391 fjalë"
 
 #: languages
-msgid "Tagalog · 30,099 words"
-msgstr "Tagalog · 30 099 fjalë"
+msgid "Latin"
+msgstr "Latinisht"
 
 #: languages
-msgid "Turkish · 305,078 words"
-msgstr "Turqisht · 305 078 fjalë"
+msgid "165,218 words"
+msgstr "165 218 fjalë"
 
 #: languages
-msgid "Vietnamese · 35,303 words"
-msgstr "Vietnamisht · 35 303 fjalë"
+msgid "Lithuanian"
+msgstr "Lituanisht"
+
+#: languages
+msgid "100,175 words"
+msgstr "100 175 fjalë"
+
+#: languages
+msgid "Latvian"
+msgstr "Letonisht"
+
+#: languages
+msgid "51,479 words"
+msgstr "51 479 fjalë"
+
+#: languages
+msgid "Malay"
+msgstr "Malajisht"
+
+#: languages
+msgid "49,942 words"
+msgstr "49 942 fjalë"
+
+#: languages
+msgid "Norwegian"
+msgstr "Norvegjisht"
+
+#: languages
+msgid "140,318 words"
+msgstr "140 318 fjalë"
+
+#: languages
+msgid "Dutch"
+msgstr "Holandisht"
+
+#: languages
+msgid "140,383 words"
+msgstr "140 383 fjalë"
+
+#: languages
+msgid "Romanian"
+msgstr "Rumanisht"
+
+#: languages
+msgid "119,573 words"
+msgstr "119 573 fjalë"
+
+#: languages
+msgid "Slovenian"
+msgstr "Sllovenisht"
+
+#: languages
+msgid "182,841 words"
+msgstr "182 841 fjalë"
+
+#: languages
+msgid "Albanian"
+msgstr "Shqip"
+
+#: languages
+msgid "89,152 words"
+msgstr "89 152 fjalë"
+
+#: languages
+msgid "Serbian"
+msgstr "Serbisht"
+
+#: languages
+msgid "330,967 words"
+msgstr "330 967 fjalë"
+
+#: languages
+msgid "Swedish"
+msgstr "Suedisht"
+
+#: languages
+msgid "153,998 words"
+msgstr "153 998 fjalë"
+
+#: languages
+msgid "30,099 words"
+msgstr "30 099 fjalë"
+
+#: languages
+msgid "Turkish"
+msgstr "Turqisht"
+
+#: languages
+msgid "305,078 words"
+msgstr "305 078 fjalë"
+
+#: languages
+msgid "Vietnamese"
+msgstr "Vietnamisht"
+
+#: languages
+msgid "35,303 words"
+msgstr "35 303 fjalë"
 
 #: languages
 msgid ""

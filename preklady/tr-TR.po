@@ -98,6 +98,30 @@ msgid "Copy, paste, undo and select with one swipe."
 msgstr "Kopyala, yapıştır, geri al ve seç – tek kaydırmayla."
 
 #: index
+msgid "Themes &amp; colours"
+msgstr "Temalar ve renkler"
+
+#: index
+msgid "Six themes or colours of your own."
+msgstr "Altı tema veya kendi renklerin."
+
+#: index
+msgid "Size &amp; layout"
+msgstr "Boyut ve düzen"
+
+#: index
+msgid "Split, one-handed or floating."
+msgstr "Bölünmüş, tek elle veya yüzen."
+
+#: index
+msgid "Number pad & calculator"
+msgstr "Sayı tuşları ve hesap makinesi"
+
+#: index
+msgid "Big digits, a calculator and a scientific one."
+msgstr "Büyük rakamlar, hesap makinesi ve bilimsel hesap makinesi."
+
+#: index
 msgid "Emoji"
 msgstr "Emoji"
 
@@ -126,30 +150,6 @@ msgid "Your last 30 copied texts at hand."
 msgstr "Son kopyaladığın 30 metin elinin altında."
 
 #: index
-msgid "Number pad & calculator"
-msgstr "Sayı tuşları ve hesap makinesi"
-
-#: index
-msgid "Big digits, a calculator and a scientific one."
-msgstr "Büyük rakamlar, hesap makinesi ve bilimsel hesap makinesi."
-
-#: index
-msgid "Themes &amp; colours"
-msgstr "Temalar ve renkler"
-
-#: index
-msgid "Six themes or colours of your own."
-msgstr "Altı tema veya kendi renklerin."
-
-#: index
-msgid "Size &amp; layout"
-msgstr "Boyut ve düzen"
-
-#: index
-msgid "Split, one-handed or floating."
-msgstr "Bölünmüş, tek elle veya yüzen."
-
-#: index
 msgid "Backup"
 msgstr "Yedekleme"
 
@@ -161,10 +161,6 @@ msgstr "Öğrenilen kelimelerini yeni telefonuna taşı."
 msgid "No internet, no ads, no tracking."
 msgstr "İnternet yok, reklam yok, takip yok."
 
-#: index
-msgid "Glide over the keys like a dragonfly."
-msgstr "Tuşların üzerinde bir yusufçuk gibi süzül."
-
 #: index (atribut / attribute)
 msgid "Previous"
 msgstr "Önceki"
@@ -172,6 +168,10 @@ msgstr "Önceki"
 #: index (atribut / attribute)
 msgid "Next"
 msgstr "Sonraki"
+
+#: index
+msgid "Glide over the keys like a dragonfly."
+msgstr "Tuşların üzerinde bir yusufçuk gibi süzül."
 
 #: index
 msgid ""
@@ -204,6 +204,80 @@ msgid ""
 "All gestures with demos and practice are in the app: Settings → Gestures and guide."
 msgstr ""
 "Gösterim ve denemeleriyle tüm hareketler uygulamada: Ayarlar → Hareketler ve rehber."
+
+#: index
+msgid "Light green"
+msgstr "Açık yeşil"
+
+#: index
+msgid "Light"
+msgstr "Açık"
+
+#: index
+msgid "AMOLED black"
+msgstr "AMOLED siyah"
+
+#: index
+msgid "Blue"
+msgstr "Mavi"
+
+#: index
+msgid "Orange"
+msgstr "Turuncu"
+
+#: index
+msgid "Purple"
+msgstr "Mor"
+
+#: index
+msgid "Admire its many shimmering colours."
+msgstr "Sayısız ışıltılı rengini hayranlıkla izle."
+
+#: index
+msgid ""
+"Pick a ready-made theme or set your own colours for the highlight, keys, special keys, background and text. You can also adjust the font size in the suggestion bar, vibration and key sounds."
+msgstr ""
+"Hazır bir tema seç ya da vurgu, tuşlar, özel tuşlar, arka plan ve metin için kendi renklerini ayarla. Öneri çubuğundaki yazı boyutunu, titreşimi ve tuş seslerini de ayarlayabilirsin."
+
+#: index
+msgid "Full"
+msgstr "Tam"
+
+#: index
+msgid "Taller"
+msgstr "Daha yüksek"
+
+#: index
+msgid "Smaller and lifted"
+msgstr "Daha küçük ve yükseltilmiş"
+
+#: index
+msgid "Tablet"
+msgstr "Tablet"
+
+#: index
+msgid "Floating"
+msgstr "Yüzen"
+
+#: index
+msgid "Spread your wings, or fold them out of the way."
+msgstr "Kanatlarını aç ya da engel olmasın diye katla."
+
+#: index
+msgid ""
+"Hold the Swajp key and pick Size: drag the handles to change the height, width and position. Make it taller, or smaller and lifted off the bottom edge, split it into two halves for both thumbs (Tablet), move it to the edge for one hand, or let it float freely above apps. In landscape the keyboard is lower and split."
+msgstr ""
+"Swajp tuşunu basılı tut ve Boyut'u seç: tutamaçları sürükleyerek yüksekliği, genişliği ve konumu değiştirirsin. Klavyeyi daha yüksek yap ya da küçültüp alt kenardan yukarı kaldır, iki başparmak için iki yarıya böl (Tablet), tek el için kenara kaydır veya uygulamaların üzerinde serbestçe yüzmesine izin ver. Yatay modda klavye daha alçak ve bölünmüştür."
+
+#: index
+msgid "Even sharp minds reach for a calculator."
+msgstr "Keskin zekâlar da hesap makinesine uzanır."
+
+#: index
+msgid ""
+"Hold the [I] key for the number pad: big digits for quick entry of phone numbers and amounts. The calculator counts right in the suggestion bar and inserts the result into the text. It handles percent (200 + 10 % = 220) and brackets, and the scientific mode adds functions, powers, degrees and radians – no switching apps."
+msgstr ""
+"Sayı tuşları için [I] tuşunu basılı tut: telefon numaralarını ve tutarları hızlıca girmek için büyük rakamlar. Hesap makinesi doğrudan öneri çubuğunda hesaplar ve sonucu metne ekler. Yüzdeyi (200 + %10 = 220) ve parantezleri destekler; bilimsel mod ise fonksiyonlar, üsler, dereceler ve radyanlar ekler – uygulama değiştirmeden."
 
 #: index
 msgid "Catch your emotion mid-air."
@@ -250,80 +324,6 @@ msgid ""
 "Hold Enter and pick the clipboard: your last 30 copied texts are always at hand – tap to paste, pin the ones you want to keep. Passwords, codes and text marked as sensitive are never stored, and the history clears itself after the time you choose."
 msgstr ""
 "Enter'ı basılı tut ve panoyu seç: kopyaladığın son 30 metin her zaman elinin altında – yapıştırmak için dokun, saklamak istediklerini sabitle. Şifreler, kodlar ve hassas olarak işaretlenmiş metinler asla kaydedilmez; geçmiş, seçtiğin sürenin sonunda kendiliğinden silinir."
-
-#: index
-msgid "Even sharp minds reach for a calculator."
-msgstr "Keskin zekâlar da hesap makinesine uzanır."
-
-#: index
-msgid ""
-"Hold the [I] key for the number pad: big digits for quick entry of phone numbers and amounts. The calculator counts right in the suggestion bar and inserts the result into the text. It handles percent (200 + 10 % = 220) and brackets, and the scientific mode adds functions, powers, degrees and radians – no switching apps."
-msgstr ""
-"Sayı tuşları için [I] tuşunu basılı tut: telefon numaralarını ve tutarları hızlıca girmek için büyük rakamlar. Hesap makinesi doğrudan öneri çubuğunda hesaplar ve sonucu metne ekler. Yüzdeyi (200 + %10 = 220) ve parantezleri destekler; bilimsel mod ise fonksiyonlar, üsler, dereceler ve radyanlar ekler – uygulama değiştirmeden."
-
-#: index
-msgid "Shimmering colours, like a dragonfly’s wings."
-msgstr "Bir yusufçuğun kanatları gibi ışıldayan renkler."
-
-#: index
-msgid ""
-"Pick a ready-made theme or set your own colours for the highlight, keys, special keys, background and text. You can also adjust the font size in the suggestion bar, vibration and key sounds."
-msgstr ""
-"Hazır bir tema seç ya da vurgu, tuşlar, özel tuşlar, arka plan ve metin için kendi renklerini ayarla. Öneri çubuğundaki yazı boyutunu, titreşimi ve tuş seslerini de ayarlayabilirsin."
-
-#: index
-msgid "Light green"
-msgstr "Açık yeşil"
-
-#: index
-msgid "Light"
-msgstr "Açık"
-
-#: index
-msgid "AMOLED black"
-msgstr "AMOLED siyah"
-
-#: index
-msgid "Blue"
-msgstr "Mavi"
-
-#: index
-msgid "Orange"
-msgstr "Turuncu"
-
-#: index
-msgid "Purple"
-msgstr "Mor"
-
-#: index
-msgid "Wide wings or narrow – it fits your hand."
-msgstr "Geniş kanat ya da dar – eline uyum sağlar."
-
-#: index
-msgid ""
-"Hold the Swajp key and pick Size: drag the handles to change the height, width and position. Tablet splits the letters into two halves for both thumbs, Left and Right make it narrower at the edge for one hand, and Floating lets it hover freely above apps. In landscape the keyboard is lower and split."
-msgstr ""
-"Swajp tuşunu basılı tut ve Boyut'u seç: tutamaçları sürükleyerek yüksekliği, genişliği ve konumu değiştir. Tablet, harfleri iki başparmak için iki yarıya böler; Sol ve Sağ, tek elle kullanım için klavyeyi kenarda daraltır; Yüzen ise uygulamaların üzerinde serbestçe süzülür. Yatay modda klavye daha alçak ve bölünmüştür."
-
-#: index
-msgid "Full"
-msgstr "Tam"
-
-#: index
-msgid "Tablet"
-msgstr "Tablet"
-
-#: index
-msgid "Left"
-msgstr "Sol"
-
-#: index
-msgid "Right"
-msgstr "Sağ"
-
-#: index
-msgid "Floating"
-msgstr "Yüzen"
 
 #: index
 msgid ""
@@ -396,108 +396,204 @@ msgid "Available languages"
 msgstr "Mevcut diller"
 
 #: languages
-msgid "Catalan · 89,809 words"
-msgstr "Katalanca · 89.809 kelime"
+msgid "Catalan"
+msgstr "Katalanca"
 
 #: languages
-msgid "Danish · 152,106 words"
-msgstr "Danca · 152.106 kelime"
+msgid "89,809 words"
+msgstr "89.809 kelime"
 
 #: languages
-msgid "Esperanto · 11,343 words"
-msgstr "Esperanto · 11.343 kelime"
+msgid "Danish"
+msgstr "Danca"
 
 #: languages
-msgid "Estonian · 326,938 words"
-msgstr "Estonca · 326.938 kelime"
+msgid "152,106 words"
+msgstr "152.106 kelime"
 
 #: languages
-msgid "Basque · 53,700 words"
-msgstr "Baskça · 53.700 kelime"
+msgid "11,343 words"
+msgstr "11.343 kelime"
 
 #: languages
-msgid "Finnish · 197,333 words"
-msgstr "Fince · 197.333 kelime"
+msgid "Estonian"
+msgstr "Estonca"
 
 #: languages
-msgid "Galician · 30,624 words"
-msgstr "Galiçyaca · 30.624 kelime"
+msgid "326,938 words"
+msgstr "326.938 kelime"
 
 #: languages
-msgid "Hindi (Latin letters or Devanagari) · 52,622 words"
-msgstr "Hintçe (Latin harfleri veya Devanagari) · 52.622 kelime"
+msgid "Basque"
+msgstr "Baskça"
 
 #: languages
-msgid "Croatian · 191,499 words"
-msgstr "Hırvatça · 191.499 kelime"
+msgid "53,700 words"
+msgstr "53.700 kelime"
 
 #: languages
-msgid "Hungarian · 380,920 words"
-msgstr "Macarca · 380.920 kelime"
+msgid "Finnish"
+msgstr "Fince"
 
 #: languages
-msgid "Indonesian · 75,492 words"
-msgstr "Endonezce · 75.492 kelime"
+msgid "197,333 words"
+msgstr "197.333 kelime"
 
 #: languages
-msgid "Icelandic · 74,391 words"
-msgstr "İzlandaca · 74.391 kelime"
+msgid "Galician"
+msgstr "Galiçyaca"
 
 #: languages
-msgid "Latin · 165,218 words"
-msgstr "Latince · 165.218 kelime"
+msgid "30,624 words"
+msgstr "30.624 kelime"
 
 #: languages
-msgid "Lithuanian · 100,175 words"
-msgstr "Litvanca · 100.175 kelime"
+msgid "Hindi"
+msgstr "Hintçe"
 
 #: languages
-msgid "Latvian · 51,479 words"
-msgstr "Letonca · 51.479 kelime"
+msgid "52,622 words"
+msgstr "52.622 kelime"
 
 #: languages
-msgid "Malay · 49,942 words"
-msgstr "Malayca · 49.942 kelime"
+msgid "Croatian"
+msgstr "Hırvatça"
 
 #: languages
-msgid "Norwegian · 140,318 words"
-msgstr "Norveççe · 140.318 kelime"
+msgid "191,499 words"
+msgstr "191.499 kelime"
 
 #: languages
-msgid "Dutch · 140,383 words"
-msgstr "Felemenkçe · 140.383 kelime"
+msgid "Hungarian"
+msgstr "Macarca"
 
 #: languages
-msgid "Romanian · 119,573 words"
-msgstr "Rumence · 119.573 kelime"
+msgid "380,920 words"
+msgstr "380.920 kelime"
 
 #: languages
-msgid "Slovenian · 182,841 words"
-msgstr "Slovence · 182.841 kelime"
+msgid "Indonesian"
+msgstr "Endonezce"
 
 #: languages
-msgid "Albanian · 89,152 words"
-msgstr "Arnavutça · 89.152 kelime"
+msgid "75,492 words"
+msgstr "75.492 kelime"
 
 #: languages
-msgid "Serbian · 330,967 words"
-msgstr "Sırpça · 330.967 kelime"
+msgid "Icelandic"
+msgstr "İzlandaca"
 
 #: languages
-msgid "Swedish · 153,998 words"
-msgstr "İsveççe · 153.998 kelime"
+msgid "74,391 words"
+msgstr "74.391 kelime"
 
 #: languages
-msgid "Tagalog · 30,099 words"
-msgstr "Tagalogca · 30.099 kelime"
+msgid "Latin"
+msgstr "Latince"
 
 #: languages
-msgid "Turkish · 305,078 words"
-msgstr "Türkçe · 305.078 kelime"
+msgid "165,218 words"
+msgstr "165.218 kelime"
 
 #: languages
-msgid "Vietnamese · 35,303 words"
-msgstr "Vietnamca · 35.303 kelime"
+msgid "Lithuanian"
+msgstr "Litvanca"
+
+#: languages
+msgid "100,175 words"
+msgstr "100.175 kelime"
+
+#: languages
+msgid "Latvian"
+msgstr "Letonca"
+
+#: languages
+msgid "51,479 words"
+msgstr "51.479 kelime"
+
+#: languages
+msgid "Malay"
+msgstr "Malayca"
+
+#: languages
+msgid "49,942 words"
+msgstr "49.942 kelime"
+
+#: languages
+msgid "Norwegian"
+msgstr "Norveççe"
+
+#: languages
+msgid "140,318 words"
+msgstr "140.318 kelime"
+
+#: languages
+msgid "Dutch"
+msgstr "Felemenkçe"
+
+#: languages
+msgid "140,383 words"
+msgstr "140.383 kelime"
+
+#: languages
+msgid "Romanian"
+msgstr "Rumence"
+
+#: languages
+msgid "119,573 words"
+msgstr "119.573 kelime"
+
+#: languages
+msgid "Slovenian"
+msgstr "Slovence"
+
+#: languages
+msgid "182,841 words"
+msgstr "182.841 kelime"
+
+#: languages
+msgid "Albanian"
+msgstr "Arnavutça"
+
+#: languages
+msgid "89,152 words"
+msgstr "89.152 kelime"
+
+#: languages
+msgid "Serbian"
+msgstr "Sırpça"
+
+#: languages
+msgid "330,967 words"
+msgstr "330.967 kelime"
+
+#: languages
+msgid "Swedish"
+msgstr "İsveççe"
+
+#: languages
+msgid "153,998 words"
+msgstr "153.998 kelime"
+
+#: languages
+msgid "30,099 words"
+msgstr "30.099 kelime"
+
+#: languages
+msgid "Turkish"
+msgstr "Türkçe"
+
+#: languages
+msgid "305,078 words"
+msgstr "305.078 kelime"
+
+#: languages
+msgid "Vietnamese"
+msgstr "Vietnamca"
+
+#: languages
+msgid "35,303 words"
+msgstr "35.303 kelime"
 
 #: languages
 msgid ""

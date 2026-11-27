@@ -98,6 +98,30 @@ msgid "Copy, paste, undo and select with one swipe."
 msgstr "Kopē, ielīmē, atsauc un atlasi ar vienu vilkumu."
 
 #: index
+msgid "Themes &amp; colours"
+msgstr "Motīvi un krāsas"
+
+#: index
+msgid "Six themes or colours of your own."
+msgstr "Seši motīvi vai paša izvēlētas krāsas."
+
+#: index
+msgid "Size &amp; layout"
+msgstr "Izmērs un izkārtojums"
+
+#: index
+msgid "Split, one-handed or floating."
+msgstr "Sadalīta, vienai rokai vai peldoša."
+
+#: index
+msgid "Number pad & calculator"
+msgstr "Ciparu tastatūra un kalkulators"
+
+#: index
+msgid "Big digits, a calculator and a scientific one."
+msgstr "Lieli cipari, kalkulators un arī zinātniskais."
+
+#: index
 msgid "Emoji"
 msgstr "Emocijzīmes"
 
@@ -126,30 +150,6 @@ msgid "Your last 30 copied texts at hand."
 msgstr "Pēdējie 30 nokopētie teksti pa rokai."
 
 #: index
-msgid "Number pad & calculator"
-msgstr "Ciparu tastatūra un kalkulators"
-
-#: index
-msgid "Big digits, a calculator and a scientific one."
-msgstr "Lieli cipari, kalkulators un arī zinātniskais."
-
-#: index
-msgid "Themes &amp; colours"
-msgstr "Motīvi un krāsas"
-
-#: index
-msgid "Six themes or colours of your own."
-msgstr "Seši motīvi vai paša izvēlētas krāsas."
-
-#: index
-msgid "Size &amp; layout"
-msgstr "Izmērs un izkārtojums"
-
-#: index
-msgid "Split, one-handed or floating."
-msgstr "Sadalīta, vienai rokai vai peldoša."
-
-#: index
 msgid "Backup"
 msgstr "Dublējums"
 
@@ -161,10 +161,6 @@ msgstr "Paņem līdzi iemācītos vārdus uz jauno tālruni."
 msgid "No internet, no ads, no tracking."
 msgstr "Bez interneta, bez reklāmām, bez izsekošanas."
 
-#: index
-msgid "Glide over the keys like a dragonfly."
-msgstr "Slīdi pār taustiņiem kā spāre."
-
 #: index (atribut / attribute)
 msgid "Previous"
 msgstr "Iepriekšējais"
@@ -172,6 +168,10 @@ msgstr "Iepriekšējais"
 #: index (atribut / attribute)
 msgid "Next"
 msgstr "Nākamais"
+
+#: index
+msgid "Glide over the keys like a dragonfly."
+msgstr "Slīdi pār taustiņiem kā spāre."
 
 #: index
 msgid ""
@@ -204,6 +204,80 @@ msgid ""
 "All gestures with demos and practice are in the app: Settings → Gestures and guide."
 msgstr ""
 "Visus žestus ar demonstrācijām un izmēģināšanu atradīsi lietotnē: Iestatījumi → Žesti un ceļvedis."
+
+#: index
+msgid "Light green"
+msgstr "Gaiši zaļš"
+
+#: index
+msgid "Light"
+msgstr "Gaišs"
+
+#: index
+msgid "AMOLED black"
+msgstr "AMOLED melns"
+
+#: index
+msgid "Blue"
+msgstr "Zils"
+
+#: index
+msgid "Orange"
+msgstr "Oranžs"
+
+#: index
+msgid "Purple"
+msgstr "Violets"
+
+#: index
+msgid "Admire its many shimmering colours."
+msgstr "Apbrīno tās daudzās mirdzošās krāsas."
+
+#: index
+msgid ""
+"Pick a ready-made theme or set your own colours for the highlight, keys, special keys, background and text. You can also adjust the font size in the suggestion bar, vibration and key sounds."
+msgstr ""
+"Izvēlies gatavu motīvu vai iestati savas krāsas izcēlumam, taustiņiem, speciālajiem taustiņiem, fonam un tekstam. Vari pielāgot arī fonta lielumu ieteikumu joslā, vibrāciju un taustiņu skaņas."
+
+#: index
+msgid "Full"
+msgstr "Pilna"
+
+#: index
+msgid "Taller"
+msgstr "Augstāka"
+
+#: index
+msgid "Smaller and lifted"
+msgstr "Mazāka un pacelta"
+
+#: index
+msgid "Tablet"
+msgstr "Planšete"
+
+#: index
+msgid "Floating"
+msgstr "Peldoša"
+
+#: index
+msgid "Spread your wings, or fold them out of the way."
+msgstr "Izplet spārnus vai saloki tos, lai netraucē."
+
+#: index
+msgid ""
+"Hold the Swajp key and pick Size: drag the handles to change the height, width and position. Make it taller, or smaller and lifted off the bottom edge, split it into two halves for both thumbs (Tablet), move it to the edge for one hand, or let it float freely above apps. In landscape the keyboard is lower and split."
+msgstr ""
+"Turi nospiestu Swajp taustiņu un izvēlies Izmērs: velkot aiz rokturiem, maini augstumu, platumu un novietojumu. Padari to augstāku vai mazāku un paceltu no apakšējās malas, sadali to divās pusēs abiem īkšķiem (Planšete), pārvieto pie malas vienai rokai vai ļauj tai brīvi peldēt virs lietotnēm. Horizontāli tastatūra ir zemāka un sadalīta."
+
+#: index
+msgid "Even sharp minds reach for a calculator."
+msgstr "Pat asam prātam noder kalkulators."
+
+#: index
+msgid ""
+"Hold the [I] key for the number pad: big digits for quick entry of phone numbers and amounts. The calculator counts right in the suggestion bar and inserts the result into the text. It handles percent (200 + 10 % = 220) and brackets, and the scientific mode adds functions, powers, degrees and radians – no switching apps."
+msgstr ""
+"Turi nospiestu taustiņu [I], lai atvērtu ciparu tastatūru: lieli cipari ātrai tālruņa numuru un summu ievadei. Kalkulators rēķina tieši ieteikumu joslā un ievieto rezultātu tekstā. Tas prot procentus (200 + 10% = 220) un iekavas, un zinātniskais režīms pievieno funkcijas, pakāpes, grādus un radiānus – bez lietotņu pārslēgšanas."
 
 #: index
 msgid "Catch your emotion mid-air."
@@ -250,80 +324,6 @@ msgid ""
 "Hold Enter and pick the clipboard: your last 30 copied texts are always at hand – tap to paste, pin the ones you want to keep. Passwords, codes and text marked as sensitive are never stored, and the history clears itself after the time you choose."
 msgstr ""
 "Turi nospiestu Enter un izvēlies starpliktuvi: pēdējie 30 nokopētie teksti vienmēr ir pa rokai – pieskaries, lai ielīmētu, piesprauž tos, kurus vēlies paturēt. Paroles, kodi un teksts, kas atzīmēts kā sensitīvs, nekad netiek saglabāti, un vēsture pati notīrās pēc tevis izvēlētā laika."
-
-#: index
-msgid "Even sharp minds reach for a calculator."
-msgstr "Pat asam prātam noder kalkulators."
-
-#: index
-msgid ""
-"Hold the [I] key for the number pad: big digits for quick entry of phone numbers and amounts. The calculator counts right in the suggestion bar and inserts the result into the text. It handles percent (200 + 10 % = 220) and brackets, and the scientific mode adds functions, powers, degrees and radians – no switching apps."
-msgstr ""
-"Turi nospiestu taustiņu [I], lai atvērtu ciparu tastatūru: lieli cipari ātrai tālruņa numuru un summu ievadei. Kalkulators rēķina tieši ieteikumu joslā un ievieto rezultātu tekstā. Tas prot procentus (200 + 10% = 220) un iekavas, un zinātniskais režīms pievieno funkcijas, pakāpes, grādus un radiānus – bez lietotņu pārslēgšanas."
-
-#: index
-msgid "Shimmering colours, like a dragonfly’s wings."
-msgstr "Mirdzošas krāsas kā spāres spārni."
-
-#: index
-msgid ""
-"Pick a ready-made theme or set your own colours for the highlight, keys, special keys, background and text. You can also adjust the font size in the suggestion bar, vibration and key sounds."
-msgstr ""
-"Izvēlies gatavu motīvu vai iestati savas krāsas izcēlumam, taustiņiem, speciālajiem taustiņiem, fonam un tekstam. Vari pielāgot arī fonta lielumu ieteikumu joslā, vibrāciju un taustiņu skaņas."
-
-#: index
-msgid "Light green"
-msgstr "Gaiši zaļš"
-
-#: index
-msgid "Light"
-msgstr "Gaišs"
-
-#: index
-msgid "AMOLED black"
-msgstr "AMOLED melns"
-
-#: index
-msgid "Blue"
-msgstr "Zils"
-
-#: index
-msgid "Orange"
-msgstr "Oranžs"
-
-#: index
-msgid "Purple"
-msgstr "Violets"
-
-#: index
-msgid "Wide wings or narrow – it fits your hand."
-msgstr "Plaši spārni vai šauri – tā pielāgojas tavai rokai."
-
-#: index
-msgid ""
-"Hold the Swajp key and pick Size: drag the handles to change the height, width and position. Tablet splits the letters into two halves for both thumbs, Left and Right make it narrower at the edge for one hand, and Floating lets it hover freely above apps. In landscape the keyboard is lower and split."
-msgstr ""
-"Turi nospiestu Swajp taustiņu un izvēlies opciju Izmērs: velkot turus, maini augstumu, platumu un novietojumu. Planšete sadala burtus divās pusēs abiem īkšķiem, Pa kreisi un Pa labi to sašaurina pie malas vienai rokai, bet Peldoša ļauj tai brīvi lidināties virs lietotnēm. Ainavas režīmā tastatūra ir zemāka un sadalīta."
-
-#: index
-msgid "Full"
-msgstr "Pilna"
-
-#: index
-msgid "Tablet"
-msgstr "Planšete"
-
-#: index
-msgid "Left"
-msgstr "Pa kreisi"
-
-#: index
-msgid "Right"
-msgstr "Pa labi"
-
-#: index
-msgid "Floating"
-msgstr "Peldoša"
 
 #: index
 msgid ""
@@ -396,108 +396,204 @@ msgid "Available languages"
 msgstr "Pieejamās valodas"
 
 #: languages
-msgid "Catalan · 89,809 words"
-msgstr "Katalāņu · 89 809 vārdi"
+msgid "Catalan"
+msgstr "Katalāņu"
 
 #: languages
-msgid "Danish · 152,106 words"
-msgstr "Dāņu · 152 106 vārdi"
+msgid "89,809 words"
+msgstr "89 809 vārdi"
 
 #: languages
-msgid "Esperanto · 11,343 words"
-msgstr "Esperanto · 11 343 vārdi"
+msgid "Danish"
+msgstr "Dāņu"
 
 #: languages
-msgid "Estonian · 326,938 words"
-msgstr "Igauņu · 326 938 vārdi"
+msgid "152,106 words"
+msgstr "152 106 vārdi"
 
 #: languages
-msgid "Basque · 53,700 words"
-msgstr "Basku · 53 700 vārdi"
+msgid "11,343 words"
+msgstr "11 343 vārdi"
 
 #: languages
-msgid "Finnish · 197,333 words"
-msgstr "Somu · 197 333 vārdi"
+msgid "Estonian"
+msgstr "Igauņu"
 
 #: languages
-msgid "Galician · 30,624 words"
-msgstr "Galisiešu · 30 624 vārdi"
+msgid "326,938 words"
+msgstr "326 938 vārdi"
 
 #: languages
-msgid "Hindi (Latin letters or Devanagari) · 52,622 words"
-msgstr "Hindi (latīņu burti vai devanāgarī) · 52 622 vārdi"
+msgid "Basque"
+msgstr "Basku"
 
 #: languages
-msgid "Croatian · 191,499 words"
-msgstr "Horvātu · 191 499 vārdi"
+msgid "53,700 words"
+msgstr "53 700 vārdi"
 
 #: languages
-msgid "Hungarian · 380,920 words"
-msgstr "Ungāru · 380 920 vārdi"
+msgid "Finnish"
+msgstr "Somu"
 
 #: languages
-msgid "Indonesian · 75,492 words"
-msgstr "Indonēziešu · 75 492 vārdi"
+msgid "197,333 words"
+msgstr "197 333 vārdi"
 
 #: languages
-msgid "Icelandic · 74,391 words"
-msgstr "Islandiešu · 74 391 vārdi"
+msgid "Galician"
+msgstr "Galisiešu"
 
 #: languages
-msgid "Latin · 165,218 words"
-msgstr "Latīņu · 165 218 vārdi"
+msgid "30,624 words"
+msgstr "30 624 vārdi"
 
 #: languages
-msgid "Lithuanian · 100,175 words"
-msgstr "Lietuviešu · 100 175 vārdi"
+msgid "Hindi"
+msgstr "Hindi"
 
 #: languages
-msgid "Latvian · 51,479 words"
-msgstr "Latviešu · 51 479 vārdi"
+msgid "52,622 words"
+msgstr "52 622 vārdi"
 
 #: languages
-msgid "Malay · 49,942 words"
-msgstr "Malajiešu · 49 942 vārdi"
+msgid "Croatian"
+msgstr "Horvātu"
 
 #: languages
-msgid "Norwegian · 140,318 words"
-msgstr "Norvēģu · 140 318 vārdi"
+msgid "191,499 words"
+msgstr "191 499 vārdi"
 
 #: languages
-msgid "Dutch · 140,383 words"
-msgstr "Nīderlandiešu · 140 383 vārdi"
+msgid "Hungarian"
+msgstr "Ungāru"
 
 #: languages
-msgid "Romanian · 119,573 words"
-msgstr "Rumāņu · 119 573 vārdi"
+msgid "380,920 words"
+msgstr "380 920 vārdi"
 
 #: languages
-msgid "Slovenian · 182,841 words"
-msgstr "Slovēņu · 182 841 vārds"
+msgid "Indonesian"
+msgstr "Indonēziešu"
 
 #: languages
-msgid "Albanian · 89,152 words"
-msgstr "Albāņu · 89 152 vārdi"
+msgid "75,492 words"
+msgstr "75 492 vārdi"
 
 #: languages
-msgid "Serbian · 330,967 words"
-msgstr "Serbu · 330 967 vārdi"
+msgid "Icelandic"
+msgstr "Islandiešu"
 
 #: languages
-msgid "Swedish · 153,998 words"
-msgstr "Zviedru · 153 998 vārdi"
+msgid "74,391 words"
+msgstr "74 391 vārdi"
 
 #: languages
-msgid "Tagalog · 30,099 words"
-msgstr "Tagalu · 30 099 vārdi"
+msgid "Latin"
+msgstr "Latīņu"
 
 #: languages
-msgid "Turkish · 305,078 words"
-msgstr "Turku · 305 078 vārdi"
+msgid "165,218 words"
+msgstr "165 218 vārdi"
 
 #: languages
-msgid "Vietnamese · 35,303 words"
-msgstr "Vjetnamiešu · 35 303 vārdi"
+msgid "Lithuanian"
+msgstr "Lietuviešu"
+
+#: languages
+msgid "100,175 words"
+msgstr "100 175 vārdi"
+
+#: languages
+msgid "Latvian"
+msgstr "Latviešu"
+
+#: languages
+msgid "51,479 words"
+msgstr "51 479 vārdi"
+
+#: languages
+msgid "Malay"
+msgstr "Malajiešu"
+
+#: languages
+msgid "49,942 words"
+msgstr "49 942 vārdi"
+
+#: languages
+msgid "Norwegian"
+msgstr "Norvēģu"
+
+#: languages
+msgid "140,318 words"
+msgstr "140 318 vārdi"
+
+#: languages
+msgid "Dutch"
+msgstr "Nīderlandiešu"
+
+#: languages
+msgid "140,383 words"
+msgstr "140 383 vārdi"
+
+#: languages
+msgid "Romanian"
+msgstr "Rumāņu"
+
+#: languages
+msgid "119,573 words"
+msgstr "119 573 vārdi"
+
+#: languages
+msgid "Slovenian"
+msgstr "Slovēņu"
+
+#: languages
+msgid "182,841 words"
+msgstr "182 841 vārds"
+
+#: languages
+msgid "Albanian"
+msgstr "Albāņu"
+
+#: languages
+msgid "89,152 words"
+msgstr "89 152 vārdi"
+
+#: languages
+msgid "Serbian"
+msgstr "Serbu"
+
+#: languages
+msgid "330,967 words"
+msgstr "330 967 vārdi"
+
+#: languages
+msgid "Swedish"
+msgstr "Zviedru"
+
+#: languages
+msgid "153,998 words"
+msgstr "153 998 vārdi"
+
+#: languages
+msgid "30,099 words"
+msgstr "30 099 vārdi"
+
+#: languages
+msgid "Turkish"
+msgstr "Turku"
+
+#: languages
+msgid "305,078 words"
+msgstr "305 078 vārdi"
+
+#: languages
+msgid "Vietnamese"
+msgstr "Vjetnamiešu"
+
+#: languages
+msgid "35,303 words"
+msgstr "35 303 vārdi"
 
 #: languages
 msgid ""

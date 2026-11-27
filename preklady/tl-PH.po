@@ -99,6 +99,30 @@ msgid "Copy, paste, undo and select with one swipe."
 msgstr "Kopyahin, i-paste, i-undo at pumili sa isang swipe."
 
 #: index
+msgid "Themes &amp; colours"
+msgstr "Mga tema at kulay"
+
+#: index
+msgid "Six themes or colours of your own."
+msgstr "Anim na tema o sarili mong mga kulay."
+
+#: index
+msgid "Size &amp; layout"
+msgstr "Laki at layout"
+
+#: index
+msgid "Split, one-handed or floating."
+msgstr "Hati, pang-isang kamay o lumulutang."
+
+#: index
+msgid "Number pad & calculator"
+msgstr "Number pad at calculator"
+
+#: index
+msgid "Big digits, a calculator and a scientific one."
+msgstr "Malalaking numero, calculator at scientific calculator."
+
+#: index
 msgid "Emoji"
 msgstr "Emoji"
 
@@ -127,30 +151,6 @@ msgid "Your last 30 copied texts at hand."
 msgstr "Abot-kamay ang huling 30 tekstong kinopya mo."
 
 #: index
-msgid "Number pad & calculator"
-msgstr "Number pad at calculator"
-
-#: index
-msgid "Big digits, a calculator and a scientific one."
-msgstr "Malalaking numero, calculator at scientific calculator."
-
-#: index
-msgid "Themes &amp; colours"
-msgstr "Mga tema at kulay"
-
-#: index
-msgid "Six themes or colours of your own."
-msgstr "Anim na tema o sarili mong mga kulay."
-
-#: index
-msgid "Size &amp; layout"
-msgstr "Laki at layout"
-
-#: index
-msgid "Split, one-handed or floating."
-msgstr "Hati, pang-isang kamay o lumulutang."
-
-#: index
 msgid "Backup"
 msgstr "Backup"
 
@@ -162,10 +162,6 @@ msgstr "Dalhin ang mga natutunang salita sa bago mong telepono."
 msgid "No internet, no ads, no tracking."
 msgstr "Walang internet, walang ads, walang tracking."
 
-#: index
-msgid "Glide over the keys like a dragonfly."
-msgstr "Dumausdos sa mga key na parang tutubi."
-
 #: index (atribut / attribute)
 msgid "Previous"
 msgstr "Nakaraan"
@@ -173,6 +169,10 @@ msgstr "Nakaraan"
 #: index (atribut / attribute)
 msgid "Next"
 msgstr "Susunod"
+
+#: index
+msgid "Glide over the keys like a dragonfly."
+msgstr "Dumausdos sa mga key na parang tutubi."
 
 #: index
 msgid ""
@@ -206,6 +206,80 @@ msgid ""
 "All gestures with demos and practice are in the app: Settings → Gestures and guide."
 msgstr ""
 "Nasa app ang lahat ng galaw, may demo at pagsasanay: Mga Setting → Mga galaw at gabay."
+
+#: index
+msgid "Light green"
+msgstr "Mapusyaw na berde"
+
+#: index
+msgid "Light"
+msgstr "Maliwanag"
+
+#: index
+msgid "AMOLED black"
+msgstr "AMOLED na itim"
+
+#: index
+msgid "Blue"
+msgstr "Asul"
+
+#: index
+msgid "Orange"
+msgstr "Kahel"
+
+#: index
+msgid "Purple"
+msgstr "Lila"
+
+#: index
+msgid "Admire its many shimmering colours."
+msgstr "Hangaan ang marami nitong kumikinang na kulay."
+
+#: index
+msgid ""
+"Pick a ready-made theme or set your own colours for the highlight, keys, special keys, background and text. You can also adjust the font size in the suggestion bar, vibration and key sounds."
+msgstr ""
+"Pumili ng handang tema o itakda ang sarili mong mga kulay para sa highlight, mga key, mga espesyal na key, background at teksto. Puwede mo ring i-adjust ang laki ng font sa bar ng mungkahi, ang vibration at ang tunog ng mga key."
+
+#: index
+msgid "Full"
+msgstr "Buo"
+
+#: index
+msgid "Taller"
+msgstr "Mas mataas"
+
+#: index
+msgid "Smaller and lifted"
+msgstr "Mas maliit at nakaangat"
+
+#: index
+msgid "Tablet"
+msgstr "Tablet"
+
+#: index
+msgid "Floating"
+msgstr "Lumulutang"
+
+#: index
+msgid "Spread your wings, or fold them out of the way."
+msgstr "Ibuka ang iyong mga pakpak, o itiklop para hindi makasagabal."
+
+#: index
+msgid ""
+"Hold the Swajp key and pick Size: drag the handles to change the height, width and position. Make it taller, or smaller and lifted off the bottom edge, split it into two halves for both thumbs (Tablet), move it to the edge for one hand, or let it float freely above apps. In landscape the keyboard is lower and split."
+msgstr ""
+"Pindutin nang matagal ang Swajp key at piliin ang Laki: i-drag ang mga hawakan para baguhin ang taas, lapad at posisyon. Gawin itong mas mataas, o mas maliit at nakaangat mula sa ibabang gilid, hatiin sa dalawa para sa dalawang hinlalaki (Tablet), ilipat sa gilid para sa isang kamay, o hayaang lumutang nang malaya sa ibabaw ng mga app. Kapag naka-landscape, mas mababa at hati ang keyboard."
+
+#: index
+msgid "Even sharp minds reach for a calculator."
+msgstr "Kahit matalas ang isip, may silbi pa rin ang calculator."
+
+#: index
+msgid ""
+"Hold the [I] key for the number pad: big digits for quick entry of phone numbers and amounts. The calculator counts right in the suggestion bar and inserts the result into the text. It handles percent (200 + 10 % = 220) and brackets, and the scientific mode adds functions, powers, degrees and radians – no switching apps."
+msgstr ""
+"Pindutin nang matagal ang [I] key para sa number pad: malalaking numero para mabilis na mailagay ang mga numero ng telepono at halaga. Nagkukuwenta ang calculator mismo sa bar ng mungkahi at inilalagay ang resulta sa teksto. Kaya nito ang porsiyento (200 + 10% = 220) at mga panaklong, at nagdaragdag ang scientific mode ng mga function, power, degree at radian – nang hindi nagpapalit ng app."
 
 #: index
 msgid "Catch your emotion mid-air."
@@ -252,80 +326,6 @@ msgid ""
 "Hold Enter and pick the clipboard: your last 30 copied texts are always at hand – tap to paste, pin the ones you want to keep. Passwords, codes and text marked as sensitive are never stored, and the history clears itself after the time you choose."
 msgstr ""
 "Pindutin nang matagal ang Enter at piliin ang clipboard: laging abot-kamay ang huling 30 tekstong kinopya mo – i-tap para i-paste, i-pin ang mga gusto mong itago. Hindi kailanman sine-save ang mga password, code at tekstong minarkahang sensitibo, at kusang nabubura ang history pagkalipas ng oras na pipiliin mo."
-
-#: index
-msgid "Even sharp minds reach for a calculator."
-msgstr "Kahit matalas ang isip, may silbi pa rin ang calculator."
-
-#: index
-msgid ""
-"Hold the [I] key for the number pad: big digits for quick entry of phone numbers and amounts. The calculator counts right in the suggestion bar and inserts the result into the text. It handles percent (200 + 10 % = 220) and brackets, and the scientific mode adds functions, powers, degrees and radians – no switching apps."
-msgstr ""
-"Pindutin nang matagal ang [I] key para sa number pad: malalaking numero para mabilis na mailagay ang mga numero ng telepono at halaga. Nagkukuwenta ang calculator mismo sa bar ng mungkahi at inilalagay ang resulta sa teksto. Kaya nito ang porsiyento (200 + 10% = 220) at mga panaklong, at nagdaragdag ang scientific mode ng mga function, power, degree at radian – nang hindi nagpapalit ng app."
-
-#: index
-msgid "Shimmering colours, like a dragonfly’s wings."
-msgstr "Kumikinang na mga kulay, gaya ng pakpak ng tutubi."
-
-#: index
-msgid ""
-"Pick a ready-made theme or set your own colours for the highlight, keys, special keys, background and text. You can also adjust the font size in the suggestion bar, vibration and key sounds."
-msgstr ""
-"Pumili ng handang tema o itakda ang sarili mong mga kulay para sa highlight, mga key, mga espesyal na key, background at teksto. Puwede mo ring i-adjust ang laki ng font sa bar ng mungkahi, ang vibration at ang tunog ng mga key."
-
-#: index
-msgid "Light green"
-msgstr "Mapusyaw na berde"
-
-#: index
-msgid "Light"
-msgstr "Maliwanag"
-
-#: index
-msgid "AMOLED black"
-msgstr "AMOLED na itim"
-
-#: index
-msgid "Blue"
-msgstr "Asul"
-
-#: index
-msgid "Orange"
-msgstr "Kahel"
-
-#: index
-msgid "Purple"
-msgstr "Lila"
-
-#: index
-msgid "Wide wings or narrow – it fits your hand."
-msgstr "Malapad o makitid na pakpak – akma sa kamay mo."
-
-#: index
-msgid ""
-"Hold the Swajp key and pick Size: drag the handles to change the height, width and position. Tablet splits the letters into two halves for both thumbs, Left and Right make it narrower at the edge for one hand, and Floating lets it hover freely above apps. In landscape the keyboard is lower and split."
-msgstr ""
-"Pindutin nang matagal ang Swajp key at piliin ang Laki: i-drag ang mga hawakan para baguhin ang taas, lapad at posisyon. Hinahati ng Tablet ang mga titik sa dalawa para sa dalawang hinlalaki, pinakikitid ito ng Kaliwa at Kanan sa gilid para sa isang kamay, at sa Lumulutang ay malaya itong lumilipad sa ibabaw ng mga app. Sa landscape, mas mababa at hati ang keyboard."
-
-#: index
-msgid "Full"
-msgstr "Buo"
-
-#: index
-msgid "Tablet"
-msgstr "Tablet"
-
-#: index
-msgid "Left"
-msgstr "Kaliwa"
-
-#: index
-msgid "Right"
-msgstr "Kanan"
-
-#: index
-msgid "Floating"
-msgstr "Lumulutang"
 
 #: index
 msgid ""
@@ -399,108 +399,204 @@ msgid "Available languages"
 msgstr "Mga available na wika"
 
 #: languages
-msgid "Catalan · 89,809 words"
-msgstr "Catalan · 89,809 salita"
+msgid "Catalan"
+msgstr "Catalan"
 
 #: languages
-msgid "Danish · 152,106 words"
-msgstr "Danish · 152,106 salita"
+msgid "89,809 words"
+msgstr "89,809 salita"
 
 #: languages
-msgid "Esperanto · 11,343 words"
-msgstr "Esperanto · 11,343 salita"
+msgid "Danish"
+msgstr "Danish"
 
 #: languages
-msgid "Estonian · 326,938 words"
-msgstr "Estonian · 326,938 salita"
+msgid "152,106 words"
+msgstr "152,106 salita"
 
 #: languages
-msgid "Basque · 53,700 words"
-msgstr "Basque · 53,700 salita"
+msgid "11,343 words"
+msgstr "11,343 salita"
 
 #: languages
-msgid "Finnish · 197,333 words"
-msgstr "Finnish · 197,333 salita"
+msgid "Estonian"
+msgstr "Estonian"
 
 #: languages
-msgid "Galician · 30,624 words"
-msgstr "Galician · 30,624 salita"
+msgid "326,938 words"
+msgstr "326,938 salita"
 
 #: languages
-msgid "Hindi (Latin letters or Devanagari) · 52,622 words"
-msgstr "Hindi (Latin na titik o Devanagari) · 52,622 salita"
+msgid "Basque"
+msgstr "Basque"
 
 #: languages
-msgid "Croatian · 191,499 words"
-msgstr "Croatian · 191,499 salita"
+msgid "53,700 words"
+msgstr "53,700 salita"
 
 #: languages
-msgid "Hungarian · 380,920 words"
-msgstr "Hungarian · 380,920 salita"
+msgid "Finnish"
+msgstr "Finnish"
 
 #: languages
-msgid "Indonesian · 75,492 words"
-msgstr "Indonesian · 75,492 salita"
+msgid "197,333 words"
+msgstr "197,333 salita"
 
 #: languages
-msgid "Icelandic · 74,391 words"
-msgstr "Icelandic · 74,391 salita"
+msgid "Galician"
+msgstr "Galician"
 
 #: languages
-msgid "Latin · 165,218 words"
-msgstr "Latin · 165,218 salita"
+msgid "30,624 words"
+msgstr "30,624 salita"
 
 #: languages
-msgid "Lithuanian · 100,175 words"
-msgstr "Lithuanian · 100,175 salita"
+msgid "Hindi"
+msgstr "Hindi"
 
 #: languages
-msgid "Latvian · 51,479 words"
-msgstr "Latvian · 51,479 salita"
+msgid "52,622 words"
+msgstr "52,622 salita"
 
 #: languages
-msgid "Malay · 49,942 words"
-msgstr "Malay · 49,942 salita"
+msgid "Croatian"
+msgstr "Croatian"
 
 #: languages
-msgid "Norwegian · 140,318 words"
-msgstr "Norwegian · 140,318 salita"
+msgid "191,499 words"
+msgstr "191,499 salita"
 
 #: languages
-msgid "Dutch · 140,383 words"
-msgstr "Dutch · 140,383 salita"
+msgid "Hungarian"
+msgstr "Hungarian"
 
 #: languages
-msgid "Romanian · 119,573 words"
-msgstr "Romanian · 119,573 salita"
+msgid "380,920 words"
+msgstr "380,920 salita"
 
 #: languages
-msgid "Slovenian · 182,841 words"
-msgstr "Slovenian · 182,841 salita"
+msgid "Indonesian"
+msgstr "Indonesian"
 
 #: languages
-msgid "Albanian · 89,152 words"
-msgstr "Albanian · 89,152 salita"
+msgid "75,492 words"
+msgstr "75,492 salita"
 
 #: languages
-msgid "Serbian · 330,967 words"
-msgstr "Serbian · 330,967 salita"
+msgid "Icelandic"
+msgstr "Icelandic"
 
 #: languages
-msgid "Swedish · 153,998 words"
-msgstr "Swedish · 153,998 salita"
+msgid "74,391 words"
+msgstr "74,391 salita"
 
 #: languages
-msgid "Tagalog · 30,099 words"
-msgstr "Tagalog · 30,099 salita"
+msgid "Latin"
+msgstr "Latin"
 
 #: languages
-msgid "Turkish · 305,078 words"
-msgstr "Turkish · 305,078 salita"
+msgid "165,218 words"
+msgstr "165,218 salita"
 
 #: languages
-msgid "Vietnamese · 35,303 words"
-msgstr "Vietnamese · 35,303 salita"
+msgid "Lithuanian"
+msgstr "Lithuanian"
+
+#: languages
+msgid "100,175 words"
+msgstr "100,175 salita"
+
+#: languages
+msgid "Latvian"
+msgstr "Latvian"
+
+#: languages
+msgid "51,479 words"
+msgstr "51,479 salita"
+
+#: languages
+msgid "Malay"
+msgstr "Malay"
+
+#: languages
+msgid "49,942 words"
+msgstr "49,942 salita"
+
+#: languages
+msgid "Norwegian"
+msgstr "Norwegian"
+
+#: languages
+msgid "140,318 words"
+msgstr "140,318 salita"
+
+#: languages
+msgid "Dutch"
+msgstr "Dutch"
+
+#: languages
+msgid "140,383 words"
+msgstr "140,383 salita"
+
+#: languages
+msgid "Romanian"
+msgstr "Romanian"
+
+#: languages
+msgid "119,573 words"
+msgstr "119,573 salita"
+
+#: languages
+msgid "Slovenian"
+msgstr "Slovenian"
+
+#: languages
+msgid "182,841 words"
+msgstr "182,841 salita"
+
+#: languages
+msgid "Albanian"
+msgstr "Albanian"
+
+#: languages
+msgid "89,152 words"
+msgstr "89,152 salita"
+
+#: languages
+msgid "Serbian"
+msgstr "Serbian"
+
+#: languages
+msgid "330,967 words"
+msgstr "330,967 salita"
+
+#: languages
+msgid "Swedish"
+msgstr "Swedish"
+
+#: languages
+msgid "153,998 words"
+msgstr "153,998 salita"
+
+#: languages
+msgid "30,099 words"
+msgstr "30,099 salita"
+
+#: languages
+msgid "Turkish"
+msgstr "Turkish"
+
+#: languages
+msgid "305,078 words"
+msgstr "305,078 salita"
+
+#: languages
+msgid "Vietnamese"
+msgstr "Vietnamese"
+
+#: languages
+msgid "35,303 words"
+msgstr "35,303 salita"
 
 #: languages
 msgid ""

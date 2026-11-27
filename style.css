@@ -140,11 +140,11 @@ a.card.ov{color:inherit;display:block}a.card.ov:hover{text-decoration:none}
 /* přepínač světlý / tmavý režim (výchozí tmavý) */
 .thm{margin-left:auto;display:grid;place-items:center;width:32px;height:32px;border:1px solid var(--line);border-radius:50%;background:none;color:var(--tx);cursor:pointer;padding:0}
 .thm:hover{border-color:var(--g)}.thm svg{width:17px;height:17px;fill:none;stroke:currentColor;stroke-width:1.8;stroke-linecap:round;stroke-linejoin:round}
-.thm .sun{display:none}[data-theme=light] .thm .sun{display:block}[data-theme=light] .thm .moon{display:none}
+.thm .moon{display:none}[data-theme=light] .thm .moon{display:block}[data-theme=light] .thm .sun{display:none}
 .thm+.lngs{margin-left:-12px}
 @media(min-width:601px){.thm{order:3;margin-left:0}.thm+.lngs{margin-left:-14px}}
 .btn.play svg{fill:currentColor;stroke:none}
-[data-theme=light] .logo svg>rect:first-child{fill:transparent}
+.logo svg>rect:first-child{fill:transparent}
 /* úvodní klávesnice ve světlém režimu */
 [data-theme=light] svg.kb [fill="#1b1c1f"]{fill:#e9ebe6}[data-theme=light] svg.kb [stroke="#1b1c1f"]{stroke:#e9ebe6}
 [data-theme=light] svg.kb [fill="#3a3c42"]{fill:#ffffff}[data-theme=light] svg.kb [stroke="#3a3c42"]{stroke:#c3c7bf}
@@ -170,3 +170,29 @@ a.card.ov{color:inherit;display:block}a.card.ov:hover{text-decoration:none}
 [data-theme=light] .gdemo{background:#e8efe3;border-color:#d3ddcb}
 [data-theme=light]{--dk-field:#ffffff;--dk-spec:#d3ddcb;--dk-pop:#ffffff;--dk-op:#d5e6c0}
 [data-theme=light] .gprev,[data-theme=light] .gnext{background:#fff}
+
+/* záhlaví: průhledné a rozmazané pod ním (oba režimy) */
+:root{--hdr:#141517b0}[data-theme=light]{--hdr:#f4f5f2b8}
+header{backdrop-filter:blur(14px) saturate(1.4);-webkit-backdrop-filter:blur(14px) saturate(1.4)}
+/* kategorie: menší mezery, ukázka zarovnaná s horní hranou nadpisu – nad ní i pod ní stejná mezera */
+.feat{margin-top:24px;padding-top:24px}
+.feat.hd>.gdemo{margin:0 0 0 26px}
+.feat .fd{margin-bottom:8px}
+@media(max-width:820px){.feat.hd>.gdemo{margin:8px auto 0}}
+/* galerie motivů a velikostí */
+.gcap{margin:4px 0 0;font-size:13.5px;font-weight:600;color:var(--dk-tx,var(--tx))}
+.gdemo[data-demo=themes] .gcap{color:var(--dk-tx)}
+:root{--dk-kbg:#16171a}[data-theme=light]{--dk-kbg:#dfe7d9}
+/* Google Play: oficiální barevná ikona (google-play.svg v kořeni webu), dokud není, trojúhelník */
+.gpi{display:inline-grid;place-items:center;width:20px;height:20px}.gpi img{width:20px;height:20px;display:block}
+.gpi svg{display:none}.gpi.no img{display:none}.gpi.no svg{display:block}
+/* jazykové balíčky: název / zkratka + překlad + stažení / počet slov – všechny karty stejně vysoké */
+.l{display:grid;grid-template-columns:42px 1fr auto;grid-template-areas:"nm nm nm" "cd tr dl" "wc wc wc";align-items:center;gap:6px 12px;padding:14px 16px}
+.l .nm{grid-area:nm;flex:none;font-weight:700;font-size:16.5px;line-height:1.25;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.l .cd{grid-area:cd}.l .tr{grid-area:tr;color:var(--tx);opacity:.85;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.l a.dl{grid-area:dl}.l .wc{grid-area:wc;color:var(--mut);font-size:14px}
+.gsize{max-height:300px}
+.l a.dl{min-width:96px;justify-content:center}
+.lang{grid-template-columns:repeat(auto-fill,minmax(300px,1fr))}
+.l a.dl{min-width:88px}
+svg.gsize{width:100%;height:auto;max-height:240px;display:block}

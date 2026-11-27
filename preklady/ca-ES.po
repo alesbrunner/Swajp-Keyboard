@@ -98,6 +98,30 @@ msgid "Copy, paste, undo and select with one swipe."
 msgstr "Copia, enganxa, desfés i selecciona amb un sol traç."
 
 #: index
+msgid "Themes &amp; colours"
+msgstr "Temes i colors"
+
+#: index
+msgid "Six themes or colours of your own."
+msgstr "Sis temes o colors propis."
+
+#: index
+msgid "Size &amp; layout"
+msgstr "Mida i disposició"
+
+#: index
+msgid "Split, one-handed or floating."
+msgstr "Dividit, per a una mà o flotant."
+
+#: index
+msgid "Number pad & calculator"
+msgstr "Teclat numèric i calculadora"
+
+#: index
+msgid "Big digits, a calculator and a scientific one."
+msgstr "Números grans, una calculadora i una de científica."
+
+#: index
 msgid "Emoji"
 msgstr "Emojis"
 
@@ -126,30 +150,6 @@ msgid "Your last 30 copied texts at hand."
 msgstr "Els teus últims 30 textos copiats, a mà."
 
 #: index
-msgid "Number pad & calculator"
-msgstr "Teclat numèric i calculadora"
-
-#: index
-msgid "Big digits, a calculator and a scientific one."
-msgstr "Números grans, una calculadora i una de científica."
-
-#: index
-msgid "Themes &amp; colours"
-msgstr "Temes i colors"
-
-#: index
-msgid "Six themes or colours of your own."
-msgstr "Sis temes o colors propis."
-
-#: index
-msgid "Size &amp; layout"
-msgstr "Mida i disposició"
-
-#: index
-msgid "Split, one-handed or floating."
-msgstr "Dividit, per a una mà o flotant."
-
-#: index
 msgid "Backup"
 msgstr "Còpia de seguretat"
 
@@ -161,10 +161,6 @@ msgstr "Emporta't les paraules apreses al telèfon nou."
 msgid "No internet, no ads, no tracking."
 msgstr "Sense internet, sense anuncis, sense seguiment."
 
-#: index
-msgid "Glide over the keys like a dragonfly."
-msgstr "Plana per les tecles com una libèl·lula."
-
 #: index (atribut / attribute)
 msgid "Previous"
 msgstr "Anterior"
@@ -172,6 +168,10 @@ msgstr "Anterior"
 #: index (atribut / attribute)
 msgid "Next"
 msgstr "Següent"
+
+#: index
+msgid "Glide over the keys like a dragonfly."
+msgstr "Plana per les tecles com una libèl·lula."
 
 #: index
 msgid ""
@@ -205,6 +205,80 @@ msgid ""
 "All gestures with demos and practice are in the app: Settings → Gestures and guide."
 msgstr ""
 "Tots els gestos, amb demostracions i pràctica, són a l'aplicació: Configuració → Gestos i guia."
+
+#: index
+msgid "Light green"
+msgstr "Verd clar"
+
+#: index
+msgid "Light"
+msgstr "Clar"
+
+#: index
+msgid "AMOLED black"
+msgstr "Negre AMOLED"
+
+#: index
+msgid "Blue"
+msgstr "Blau"
+
+#: index
+msgid "Orange"
+msgstr "Taronja"
+
+#: index
+msgid "Purple"
+msgstr "Lila"
+
+#: index
+msgid "Admire its many shimmering colours."
+msgstr "Admira els seus nombrosos colors tornassolats."
+
+#: index
+msgid ""
+"Pick a ready-made theme or set your own colours for the highlight, keys, special keys, background and text. You can also adjust the font size in the suggestion bar, vibration and key sounds."
+msgstr ""
+"Tria un tema predefinit o configura els teus colors per al realçat, les tecles, les tecles especials, el fons i el text. També pots ajustar la mida de la lletra de la barra de suggeriments, la vibració i els sons de les tecles."
+
+#: index
+msgid "Full"
+msgstr "Complet"
+
+#: index
+msgid "Taller"
+msgstr "Més alt"
+
+#: index
+msgid "Smaller and lifted"
+msgstr "Més petit i elevat"
+
+#: index
+msgid "Tablet"
+msgstr "Tauleta"
+
+#: index
+msgid "Floating"
+msgstr "Flotant"
+
+#: index
+msgid "Spread your wings, or fold them out of the way."
+msgstr "Desplega les ales, o plega-les perquè no destorbin."
+
+#: index
+msgid ""
+"Hold the Swajp key and pick Size: drag the handles to change the height, width and position. Make it taller, or smaller and lifted off the bottom edge, split it into two halves for both thumbs (Tablet), move it to the edge for one hand, or let it float freely above apps. In landscape the keyboard is lower and split."
+msgstr ""
+"Mantén premuda la tecla Swajp i tria Mida: arrossegant les nanses canvies l'alçada, l'amplada i la posició. Fes-lo més alt, o més petit i elevat respecte a la vora inferior, divideix-lo en dues meitats per als dos polzes (Tauleta), mou-lo cap a la vora per fer-lo servir amb una mà, o deixa'l flotar lliurement sobre les aplicacions. En horitzontal, el teclat és més baix i dividit."
+
+#: index
+msgid "Even sharp minds reach for a calculator."
+msgstr "Fins i tot els caps més desperts fan servir la calculadora."
+
+#: index
+msgid ""
+"Hold the [I] key for the number pad: big digits for quick entry of phone numbers and amounts. The calculator counts right in the suggestion bar and inserts the result into the text. It handles percent (200 + 10 % = 220) and brackets, and the scientific mode adds functions, powers, degrees and radians – no switching apps."
+msgstr ""
+"Mantén premuda la tecla [I] per al teclat numèric: dígits grans per introduir ràpidament números de telèfon i imports. La calculadora calcula directament a la barra de suggeriments i insereix el resultat al text. Entén els percentatges (200 + 10 % = 220) i els parèntesis, i el mode científic hi afegeix funcions, potències, graus i radians – sense canviar d'aplicació."
 
 #: index
 msgid "Catch your emotion mid-air."
@@ -251,80 +325,6 @@ msgid ""
 "Hold Enter and pick the clipboard: your last 30 copied texts are always at hand – tap to paste, pin the ones you want to keep. Passwords, codes and text marked as sensitive are never stored, and the history clears itself after the time you choose."
 msgstr ""
 "Mantén premut Enter i tria el porta-retalls: els teus últims 30 textos copiats sempre a mà – toca per enganxar i fixa els que vulguis conservar. Les contrasenyes, els codis i el text marcat com a sensible no es desen mai, i l'historial s'esborra tot sol després del temps que triïs."
-
-#: index
-msgid "Even sharp minds reach for a calculator."
-msgstr "Fins i tot els caps més desperts fan servir la calculadora."
-
-#: index
-msgid ""
-"Hold the [I] key for the number pad: big digits for quick entry of phone numbers and amounts. The calculator counts right in the suggestion bar and inserts the result into the text. It handles percent (200 + 10 % = 220) and brackets, and the scientific mode adds functions, powers, degrees and radians – no switching apps."
-msgstr ""
-"Mantén premuda la tecla [I] per al teclat numèric: dígits grans per introduir ràpidament números de telèfon i imports. La calculadora calcula directament a la barra de suggeriments i insereix el resultat al text. Entén els percentatges (200 + 10 % = 220) i els parèntesis, i el mode científic hi afegeix funcions, potències, graus i radians – sense canviar d'aplicació."
-
-#: index
-msgid "Shimmering colours, like a dragonfly’s wings."
-msgstr "Colors que brillen com les ales d'una libèl·lula."
-
-#: index
-msgid ""
-"Pick a ready-made theme or set your own colours for the highlight, keys, special keys, background and text. You can also adjust the font size in the suggestion bar, vibration and key sounds."
-msgstr ""
-"Tria un tema predefinit o configura els teus colors per al realçat, les tecles, les tecles especials, el fons i el text. També pots ajustar la mida de la lletra de la barra de suggeriments, la vibració i els sons de les tecles."
-
-#: index
-msgid "Light green"
-msgstr "Verd clar"
-
-#: index
-msgid "Light"
-msgstr "Clar"
-
-#: index
-msgid "AMOLED black"
-msgstr "Negre AMOLED"
-
-#: index
-msgid "Blue"
-msgstr "Blau"
-
-#: index
-msgid "Orange"
-msgstr "Taronja"
-
-#: index
-msgid "Purple"
-msgstr "Lila"
-
-#: index
-msgid "Wide wings or narrow – it fits your hand."
-msgstr "Ales amples o estretes – s'adapta a la teva mà."
-
-#: index
-msgid ""
-"Hold the Swajp key and pick Size: drag the handles to change the height, width and position. Tablet splits the letters into two halves for both thumbs, Left and Right make it narrower at the edge for one hand, and Floating lets it hover freely above apps. In landscape the keyboard is lower and split."
-msgstr ""
-"Mantén premuda la tecla Swajp i tria Mida: arrossega les nanses per canviar l'alçada, l'amplada i la posició. Tauleta divideix les lletres en dues meitats per als dos polzes, Esquerra i Dreta l'estrenyen cap a la vora per a una sola mà, i Flotant el fa surar lliurement per sobre de les aplicacions. En horitzontal, el teclat és més baix i dividit."
-
-#: index
-msgid "Full"
-msgstr "Complet"
-
-#: index
-msgid "Tablet"
-msgstr "Tauleta"
-
-#: index
-msgid "Left"
-msgstr "Esquerra"
-
-#: index
-msgid "Right"
-msgstr "Dreta"
-
-#: index
-msgid "Floating"
-msgstr "Flotant"
 
 #: index
 msgid ""
@@ -396,108 +396,204 @@ msgid "Available languages"
 msgstr "Idiomes disponibles"
 
 #: languages
-msgid "Catalan · 89,809 words"
-msgstr "Català · 89.809 paraules"
+msgid "Catalan"
+msgstr "Català"
 
 #: languages
-msgid "Danish · 152,106 words"
-msgstr "Danès · 152.106 paraules"
+msgid "89,809 words"
+msgstr "89.809 paraules"
 
 #: languages
-msgid "Esperanto · 11,343 words"
-msgstr "Esperanto · 11.343 paraules"
+msgid "Danish"
+msgstr "Danès"
 
 #: languages
-msgid "Estonian · 326,938 words"
-msgstr "Estonià · 326.938 paraules"
+msgid "152,106 words"
+msgstr "152.106 paraules"
 
 #: languages
-msgid "Basque · 53,700 words"
-msgstr "Basc · 53.700 paraules"
+msgid "11,343 words"
+msgstr "11.343 paraules"
 
 #: languages
-msgid "Finnish · 197,333 words"
-msgstr "Finès · 197.333 paraules"
+msgid "Estonian"
+msgstr "Estonià"
 
 #: languages
-msgid "Galician · 30,624 words"
-msgstr "Gallec · 30.624 paraules"
+msgid "326,938 words"
+msgstr "326.938 paraules"
 
 #: languages
-msgid "Hindi (Latin letters or Devanagari) · 52,622 words"
-msgstr "Hindi (lletres llatines o devanagari) · 52.622 paraules"
+msgid "Basque"
+msgstr "Basc"
 
 #: languages
-msgid "Croatian · 191,499 words"
-msgstr "Croat · 191.499 paraules"
+msgid "53,700 words"
+msgstr "53.700 paraules"
 
 #: languages
-msgid "Hungarian · 380,920 words"
-msgstr "Hongarès · 380.920 paraules"
+msgid "Finnish"
+msgstr "Finès"
 
 #: languages
-msgid "Indonesian · 75,492 words"
-msgstr "Indonesi · 75.492 paraules"
+msgid "197,333 words"
+msgstr "197.333 paraules"
 
 #: languages
-msgid "Icelandic · 74,391 words"
-msgstr "Islandès · 74.391 paraules"
+msgid "Galician"
+msgstr "Gallec"
 
 #: languages
-msgid "Latin · 165,218 words"
-msgstr "Llatí · 165.218 paraules"
+msgid "30,624 words"
+msgstr "30.624 paraules"
 
 #: languages
-msgid "Lithuanian · 100,175 words"
-msgstr "Lituà · 100.175 paraules"
+msgid "Hindi"
+msgstr "Hindi"
 
 #: languages
-msgid "Latvian · 51,479 words"
-msgstr "Letó · 51.479 paraules"
+msgid "52,622 words"
+msgstr "52.622 paraules"
 
 #: languages
-msgid "Malay · 49,942 words"
-msgstr "Malai · 49.942 paraules"
+msgid "Croatian"
+msgstr "Croat"
 
 #: languages
-msgid "Norwegian · 140,318 words"
-msgstr "Noruec · 140.318 paraules"
+msgid "191,499 words"
+msgstr "191.499 paraules"
 
 #: languages
-msgid "Dutch · 140,383 words"
-msgstr "Neerlandès · 140.383 paraules"
+msgid "Hungarian"
+msgstr "Hongarès"
 
 #: languages
-msgid "Romanian · 119,573 words"
-msgstr "Romanès · 119.573 paraules"
+msgid "380,920 words"
+msgstr "380.920 paraules"
 
 #: languages
-msgid "Slovenian · 182,841 words"
-msgstr "Eslovè · 182.841 paraules"
+msgid "Indonesian"
+msgstr "Indonesi"
 
 #: languages
-msgid "Albanian · 89,152 words"
-msgstr "Albanès · 89.152 paraules"
+msgid "75,492 words"
+msgstr "75.492 paraules"
 
 #: languages
-msgid "Serbian · 330,967 words"
-msgstr "Serbi · 330.967 paraules"
+msgid "Icelandic"
+msgstr "Islandès"
 
 #: languages
-msgid "Swedish · 153,998 words"
-msgstr "Suec · 153.998 paraules"
+msgid "74,391 words"
+msgstr "74.391 paraules"
 
 #: languages
-msgid "Tagalog · 30,099 words"
-msgstr "Tagal · 30.099 paraules"
+msgid "Latin"
+msgstr "Llatí"
 
 #: languages
-msgid "Turkish · 305,078 words"
-msgstr "Turc · 305.078 paraules"
+msgid "165,218 words"
+msgstr "165.218 paraules"
 
 #: languages
-msgid "Vietnamese · 35,303 words"
-msgstr "Vietnamita · 35.303 paraules"
+msgid "Lithuanian"
+msgstr "Lituà"
+
+#: languages
+msgid "100,175 words"
+msgstr "100.175 paraules"
+
+#: languages
+msgid "Latvian"
+msgstr "Letó"
+
+#: languages
+msgid "51,479 words"
+msgstr "51.479 paraules"
+
+#: languages
+msgid "Malay"
+msgstr "Malai"
+
+#: languages
+msgid "49,942 words"
+msgstr "49.942 paraules"
+
+#: languages
+msgid "Norwegian"
+msgstr "Noruec"
+
+#: languages
+msgid "140,318 words"
+msgstr "140.318 paraules"
+
+#: languages
+msgid "Dutch"
+msgstr "Neerlandès"
+
+#: languages
+msgid "140,383 words"
+msgstr "140.383 paraules"
+
+#: languages
+msgid "Romanian"
+msgstr "Romanès"
+
+#: languages
+msgid "119,573 words"
+msgstr "119.573 paraules"
+
+#: languages
+msgid "Slovenian"
+msgstr "Eslovè"
+
+#: languages
+msgid "182,841 words"
+msgstr "182.841 paraules"
+
+#: languages
+msgid "Albanian"
+msgstr "Albanès"
+
+#: languages
+msgid "89,152 words"
+msgstr "89.152 paraules"
+
+#: languages
+msgid "Serbian"
+msgstr "Serbi"
+
+#: languages
+msgid "330,967 words"
+msgstr "330.967 paraules"
+
+#: languages
+msgid "Swedish"
+msgstr "Suec"
+
+#: languages
+msgid "153,998 words"
+msgstr "153.998 paraules"
+
+#: languages
+msgid "30,099 words"
+msgstr "30.099 paraules"
+
+#: languages
+msgid "Turkish"
+msgstr "Turc"
+
+#: languages
+msgid "305,078 words"
+msgstr "305.078 paraules"
+
+#: languages
+msgid "Vietnamese"
+msgstr "Vietnamita"
+
+#: languages
+msgid "35,303 words"
+msgstr "35.303 paraules"
 
 #: languages
 msgid ""

@@ -98,6 +98,30 @@ msgid "Copy, paste, undo and select with one swipe."
 msgstr "कॉपी करना, चिपकाना, पूर्ववत करना और चुनना – एक ही स्वाइप से।"
 
 #: index
+msgid "Themes &amp; colours"
+msgstr "थीम और रंग"
+
+#: index
+msgid "Six themes or colours of your own."
+msgstr "छह थीम या आपके अपने रंग।"
+
+#: index
+msgid "Size &amp; layout"
+msgstr "आकार और लेआउट"
+
+#: index
+msgid "Split, one-handed or floating."
+msgstr "स्प्लिट, एक हाथ वाला या फ़्लोटिंग।"
+
+#: index
+msgid "Number pad & calculator"
+msgstr "नंबर पैड और कैलकुलेटर"
+
+#: index
+msgid "Big digits, a calculator and a scientific one."
+msgstr "बड़े अंक, एक कैलकुलेटर और एक वैज्ञानिक कैलकुलेटर।"
+
+#: index
 msgid "Emoji"
 msgstr "इमोजी"
 
@@ -126,30 +150,6 @@ msgid "Your last 30 copied texts at hand."
 msgstr "कॉपी किए गए आख़िरी 30 टेक्स्ट हमेशा हाथ में।"
 
 #: index
-msgid "Number pad & calculator"
-msgstr "नंबर पैड और कैलकुलेटर"
-
-#: index
-msgid "Big digits, a calculator and a scientific one."
-msgstr "बड़े अंक, एक कैलकुलेटर और एक वैज्ञानिक कैलकुलेटर।"
-
-#: index
-msgid "Themes &amp; colours"
-msgstr "थीम और रंग"
-
-#: index
-msgid "Six themes or colours of your own."
-msgstr "छह थीम या आपके अपने रंग।"
-
-#: index
-msgid "Size &amp; layout"
-msgstr "आकार और लेआउट"
-
-#: index
-msgid "Split, one-handed or floating."
-msgstr "स्प्लिट, एक हाथ वाला या फ़्लोटिंग।"
-
-#: index
 msgid "Backup"
 msgstr "बैकअप"
 
@@ -161,10 +161,6 @@ msgstr "सीखे गए शब्द अपने नए फ़ोन मे
 msgid "No internet, no ads, no tracking."
 msgstr "न इंटरनेट, न विज्ञापन, न ट्रैकिंग।"
 
-#: index
-msgid "Glide over the keys like a dragonfly."
-msgstr "कुंजियों के ऊपर ड्रैगनफ़्लाई-सी उड़ान भरें।"
-
 #: index (atribut / attribute)
 msgid "Previous"
 msgstr "पिछला"
@@ -172,6 +168,10 @@ msgstr "पिछला"
 #: index (atribut / attribute)
 msgid "Next"
 msgstr "अगला"
+
+#: index
+msgid "Glide over the keys like a dragonfly."
+msgstr "कुंजियों के ऊपर ड्रैगनफ़्लाई-सी उड़ान भरें।"
 
 #: index
 msgid ""
@@ -205,6 +205,80 @@ msgid ""
 "All gestures with demos and practice are in the app: Settings → Gestures and guide."
 msgstr ""
 "सभी जेस्चर, डेमो और अभ्यास के साथ, ऐप में मौजूद हैं: सेटिंग → जेस्चर और गाइड।"
+
+#: index
+msgid "Light green"
+msgstr "हल्का हरा"
+
+#: index
+msgid "Light"
+msgstr "लाइट"
+
+#: index
+msgid "AMOLED black"
+msgstr "AMOLED काला"
+
+#: index
+msgid "Blue"
+msgstr "नीला"
+
+#: index
+msgid "Orange"
+msgstr "नारंगी"
+
+#: index
+msgid "Purple"
+msgstr "बैंगनी"
+
+#: index
+msgid "Admire its many shimmering colours."
+msgstr "इसके अनगिनत झिलमिलाते रंगों को निहारें।"
+
+#: index
+msgid ""
+"Pick a ready-made theme or set your own colours for the highlight, keys, special keys, background and text. You can also adjust the font size in the suggestion bar, vibration and key sounds."
+msgstr ""
+"कोई तैयार थीम चुनें या हाइलाइट, कुंजियों, खास कुंजियों, बैकग्राउंड और टेक्स्ट के लिए अपने रंग सेट करें। सुझाव बार में फ़ॉन्ट का आकार, वाइब्रेशन और कुंजियों की आवाज़ भी बदल सकते हैं।"
+
+#: index
+msgid "Full"
+msgstr "पूरा"
+
+#: index
+msgid "Taller"
+msgstr "ज़्यादा ऊँचा"
+
+#: index
+msgid "Smaller and lifted"
+msgstr "छोटा और ऊपर उठा"
+
+#: index
+msgid "Tablet"
+msgstr "टैबलेट"
+
+#: index
+msgid "Floating"
+msgstr "फ़्लोटिंग"
+
+#: index
+msgid "Spread your wings, or fold them out of the way."
+msgstr "पंख फैलाएँ, या उन्हें समेट लें ताकि वे रास्ते में न आएँ।"
+
+#: index
+msgid ""
+"Hold the Swajp key and pick Size: drag the handles to change the height, width and position. Make it taller, or smaller and lifted off the bottom edge, split it into two halves for both thumbs (Tablet), move it to the edge for one hand, or let it float freely above apps. In landscape the keyboard is lower and split."
+msgstr ""
+"Swajp कुंजी दबाकर रखें और आकार चुनें: हैंडल खींचकर ऊँचाई, चौड़ाई और जगह बदलें। इसे ज़्यादा ऊँचा करें, या छोटा करके नीचे के किनारे से ऊपर उठाएँ, दोनों अंगूठों के लिए इसे दो हिस्सों में बाँटें (टैबलेट), एक हाथ के लिए इसे किनारे पर ले जाएँ, या इसे ऐप्स के ऊपर आज़ादी से तैरने दें। लैंडस्केप में कीबोर्ड नीचा और स्प्लिट होता है।"
+
+#: index
+msgid "Even sharp minds reach for a calculator."
+msgstr "तेज़ दिमाग़ को भी कैलकुलेटर की ज़रूरत पड़ती है।"
+
+#: index
+msgid ""
+"Hold the [I] key for the number pad: big digits for quick entry of phone numbers and amounts. The calculator counts right in the suggestion bar and inserts the result into the text. It handles percent (200 + 10 % = 220) and brackets, and the scientific mode adds functions, powers, degrees and radians – no switching apps."
+msgstr ""
+"नंबर पैड के लिए [I] कुंजी दबाकर रखें: फ़ोन नंबर और रकम जल्दी डालने के लिए बड़े अंक। कैलकुलेटर सीधे सुझाव बार में हिसाब लगाता है और नतीजा टेक्स्ट में डाल देता है। यह प्रतिशत (200 + 10% = 220) और कोष्ठक संभालता है, और वैज्ञानिक मोड फ़ंक्शन, घात, डिग्री और रेडियन जोड़ता है – ऐप बदले बिना।"
 
 #: index
 msgid "Catch your emotion mid-air."
@@ -251,80 +325,6 @@ msgid ""
 "Hold Enter and pick the clipboard: your last 30 copied texts are always at hand – tap to paste, pin the ones you want to keep. Passwords, codes and text marked as sensitive are never stored, and the history clears itself after the time you choose."
 msgstr ""
 "Enter दबाकर रखें और क्लिपबोर्ड चुनें: कॉपी किए गए आख़िरी 30 टेक्स्ट हमेशा हाथ में – चिपकाने के लिए टैप करें, जिन्हें रखना है उन्हें पिन करें। पासवर्ड, कोड और संवेदनशील के रूप में चिह्नित टेक्स्ट कभी सेव नहीं होते, और इतिहास आपके चुने गए समय के बाद अपने-आप मिट जाता है।"
-
-#: index
-msgid "Even sharp minds reach for a calculator."
-msgstr "तेज़ दिमाग़ को भी कैलकुलेटर की ज़रूरत पड़ती है।"
-
-#: index
-msgid ""
-"Hold the [I] key for the number pad: big digits for quick entry of phone numbers and amounts. The calculator counts right in the suggestion bar and inserts the result into the text. It handles percent (200 + 10 % = 220) and brackets, and the scientific mode adds functions, powers, degrees and radians – no switching apps."
-msgstr ""
-"नंबर पैड के लिए [I] कुंजी दबाकर रखें: फ़ोन नंबर और रकम जल्दी डालने के लिए बड़े अंक। कैलकुलेटर सीधे सुझाव बार में हिसाब लगाता है और नतीजा टेक्स्ट में डाल देता है। यह प्रतिशत (200 + 10% = 220) और कोष्ठक संभालता है, और वैज्ञानिक मोड फ़ंक्शन, घात, डिग्री और रेडियन जोड़ता है – ऐप बदले बिना।"
-
-#: index
-msgid "Shimmering colours, like a dragonfly’s wings."
-msgstr "झिलमिलाते रंग, ड्रैगनफ़्लाई के पंखों जैसे।"
-
-#: index
-msgid ""
-"Pick a ready-made theme or set your own colours for the highlight, keys, special keys, background and text. You can also adjust the font size in the suggestion bar, vibration and key sounds."
-msgstr ""
-"कोई तैयार थीम चुनें या हाइलाइट, कुंजियों, खास कुंजियों, बैकग्राउंड और टेक्स्ट के लिए अपने रंग सेट करें। सुझाव बार में फ़ॉन्ट का आकार, वाइब्रेशन और कुंजियों की आवाज़ भी बदल सकते हैं।"
-
-#: index
-msgid "Light green"
-msgstr "हल्का हरा"
-
-#: index
-msgid "Light"
-msgstr "लाइट"
-
-#: index
-msgid "AMOLED black"
-msgstr "AMOLED काला"
-
-#: index
-msgid "Blue"
-msgstr "नीला"
-
-#: index
-msgid "Orange"
-msgstr "नारंगी"
-
-#: index
-msgid "Purple"
-msgstr "बैंगनी"
-
-#: index
-msgid "Wide wings or narrow – it fits your hand."
-msgstr "चौड़े पंख या पतले – आपके हाथ के हिसाब से ढल जाता है।"
-
-#: index
-msgid ""
-"Hold the Swajp key and pick Size: drag the handles to change the height, width and position. Tablet splits the letters into two halves for both thumbs, Left and Right make it narrower at the edge for one hand, and Floating lets it hover freely above apps. In landscape the keyboard is lower and split."
-msgstr ""
-"Swajp कुंजी दबाकर रखें और आकार चुनें: ऊँचाई, चौड़ाई और जगह बदलने के लिए हैंडल खींचें। टैबलेट अक्षरों को दोनों अंगूठों के लिए दो हिस्सों में बाँट देता है, बायाँ और दायाँ इसे एक हाथ के लिए किनारे की ओर संकरा कर देते हैं, और फ़्लोटिंग में यह ऐप्स के ऊपर आज़ादी से मँडराता है। लैंडस्केप में कीबोर्ड नीचा और बँटा हुआ होता है।"
-
-#: index
-msgid "Full"
-msgstr "पूरा"
-
-#: index
-msgid "Tablet"
-msgstr "टैबलेट"
-
-#: index
-msgid "Left"
-msgstr "बायाँ"
-
-#: index
-msgid "Right"
-msgstr "दायाँ"
-
-#: index
-msgid "Floating"
-msgstr "फ़्लोटिंग"
 
 #: index
 msgid ""
@@ -397,108 +397,204 @@ msgid "Available languages"
 msgstr "उपलब्ध भाषाएँ"
 
 #: languages
-msgid "Catalan · 89,809 words"
-msgstr "कैटलन · 89,809 शब्द"
+msgid "Catalan"
+msgstr "कैटलन"
 
 #: languages
-msgid "Danish · 152,106 words"
-msgstr "डेनिश · 1,52,106 शब्द"
+msgid "89,809 words"
+msgstr "89,809 शब्द"
 
 #: languages
-msgid "Esperanto · 11,343 words"
-msgstr "एस्पेरांतो · 11,343 शब्द"
+msgid "Danish"
+msgstr "डेनिश"
 
 #: languages
-msgid "Estonian · 326,938 words"
-msgstr "एस्टोनियाई · 3,26,938 शब्द"
+msgid "152,106 words"
+msgstr "1,52,106 शब्द"
 
 #: languages
-msgid "Basque · 53,700 words"
-msgstr "बास्क · 53,700 शब्द"
+msgid "11,343 words"
+msgstr "11,343 शब्द"
 
 #: languages
-msgid "Finnish · 197,333 words"
-msgstr "फ़िनिश · 1,97,333 शब्द"
+msgid "Estonian"
+msgstr "एस्टोनियाई"
 
 #: languages
-msgid "Galician · 30,624 words"
-msgstr "गैलिशियन · 30,624 शब्द"
+msgid "326,938 words"
+msgstr "3,26,938 शब्द"
 
 #: languages
-msgid "Hindi (Latin letters or Devanagari) · 52,622 words"
-msgstr "हिन्दी (लैटिन अक्षरों या देवनागरी में) · 52,622 शब्द"
+msgid "Basque"
+msgstr "बास्क"
 
 #: languages
-msgid "Croatian · 191,499 words"
-msgstr "क्रोएशियाई · 1,91,499 शब्द"
+msgid "53,700 words"
+msgstr "53,700 शब्द"
 
 #: languages
-msgid "Hungarian · 380,920 words"
-msgstr "हंगेरियन · 3,80,920 शब्द"
+msgid "Finnish"
+msgstr "फ़िनिश"
 
 #: languages
-msgid "Indonesian · 75,492 words"
-msgstr "इंडोनेशियाई · 75,492 शब्द"
+msgid "197,333 words"
+msgstr "1,97,333 शब्द"
 
 #: languages
-msgid "Icelandic · 74,391 words"
-msgstr "आइसलैंडिक · 74,391 शब्द"
+msgid "Galician"
+msgstr "गैलिशियन"
 
 #: languages
-msgid "Latin · 165,218 words"
-msgstr "लैटिन · 1,65,218 शब्द"
+msgid "30,624 words"
+msgstr "30,624 शब्द"
 
 #: languages
-msgid "Lithuanian · 100,175 words"
-msgstr "लिथुआनियाई · 1,00,175 शब्द"
+msgid "Hindi"
+msgstr "हिन्दी"
 
 #: languages
-msgid "Latvian · 51,479 words"
-msgstr "लातवियाई · 51,479 शब्द"
+msgid "52,622 words"
+msgstr "52,622 शब्द"
 
 #: languages
-msgid "Malay · 49,942 words"
-msgstr "मलय · 49,942 शब्द"
+msgid "Croatian"
+msgstr "क्रोएशियाई"
 
 #: languages
-msgid "Norwegian · 140,318 words"
-msgstr "नॉर्वेजियन · 1,40,318 शब्द"
+msgid "191,499 words"
+msgstr "1,91,499 शब्द"
 
 #: languages
-msgid "Dutch · 140,383 words"
-msgstr "डच · 1,40,383 शब्द"
+msgid "Hungarian"
+msgstr "हंगेरियन"
 
 #: languages
-msgid "Romanian · 119,573 words"
-msgstr "रोमानियाई · 1,19,573 शब्द"
+msgid "380,920 words"
+msgstr "3,80,920 शब्द"
 
 #: languages
-msgid "Slovenian · 182,841 words"
-msgstr "स्लोवेनियाई · 1,82,841 शब्द"
+msgid "Indonesian"
+msgstr "इंडोनेशियाई"
 
 #: languages
-msgid "Albanian · 89,152 words"
-msgstr "अल्बानियाई · 89,152 शब्द"
+msgid "75,492 words"
+msgstr "75,492 शब्द"
 
 #: languages
-msgid "Serbian · 330,967 words"
-msgstr "सर्बियाई · 3,30,967 शब्द"
+msgid "Icelandic"
+msgstr "आइसलैंडिक"
 
 #: languages
-msgid "Swedish · 153,998 words"
-msgstr "स्वीडिश · 1,53,998 शब्द"
+msgid "74,391 words"
+msgstr "74,391 शब्द"
 
 #: languages
-msgid "Tagalog · 30,099 words"
-msgstr "तागालोग · 30,099 शब्द"
+msgid "Latin"
+msgstr "लैटिन"
 
 #: languages
-msgid "Turkish · 305,078 words"
-msgstr "तुर्की · 3,05,078 शब्द"
+msgid "165,218 words"
+msgstr "1,65,218 शब्द"
 
 #: languages
-msgid "Vietnamese · 35,303 words"
-msgstr "वियतनामी · 35,303 शब्द"
+msgid "Lithuanian"
+msgstr "लिथुआनियाई"
+
+#: languages
+msgid "100,175 words"
+msgstr "1,00,175 शब्द"
+
+#: languages
+msgid "Latvian"
+msgstr "लातवियाई"
+
+#: languages
+msgid "51,479 words"
+msgstr "51,479 शब्द"
+
+#: languages
+msgid "Malay"
+msgstr "मलय"
+
+#: languages
+msgid "49,942 words"
+msgstr "49,942 शब्द"
+
+#: languages
+msgid "Norwegian"
+msgstr "नॉर्वेजियन"
+
+#: languages
+msgid "140,318 words"
+msgstr "1,40,318 शब्द"
+
+#: languages
+msgid "Dutch"
+msgstr "डच"
+
+#: languages
+msgid "140,383 words"
+msgstr "1,40,383 शब्द"
+
+#: languages
+msgid "Romanian"
+msgstr "रोमानियाई"
+
+#: languages
+msgid "119,573 words"
+msgstr "1,19,573 शब्द"
+
+#: languages
+msgid "Slovenian"
+msgstr "स्लोवेनियाई"
+
+#: languages
+msgid "182,841 words"
+msgstr "1,82,841 शब्द"
+
+#: languages
+msgid "Albanian"
+msgstr "अल्बानियाई"
+
+#: languages
+msgid "89,152 words"
+msgstr "89,152 शब्द"
+
+#: languages
+msgid "Serbian"
+msgstr "सर्बियाई"
+
+#: languages
+msgid "330,967 words"
+msgstr "3,30,967 शब्द"
+
+#: languages
+msgid "Swedish"
+msgstr "स्वीडिश"
+
+#: languages
+msgid "153,998 words"
+msgstr "1,53,998 शब्द"
+
+#: languages
+msgid "30,099 words"
+msgstr "30,099 शब्द"
+
+#: languages
+msgid "Turkish"
+msgstr "तुर्की"
+
+#: languages
+msgid "305,078 words"
+msgstr "3,05,078 शब्द"
+
+#: languages
+msgid "Vietnamese"
+msgstr "वियतनामी"
+
+#: languages
+msgid "35,303 words"
+msgstr "35,303 शब्द"
 
 #: languages
 msgid ""

@@ -99,6 +99,30 @@ msgid "Copy, paste, undo and select with one swipe."
 msgstr "Másolás, beillesztés, visszavonás és kijelölés egyetlen húzással."
 
 #: index
+msgid "Themes &amp; colours"
+msgstr "Témák és színek"
+
+#: index
+msgid "Six themes or colours of your own."
+msgstr "Hat téma vagy saját színek."
+
+#: index
+msgid "Size &amp; layout"
+msgstr "Méret és elrendezés"
+
+#: index
+msgid "Split, one-handed or floating."
+msgstr "Osztott, egykezes vagy lebegő."
+
+#: index
+msgid "Number pad & calculator"
+msgstr "Számbillentyűzet és számológép"
+
+#: index
+msgid "Big digits, a calculator and a scientific one."
+msgstr "Nagy számjegyek, számológép és tudományos számológép."
+
+#: index
 msgid "Emoji"
 msgstr "Emodzsik"
 
@@ -127,30 +151,6 @@ msgid "Your last 30 copied texts at hand."
 msgstr "Az utolsó 30 másolt szöveged mindig kéznél."
 
 #: index
-msgid "Number pad & calculator"
-msgstr "Számbillentyűzet és számológép"
-
-#: index
-msgid "Big digits, a calculator and a scientific one."
-msgstr "Nagy számjegyek, számológép és tudományos számológép."
-
-#: index
-msgid "Themes &amp; colours"
-msgstr "Témák és színek"
-
-#: index
-msgid "Six themes or colours of your own."
-msgstr "Hat téma vagy saját színek."
-
-#: index
-msgid "Size &amp; layout"
-msgstr "Méret és elrendezés"
-
-#: index
-msgid "Split, one-handed or floating."
-msgstr "Osztott, egykezes vagy lebegő."
-
-#: index
 msgid "Backup"
 msgstr "Biztonsági mentés"
 
@@ -162,10 +162,6 @@ msgstr "Vidd át a megtanult szavaidat az új telefonodra."
 msgid "No internet, no ads, no tracking."
 msgstr "Nincs internet, nincs reklám, nincs követés."
 
-#: index
-msgid "Glide over the keys like a dragonfly."
-msgstr "Suhanj a billentyűk fölött, mint egy szitakötő."
-
 #: index (atribut / attribute)
 msgid "Previous"
 msgstr "Előző"
@@ -173,6 +169,10 @@ msgstr "Előző"
 #: index (atribut / attribute)
 msgid "Next"
 msgstr "Következő"
+
+#: index
+msgid "Glide over the keys like a dragonfly."
+msgstr "Suhanj a billentyűk fölött, mint egy szitakötő."
 
 #: index
 msgid ""
@@ -205,6 +205,80 @@ msgid ""
 "All gestures with demos and practice are in the app: Settings → Gestures and guide."
 msgstr ""
 "Az összes gesztust bemutatóval és gyakorlással az alkalmazásban találod: Beállítások → Gesztusok és útmutató."
+
+#: index
+msgid "Light green"
+msgstr "Világoszöld"
+
+#: index
+msgid "Light"
+msgstr "Világos"
+
+#: index
+msgid "AMOLED black"
+msgstr "AMOLED fekete"
+
+#: index
+msgid "Blue"
+msgstr "Kék"
+
+#: index
+msgid "Orange"
+msgstr "Narancs"
+
+#: index
+msgid "Purple"
+msgstr "Lila"
+
+#: index
+msgid "Admire its many shimmering colours."
+msgstr "Csodáld meg számtalan csillogó színét."
+
+#: index
+msgid ""
+"Pick a ready-made theme or set your own colours for the highlight, keys, special keys, background and text. You can also adjust the font size in the suggestion bar, vibration and key sounds."
+msgstr ""
+"Válassz kész témát, vagy állíts be saját színeket a kiemeléshez, a billentyűkhöz, a speciális billentyűkhöz, a háttérhez és a szöveghez. A javaslatsáv betűmérete, a rezgés és a billentyűhangok is állíthatók."
+
+#: index
+msgid "Full"
+msgstr "Teljes"
+
+#: index
+msgid "Taller"
+msgstr "Magasabb"
+
+#: index
+msgid "Smaller and lifted"
+msgstr "Kisebb és megemelt"
+
+#: index
+msgid "Tablet"
+msgstr "Tablet"
+
+#: index
+msgid "Floating"
+msgstr "Lebegő"
+
+#: index
+msgid "Spread your wings, or fold them out of the way."
+msgstr "Tárd ki a szárnyaid, vagy hajtsd be őket, hogy ne legyenek útban."
+
+#: index
+msgid ""
+"Hold the Swajp key and pick Size: drag the handles to change the height, width and position. Make it taller, or smaller and lifted off the bottom edge, split it into two halves for both thumbs (Tablet), move it to the edge for one hand, or let it float freely above apps. In landscape the keyboard is lower and split."
+msgstr ""
+"Tartsd lenyomva a Swajp billentyűt, és válaszd a Méret lehetőséget: a fogantyúkat húzva módosítod a magasságot, a szélességet és a helyzetet. Tedd magasabbá, vagy kisebbé és az alsó széltől megemeltté, oszd két félre a két hüvelykujjadhoz (Tablet), told a szélére egykezes használathoz, vagy hagyd szabadon lebegni az alkalmazások fölött. Fekvő módban a billentyűzet alacsonyabb és osztott."
+
+#: index
+msgid "Even sharp minds reach for a calculator."
+msgstr "Az éles elmének is jól jön egy számológép."
+
+#: index
+msgid ""
+"Hold the [I] key for the number pad: big digits for quick entry of phone numbers and amounts. The calculator counts right in the suggestion bar and inserts the result into the text. It handles percent (200 + 10 % = 220) and brackets, and the scientific mode adds functions, powers, degrees and radians – no switching apps."
+msgstr ""
+"Tartsd lenyomva az [I] billentyűt a számbillentyűzethez: nagy számjegyek telefonszámok és összegek gyors beírásához. A számológép közvetlenül a javaslatsávban számol, és az eredményt beilleszti a szövegbe. Kezeli a százalékot (200 + 10% = 220) és a zárójeleket, a tudományos mód pedig függvényeket, hatványokat, fokokat és radiánokat is kínál – alkalmazásváltás nélkül."
 
 #: index
 msgid "Catch your emotion mid-air."
@@ -251,80 +325,6 @@ msgid ""
 "Hold Enter and pick the clipboard: your last 30 copied texts are always at hand – tap to paste, pin the ones you want to keep. Passwords, codes and text marked as sensitive are never stored, and the history clears itself after the time you choose."
 msgstr ""
 "Tartsd lenyomva az Entert, és válaszd a vágólapot: az utolsó 30 másolt szöveged mindig kéznél van – koppintással beilleszted, a megtartandókat kitűzöd. Jelszavakat, kódokat és bizalmasként jelölt szöveget soha nem tárol, az előzmények pedig a választott idő után maguktól törlődnek."
-
-#: index
-msgid "Even sharp minds reach for a calculator."
-msgstr "Az éles elmének is jól jön egy számológép."
-
-#: index
-msgid ""
-"Hold the [I] key for the number pad: big digits for quick entry of phone numbers and amounts. The calculator counts right in the suggestion bar and inserts the result into the text. It handles percent (200 + 10 % = 220) and brackets, and the scientific mode adds functions, powers, degrees and radians – no switching apps."
-msgstr ""
-"Tartsd lenyomva az [I] billentyűt a számbillentyűzethez: nagy számjegyek telefonszámok és összegek gyors beírásához. A számológép közvetlenül a javaslatsávban számol, és az eredményt beilleszti a szövegbe. Kezeli a százalékot (200 + 10% = 220) és a zárójeleket, a tudományos mód pedig függvényeket, hatványokat, fokokat és radiánokat is kínál – alkalmazásváltás nélkül."
-
-#: index
-msgid "Shimmering colours, like a dragonfly’s wings."
-msgstr "Csillámló színek, mint a szitakötő szárnya."
-
-#: index
-msgid ""
-"Pick a ready-made theme or set your own colours for the highlight, keys, special keys, background and text. You can also adjust the font size in the suggestion bar, vibration and key sounds."
-msgstr ""
-"Válassz kész témát, vagy állíts be saját színeket a kiemeléshez, a billentyűkhöz, a speciális billentyűkhöz, a háttérhez és a szöveghez. A javaslatsáv betűmérete, a rezgés és a billentyűhangok is állíthatók."
-
-#: index
-msgid "Light green"
-msgstr "Világoszöld"
-
-#: index
-msgid "Light"
-msgstr "Világos"
-
-#: index
-msgid "AMOLED black"
-msgstr "AMOLED fekete"
-
-#: index
-msgid "Blue"
-msgstr "Kék"
-
-#: index
-msgid "Orange"
-msgstr "Narancs"
-
-#: index
-msgid "Purple"
-msgstr "Lila"
-
-#: index
-msgid "Wide wings or narrow – it fits your hand."
-msgstr "Széles szárny vagy keskeny – a kezedhez igazodik."
-
-#: index
-msgid ""
-"Hold the Swajp key and pick Size: drag the handles to change the height, width and position. Tablet splits the letters into two halves for both thumbs, Left and Right make it narrower at the edge for one hand, and Floating lets it hover freely above apps. In landscape the keyboard is lower and split."
-msgstr ""
-"Tartsd lenyomva a Swajp billentyűt, és válaszd a Méret lehetőséget: a fogantyúk húzásával módosíthatod a magasságot, a szélességet és a helyzetet. A Tablet két félre osztja a betűket a két hüvelykujjadnak, a Bal és a Jobb keskenyebbre veszi a szélen az egykezes használathoz, a Lebegő pedig szabadon lebeg az alkalmazások fölött. Fekvő módban a billentyűzet alacsonyabb és osztott."
-
-#: index
-msgid "Full"
-msgstr "Teljes"
-
-#: index
-msgid "Tablet"
-msgstr "Tablet"
-
-#: index
-msgid "Left"
-msgstr "Bal"
-
-#: index
-msgid "Right"
-msgstr "Jobb"
-
-#: index
-msgid "Floating"
-msgstr "Lebegő"
 
 #: index
 msgid ""
@@ -397,108 +397,204 @@ msgid "Available languages"
 msgstr "Elérhető nyelvek"
 
 #: languages
-msgid "Catalan · 89,809 words"
-msgstr "Katalán · 89 809 szó"
+msgid "Catalan"
+msgstr "Katalán"
 
 #: languages
-msgid "Danish · 152,106 words"
-msgstr "Dán · 152 106 szó"
+msgid "89,809 words"
+msgstr "89 809 szó"
 
 #: languages
-msgid "Esperanto · 11,343 words"
-msgstr "Eszperantó · 11 343 szó"
+msgid "Danish"
+msgstr "Dán"
 
 #: languages
-msgid "Estonian · 326,938 words"
-msgstr "Észt · 326 938 szó"
+msgid "152,106 words"
+msgstr "152 106 szó"
 
 #: languages
-msgid "Basque · 53,700 words"
-msgstr "Baszk · 53 700 szó"
+msgid "11,343 words"
+msgstr "11 343 szó"
 
 #: languages
-msgid "Finnish · 197,333 words"
-msgstr "Finn · 197 333 szó"
+msgid "Estonian"
+msgstr "Észt"
 
 #: languages
-msgid "Galician · 30,624 words"
-msgstr "Galiciai · 30 624 szó"
+msgid "326,938 words"
+msgstr "326 938 szó"
 
 #: languages
-msgid "Hindi (Latin letters or Devanagari) · 52,622 words"
-msgstr "Hindi (latin betűk vagy dévanágarí) · 52 622 szó"
+msgid "Basque"
+msgstr "Baszk"
 
 #: languages
-msgid "Croatian · 191,499 words"
-msgstr "Horvát · 191 499 szó"
+msgid "53,700 words"
+msgstr "53 700 szó"
 
 #: languages
-msgid "Hungarian · 380,920 words"
-msgstr "Magyar · 380 920 szó"
+msgid "Finnish"
+msgstr "Finn"
 
 #: languages
-msgid "Indonesian · 75,492 words"
-msgstr "Indonéz · 75 492 szó"
+msgid "197,333 words"
+msgstr "197 333 szó"
 
 #: languages
-msgid "Icelandic · 74,391 words"
-msgstr "Izlandi · 74 391 szó"
+msgid "Galician"
+msgstr "Galiciai"
 
 #: languages
-msgid "Latin · 165,218 words"
-msgstr "Latin · 165 218 szó"
+msgid "30,624 words"
+msgstr "30 624 szó"
 
 #: languages
-msgid "Lithuanian · 100,175 words"
-msgstr "Litván · 100 175 szó"
+msgid "Hindi"
+msgstr "Hindi"
 
 #: languages
-msgid "Latvian · 51,479 words"
-msgstr "Lett · 51 479 szó"
+msgid "52,622 words"
+msgstr "52 622 szó"
 
 #: languages
-msgid "Malay · 49,942 words"
-msgstr "Maláj · 49 942 szó"
+msgid "Croatian"
+msgstr "Horvát"
 
 #: languages
-msgid "Norwegian · 140,318 words"
-msgstr "Norvég · 140 318 szó"
+msgid "191,499 words"
+msgstr "191 499 szó"
 
 #: languages
-msgid "Dutch · 140,383 words"
-msgstr "Holland · 140 383 szó"
+msgid "Hungarian"
+msgstr "Magyar"
 
 #: languages
-msgid "Romanian · 119,573 words"
-msgstr "Román · 119 573 szó"
+msgid "380,920 words"
+msgstr "380 920 szó"
 
 #: languages
-msgid "Slovenian · 182,841 words"
-msgstr "Szlovén · 182 841 szó"
+msgid "Indonesian"
+msgstr "Indonéz"
 
 #: languages
-msgid "Albanian · 89,152 words"
-msgstr "Albán · 89 152 szó"
+msgid "75,492 words"
+msgstr "75 492 szó"
 
 #: languages
-msgid "Serbian · 330,967 words"
-msgstr "Szerb · 330 967 szó"
+msgid "Icelandic"
+msgstr "Izlandi"
 
 #: languages
-msgid "Swedish · 153,998 words"
-msgstr "Svéd · 153 998 szó"
+msgid "74,391 words"
+msgstr "74 391 szó"
 
 #: languages
-msgid "Tagalog · 30,099 words"
-msgstr "Tagalog · 30 099 szó"
+msgid "Latin"
+msgstr "Latin"
 
 #: languages
-msgid "Turkish · 305,078 words"
-msgstr "Török · 305 078 szó"
+msgid "165,218 words"
+msgstr "165 218 szó"
 
 #: languages
-msgid "Vietnamese · 35,303 words"
-msgstr "Vietnámi · 35 303 szó"
+msgid "Lithuanian"
+msgstr "Litván"
+
+#: languages
+msgid "100,175 words"
+msgstr "100 175 szó"
+
+#: languages
+msgid "Latvian"
+msgstr "Lett"
+
+#: languages
+msgid "51,479 words"
+msgstr "51 479 szó"
+
+#: languages
+msgid "Malay"
+msgstr "Maláj"
+
+#: languages
+msgid "49,942 words"
+msgstr "49 942 szó"
+
+#: languages
+msgid "Norwegian"
+msgstr "Norvég"
+
+#: languages
+msgid "140,318 words"
+msgstr "140 318 szó"
+
+#: languages
+msgid "Dutch"
+msgstr "Holland"
+
+#: languages
+msgid "140,383 words"
+msgstr "140 383 szó"
+
+#: languages
+msgid "Romanian"
+msgstr "Román"
+
+#: languages
+msgid "119,573 words"
+msgstr "119 573 szó"
+
+#: languages
+msgid "Slovenian"
+msgstr "Szlovén"
+
+#: languages
+msgid "182,841 words"
+msgstr "182 841 szó"
+
+#: languages
+msgid "Albanian"
+msgstr "Albán"
+
+#: languages
+msgid "89,152 words"
+msgstr "89 152 szó"
+
+#: languages
+msgid "Serbian"
+msgstr "Szerb"
+
+#: languages
+msgid "330,967 words"
+msgstr "330 967 szó"
+
+#: languages
+msgid "Swedish"
+msgstr "Svéd"
+
+#: languages
+msgid "153,998 words"
+msgstr "153 998 szó"
+
+#: languages
+msgid "30,099 words"
+msgstr "30 099 szó"
+
+#: languages
+msgid "Turkish"
+msgstr "Török"
+
+#: languages
+msgid "305,078 words"
+msgstr "305 078 szó"
+
+#: languages
+msgid "Vietnamese"
+msgstr "Vietnámi"
+
+#: languages
+msgid "35,303 words"
+msgstr "35 303 szó"
 
 #: languages
 msgid ""

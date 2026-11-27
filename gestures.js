@@ -60,7 +60,7 @@
   var DRAGON = '<defs><linearGradient id="gkd" gradientUnits="userSpaceOnUse" x1="16" y1="40" x2="68" y2="44"><stop offset="0" stop-color="#9ccc65" stop-opacity="0.15"/><stop offset="1" stop-color="#9ccc65" stop-opacity="1"/></linearGradient></defs><polygon points="15.0,40.3 15.6,42.2 16.2,44.1 16.8,45.9 17.3,47.7 17.9,49.5 18.4,51.1 19.0,52.8 19.6,54.4 20.1,55.9 20.7,57.5 21.2,58.9 21.7,60.3 22.3,61.7 22.8,63.0 23.3,64.3 23.9,65.6 24.4,66.7 24.9,67.9 25.5,69.0 26.0,70.1 26.5,71.1 27.0,72.0 27.5,73.0 28.1,73.8 28.6,74.7 29.1,75.5 29.6,76.2 30.1,76.9 30.7,77.6 31.2,78.2 31.7,78.8 32.3,79.4 32.8,79.9 33.4,80.3 33.9,80.7 34.5,81.1 35.1,81.4 35.7,81.7 36.4,81.9 37.0,82.0 37.7,82.1 38.4,82.2 39.1,82.1 39.7,82.0 40.4,81.8 41.0,81.6 41.7,81.3 42.3,80.9 42.8,80.5 43.4,80.0 44.0,79.5 44.5,79.0 45.0,78.4 45.5,77.8 46.0,77.1 46.5,76.4 47.0,75.6 47.4,74.8 47.9,74.0 48.4,73.1 48.7,72.4 49.1,71.7 49.4,71.0 49.8,70.3 50.1,69.7 50.5,69.0 50.8,68.3 51.2,67.7 51.6,67.1 51.9,66.5 52.3,65.9 52.6,65.3 53.0,64.7 53.4,64.1 53.7,63.5 54.1,63.0 54.4,62.4 54.8,61.9 55.2,61.3 55.5,60.8 55.9,60.3 56.3,59.8 56.6,59.3 57.0,58.8 57.3,58.3 57.7,57.9 58.1,57.4 58.4,57.0 58.8,56.5 59.2,56.1 59.5,55.7 59.9,55.3 60.3,54.9 60.6,54.5 61.0,54.1 61.4,53.7 61.7,53.4 62.1,53.0 62.5,52.7 62.8,52.4 63.2,52.1 63.5,51.7 63.9,51.4 64.3,51.1 64.6,50.9 65.0,50.6 65.3,50.3 65.7,50.1 66.0,49.8 66.4,49.6 66.8,49.4 67.1,49.2 67.5,49.0 67.8,48.8 68.2,48.6 68.5,48.4 68.8,48.2 69.2,48.1 69.5,47.9 69.9,47.7 66.1,40.3 65.7,40.5 65.2,40.8 64.8,41.1 64.3,41.4 63.9,41.7 63.4,42.0 63.0,42.3 62.6,42.6 62.1,42.9 61.7,43.3 61.3,43.6 60.9,44.0 60.5,44.4 60.0,44.7 59.6,45.1 59.2,45.5 58.8,45.9 58.4,46.3 58.0,46.8 57.6,47.2 57.2,47.6 56.8,48.1 56.5,48.5 56.1,49.0 55.7,49.4 55.3,49.9 54.9,50.4 54.6,50.9 54.2,51.4 53.8,51.9 53.5,52.4 53.1,52.9 52.7,53.5 52.4,54.0 52.0,54.6 51.7,55.1 51.3,55.7 50.9,56.3 50.6,56.8 50.2,57.4 49.9,58.0 49.6,58.6 49.2,59.2 48.9,59.9 48.5,60.5 48.2,61.1 47.9,61.8 47.5,62.4 47.2,63.1 46.9,63.8 46.5,64.4 46.2,65.1 45.9,65.8 45.6,66.5 45.2,67.2 44.9,68.0 44.6,68.7 44.3,69.4 43.9,70.2 43.6,70.9 43.3,71.7 42.9,72.5 42.6,73.2 42.2,73.8 41.9,74.4 41.6,74.9 41.2,75.4 40.9,75.9 40.6,76.3 40.3,76.6 39.9,76.9 39.7,77.2 39.4,77.4 39.1,77.6 38.9,77.7 38.6,77.8 38.4,77.9 38.1,77.9 37.9,78.0 37.6,78.0 37.3,77.9 37.0,77.9 36.7,77.8 36.4,77.6 36.0,77.4 35.6,77.2 35.2,76.9 34.7,76.6 34.3,76.2 33.8,75.8 33.3,75.3 32.9,74.7 32.4,74.2 31.9,73.5 31.3,72.8 30.8,72.1 30.3,71.3 29.8,70.4 29.2,69.6 28.7,68.6 28.1,67.6 27.6,66.6 27.0,65.5 26.5,64.4 25.9,63.2 25.3,61.9 24.8,60.7 24.2,59.3 23.6,58.0 23.0,56.5 22.4,55.1 21.8,53.6 21.2,52.0 20.6,50.4 20.0,48.7 19.4,47.0 18.8,45.3 18.2,43.5 17.6,41.6 17.0,39.7" fill="url(#gkd)"/><g transform="translate(37.8 75.7) rotate(40.7) scale(1.0)"><g transform="scale(-1 1)"><path d="M0.0,-33.0 C12.0,-16.9 36.5,-13.7 42.3,-24.0 C40.0,-29.9 15.6,-33.7 0.0,-33.0Z" fill="#9ccc6540" stroke="#9ccc65" stroke-width="1.116" stroke-linejoin="round"/><path d="M4.23,-32.10 L35.50,-23.42" stroke="#9ccc65" stroke-width="0.7812" opacity=".7"/><path d="M34.13,-27.37 L39.21,-26.29" stroke="#9ccc65" stroke-width="1.7856000000000003" stroke-opacity=".55" stroke-linecap="round"/></g><path d="M0.0,-33.0 C12.0,-16.9 36.5,-13.7 42.3,-24.0 C40.0,-29.9 15.6,-33.7 0.0,-33.0Z" fill="#9ccc6540" stroke="#9ccc65" stroke-width="1.116" stroke-linejoin="round"/><path d="M4.23,-32.10 L35.50,-23.42" stroke="#9ccc65" stroke-width="0.7812" opacity=".7"/><path d="M34.13,-27.37 L39.21,-26.29" stroke="#9ccc65" stroke-width="1.7856000000000003" stroke-opacity=".55" stroke-linecap="round"/><g transform="scale(-1 1)"><path d="M0.0,-29.0 C16.3,-20.4 37.5,-27.6 38.0,-38.5 C33.8,-42.5 12.4,-35.9 0.0,-29.0Z" fill="#9ccc6540" stroke="#9ccc65" stroke-width="1.116" stroke-linejoin="round"/><path d="M3.80,-29.95 L32.73,-35.26" stroke="#9ccc65" stroke-width="0.7812" opacity=".7"/><path d="M30.03,-38.01 L34.59,-39.14" stroke="#9ccc65" stroke-width="1.7856000000000003" stroke-opacity=".55" stroke-linecap="round"/></g><path d="M0.0,-29.0 C16.3,-20.4 37.5,-27.6 38.0,-38.5 C33.8,-42.5 12.4,-35.9 0.0,-29.0Z" fill="#9ccc6540" stroke="#9ccc65" stroke-width="1.116" stroke-linejoin="round"/><path d="M3.80,-29.95 L32.73,-35.26" stroke="#9ccc65" stroke-width="0.7812" opacity=".7"/><path d="M30.03,-38.01 L34.59,-39.14" stroke="#9ccc65" stroke-width="1.7856000000000003" stroke-opacity=".55" stroke-linecap="round"/></g><circle cx="68" cy="44" r="6.5" fill="#9ccc65"/>';
 
   // ------------------------------------------------------------ přehrávač
-  function Demo(box, slides, rows) {
+  function Demo(box, slides, rows, auto) {
     var self = this;
     var FY = -36, FH = 26, BY = -8.6, BH = 7; // pole s textem, lišta
     var svg = document.createElementNS(NS, 'svg');
@@ -283,7 +283,7 @@
         }
         apply(op, now); idx++;
       }
-      if (idx >= s.length) { if (!endAt) endAt = now; if (now - endAt > 2200) reset(); }
+      if (idx >= s.length) { if (!endAt) endAt = now; if (now - endAt > (auto ? 900 : 2200)) { if (auto) go(cur + 1); else reset(); } }
     }
     function apply(op, now) {
       switch (op[0]) {
@@ -332,6 +332,8 @@
       cur = (i + slides.length) % slides.length;
       if (titleEl) titleEl.textContent = slides[cur].t; if (descEl) descEl.textContent = slides[cur].d;
       [].forEach.call(dots.children, function (b, j) { b.className = j === cur ? 'on' : ''; });
+      caption(box, cur);
+      var v = slides[cur].vars; if (v) for (var q in v) box.style.setProperty(q, v[q]);
       reset();
     }
     box.querySelector('.gprev').onclick = function () { go(cur - 1); };
@@ -486,11 +488,100 @@
         return a;
       })()}
   ];
+
+  // ------------------------------------------------------------ motivy (barvy jako předvolby v aplikaci: pozadí, klávesy, speciální, písmo, zvýraznění)
+  function caption(box, i) {
+    var c = box.querySelector('.gcap'), n = box.querySelectorAll('.gnames li');
+    if (c && n[i]) c.textContent = n[i].textContent;
+  }
+  function hx(c) { return [parseInt(c.slice(1, 3), 16), parseInt(c.slice(3, 5), 16), parseInt(c.slice(5, 7), 16)]; }
+  function mix(a, b, t) { a = hx(a); b = hx(b); return 'rgb(' + [0, 1, 2].map(function (i) { return Math.round(a[i] * (1 - t) + b[i] * t); }).join(',') + ')'; }
+  function themeVars(bg, key, sp, tx, ac) {
+    return {background: bg, 'border-color': mix(bg, tx, 0.12), '--dk-g': ac, '--dk-key': key, '--dk-spec': sp, '--dk-tx': tx, '--dk-mut': mix(key, tx, 0.55),
+      '--dk-field': mix(bg, tx, 0.07), '--dk-bar': mix(bg, tx, 0.3), '--dk-pop': mix(key, tx, 0.12), '--dk-op': mix(bg, ac, 0.28), '--dk-hl': mix(key, ac, 0.45),
+      '--dk-sel': mix(bg, ac, 0.4), '--dk-finger': tx};
+  }
+  var PRESETS = [['#1B1C1F', '#3A3C42', '#2A2C31', '#F2F3F5', '#9CCC65'], ['#E8EFE3', '#FFFFFF', '#D3DDCB', '#1D261B', '#7CB342'],
+    ['#000000', '#1C1C1E', '#111113', '#F2F3F5', '#9CCC65'], ['#17181B', '#34363C', '#25272B', '#F2F3F5', '#4FC3F7'],
+    ['#0F0F10', '#2B2B2E', '#1D1D20', '#F2F3F5', '#F5A623'], ['#1A1724', '#353047', '#26222F', '#F1EEF8', '#B39DDB']];
+  // slovo v textu, cesta tahu (bez diakritiky), lišta
+  var TWORDS = en ? [['green', 'green', ['green', 'greed', 'greet']], ['light', 'light', ['light', 'lights', 'fight']], ['black', 'black', ['black', 'back', 'blank']],
+      ['blue', 'blue', ['blue', 'blur', 'clue']], ['orange', 'orange', ['orange', 'oranges', 'range']], ['purple', 'purple', ['purple', 'purpose', 'puzzle']]]
+    : [['zelená', 'zelena', ['zelená', 'zelený', 'zelené']], ['světlá', 'svetla', ['světlá', 'světla', 'světlý']], ['černá', 'cerna', ['černá', 'černý', 'cena']],
+      ['modrá', 'modra', ['modrá', 'modrý', 'moudrá']], ['oranžová', 'oranzova', ['oranžová', 'oranžový', 'oranžové']], ['fialová', 'fialova', ['fialová', 'fialový', 'fialky']]];
+  var THEMES = PRESETS.map(function (c, i) {
+    var w = TWORDS[i];
+    return {vars: themeVars.apply(null, c), s: cat([['T', ''], ['B', null], ['W', 300]], swipe(w[1], 280), [['T', w[0] + ' '], ['B', w[2]], ['W', 1300]])};
+  });
+
+  // ------------------------------------------------------------ velikost a rozložení: telefon s náčrtem klávesnice, velikosti se samy střídají
+  function SizeDemo(box) {
+    var svg = document.createElementNS(NS, 'svg');
+    svg.setAttribute('viewBox', '17 0 66 64'); svg.setAttribute('class', 'gsvg gsize');
+    box.querySelector('.gview').appendChild(svg);
+    function el(n, a, p) { var e = document.createElementNS(NS, n); for (var q in a) setA(e, q, a[q]); (p || svg).appendChild(e); return e; }
+    var PX = 33, PY = 1, PW = 34, PH = 62, SX = PX + 1.6, SY = PY + 4, SW = PW - 3.2, SH = PH - 7;
+    el('rect', {x: PX, y: PY, width: PW, height: PH, rx: 4.5, fill: 'none', stroke: 'var(--dk-mut)', 'stroke-width': 0.6});
+    el('rect', {x: SX, y: SY, width: SW, height: SH, rx: 1.5, fill: 'var(--dk-field)'});
+    el('rect', {x: 46, y: PY + 1.6, width: 8, height: 1, rx: 0.5, fill: 'var(--dk-mut)'});
+    [[3, 20], [7, 26], [11, 16], [15, 23]].forEach(function (l) { el('rect', {x: SX + 2.5, y: SY + l[0], width: l[1], height: 1.2, rx: 0.6, fill: 'var(--dk-mut)', opacity: 0.45}); });
+    var g = el('g', {});
+    // rozložení: x, y, šířka, výška (vůči obrazovce 0–1), mezera uprostřed, úchyt nahoře
+    var L5 = [{x: 0, y: 0.56, w: 1, h: 0.44, gap: 0, hd: 0}, {x: 0, y: 0.4, w: 1, h: 0.6, gap: 0, hd: 1}, {x: 0.12, y: 0.5, w: 0.76, h: 0.36, gap: 0, hd: 1},
+      {x: 0, y: 0.56, w: 1, h: 0.44, gap: 0.22, hd: 0}, {x: 0.08, y: 0.22, w: 0.84, h: 0.36, gap: 0, hd: 2}];
+    var cur = 0, from = L5[0], t0 = performance.now(), MOVE = 700, HOLD = 1900, raf;
+    function lerp(a, b, f) { var o = {}; for (var q in a) o[q] = a[q] + (b[q] - a[q]) * f; return o; }
+    function draw(l, hd) {
+      while (g.firstChild) g.removeChild(g.firstChild);
+      var x = SX + l.x * SW, y = SY + l.y * SH, w = l.w * SW, h = l.h * SH;
+      el('rect', {x: x, y: y, width: w, height: h, rx: 1, fill: 'var(--dk-kbg)'}, g);
+      var bar = h * 0.14, rh = (h - bar - 0.6) / 4, gw = l.gap * w, pad = 0.35;
+      el('rect', {x: x + w * 0.08, y: y + bar * 0.4, width: w * 0.18, height: bar * 0.3, rx: 0.3, fill: 'var(--dk-g)', opacity: 0.8}, g);
+      function row(r, n, off, fills) {
+        var ky = y + bar + r * rh + pad, half = (w - gw) / 2, kw = (w - gw - off * 2) / n;
+        for (var i = 0; i < n; i++) {
+          var kx = x + off + i * kw + (gw && x + off + i * kw + kw / 2 > x + half ? gw : 0);
+          el('rect', {x: kx + pad, y: ky, width: Math.max(0.3, kw - pad * 2), height: rh - pad * 2, rx: 0.5, fill: (fills && fills[i]) || 'var(--dk-key)'}, g);
+        }
+      }
+      row(0, 10, 0); row(1, 9, (w - gw) / 20); row(2, 9, 0, {0: 'var(--dk-spec)', 8: 'var(--dk-spec)'});
+      row(3, 5, 0, {0: 'var(--dk-spec)', 1: 'var(--dk-spec)', 4: 'var(--dk-g)'});
+      if (hd === 1) [x + w / 2].forEach(function (hx2) { el('rect', {x: hx2 - 3, y: y - 0.6, width: 6, height: 1.2, rx: 0.6, fill: 'var(--dk-g)'}, g); });
+      if (hd === 2) el('rect', {x: x + w / 2 - 4, y: y - 2.2, width: 8, height: 1.3, rx: 0.65, fill: 'var(--dk-mut)'}, g);
+    }
+    function frame(now) {
+      var e = now - t0, f = Math.min(1, e / MOVE), k = f * f * (3 - 2 * f), to = L5[cur];
+      draw(lerp(from, to, k), f >= 1 ? to.hd : 0);
+      if (e > MOVE + HOLD) go(cur + 1, true);
+      raf = requestAnimationFrame(frame);
+    }
+    var dots = box.querySelector('.gdots');
+    L5.forEach(function (_, i) { var b = document.createElement('button'); b.setAttribute('aria-label', (i + 1) + ''); b.onclick = function () { go(i); }; dots.appendChild(b); });
+    function go(i, keep) {
+      var nl = (i + L5.length) % L5.length;
+      from = keep ? L5[cur] : lerp(from, L5[cur], Math.min(1, (performance.now() - t0) / MOVE));
+      cur = nl; t0 = performance.now();
+      [].forEach.call(dots.children, function (b, j) { b.className = j === cur ? 'on' : ''; });
+      caption(box, cur);
+    }
+    box.querySelector('.gprev').onclick = function () { go(cur - 1); };
+    box.querySelector('.gnext').onclick = function () { go(cur + 1); };
+    caption(box, 0); dots.children[0].className = 'on';
+    var vis = true;
+    if ('IntersectionObserver' in window) new IntersectionObserver(function (es) {
+      var v = es[0].isIntersecting;
+      if (v && !vis) { vis = true; t0 = performance.now(); raf = requestAnimationFrame(frame); } else if (!v) { vis = false; cancelAnimationFrame(raf); }
+    }).observe(box);
+    raf = requestAnimationFrame(frame);
+  }
+
   var GROUPS = {swipe: [GEST[0], GEST[1], GEST[2], GEST[9]], predict: PRED,
     edit: [GEST[3], GEST[4], GEST[5], GEST[6], GEST[7], GEST[8], GEST[11], GEST[12], GEST[13]],
-    emoji: [GEST[10]], langs: LANG, voice: VOICE, clip: CLIP, calc: CALC};
+    emoji: [GEST[10]], themes: THEMES, langs: LANG, voice: VOICE, clip: CLIP, calc: CALC};
   [].forEach.call(document.querySelectorAll('.gdemo[data-demo]'), function (b) {
     var g = GROUPS[b.getAttribute('data-demo')];
-    if (g) new Demo(b, g, b.getAttribute('data-demo') === 'calc' ? 5 : 4);
+    var d = b.getAttribute('data-demo');
+    if (d === 'size') { new SizeDemo(b); return; }
+    if (g) new Demo(b, g, d === 'calc' ? 5 : 4, d === 'themes');
   });
 })();

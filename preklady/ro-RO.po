@@ -98,6 +98,30 @@ msgid "Copy, paste, undo and select with one swipe."
 msgstr "Copiezi, lipești, anulezi și selectezi dintr-o glisare."
 
 #: index
+msgid "Themes &amp; colours"
+msgstr "Teme și culori"
+
+#: index
+msgid "Six themes or colours of your own."
+msgstr "Șase teme sau culorile tale."
+
+#: index
+msgid "Size &amp; layout"
+msgstr "Mărime și aspect"
+
+#: index
+msgid "Split, one-handed or floating."
+msgstr "Împărțită, pentru o mână sau plutitoare."
+
+#: index
+msgid "Number pad & calculator"
+msgstr "Tastatură numerică și calculator"
+
+#: index
+msgid "Big digits, a calculator and a scientific one."
+msgstr "Cifre mari, un calculator și unul științific."
+
+#: index
 msgid "Emoji"
 msgstr "Emoji"
 
@@ -126,30 +150,6 @@ msgid "Your last 30 copied texts at hand."
 msgstr "Ultimele 30 de texte copiate la îndemână."
 
 #: index
-msgid "Number pad & calculator"
-msgstr "Tastatură numerică și calculator"
-
-#: index
-msgid "Big digits, a calculator and a scientific one."
-msgstr "Cifre mari, un calculator și unul științific."
-
-#: index
-msgid "Themes &amp; colours"
-msgstr "Teme și culori"
-
-#: index
-msgid "Six themes or colours of your own."
-msgstr "Șase teme sau culorile tale."
-
-#: index
-msgid "Size &amp; layout"
-msgstr "Mărime și aspect"
-
-#: index
-msgid "Split, one-handed or floating."
-msgstr "Împărțită, pentru o mână sau plutitoare."
-
-#: index
 msgid "Backup"
 msgstr "Copie de rezervă"
 
@@ -161,10 +161,6 @@ msgstr "Îți iei cuvintele învățate pe noul telefon."
 msgid "No internet, no ads, no tracking."
 msgstr "Fără internet, fără reclame, fără urmărire."
 
-#: index
-msgid "Glide over the keys like a dragonfly."
-msgstr "Plutește peste taste ca o libelulă."
-
 #: index (atribut / attribute)
 msgid "Previous"
 msgstr "Anterior"
@@ -172,6 +168,10 @@ msgstr "Anterior"
 #: index (atribut / attribute)
 msgid "Next"
 msgstr "Următor"
+
+#: index
+msgid "Glide over the keys like a dragonfly."
+msgstr "Plutește peste taste ca o libelulă."
 
 #: index
 msgid ""
@@ -204,6 +204,80 @@ msgid ""
 "All gestures with demos and practice are in the app: Settings → Gestures and guide."
 msgstr ""
 "Toate gesturile, cu demonstrații și exersare, sunt în aplicație: Setări → Gesturi și ghid."
+
+#: index
+msgid "Light green"
+msgstr "Verde deschis"
+
+#: index
+msgid "Light"
+msgstr "Luminoasă"
+
+#: index
+msgid "AMOLED black"
+msgstr "Neagră AMOLED"
+
+#: index
+msgid "Blue"
+msgstr "Albastră"
+
+#: index
+msgid "Orange"
+msgstr "Portocalie"
+
+#: index
+msgid "Purple"
+msgstr "Mov"
+
+#: index
+msgid "Admire its many shimmering colours."
+msgstr "Admiră-i multele culori sclipitoare."
+
+#: index
+msgid ""
+"Pick a ready-made theme or set your own colours for the highlight, keys, special keys, background and text. You can also adjust the font size in the suggestion bar, vibration and key sounds."
+msgstr ""
+"Alege o temă gata făcută sau setează-ți propriile culori pentru evidențiere, taste, taste speciale, fundal și text. Poți ajusta și mărimea fontului din bara de sugestii, vibrația și sunetele tastelor."
+
+#: index
+msgid "Full"
+msgstr "Completă"
+
+#: index
+msgid "Taller"
+msgstr "Mai înaltă"
+
+#: index
+msgid "Smaller and lifted"
+msgstr "Mai mică și ridicată"
+
+#: index
+msgid "Tablet"
+msgstr "Tabletă"
+
+#: index
+msgid "Floating"
+msgstr "Plutitoare"
+
+#: index
+msgid "Spread your wings, or fold them out of the way."
+msgstr "Desfă-ți aripile sau strânge-le, ca să nu încurce."
+
+#: index
+msgid ""
+"Hold the Swajp key and pick Size: drag the handles to change the height, width and position. Make it taller, or smaller and lifted off the bottom edge, split it into two halves for both thumbs (Tablet), move it to the edge for one hand, or let it float freely above apps. In landscape the keyboard is lower and split."
+msgstr ""
+"Ține apăsată tasta Swajp și alege Mărime: trage de mânere pentru a schimba înălțimea, lățimea și poziția. Fă-o mai înaltă sau mai mică și ridicată de la marginea de jos, împarte-o în două jumătăți pentru ambele degete mari (Tabletă), mut-o la margine pentru o singură mână sau las-o să plutească liber deasupra aplicațiilor. În modul peisaj, tastatura este mai joasă și împărțită."
+
+#: index
+msgid "Even sharp minds reach for a calculator."
+msgstr "Și mințile ascuțite apelează la un calculator."
+
+#: index
+msgid ""
+"Hold the [I] key for the number pad: big digits for quick entry of phone numbers and amounts. The calculator counts right in the suggestion bar and inserts the result into the text. It handles percent (200 + 10 % = 220) and brackets, and the scientific mode adds functions, powers, degrees and radians – no switching apps."
+msgstr ""
+"Ține apăsată tasta [I] pentru tastatura numerică: cifre mari pentru introducerea rapidă a numerelor de telefon și a sumelor. Calculatorul socotește direct în bara de sugestii și inserează rezultatul în text. Știe procente (200 + 10% = 220) și paranteze, iar modul științific adaugă funcții, puteri, grade și radiani – fără să schimbi aplicația."
 
 #: index
 msgid "Catch your emotion mid-air."
@@ -250,80 +324,6 @@ msgid ""
 "Hold Enter and pick the clipboard: your last 30 copied texts are always at hand – tap to paste, pin the ones you want to keep. Passwords, codes and text marked as sensitive are never stored, and the history clears itself after the time you choose."
 msgstr ""
 "Ține apăsat Enter și alege clipboardul: ultimele 30 de texte copiate sunt mereu la îndemână – atinge ca să lipești, fixează-le pe cele pe care vrei să le păstrezi. Parolele, codurile și textul marcat ca sensibil nu sunt salvate niciodată, iar istoricul se șterge singur după intervalul ales."
-
-#: index
-msgid "Even sharp minds reach for a calculator."
-msgstr "Și mințile ascuțite apelează la un calculator."
-
-#: index
-msgid ""
-"Hold the [I] key for the number pad: big digits for quick entry of phone numbers and amounts. The calculator counts right in the suggestion bar and inserts the result into the text. It handles percent (200 + 10 % = 220) and brackets, and the scientific mode adds functions, powers, degrees and radians – no switching apps."
-msgstr ""
-"Ține apăsată tasta [I] pentru tastatura numerică: cifre mari pentru introducerea rapidă a numerelor de telefon și a sumelor. Calculatorul socotește direct în bara de sugestii și inserează rezultatul în text. Știe procente (200 + 10% = 220) și paranteze, iar modul științific adaugă funcții, puteri, grade și radiani – fără să schimbi aplicația."
-
-#: index
-msgid "Shimmering colours, like a dragonfly’s wings."
-msgstr "Culori sclipitoare, ca aripile unei libelule."
-
-#: index
-msgid ""
-"Pick a ready-made theme or set your own colours for the highlight, keys, special keys, background and text. You can also adjust the font size in the suggestion bar, vibration and key sounds."
-msgstr ""
-"Alege o temă gata făcută sau setează-ți propriile culori pentru evidențiere, taste, taste speciale, fundal și text. Poți ajusta și mărimea fontului din bara de sugestii, vibrația și sunetele tastelor."
-
-#: index
-msgid "Light green"
-msgstr "Verde deschis"
-
-#: index
-msgid "Light"
-msgstr "Luminoasă"
-
-#: index
-msgid "AMOLED black"
-msgstr "Neagră AMOLED"
-
-#: index
-msgid "Blue"
-msgstr "Albastră"
-
-#: index
-msgid "Orange"
-msgstr "Portocalie"
-
-#: index
-msgid "Purple"
-msgstr "Mov"
-
-#: index
-msgid "Wide wings or narrow – it fits your hand."
-msgstr "Aripi largi sau înguste – se potrivește mâinii tale."
-
-#: index
-msgid ""
-"Hold the Swajp key and pick Size: drag the handles to change the height, width and position. Tablet splits the letters into two halves for both thumbs, Left and Right make it narrower at the edge for one hand, and Floating lets it hover freely above apps. In landscape the keyboard is lower and split."
-msgstr ""
-"Ține apăsată tasta Swajp și alege Mărime: trage de mânere ca să schimbi înălțimea, lățimea și poziția. Tabletă împarte literele în două jumătăți pentru ambele degete mari, Stânga și Dreapta o îngustează spre margine pentru o singură mână, iar Plutitoare o lasă să plutească liber deasupra aplicațiilor. În modul peisaj, tastatura e mai joasă și împărțită."
-
-#: index
-msgid "Full"
-msgstr "Completă"
-
-#: index
-msgid "Tablet"
-msgstr "Tabletă"
-
-#: index
-msgid "Left"
-msgstr "Stânga"
-
-#: index
-msgid "Right"
-msgstr "Dreapta"
-
-#: index
-msgid "Floating"
-msgstr "Plutitoare"
 
 #: index
 msgid ""
@@ -395,108 +395,204 @@ msgid "Available languages"
 msgstr "Limbi disponibile"
 
 #: languages
-msgid "Catalan · 89,809 words"
-msgstr "Catalană · 89.809 cuvinte"
+msgid "Catalan"
+msgstr "Catalană"
 
 #: languages
-msgid "Danish · 152,106 words"
-msgstr "Daneză · 152.106 cuvinte"
+msgid "89,809 words"
+msgstr "89.809 cuvinte"
 
 #: languages
-msgid "Esperanto · 11,343 words"
-msgstr "Esperanto · 11.343 de cuvinte"
+msgid "Danish"
+msgstr "Daneză"
 
 #: languages
-msgid "Estonian · 326,938 words"
-msgstr "Estonă · 326.938 de cuvinte"
+msgid "152,106 words"
+msgstr "152.106 cuvinte"
 
 #: languages
-msgid "Basque · 53,700 words"
-msgstr "Bască · 53.700 de cuvinte"
+msgid "11,343 words"
+msgstr "11.343 de cuvinte"
 
 #: languages
-msgid "Finnish · 197,333 words"
-msgstr "Finlandeză · 197.333 de cuvinte"
+msgid "Estonian"
+msgstr "Estonă"
 
 #: languages
-msgid "Galician · 30,624 words"
-msgstr "Galiciană · 30.624 de cuvinte"
+msgid "326,938 words"
+msgstr "326.938 de cuvinte"
 
 #: languages
-msgid "Hindi (Latin letters or Devanagari) · 52,622 words"
-msgstr "Hindi (litere latine sau devanagari) · 52.622 de cuvinte"
+msgid "Basque"
+msgstr "Bască"
 
 #: languages
-msgid "Croatian · 191,499 words"
-msgstr "Croată · 191.499 de cuvinte"
+msgid "53,700 words"
+msgstr "53.700 de cuvinte"
 
 #: languages
-msgid "Hungarian · 380,920 words"
-msgstr "Maghiară · 380.920 de cuvinte"
+msgid "Finnish"
+msgstr "Finlandeză"
 
 #: languages
-msgid "Indonesian · 75,492 words"
-msgstr "Indoneziană · 75.492 de cuvinte"
+msgid "197,333 words"
+msgstr "197.333 de cuvinte"
 
 #: languages
-msgid "Icelandic · 74,391 words"
-msgstr "Islandeză · 74.391 de cuvinte"
+msgid "Galician"
+msgstr "Galiciană"
 
 #: languages
-msgid "Latin · 165,218 words"
-msgstr "Latină · 165.218 cuvinte"
+msgid "30,624 words"
+msgstr "30.624 de cuvinte"
 
 #: languages
-msgid "Lithuanian · 100,175 words"
-msgstr "Lituaniană · 100.175 de cuvinte"
+msgid "Hindi"
+msgstr "Hindi"
 
 #: languages
-msgid "Latvian · 51,479 words"
-msgstr "Letonă · 51.479 de cuvinte"
+msgid "52,622 words"
+msgstr "52.622 de cuvinte"
 
 #: languages
-msgid "Malay · 49,942 words"
-msgstr "Malaieză · 49.942 de cuvinte"
+msgid "Croatian"
+msgstr "Croată"
 
 #: languages
-msgid "Norwegian · 140,318 words"
-msgstr "Norvegiană · 140.318 cuvinte"
+msgid "191,499 words"
+msgstr "191.499 de cuvinte"
 
 #: languages
-msgid "Dutch · 140,383 words"
-msgstr "Neerlandeză · 140.383 de cuvinte"
+msgid "Hungarian"
+msgstr "Maghiară"
 
 #: languages
-msgid "Romanian · 119,573 words"
-msgstr "Română · 119.573 de cuvinte"
+msgid "380,920 words"
+msgstr "380.920 de cuvinte"
 
 #: languages
-msgid "Slovenian · 182,841 words"
-msgstr "Slovenă · 182.841 de cuvinte"
+msgid "Indonesian"
+msgstr "Indoneziană"
 
 #: languages
-msgid "Albanian · 89,152 words"
-msgstr "Albaneză · 89.152 de cuvinte"
+msgid "75,492 words"
+msgstr "75.492 de cuvinte"
 
 #: languages
-msgid "Serbian · 330,967 words"
-msgstr "Sârbă · 330.967 de cuvinte"
+msgid "Icelandic"
+msgstr "Islandeză"
 
 #: languages
-msgid "Swedish · 153,998 words"
-msgstr "Suedeză · 153.998 de cuvinte"
+msgid "74,391 words"
+msgstr "74.391 de cuvinte"
 
 #: languages
-msgid "Tagalog · 30,099 words"
-msgstr "Tagalog · 30.099 de cuvinte"
+msgid "Latin"
+msgstr "Latină"
 
 #: languages
-msgid "Turkish · 305,078 words"
-msgstr "Turcă · 305.078 de cuvinte"
+msgid "165,218 words"
+msgstr "165.218 cuvinte"
 
 #: languages
-msgid "Vietnamese · 35,303 words"
-msgstr "Vietnameză · 35.303 de cuvinte"
+msgid "Lithuanian"
+msgstr "Lituaniană"
+
+#: languages
+msgid "100,175 words"
+msgstr "100.175 de cuvinte"
+
+#: languages
+msgid "Latvian"
+msgstr "Letonă"
+
+#: languages
+msgid "51,479 words"
+msgstr "51.479 de cuvinte"
+
+#: languages
+msgid "Malay"
+msgstr "Malaieză"
+
+#: languages
+msgid "49,942 words"
+msgstr "49.942 de cuvinte"
+
+#: languages
+msgid "Norwegian"
+msgstr "Norvegiană"
+
+#: languages
+msgid "140,318 words"
+msgstr "140.318 cuvinte"
+
+#: languages
+msgid "Dutch"
+msgstr "Neerlandeză"
+
+#: languages
+msgid "140,383 words"
+msgstr "140.383 de cuvinte"
+
+#: languages
+msgid "Romanian"
+msgstr "Română"
+
+#: languages
+msgid "119,573 words"
+msgstr "119.573 de cuvinte"
+
+#: languages
+msgid "Slovenian"
+msgstr "Slovenă"
+
+#: languages
+msgid "182,841 words"
+msgstr "182.841 de cuvinte"
+
+#: languages
+msgid "Albanian"
+msgstr "Albaneză"
+
+#: languages
+msgid "89,152 words"
+msgstr "89.152 de cuvinte"
+
+#: languages
+msgid "Serbian"
+msgstr "Sârbă"
+
+#: languages
+msgid "330,967 words"
+msgstr "330.967 de cuvinte"
+
+#: languages
+msgid "Swedish"
+msgstr "Suedeză"
+
+#: languages
+msgid "153,998 words"
+msgstr "153.998 de cuvinte"
+
+#: languages
+msgid "30,099 words"
+msgstr "30.099 de cuvinte"
+
+#: languages
+msgid "Turkish"
+msgstr "Turcă"
+
+#: languages
+msgid "305,078 words"
+msgstr "305.078 de cuvinte"
+
+#: languages
+msgid "Vietnamese"
+msgstr "Vietnameză"
+
+#: languages
+msgid "35,303 words"
+msgstr "35.303 de cuvinte"
 
 #: languages
 msgid ""

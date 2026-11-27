@@ -98,6 +98,30 @@ msgid "Copy, paste, undo and select with one swipe."
 msgstr "Kopiëren, plakken, ongedaan maken en selecteren met één veeg."
 
 #: index
+msgid "Themes &amp; colours"
+msgstr "Thema’s &amp; kleuren"
+
+#: index
+msgid "Six themes or colours of your own."
+msgstr "Zes thema’s of je eigen kleuren."
+
+#: index
+msgid "Size &amp; layout"
+msgstr "Grootte &amp; indeling"
+
+#: index
+msgid "Split, one-handed or floating."
+msgstr "Gesplitst, voor één hand of zwevend."
+
+#: index
+msgid "Number pad & calculator"
+msgstr "Cijferblok en rekenmachine"
+
+#: index
+msgid "Big digits, a calculator and a scientific one."
+msgstr "Grote cijfers, een rekenmachine en een wetenschappelijke."
+
+#: index
 msgid "Emoji"
 msgstr "Emoji"
 
@@ -126,30 +150,6 @@ msgid "Your last 30 copied texts at hand."
 msgstr "Je laatste 30 gekopieerde teksten bij de hand."
 
 #: index
-msgid "Number pad & calculator"
-msgstr "Cijferblok en rekenmachine"
-
-#: index
-msgid "Big digits, a calculator and a scientific one."
-msgstr "Grote cijfers, een rekenmachine en een wetenschappelijke."
-
-#: index
-msgid "Themes &amp; colours"
-msgstr "Thema’s &amp; kleuren"
-
-#: index
-msgid "Six themes or colours of your own."
-msgstr "Zes thema’s of je eigen kleuren."
-
-#: index
-msgid "Size &amp; layout"
-msgstr "Grootte &amp; indeling"
-
-#: index
-msgid "Split, one-handed or floating."
-msgstr "Gesplitst, voor één hand of zwevend."
-
-#: index
 msgid "Backup"
 msgstr "Back-up"
 
@@ -161,10 +161,6 @@ msgstr "Neem je geleerde woorden mee naar je nieuwe telefoon."
 msgid "No internet, no ads, no tracking."
 msgstr "Geen internet, geen advertenties, geen tracking."
 
-#: index
-msgid "Glide over the keys like a dragonfly."
-msgstr "Zweef over de toetsen als een libel."
-
 #: index (atribut / attribute)
 msgid "Previous"
 msgstr "Vorige"
@@ -172,6 +168,10 @@ msgstr "Vorige"
 #: index (atribut / attribute)
 msgid "Next"
 msgstr "Volgende"
+
+#: index
+msgid "Glide over the keys like a dragonfly."
+msgstr "Zweef over de toetsen als een libel."
 
 #: index
 msgid ""
@@ -204,6 +204,80 @@ msgid ""
 "All gestures with demos and practice are in the app: Settings → Gestures and guide."
 msgstr ""
 "Alle gebaren met demo’s en oefeningen vind je in de app: Instellingen → Gebaren en gids."
+
+#: index
+msgid "Light green"
+msgstr "Lichtgroen"
+
+#: index
+msgid "Light"
+msgstr "Licht"
+
+#: index
+msgid "AMOLED black"
+msgstr "AMOLED-zwart"
+
+#: index
+msgid "Blue"
+msgstr "Blauw"
+
+#: index
+msgid "Orange"
+msgstr "Oranje"
+
+#: index
+msgid "Purple"
+msgstr "Paars"
+
+#: index
+msgid "Admire its many shimmering colours."
+msgstr "Bewonder zijn vele schitterende kleuren."
+
+#: index
+msgid ""
+"Pick a ready-made theme or set your own colours for the highlight, keys, special keys, background and text. You can also adjust the font size in the suggestion bar, vibration and key sounds."
+msgstr ""
+"Kies een kant-en-klaar thema of stel je eigen kleuren in voor de markering, toetsen, speciale toetsen, achtergrond en tekst. Ook de lettergrootte in de suggestiebalk, het trillen en de toetsgeluiden kun je aanpassen."
+
+#: index
+msgid "Full"
+msgstr "Volledig"
+
+#: index
+msgid "Taller"
+msgstr "Hoger"
+
+#: index
+msgid "Smaller and lifted"
+msgstr "Kleiner en opgetild"
+
+#: index
+msgid "Tablet"
+msgstr "Tablet"
+
+#: index
+msgid "Floating"
+msgstr "Zwevend"
+
+#: index
+msgid "Spread your wings, or fold them out of the way."
+msgstr "Spreid je vleugels, of vouw ze weg."
+
+#: index
+msgid ""
+"Hold the Swajp key and pick Size: drag the handles to change the height, width and position. Make it taller, or smaller and lifted off the bottom edge, split it into two halves for both thumbs (Tablet), move it to the edge for one hand, or let it float freely above apps. In landscape the keyboard is lower and split."
+msgstr ""
+"Houd de Swajp-toets vast en kies Grootte: sleep aan de grepen om hoogte, breedte en positie te wijzigen. Maak het hoger, of kleiner en opgetild van de onderrand, splits het in twee helften voor beide duimen (Tablet), schuif het naar de rand voor één hand, of laat het vrij boven apps zweven. In liggende stand is het toetsenbord lager en gesplitst."
+
+#: index
+msgid "Even sharp minds reach for a calculator."
+msgstr "Ook een scherpe geest grijpt weleens naar de rekenmachine."
+
+#: index
+msgid ""
+"Hold the [I] key for the number pad: big digits for quick entry of phone numbers and amounts. The calculator counts right in the suggestion bar and inserts the result into the text. It handles percent (200 + 10 % = 220) and brackets, and the scientific mode adds functions, powers, degrees and radians – no switching apps."
+msgstr ""
+"Houd de toets [I] vast voor het cijferblok: grote cijfers om snel telefoonnummers en bedragen in te voeren. De rekenmachine rekent direct in de suggestiebalk en voegt de uitkomst in de tekst in. Hij kan overweg met procenten (200 + 10% = 220) en haakjes, en de wetenschappelijke modus voegt functies, machten, graden en radialen toe – zonder van app te wisselen."
 
 #: index
 msgid "Catch your emotion mid-air."
@@ -250,80 +324,6 @@ msgid ""
 "Hold Enter and pick the clipboard: your last 30 copied texts are always at hand – tap to paste, pin the ones you want to keep. Passwords, codes and text marked as sensitive are never stored, and the history clears itself after the time you choose."
 msgstr ""
 "Houd Enter vast en kies het klembord: je laatste 30 gekopieerde teksten altijd bij de hand – tik om te plakken, zet vast wat je wilt bewaren. Wachtwoorden, codes en als gevoelig gemarkeerde tekst worden nooit opgeslagen, en de geschiedenis wist zichzelf na de tijd die je kiest."
-
-#: index
-msgid "Even sharp minds reach for a calculator."
-msgstr "Ook een scherpe geest grijpt weleens naar de rekenmachine."
-
-#: index
-msgid ""
-"Hold the [I] key for the number pad: big digits for quick entry of phone numbers and amounts. The calculator counts right in the suggestion bar and inserts the result into the text. It handles percent (200 + 10 % = 220) and brackets, and the scientific mode adds functions, powers, degrees and radians – no switching apps."
-msgstr ""
-"Houd de toets [I] vast voor het cijferblok: grote cijfers om snel telefoonnummers en bedragen in te voeren. De rekenmachine rekent direct in de suggestiebalk en voegt de uitkomst in de tekst in. Hij kan overweg met procenten (200 + 10% = 220) en haakjes, en de wetenschappelijke modus voegt functies, machten, graden en radialen toe – zonder van app te wisselen."
-
-#: index
-msgid "Shimmering colours, like a dragonfly’s wings."
-msgstr "Schitterende kleuren, als de vleugels van een libel."
-
-#: index
-msgid ""
-"Pick a ready-made theme or set your own colours for the highlight, keys, special keys, background and text. You can also adjust the font size in the suggestion bar, vibration and key sounds."
-msgstr ""
-"Kies een kant-en-klaar thema of stel je eigen kleuren in voor de markering, toetsen, speciale toetsen, achtergrond en tekst. Ook de lettergrootte in de suggestiebalk, het trillen en de toetsgeluiden kun je aanpassen."
-
-#: index
-msgid "Light green"
-msgstr "Lichtgroen"
-
-#: index
-msgid "Light"
-msgstr "Licht"
-
-#: index
-msgid "AMOLED black"
-msgstr "AMOLED-zwart"
-
-#: index
-msgid "Blue"
-msgstr "Blauw"
-
-#: index
-msgid "Orange"
-msgstr "Oranje"
-
-#: index
-msgid "Purple"
-msgstr "Paars"
-
-#: index
-msgid "Wide wings or narrow – it fits your hand."
-msgstr "Brede vleugels of smalle – het past zich aan je hand aan."
-
-#: index
-msgid ""
-"Hold the Swajp key and pick Size: drag the handles to change the height, width and position. Tablet splits the letters into two halves for both thumbs, Left and Right make it narrower at the edge for one hand, and Floating lets it hover freely above apps. In landscape the keyboard is lower and split."
-msgstr ""
-"Houd de Swajp-toets vast en kies Grootte: sleep aan de grepen om de hoogte, breedte en positie te wijzigen. Tablet splitst de letters in twee helften voor beide duimen, Links en Rechts maken het smaller aan de rand voor één hand, en Zwevend laat het vrij boven apps zweven. In liggende stand is het toetsenbord lager en gesplitst."
-
-#: index
-msgid "Full"
-msgstr "Volledig"
-
-#: index
-msgid "Tablet"
-msgstr "Tablet"
-
-#: index
-msgid "Left"
-msgstr "Links"
-
-#: index
-msgid "Right"
-msgstr "Rechts"
-
-#: index
-msgid "Floating"
-msgstr "Zwevend"
 
 #: index
 msgid ""
@@ -396,108 +396,204 @@ msgid "Available languages"
 msgstr "Beschikbare talen"
 
 #: languages
-msgid "Catalan · 89,809 words"
-msgstr "Catalaans · 89.809 woorden"
+msgid "Catalan"
+msgstr "Catalaans"
 
 #: languages
-msgid "Danish · 152,106 words"
-msgstr "Deens · 152.106 woorden"
+msgid "89,809 words"
+msgstr "89.809 woorden"
 
 #: languages
-msgid "Esperanto · 11,343 words"
-msgstr "Esperanto · 11.343 woorden"
+msgid "Danish"
+msgstr "Deens"
 
 #: languages
-msgid "Estonian · 326,938 words"
-msgstr "Estisch · 326.938 woorden"
+msgid "152,106 words"
+msgstr "152.106 woorden"
 
 #: languages
-msgid "Basque · 53,700 words"
-msgstr "Baskisch · 53.700 woorden"
+msgid "11,343 words"
+msgstr "11.343 woorden"
 
 #: languages
-msgid "Finnish · 197,333 words"
-msgstr "Fins · 197.333 woorden"
+msgid "Estonian"
+msgstr "Estisch"
 
 #: languages
-msgid "Galician · 30,624 words"
-msgstr "Galicisch · 30.624 woorden"
+msgid "326,938 words"
+msgstr "326.938 woorden"
 
 #: languages
-msgid "Hindi (Latin letters or Devanagari) · 52,622 words"
-msgstr "Hindi (Latijnse letters of Devanagari) · 52.622 woorden"
+msgid "Basque"
+msgstr "Baskisch"
 
 #: languages
-msgid "Croatian · 191,499 words"
-msgstr "Kroatisch · 191.499 woorden"
+msgid "53,700 words"
+msgstr "53.700 woorden"
 
 #: languages
-msgid "Hungarian · 380,920 words"
-msgstr "Hongaars · 380.920 woorden"
+msgid "Finnish"
+msgstr "Fins"
 
 #: languages
-msgid "Indonesian · 75,492 words"
-msgstr "Indonesisch · 75.492 woorden"
+msgid "197,333 words"
+msgstr "197.333 woorden"
 
 #: languages
-msgid "Icelandic · 74,391 words"
-msgstr "IJslands · 74.391 woorden"
+msgid "Galician"
+msgstr "Galicisch"
 
 #: languages
-msgid "Latin · 165,218 words"
-msgstr "Latijn · 165.218 woorden"
+msgid "30,624 words"
+msgstr "30.624 woorden"
 
 #: languages
-msgid "Lithuanian · 100,175 words"
-msgstr "Litouws · 100.175 woorden"
+msgid "Hindi"
+msgstr "Hindi"
 
 #: languages
-msgid "Latvian · 51,479 words"
-msgstr "Lets · 51.479 woorden"
+msgid "52,622 words"
+msgstr "52.622 woorden"
 
 #: languages
-msgid "Malay · 49,942 words"
-msgstr "Maleis · 49.942 woorden"
+msgid "Croatian"
+msgstr "Kroatisch"
 
 #: languages
-msgid "Norwegian · 140,318 words"
-msgstr "Noors · 140.318 woorden"
+msgid "191,499 words"
+msgstr "191.499 woorden"
 
 #: languages
-msgid "Dutch · 140,383 words"
-msgstr "Nederlands · 140.383 woorden"
+msgid "Hungarian"
+msgstr "Hongaars"
 
 #: languages
-msgid "Romanian · 119,573 words"
-msgstr "Roemeens · 119.573 woorden"
+msgid "380,920 words"
+msgstr "380.920 woorden"
 
 #: languages
-msgid "Slovenian · 182,841 words"
-msgstr "Sloveens · 182.841 woorden"
+msgid "Indonesian"
+msgstr "Indonesisch"
 
 #: languages
-msgid "Albanian · 89,152 words"
-msgstr "Albanees · 89.152 woorden"
+msgid "75,492 words"
+msgstr "75.492 woorden"
 
 #: languages
-msgid "Serbian · 330,967 words"
-msgstr "Servisch · 330.967 woorden"
+msgid "Icelandic"
+msgstr "IJslands"
 
 #: languages
-msgid "Swedish · 153,998 words"
-msgstr "Zweeds · 153.998 woorden"
+msgid "74,391 words"
+msgstr "74.391 woorden"
 
 #: languages
-msgid "Tagalog · 30,099 words"
-msgstr "Tagalog · 30.099 woorden"
+msgid "Latin"
+msgstr "Latijn"
 
 #: languages
-msgid "Turkish · 305,078 words"
-msgstr "Turks · 305.078 woorden"
+msgid "165,218 words"
+msgstr "165.218 woorden"
 
 #: languages
-msgid "Vietnamese · 35,303 words"
-msgstr "Vietnamees · 35.303 woorden"
+msgid "Lithuanian"
+msgstr "Litouws"
+
+#: languages
+msgid "100,175 words"
+msgstr "100.175 woorden"
+
+#: languages
+msgid "Latvian"
+msgstr "Lets"
+
+#: languages
+msgid "51,479 words"
+msgstr "51.479 woorden"
+
+#: languages
+msgid "Malay"
+msgstr "Maleis"
+
+#: languages
+msgid "49,942 words"
+msgstr "49.942 woorden"
+
+#: languages
+msgid "Norwegian"
+msgstr "Noors"
+
+#: languages
+msgid "140,318 words"
+msgstr "140.318 woorden"
+
+#: languages
+msgid "Dutch"
+msgstr "Nederlands"
+
+#: languages
+msgid "140,383 words"
+msgstr "140.383 woorden"
+
+#: languages
+msgid "Romanian"
+msgstr "Roemeens"
+
+#: languages
+msgid "119,573 words"
+msgstr "119.573 woorden"
+
+#: languages
+msgid "Slovenian"
+msgstr "Sloveens"
+
+#: languages
+msgid "182,841 words"
+msgstr "182.841 woorden"
+
+#: languages
+msgid "Albanian"
+msgstr "Albanees"
+
+#: languages
+msgid "89,152 words"
+msgstr "89.152 woorden"
+
+#: languages
+msgid "Serbian"
+msgstr "Servisch"
+
+#: languages
+msgid "330,967 words"
+msgstr "330.967 woorden"
+
+#: languages
+msgid "Swedish"
+msgstr "Zweeds"
+
+#: languages
+msgid "153,998 words"
+msgstr "153.998 woorden"
+
+#: languages
+msgid "30,099 words"
+msgstr "30.099 woorden"
+
+#: languages
+msgid "Turkish"
+msgstr "Turks"
+
+#: languages
+msgid "305,078 words"
+msgstr "305.078 woorden"
+
+#: languages
+msgid "Vietnamese"
+msgstr "Vietnamees"
+
+#: languages
+msgid "35,303 words"
+msgstr "35.303 woorden"
 
 #: languages
 msgid ""

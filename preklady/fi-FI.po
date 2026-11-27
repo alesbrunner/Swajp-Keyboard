@@ -98,6 +98,30 @@ msgid "Copy, paste, undo and select with one swipe."
 msgstr "Kopioi, liitä, kumoa ja valitse yhdellä pyyhkäisyllä."
 
 #: index
+msgid "Themes &amp; colours"
+msgstr "Teemat ja värit"
+
+#: index
+msgid "Six themes or colours of your own."
+msgstr "Kuusi teemaa tai omat värisi."
+
+#: index
+msgid "Size &amp; layout"
+msgstr "Koko ja asettelu"
+
+#: index
+msgid "Split, one-handed or floating."
+msgstr "Jaettu, yhden käden tai kelluva."
+
+#: index
+msgid "Number pad & calculator"
+msgstr "Numeronäppäimistö ja laskin"
+
+#: index
+msgid "Big digits, a calculator and a scientific one."
+msgstr "Isot numerot, laskin ja tieteellinen laskin."
+
+#: index
 msgid "Emoji"
 msgstr "Emojit"
 
@@ -126,30 +150,6 @@ msgid "Your last 30 copied texts at hand."
 msgstr "Viimeiset 30 kopioitua tekstiä käden ulottuvilla."
 
 #: index
-msgid "Number pad & calculator"
-msgstr "Numeronäppäimistö ja laskin"
-
-#: index
-msgid "Big digits, a calculator and a scientific one."
-msgstr "Isot numerot, laskin ja tieteellinen laskin."
-
-#: index
-msgid "Themes &amp; colours"
-msgstr "Teemat ja värit"
-
-#: index
-msgid "Six themes or colours of your own."
-msgstr "Kuusi teemaa tai omat värisi."
-
-#: index
-msgid "Size &amp; layout"
-msgstr "Koko ja asettelu"
-
-#: index
-msgid "Split, one-handed or floating."
-msgstr "Jaettu, yhden käden tai kelluva."
-
-#: index
 msgid "Backup"
 msgstr "Varmuuskopio"
 
@@ -161,10 +161,6 @@ msgstr "Vie opitut sanasi uuteen puhelimeesi."
 msgid "No internet, no ads, no tracking."
 msgstr "Ei internetiä, ei mainoksia, ei seurantaa."
 
-#: index
-msgid "Glide over the keys like a dragonfly."
-msgstr "Liu’u näppäinten yli kuin sudenkorento."
-
 #: index (atribut / attribute)
 msgid "Previous"
 msgstr "Edellinen"
@@ -172,6 +168,10 @@ msgstr "Edellinen"
 #: index (atribut / attribute)
 msgid "Next"
 msgstr "Seuraava"
+
+#: index
+msgid "Glide over the keys like a dragonfly."
+msgstr "Liu’u näppäinten yli kuin sudenkorento."
 
 #: index
 msgid ""
@@ -204,6 +204,80 @@ msgid ""
 "All gestures with demos and practice are in the app: Settings → Gestures and guide."
 msgstr ""
 "Kaikki eleet esittelyineen ja harjoituksineen löydät sovelluksesta: Asetukset → Eleet ja opas."
+
+#: index
+msgid "Light green"
+msgstr "Vaaleanvihreä"
+
+#: index
+msgid "Light"
+msgstr "Vaalea"
+
+#: index
+msgid "AMOLED black"
+msgstr "AMOLED-musta"
+
+#: index
+msgid "Blue"
+msgstr "Sininen"
+
+#: index
+msgid "Orange"
+msgstr "Oranssi"
+
+#: index
+msgid "Purple"
+msgstr "Violetti"
+
+#: index
+msgid "Admire its many shimmering colours."
+msgstr "Ihaile sen monia hohtavia värejä."
+
+#: index
+msgid ""
+"Pick a ready-made theme or set your own colours for the highlight, keys, special keys, background and text. You can also adjust the font size in the suggestion bar, vibration and key sounds."
+msgstr ""
+"Valitse valmis teema tai määritä omat värit korostukselle, näppäimille, erikoisnäppäimille, taustalle ja tekstille. Voit myös säätää ehdotuspalkin fonttikokoa, värinää ja näppäinääniä."
+
+#: index
+msgid "Full"
+msgstr "Täysi"
+
+#: index
+msgid "Taller"
+msgstr "Korkeampi"
+
+#: index
+msgid "Smaller and lifted"
+msgstr "Pienempi ja nostettu"
+
+#: index
+msgid "Tablet"
+msgstr "Tabletti"
+
+#: index
+msgid "Floating"
+msgstr "Kelluva"
+
+#: index
+msgid "Spread your wings, or fold them out of the way."
+msgstr "Levitä siipesi tai taita ne pois tieltä."
+
+#: index
+msgid ""
+"Hold the Swajp key and pick Size: drag the handles to change the height, width and position. Make it taller, or smaller and lifted off the bottom edge, split it into two halves for both thumbs (Tablet), move it to the edge for one hand, or let it float freely above apps. In landscape the keyboard is lower and split."
+msgstr ""
+"Pidä Swajp-näppäintä painettuna ja valitse Koko: kahvoista vetämällä muutat korkeutta, leveyttä ja sijaintia. Tee siitä korkeampi tai pienempi ja nosta se irti alareunasta, jaa se kahteen puolikkaaseen molemmille peukaloille (Tabletti), siirrä se reunaan yhdelle kädelle tai anna sen kellua vapaasti sovellusten päällä. Vaakatilassa näppäimistö on matalampi ja jaettu."
+
+#: index
+msgid "Even sharp minds reach for a calculator."
+msgstr "Terävätkin päät tarttuvat laskimeen."
+
+#: index
+msgid ""
+"Hold the [I] key for the number pad: big digits for quick entry of phone numbers and amounts. The calculator counts right in the suggestion bar and inserts the result into the text. It handles percent (200 + 10 % = 220) and brackets, and the scientific mode adds functions, powers, degrees and radians – no switching apps."
+msgstr ""
+"Pidä [I]-näppäintä painettuna, niin saat numeronäppäimistön: isot numerot puhelinnumeroiden ja summien nopeaan syöttämiseen. Laskin laskee suoraan ehdotuspalkissa ja lisää tuloksen tekstiin. Se osaa prosentit (200 + 10 % = 220) ja sulkeet, ja tieteellinen tila tuo mukaan funktiot, potenssit, asteet ja radiaanit – ilman sovelluksen vaihtamista."
 
 #: index
 msgid "Catch your emotion mid-air."
@@ -250,80 +324,6 @@ msgid ""
 "Hold Enter and pick the clipboard: your last 30 copied texts are always at hand – tap to paste, pin the ones you want to keep. Passwords, codes and text marked as sensitive are never stored, and the history clears itself after the time you choose."
 msgstr ""
 "Pidä Enteriä painettuna ja valitse leikepöytä: 30 viimeksi kopioimaasi tekstiä on aina käden ulottuvilla – napauta liittääksesi ja kiinnitä ne, jotka haluat säilyttää. Salasanoja, koodeja ja arkaluonteiseksi merkittyä tekstiä ei koskaan tallenneta, ja historia tyhjenee itsestään valitsemasi ajan kuluttua."
-
-#: index
-msgid "Even sharp minds reach for a calculator."
-msgstr "Terävätkin päät tarttuvat laskimeen."
-
-#: index
-msgid ""
-"Hold the [I] key for the number pad: big digits for quick entry of phone numbers and amounts. The calculator counts right in the suggestion bar and inserts the result into the text. It handles percent (200 + 10 % = 220) and brackets, and the scientific mode adds functions, powers, degrees and radians – no switching apps."
-msgstr ""
-"Pidä [I]-näppäintä painettuna, niin saat numeronäppäimistön: isot numerot puhelinnumeroiden ja summien nopeaan syöttämiseen. Laskin laskee suoraan ehdotuspalkissa ja lisää tuloksen tekstiin. Se osaa prosentit (200 + 10 % = 220) ja sulkeet, ja tieteellinen tila tuo mukaan funktiot, potenssit, asteet ja radiaanit – ilman sovelluksen vaihtamista."
-
-#: index
-msgid "Shimmering colours, like a dragonfly’s wings."
-msgstr "Hohtavat värit kuin sudenkorennon siivet."
-
-#: index
-msgid ""
-"Pick a ready-made theme or set your own colours for the highlight, keys, special keys, background and text. You can also adjust the font size in the suggestion bar, vibration and key sounds."
-msgstr ""
-"Valitse valmis teema tai määritä omat värit korostukselle, näppäimille, erikoisnäppäimille, taustalle ja tekstille. Voit myös säätää ehdotuspalkin fonttikokoa, värinää ja näppäinääniä."
-
-#: index
-msgid "Light green"
-msgstr "Vaaleanvihreä"
-
-#: index
-msgid "Light"
-msgstr "Vaalea"
-
-#: index
-msgid "AMOLED black"
-msgstr "AMOLED-musta"
-
-#: index
-msgid "Blue"
-msgstr "Sininen"
-
-#: index
-msgid "Orange"
-msgstr "Oranssi"
-
-#: index
-msgid "Purple"
-msgstr "Violetti"
-
-#: index
-msgid "Wide wings or narrow – it fits your hand."
-msgstr "Leveät siivet tai kapeat – se mukautuu käteesi."
-
-#: index
-msgid ""
-"Hold the Swajp key and pick Size: drag the handles to change the height, width and position. Tablet splits the letters into two halves for both thumbs, Left and Right make it narrower at the edge for one hand, and Floating lets it hover freely above apps. In landscape the keyboard is lower and split."
-msgstr ""
-"Pidä Swajp-näppäintä painettuna ja valitse Koko: vedä kahvoista muuttaaksesi korkeutta, leveyttä ja sijaintia. Tabletti jakaa kirjaimet kahteen puolikkaaseen molemmille peukaloille, Vasen ja Oikea kaventavat sen reunaan yhdelle kädelle, ja Kelluva antaa sen leijua vapaasti sovellusten päällä. Vaakatilassa näppäimistö on matalampi ja jaettu."
-
-#: index
-msgid "Full"
-msgstr "Täysi"
-
-#: index
-msgid "Tablet"
-msgstr "Tabletti"
-
-#: index
-msgid "Left"
-msgstr "Vasen"
-
-#: index
-msgid "Right"
-msgstr "Oikea"
-
-#: index
-msgid "Floating"
-msgstr "Kelluva"
 
 #: index
 msgid ""
@@ -395,108 +395,204 @@ msgid "Available languages"
 msgstr "Saatavilla olevat kielet"
 
 #: languages
-msgid "Catalan · 89,809 words"
-msgstr "Katalaani · 89 809 sanaa"
+msgid "Catalan"
+msgstr "Katalaani"
 
 #: languages
-msgid "Danish · 152,106 words"
-msgstr "Tanska · 152 106 sanaa"
+msgid "89,809 words"
+msgstr "89 809 sanaa"
 
 #: languages
-msgid "Esperanto · 11,343 words"
-msgstr "Esperanto · 11 343 sanaa"
+msgid "Danish"
+msgstr "Tanska"
 
 #: languages
-msgid "Estonian · 326,938 words"
-msgstr "Viro · 326 938 sanaa"
+msgid "152,106 words"
+msgstr "152 106 sanaa"
 
 #: languages
-msgid "Basque · 53,700 words"
-msgstr "Baski · 53 700 sanaa"
+msgid "11,343 words"
+msgstr "11 343 sanaa"
 
 #: languages
-msgid "Finnish · 197,333 words"
-msgstr "Suomi · 197 333 sanaa"
+msgid "Estonian"
+msgstr "Viro"
 
 #: languages
-msgid "Galician · 30,624 words"
-msgstr "Galicia · 30 624 sanaa"
+msgid "326,938 words"
+msgstr "326 938 sanaa"
 
 #: languages
-msgid "Hindi (Latin letters or Devanagari) · 52,622 words"
-msgstr "Hindi (latinalaiset kirjaimet tai devanagari) · 52 622 sanaa"
+msgid "Basque"
+msgstr "Baski"
 
 #: languages
-msgid "Croatian · 191,499 words"
-msgstr "Kroatia · 191 499 sanaa"
+msgid "53,700 words"
+msgstr "53 700 sanaa"
 
 #: languages
-msgid "Hungarian · 380,920 words"
-msgstr "Unkari · 380 920 sanaa"
+msgid "Finnish"
+msgstr "Suomi"
 
 #: languages
-msgid "Indonesian · 75,492 words"
-msgstr "Indonesia · 75 492 sanaa"
+msgid "197,333 words"
+msgstr "197 333 sanaa"
 
 #: languages
-msgid "Icelandic · 74,391 words"
-msgstr "Islanti · 74 391 sanaa"
+msgid "Galician"
+msgstr "Galicia"
 
 #: languages
-msgid "Latin · 165,218 words"
-msgstr "Latina · 165 218 sanaa"
+msgid "30,624 words"
+msgstr "30 624 sanaa"
 
 #: languages
-msgid "Lithuanian · 100,175 words"
-msgstr "Liettua · 100 175 sanaa"
+msgid "Hindi"
+msgstr "Hindi"
 
 #: languages
-msgid "Latvian · 51,479 words"
-msgstr "Latvia · 51 479 sanaa"
+msgid "52,622 words"
+msgstr "52 622 sanaa"
 
 #: languages
-msgid "Malay · 49,942 words"
-msgstr "Malaiji · 49 942 sanaa"
+msgid "Croatian"
+msgstr "Kroatia"
 
 #: languages
-msgid "Norwegian · 140,318 words"
-msgstr "Norja · 140 318 sanaa"
+msgid "191,499 words"
+msgstr "191 499 sanaa"
 
 #: languages
-msgid "Dutch · 140,383 words"
-msgstr "Hollanti · 140 383 sanaa"
+msgid "Hungarian"
+msgstr "Unkari"
 
 #: languages
-msgid "Romanian · 119,573 words"
-msgstr "Romania · 119 573 sanaa"
+msgid "380,920 words"
+msgstr "380 920 sanaa"
 
 #: languages
-msgid "Slovenian · 182,841 words"
-msgstr "Sloveeni · 182 841 sanaa"
+msgid "Indonesian"
+msgstr "Indonesia"
 
 #: languages
-msgid "Albanian · 89,152 words"
-msgstr "Albania · 89 152 sanaa"
+msgid "75,492 words"
+msgstr "75 492 sanaa"
 
 #: languages
-msgid "Serbian · 330,967 words"
-msgstr "Serbia · 330 967 sanaa"
+msgid "Icelandic"
+msgstr "Islanti"
 
 #: languages
-msgid "Swedish · 153,998 words"
-msgstr "Ruotsi · 153 998 sanaa"
+msgid "74,391 words"
+msgstr "74 391 sanaa"
 
 #: languages
-msgid "Tagalog · 30,099 words"
-msgstr "Tagalog · 30 099 sanaa"
+msgid "Latin"
+msgstr "Latina"
 
 #: languages
-msgid "Turkish · 305,078 words"
-msgstr "Turkki · 305 078 sanaa"
+msgid "165,218 words"
+msgstr "165 218 sanaa"
 
 #: languages
-msgid "Vietnamese · 35,303 words"
-msgstr "Vietnam · 35 303 sanaa"
+msgid "Lithuanian"
+msgstr "Liettua"
+
+#: languages
+msgid "100,175 words"
+msgstr "100 175 sanaa"
+
+#: languages
+msgid "Latvian"
+msgstr "Latvia"
+
+#: languages
+msgid "51,479 words"
+msgstr "51 479 sanaa"
+
+#: languages
+msgid "Malay"
+msgstr "Malaiji"
+
+#: languages
+msgid "49,942 words"
+msgstr "49 942 sanaa"
+
+#: languages
+msgid "Norwegian"
+msgstr "Norja"
+
+#: languages
+msgid "140,318 words"
+msgstr "140 318 sanaa"
+
+#: languages
+msgid "Dutch"
+msgstr "Hollanti"
+
+#: languages
+msgid "140,383 words"
+msgstr "140 383 sanaa"
+
+#: languages
+msgid "Romanian"
+msgstr "Romania"
+
+#: languages
+msgid "119,573 words"
+msgstr "119 573 sanaa"
+
+#: languages
+msgid "Slovenian"
+msgstr "Sloveeni"
+
+#: languages
+msgid "182,841 words"
+msgstr "182 841 sanaa"
+
+#: languages
+msgid "Albanian"
+msgstr "Albania"
+
+#: languages
+msgid "89,152 words"
+msgstr "89 152 sanaa"
+
+#: languages
+msgid "Serbian"
+msgstr "Serbia"
+
+#: languages
+msgid "330,967 words"
+msgstr "330 967 sanaa"
+
+#: languages
+msgid "Swedish"
+msgstr "Ruotsi"
+
+#: languages
+msgid "153,998 words"
+msgstr "153 998 sanaa"
+
+#: languages
+msgid "30,099 words"
+msgstr "30 099 sanaa"
+
+#: languages
+msgid "Turkish"
+msgstr "Turkki"
+
+#: languages
+msgid "305,078 words"
+msgstr "305 078 sanaa"
+
+#: languages
+msgid "Vietnamese"
+msgstr "Vietnam"
+
+#: languages
+msgid "35,303 words"
+msgstr "35 303 sanaa"
 
 #: languages
 msgid ""

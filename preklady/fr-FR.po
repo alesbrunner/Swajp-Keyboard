@@ -99,6 +99,30 @@ msgid "Copy, paste, undo and select with one swipe."
 msgstr "Copier, coller, annuler et sélectionner d'un seul geste."
 
 #: index
+msgid "Themes &amp; colours"
+msgstr "Thèmes et couleurs"
+
+#: index
+msgid "Six themes or colours of your own."
+msgstr "Six thèmes ou tes propres couleurs."
+
+#: index
+msgid "Size &amp; layout"
+msgstr "Taille et disposition"
+
+#: index
+msgid "Split, one-handed or floating."
+msgstr "Scindé, à une main ou flottant."
+
+#: index
+msgid "Number pad & calculator"
+msgstr "Pavé numérique et calculatrice"
+
+#: index
+msgid "Big digits, a calculator and a scientific one."
+msgstr "De grands chiffres, une calculatrice et une scientifique."
+
+#: index
 msgid "Emoji"
 msgstr "Émojis"
 
@@ -127,30 +151,6 @@ msgid "Your last 30 copied texts at hand."
 msgstr "Tes 30 derniers textes copiés à portée de main."
 
 #: index
-msgid "Number pad & calculator"
-msgstr "Pavé numérique et calculatrice"
-
-#: index
-msgid "Big digits, a calculator and a scientific one."
-msgstr "De grands chiffres, une calculatrice et une scientifique."
-
-#: index
-msgid "Themes &amp; colours"
-msgstr "Thèmes et couleurs"
-
-#: index
-msgid "Six themes or colours of your own."
-msgstr "Six thèmes ou tes propres couleurs."
-
-#: index
-msgid "Size &amp; layout"
-msgstr "Taille et disposition"
-
-#: index
-msgid "Split, one-handed or floating."
-msgstr "Scindé, à une main ou flottant."
-
-#: index
 msgid "Backup"
 msgstr "Sauvegarde"
 
@@ -162,10 +162,6 @@ msgstr "Emporte tes mots appris sur ton nouveau téléphone."
 msgid "No internet, no ads, no tracking."
 msgstr "Sans Internet, sans pub, sans pistage."
 
-#: index
-msgid "Glide over the keys like a dragonfly."
-msgstr "Plane sur les touches comme une libellule."
-
 #: index (atribut / attribute)
 msgid "Previous"
 msgstr "Précédent"
@@ -173,6 +169,10 @@ msgstr "Précédent"
 #: index (atribut / attribute)
 msgid "Next"
 msgstr "Suivant"
+
+#: index
+msgid "Glide over the keys like a dragonfly."
+msgstr "Plane sur les touches comme une libellule."
 
 #: index
 msgid ""
@@ -205,6 +205,80 @@ msgid ""
 "All gestures with demos and practice are in the app: Settings → Gestures and guide."
 msgstr ""
 "Tous les gestes, avec démos et entraînement, sont dans l'appli : Paramètres → Gestes et guide."
+
+#: index
+msgid "Light green"
+msgstr "Vert clair"
+
+#: index
+msgid "Light"
+msgstr "Clair"
+
+#: index
+msgid "AMOLED black"
+msgstr "Noir AMOLED"
+
+#: index
+msgid "Blue"
+msgstr "Bleu"
+
+#: index
+msgid "Orange"
+msgstr "Orange"
+
+#: index
+msgid "Purple"
+msgstr "Violet"
+
+#: index
+msgid "Admire its many shimmering colours."
+msgstr "Admire ses mille couleurs chatoyantes."
+
+#: index
+msgid ""
+"Pick a ready-made theme or set your own colours for the highlight, keys, special keys, background and text. You can also adjust the font size in the suggestion bar, vibration and key sounds."
+msgstr ""
+"Choisis un thème prêt à l'emploi ou règle tes propres couleurs pour la surbrillance, les touches, les touches spéciales, le fond et le texte. Tu peux aussi ajuster la taille du texte dans la barre de suggestions, les vibrations et les sons des touches."
+
+#: index
+msgid "Full"
+msgstr "Entier"
+
+#: index
+msgid "Taller"
+msgstr "Plus haut"
+
+#: index
+msgid "Smaller and lifted"
+msgstr "Plus petit et surélevé"
+
+#: index
+msgid "Tablet"
+msgstr "Tablette"
+
+#: index
+msgid "Floating"
+msgstr "Flottant"
+
+#: index
+msgid "Spread your wings, or fold them out of the way."
+msgstr "Déploie tes ailes, ou replie-les pour qu’elles ne gênent pas."
+
+#: index
+msgid ""
+"Hold the Swajp key and pick Size: drag the handles to change the height, width and position. Make it taller, or smaller and lifted off the bottom edge, split it into two halves for both thumbs (Tablet), move it to the edge for one hand, or let it float freely above apps. In landscape the keyboard is lower and split."
+msgstr ""
+"Maintiens la touche Swajp et choisis Taille : fais glisser les poignées pour changer la hauteur, la largeur et la position. Rends-le plus haut, ou plus petit et décollé du bord inférieur, scinde-le en deux moitiés pour les deux pouces (Tablette), place-le contre le bord pour une seule main, ou laisse-le flotter librement au-dessus des applications. En paysage, le clavier est plus bas et scindé."
+
+#: index
+msgid "Even sharp minds reach for a calculator."
+msgstr "Même les esprits vifs ont besoin d'une calculatrice."
+
+#: index
+msgid ""
+"Hold the [I] key for the number pad: big digits for quick entry of phone numbers and amounts. The calculator counts right in the suggestion bar and inserts the result into the text. It handles percent (200 + 10 % = 220) and brackets, and the scientific mode adds functions, powers, degrees and radians – no switching apps."
+msgstr ""
+"Maintiens la touche [I] pour le pavé numérique : de grands chiffres pour saisir vite numéros de téléphone et montants. La calculatrice compte directement dans la barre de suggestions et insère le résultat dans le texte. Elle gère les pourcentages (200 + 10 % = 220) et les parenthèses, et le mode scientifique ajoute fonctions, puissances, degrés et radians – sans changer d'appli."
 
 #: index
 msgid "Catch your emotion mid-air."
@@ -251,80 +325,6 @@ msgid ""
 "Hold Enter and pick the clipboard: your last 30 copied texts are always at hand – tap to paste, pin the ones you want to keep. Passwords, codes and text marked as sensitive are never stored, and the history clears itself after the time you choose."
 msgstr ""
 "Maintiens Enter et choisis le presse-papiers : tes 30 derniers textes copiés sont toujours à portée de main – touche pour coller, épingle ceux que tu veux garder. Les mots de passe, les codes et les textes marqués comme sensibles ne sont jamais enregistrés, et l'historique s'efface tout seul après la durée que tu choisis."
-
-#: index
-msgid "Even sharp minds reach for a calculator."
-msgstr "Même les esprits vifs ont besoin d'une calculatrice."
-
-#: index
-msgid ""
-"Hold the [I] key for the number pad: big digits for quick entry of phone numbers and amounts. The calculator counts right in the suggestion bar and inserts the result into the text. It handles percent (200 + 10 % = 220) and brackets, and the scientific mode adds functions, powers, degrees and radians – no switching apps."
-msgstr ""
-"Maintiens la touche [I] pour le pavé numérique : de grands chiffres pour saisir vite numéros de téléphone et montants. La calculatrice compte directement dans la barre de suggestions et insère le résultat dans le texte. Elle gère les pourcentages (200 + 10 % = 220) et les parenthèses, et le mode scientifique ajoute fonctions, puissances, degrés et radians – sans changer d'appli."
-
-#: index
-msgid "Shimmering colours, like a dragonfly’s wings."
-msgstr "Des couleurs chatoyantes, comme les ailes d'une libellule."
-
-#: index
-msgid ""
-"Pick a ready-made theme or set your own colours for the highlight, keys, special keys, background and text. You can also adjust the font size in the suggestion bar, vibration and key sounds."
-msgstr ""
-"Choisis un thème prêt à l'emploi ou règle tes propres couleurs pour la surbrillance, les touches, les touches spéciales, le fond et le texte. Tu peux aussi ajuster la taille du texte dans la barre de suggestions, les vibrations et les sons des touches."
-
-#: index
-msgid "Light green"
-msgstr "Vert clair"
-
-#: index
-msgid "Light"
-msgstr "Clair"
-
-#: index
-msgid "AMOLED black"
-msgstr "Noir AMOLED"
-
-#: index
-msgid "Blue"
-msgstr "Bleu"
-
-#: index
-msgid "Orange"
-msgstr "Orange"
-
-#: index
-msgid "Purple"
-msgstr "Violet"
-
-#: index
-msgid "Wide wings or narrow – it fits your hand."
-msgstr "Ailes larges ou étroites – il s'adapte à ta main."
-
-#: index
-msgid ""
-"Hold the Swajp key and pick Size: drag the handles to change the height, width and position. Tablet splits the letters into two halves for both thumbs, Left and Right make it narrower at the edge for one hand, and Floating lets it hover freely above apps. In landscape the keyboard is lower and split."
-msgstr ""
-"Maintiens la touche Swajp et choisis Taille : fais glisser les poignées pour changer la hauteur, la largeur et la position. Tablette scinde les lettres en deux moitiés pour les deux pouces, Gauche et Droite le rétrécissent vers le bord pour une seule main, et Flottant le laisse planer librement au-dessus des applis. En paysage, le clavier est plus bas et scindé."
-
-#: index
-msgid "Full"
-msgstr "Entier"
-
-#: index
-msgid "Tablet"
-msgstr "Tablette"
-
-#: index
-msgid "Left"
-msgstr "Gauche"
-
-#: index
-msgid "Right"
-msgstr "Droite"
-
-#: index
-msgid "Floating"
-msgstr "Flottant"
 
 #: index
 msgid ""
@@ -397,108 +397,204 @@ msgid "Available languages"
 msgstr "Langues disponibles"
 
 #: languages
-msgid "Catalan · 89,809 words"
-msgstr "Catalan · 89 809 mots"
+msgid "Catalan"
+msgstr "Catalan"
 
 #: languages
-msgid "Danish · 152,106 words"
-msgstr "Danois · 152 106 mots"
+msgid "89,809 words"
+msgstr "89 809 mots"
 
 #: languages
-msgid "Esperanto · 11,343 words"
-msgstr "Espéranto · 11 343 mots"
+msgid "Danish"
+msgstr "Danois"
 
 #: languages
-msgid "Estonian · 326,938 words"
-msgstr "Estonien · 326 938 mots"
+msgid "152,106 words"
+msgstr "152 106 mots"
 
 #: languages
-msgid "Basque · 53,700 words"
-msgstr "Basque · 53 700 mots"
+msgid "11,343 words"
+msgstr "11 343 mots"
 
 #: languages
-msgid "Finnish · 197,333 words"
-msgstr "Finnois · 197 333 mots"
+msgid "Estonian"
+msgstr "Estonien"
 
 #: languages
-msgid "Galician · 30,624 words"
-msgstr "Galicien · 30 624 mots"
+msgid "326,938 words"
+msgstr "326 938 mots"
 
 #: languages
-msgid "Hindi (Latin letters or Devanagari) · 52,622 words"
-msgstr "Hindi (lettres latines ou devanagari) · 52 622 mots"
+msgid "Basque"
+msgstr "Basque"
 
 #: languages
-msgid "Croatian · 191,499 words"
-msgstr "Croate · 191 499 mots"
+msgid "53,700 words"
+msgstr "53 700 mots"
 
 #: languages
-msgid "Hungarian · 380,920 words"
-msgstr "Hongrois · 380 920 mots"
+msgid "Finnish"
+msgstr "Finnois"
 
 #: languages
-msgid "Indonesian · 75,492 words"
-msgstr "Indonésien · 75 492 mots"
+msgid "197,333 words"
+msgstr "197 333 mots"
 
 #: languages
-msgid "Icelandic · 74,391 words"
-msgstr "Islandais · 74 391 mots"
+msgid "Galician"
+msgstr "Galicien"
 
 #: languages
-msgid "Latin · 165,218 words"
-msgstr "Latin · 165 218 mots"
+msgid "30,624 words"
+msgstr "30 624 mots"
 
 #: languages
-msgid "Lithuanian · 100,175 words"
-msgstr "Lituanien · 100 175 mots"
+msgid "Hindi"
+msgstr "Hindi"
 
 #: languages
-msgid "Latvian · 51,479 words"
-msgstr "Letton · 51 479 mots"
+msgid "52,622 words"
+msgstr "52 622 mots"
 
 #: languages
-msgid "Malay · 49,942 words"
-msgstr "Malais · 49 942 mots"
+msgid "Croatian"
+msgstr "Croate"
 
 #: languages
-msgid "Norwegian · 140,318 words"
-msgstr "Norvégien · 140 318 mots"
+msgid "191,499 words"
+msgstr "191 499 mots"
 
 #: languages
-msgid "Dutch · 140,383 words"
-msgstr "Néerlandais · 140 383 mots"
+msgid "Hungarian"
+msgstr "Hongrois"
 
 #: languages
-msgid "Romanian · 119,573 words"
-msgstr "Roumain · 119 573 mots"
+msgid "380,920 words"
+msgstr "380 920 mots"
 
 #: languages
-msgid "Slovenian · 182,841 words"
-msgstr "Slovène · 182 841 mots"
+msgid "Indonesian"
+msgstr "Indonésien"
 
 #: languages
-msgid "Albanian · 89,152 words"
-msgstr "Albanais · 89 152 mots"
+msgid "75,492 words"
+msgstr "75 492 mots"
 
 #: languages
-msgid "Serbian · 330,967 words"
-msgstr "Serbe · 330 967 mots"
+msgid "Icelandic"
+msgstr "Islandais"
 
 #: languages
-msgid "Swedish · 153,998 words"
-msgstr "Suédois · 153 998 mots"
+msgid "74,391 words"
+msgstr "74 391 mots"
 
 #: languages
-msgid "Tagalog · 30,099 words"
-msgstr "Tagalog · 30 099 mots"
+msgid "Latin"
+msgstr "Latin"
 
 #: languages
-msgid "Turkish · 305,078 words"
-msgstr "Turc · 305 078 mots"
+msgid "165,218 words"
+msgstr "165 218 mots"
 
 #: languages
-msgid "Vietnamese · 35,303 words"
-msgstr "Vietnamien · 35 303 mots"
+msgid "Lithuanian"
+msgstr "Lituanien"
+
+#: languages
+msgid "100,175 words"
+msgstr "100 175 mots"
+
+#: languages
+msgid "Latvian"
+msgstr "Letton"
+
+#: languages
+msgid "51,479 words"
+msgstr "51 479 mots"
+
+#: languages
+msgid "Malay"
+msgstr "Malais"
+
+#: languages
+msgid "49,942 words"
+msgstr "49 942 mots"
+
+#: languages
+msgid "Norwegian"
+msgstr "Norvégien"
+
+#: languages
+msgid "140,318 words"
+msgstr "140 318 mots"
+
+#: languages
+msgid "Dutch"
+msgstr "Néerlandais"
+
+#: languages
+msgid "140,383 words"
+msgstr "140 383 mots"
+
+#: languages
+msgid "Romanian"
+msgstr "Roumain"
+
+#: languages
+msgid "119,573 words"
+msgstr "119 573 mots"
+
+#: languages
+msgid "Slovenian"
+msgstr "Slovène"
+
+#: languages
+msgid "182,841 words"
+msgstr "182 841 mots"
+
+#: languages
+msgid "Albanian"
+msgstr "Albanais"
+
+#: languages
+msgid "89,152 words"
+msgstr "89 152 mots"
+
+#: languages
+msgid "Serbian"
+msgstr "Serbe"
+
+#: languages
+msgid "330,967 words"
+msgstr "330 967 mots"
+
+#: languages
+msgid "Swedish"
+msgstr "Suédois"
+
+#: languages
+msgid "153,998 words"
+msgstr "153 998 mots"
+
+#: languages
+msgid "30,099 words"
+msgstr "30 099 mots"
+
+#: languages
+msgid "Turkish"
+msgstr "Turc"
+
+#: languages
+msgid "305,078 words"
+msgstr "305 078 mots"
+
+#: languages
+msgid "Vietnamese"
+msgstr "Vietnamien"
+
+#: languages
+msgid "35,303 words"
+msgstr "35 303 mots"
 
 #: languages
 msgid ""

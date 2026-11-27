@@ -98,6 +98,30 @@ msgid "Copy, paste, undo and select with one swipe."
 msgstr "Salin, tempel, urungkan, dan pilih dengan sekali geser."
 
 #: index
+msgid "Themes &amp; colours"
+msgstr "Tema &amp; warna"
+
+#: index
+msgid "Six themes or colours of your own."
+msgstr "Enam tema atau warna pilihanmu sendiri."
+
+#: index
+msgid "Size &amp; layout"
+msgstr "Ukuran &amp; tata letak"
+
+#: index
+msgid "Split, one-handed or floating."
+msgstr "Terbelah, satu tangan, atau mengambang."
+
+#: index
+msgid "Number pad & calculator"
+msgstr "Papan angka & kalkulator"
+
+#: index
+msgid "Big digits, a calculator and a scientific one."
+msgstr "Angka besar, kalkulator, dan kalkulator ilmiah."
+
+#: index
 msgid "Emoji"
 msgstr "Emoji"
 
@@ -126,30 +150,6 @@ msgid "Your last 30 copied texts at hand."
 msgstr "30 teks terakhir yang kamu salin selalu siap."
 
 #: index
-msgid "Number pad & calculator"
-msgstr "Papan angka & kalkulator"
-
-#: index
-msgid "Big digits, a calculator and a scientific one."
-msgstr "Angka besar, kalkulator, dan kalkulator ilmiah."
-
-#: index
-msgid "Themes &amp; colours"
-msgstr "Tema &amp; warna"
-
-#: index
-msgid "Six themes or colours of your own."
-msgstr "Enam tema atau warna pilihanmu sendiri."
-
-#: index
-msgid "Size &amp; layout"
-msgstr "Ukuran &amp; tata letak"
-
-#: index
-msgid "Split, one-handed or floating."
-msgstr "Terbelah, satu tangan, atau mengambang."
-
-#: index
 msgid "Backup"
 msgstr "Cadangan"
 
@@ -161,10 +161,6 @@ msgstr "Bawa kata-kata yang sudah dipelajari ke ponsel barumu."
 msgid "No internet, no ads, no tracking."
 msgstr "Tanpa internet, tanpa iklan, tanpa pelacakan."
 
-#: index
-msgid "Glide over the keys like a dragonfly."
-msgstr "Meluncur di atas tombol bagai capung."
-
 #: index (atribut / attribute)
 msgid "Previous"
 msgstr "Sebelumnya"
@@ -172,6 +168,10 @@ msgstr "Sebelumnya"
 #: index (atribut / attribute)
 msgid "Next"
 msgstr "Berikutnya"
+
+#: index
+msgid "Glide over the keys like a dragonfly."
+msgstr "Meluncur di atas tombol bagai capung."
 
 #: index
 msgid ""
@@ -204,6 +204,80 @@ msgid ""
 "All gestures with demos and practice are in the app: Settings → Gestures and guide."
 msgstr ""
 "Semua gestur beserta demo dan latihannya ada di aplikasi: Setelan → Gestur dan panduan."
+
+#: index
+msgid "Light green"
+msgstr "Hijau muda"
+
+#: index
+msgid "Light"
+msgstr "Terang"
+
+#: index
+msgid "AMOLED black"
+msgstr "Hitam AMOLED"
+
+#: index
+msgid "Blue"
+msgstr "Biru"
+
+#: index
+msgid "Orange"
+msgstr "Oranye"
+
+#: index
+msgid "Purple"
+msgstr "Ungu"
+
+#: index
+msgid "Admire its many shimmering colours."
+msgstr "Kagumi warnanya yang beraneka dan berkilauan."
+
+#: index
+msgid ""
+"Pick a ready-made theme or set your own colours for the highlight, keys, special keys, background and text. You can also adjust the font size in the suggestion bar, vibration and key sounds."
+msgstr ""
+"Pilih tema siap pakai atau atur warnamu sendiri untuk sorotan, tombol, tombol khusus, latar belakang, dan teks. Kamu juga bisa menyesuaikan ukuran huruf di bilah saran, getaran, dan suara tombol."
+
+#: index
+msgid "Full"
+msgstr "Penuh"
+
+#: index
+msgid "Taller"
+msgstr "Lebih tinggi"
+
+#: index
+msgid "Smaller and lifted"
+msgstr "Lebih kecil dan terangkat"
+
+#: index
+msgid "Tablet"
+msgstr "Tablet"
+
+#: index
+msgid "Floating"
+msgstr "Mengambang"
+
+#: index
+msgid "Spread your wings, or fold them out of the way."
+msgstr "Bentangkan sayapmu, atau lipat agar tidak menghalangi."
+
+#: index
+msgid ""
+"Hold the Swajp key and pick Size: drag the handles to change the height, width and position. Make it taller, or smaller and lifted off the bottom edge, split it into two halves for both thumbs (Tablet), move it to the edge for one hand, or let it float freely above apps. In landscape the keyboard is lower and split."
+msgstr ""
+"Tahan tombol Swajp dan pilih Ukuran: seret pegangan untuk mengubah tinggi, lebar, dan posisi. Buat lebih tinggi, atau lebih kecil dan terangkat dari tepi bawah, bagi menjadi dua bagian untuk kedua ibu jari (Tablet), geser ke tepi untuk satu tangan, atau biarkan mengambang bebas di atas aplikasi. Dalam mode lanskap, keyboard lebih rendah dan terbelah."
+
+#: index
+msgid "Even sharp minds reach for a calculator."
+msgstr "Otak encer pun butuh kalkulator."
+
+#: index
+msgid ""
+"Hold the [I] key for the number pad: big digits for quick entry of phone numbers and amounts. The calculator counts right in the suggestion bar and inserts the result into the text. It handles percent (200 + 10 % = 220) and brackets, and the scientific mode adds functions, powers, degrees and radians – no switching apps."
+msgstr ""
+"Tahan tombol [I] untuk papan angka: angka besar untuk memasukkan nomor telepon dan nominal dengan cepat. Kalkulator menghitung langsung di bilah saran dan menyisipkan hasilnya ke teks. Ia bisa menghitung persen (200 + 10% = 220) dan tanda kurung, dan mode ilmiah menambahkan fungsi, pangkat, derajat, dan radian – tanpa berganti aplikasi."
 
 #: index
 msgid "Catch your emotion mid-air."
@@ -250,80 +324,6 @@ msgid ""
 "Hold Enter and pick the clipboard: your last 30 copied texts are always at hand – tap to paste, pin the ones you want to keep. Passwords, codes and text marked as sensitive are never stored, and the history clears itself after the time you choose."
 msgstr ""
 "Tahan Enter dan pilih papan klip: 30 teks terakhir yang kamu salin selalu siap – ketuk untuk menempel, sematkan yang ingin kamu simpan. Kata sandi, kode, dan teks yang ditandai sensitif tidak pernah disimpan, dan riwayat terhapus sendiri setelah waktu yang kamu pilih."
-
-#: index
-msgid "Even sharp minds reach for a calculator."
-msgstr "Otak encer pun butuh kalkulator."
-
-#: index
-msgid ""
-"Hold the [I] key for the number pad: big digits for quick entry of phone numbers and amounts. The calculator counts right in the suggestion bar and inserts the result into the text. It handles percent (200 + 10 % = 220) and brackets, and the scientific mode adds functions, powers, degrees and radians – no switching apps."
-msgstr ""
-"Tahan tombol [I] untuk papan angka: angka besar untuk memasukkan nomor telepon dan nominal dengan cepat. Kalkulator menghitung langsung di bilah saran dan menyisipkan hasilnya ke teks. Ia bisa menghitung persen (200 + 10% = 220) dan tanda kurung, dan mode ilmiah menambahkan fungsi, pangkat, derajat, dan radian – tanpa berganti aplikasi."
-
-#: index
-msgid "Shimmering colours, like a dragonfly’s wings."
-msgstr "Warna berkilau, bagai sayap capung."
-
-#: index
-msgid ""
-"Pick a ready-made theme or set your own colours for the highlight, keys, special keys, background and text. You can also adjust the font size in the suggestion bar, vibration and key sounds."
-msgstr ""
-"Pilih tema siap pakai atau atur warnamu sendiri untuk sorotan, tombol, tombol khusus, latar belakang, dan teks. Kamu juga bisa menyesuaikan ukuran huruf di bilah saran, getaran, dan suara tombol."
-
-#: index
-msgid "Light green"
-msgstr "Hijau muda"
-
-#: index
-msgid "Light"
-msgstr "Terang"
-
-#: index
-msgid "AMOLED black"
-msgstr "Hitam AMOLED"
-
-#: index
-msgid "Blue"
-msgstr "Biru"
-
-#: index
-msgid "Orange"
-msgstr "Oranye"
-
-#: index
-msgid "Purple"
-msgstr "Ungu"
-
-#: index
-msgid "Wide wings or narrow – it fits your hand."
-msgstr "Sayap lebar atau ramping – menyesuaikan dengan tanganmu."
-
-#: index
-msgid ""
-"Hold the Swajp key and pick Size: drag the handles to change the height, width and position. Tablet splits the letters into two halves for both thumbs, Left and Right make it narrower at the edge for one hand, and Floating lets it hover freely above apps. In landscape the keyboard is lower and split."
-msgstr ""
-"Tahan tombol Swajp dan pilih Ukuran: seret pegangannya untuk mengubah tinggi, lebar, dan posisi. Tablet membagi huruf menjadi dua bagian untuk kedua ibu jari, Kiri dan Kanan membuatnya lebih sempit di tepi untuk satu tangan, dan Mengambang membuatnya melayang bebas di atas aplikasi. Dalam posisi lanskap, keyboard lebih rendah dan terbelah."
-
-#: index
-msgid "Full"
-msgstr "Penuh"
-
-#: index
-msgid "Tablet"
-msgstr "Tablet"
-
-#: index
-msgid "Left"
-msgstr "Kiri"
-
-#: index
-msgid "Right"
-msgstr "Kanan"
-
-#: index
-msgid "Floating"
-msgstr "Mengambang"
 
 #: index
 msgid ""
@@ -395,108 +395,204 @@ msgid "Available languages"
 msgstr "Bahasa yang tersedia"
 
 #: languages
-msgid "Catalan · 89,809 words"
-msgstr "Bahasa Katala · 89.809 kata"
+msgid "Catalan"
+msgstr "Bahasa Katala"
 
 #: languages
-msgid "Danish · 152,106 words"
-msgstr "Bahasa Denmark · 152.106 kata"
+msgid "89,809 words"
+msgstr "89.809 kata"
 
 #: languages
-msgid "Esperanto · 11,343 words"
-msgstr "Esperanto · 11.343 kata"
+msgid "Danish"
+msgstr "Bahasa Denmark"
 
 #: languages
-msgid "Estonian · 326,938 words"
-msgstr "Estonia · 326.938 kata"
+msgid "152,106 words"
+msgstr "152.106 kata"
 
 #: languages
-msgid "Basque · 53,700 words"
-msgstr "Basque · 53.700 kata"
+msgid "11,343 words"
+msgstr "11.343 kata"
 
 #: languages
-msgid "Finnish · 197,333 words"
-msgstr "Bahasa Finlandia · 197.333 kata"
+msgid "Estonian"
+msgstr "Estonia"
 
 #: languages
-msgid "Galician · 30,624 words"
-msgstr "Galisia · 30.624 kata"
+msgid "326,938 words"
+msgstr "326.938 kata"
 
 #: languages
-msgid "Hindi (Latin letters or Devanagari) · 52,622 words"
-msgstr "Hindi (huruf Latin atau Dewanagari) · 52.622 kata"
+msgid "Basque"
+msgstr "Basque"
 
 #: languages
-msgid "Croatian · 191,499 words"
-msgstr "Bahasa Kroasia · 191.499 kata"
+msgid "53,700 words"
+msgstr "53.700 kata"
 
 #: languages
-msgid "Hungarian · 380,920 words"
-msgstr "Bahasa Hungaria · 380.920 kata"
+msgid "Finnish"
+msgstr "Bahasa Finlandia"
 
 #: languages
-msgid "Indonesian · 75,492 words"
-msgstr "Bahasa Indonesia · 75.492 kata"
+msgid "197,333 words"
+msgstr "197.333 kata"
 
 #: languages
-msgid "Icelandic · 74,391 words"
-msgstr "Islandia · 74.391 kata"
+msgid "Galician"
+msgstr "Galisia"
 
 #: languages
-msgid "Latin · 165,218 words"
-msgstr "Bahasa Latin · 165.218 kata"
+msgid "30,624 words"
+msgstr "30.624 kata"
 
 #: languages
-msgid "Lithuanian · 100,175 words"
-msgstr "Bahasa Lituania · 100.175 kata"
+msgid "Hindi"
+msgstr "Hindi"
 
 #: languages
-msgid "Latvian · 51,479 words"
-msgstr "Bahasa Latvia · 51.479 kata"
+msgid "52,622 words"
+msgstr "52.622 kata"
 
 #: languages
-msgid "Malay · 49,942 words"
-msgstr "Bahasa Melayu · 49.942 kata"
+msgid "Croatian"
+msgstr "Bahasa Kroasia"
 
 #: languages
-msgid "Norwegian · 140,318 words"
-msgstr "Bahasa Norwegia · 140.318 kata"
+msgid "191,499 words"
+msgstr "191.499 kata"
 
 #: languages
-msgid "Dutch · 140,383 words"
-msgstr "Bahasa Belanda · 140.383 kata"
+msgid "Hungarian"
+msgstr "Bahasa Hungaria"
 
 #: languages
-msgid "Romanian · 119,573 words"
-msgstr "Bahasa Rumania · 119.573 kata"
+msgid "380,920 words"
+msgstr "380.920 kata"
 
 #: languages
-msgid "Slovenian · 182,841 words"
-msgstr "Bahasa Slovenia · 182.841 kata"
+msgid "Indonesian"
+msgstr "Bahasa Indonesia"
 
 #: languages
-msgid "Albanian · 89,152 words"
-msgstr "Albania · 89.152 kata"
+msgid "75,492 words"
+msgstr "75.492 kata"
 
 #: languages
-msgid "Serbian · 330,967 words"
-msgstr "Serbia · 330.967 kata"
+msgid "Icelandic"
+msgstr "Islandia"
 
 #: languages
-msgid "Swedish · 153,998 words"
-msgstr "Bahasa Swedia · 153.998 kata"
+msgid "74,391 words"
+msgstr "74.391 kata"
 
 #: languages
-msgid "Tagalog · 30,099 words"
-msgstr "Tagalog · 30.099 kata"
+msgid "Latin"
+msgstr "Bahasa Latin"
 
 #: languages
-msgid "Turkish · 305,078 words"
-msgstr "Bahasa Turki · 305.078 kata"
+msgid "165,218 words"
+msgstr "165.218 kata"
 
 #: languages
-msgid "Vietnamese · 35,303 words"
-msgstr "Vietnam · 35.303 kata"
+msgid "Lithuanian"
+msgstr "Bahasa Lituania"
+
+#: languages
+msgid "100,175 words"
+msgstr "100.175 kata"
+
+#: languages
+msgid "Latvian"
+msgstr "Bahasa Latvia"
+
+#: languages
+msgid "51,479 words"
+msgstr "51.479 kata"
+
+#: languages
+msgid "Malay"
+msgstr "Bahasa Melayu"
+
+#: languages
+msgid "49,942 words"
+msgstr "49.942 kata"
+
+#: languages
+msgid "Norwegian"
+msgstr "Bahasa Norwegia"
+
+#: languages
+msgid "140,318 words"
+msgstr "140.318 kata"
+
+#: languages
+msgid "Dutch"
+msgstr "Bahasa Belanda"
+
+#: languages
+msgid "140,383 words"
+msgstr "140.383 kata"
+
+#: languages
+msgid "Romanian"
+msgstr "Bahasa Rumania"
+
+#: languages
+msgid "119,573 words"
+msgstr "119.573 kata"
+
+#: languages
+msgid "Slovenian"
+msgstr "Bahasa Slovenia"
+
+#: languages
+msgid "182,841 words"
+msgstr "182.841 kata"
+
+#: languages
+msgid "Albanian"
+msgstr "Albania"
+
+#: languages
+msgid "89,152 words"
+msgstr "89.152 kata"
+
+#: languages
+msgid "Serbian"
+msgstr "Serbia"
+
+#: languages
+msgid "330,967 words"
+msgstr "330.967 kata"
+
+#: languages
+msgid "Swedish"
+msgstr "Bahasa Swedia"
+
+#: languages
+msgid "153,998 words"
+msgstr "153.998 kata"
+
+#: languages
+msgid "30,099 words"
+msgstr "30.099 kata"
+
+#: languages
+msgid "Turkish"
+msgstr "Bahasa Turki"
+
+#: languages
+msgid "305,078 words"
+msgstr "305.078 kata"
+
+#: languages
+msgid "Vietnamese"
+msgstr "Vietnam"
+
+#: languages
+msgid "35,303 words"
+msgstr "35.303 kata"
 
 #: languages
 msgid ""
